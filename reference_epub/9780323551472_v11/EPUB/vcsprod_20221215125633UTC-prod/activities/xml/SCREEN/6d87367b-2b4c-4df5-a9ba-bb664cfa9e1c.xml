@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="11ddde5f-bd18-42b7-9cd9-140c3cc07e5c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;THE EAR&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d9905518-4a6d-4d33-8478-5a5121e6a068">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANATOMY AND PHYSIOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="baf322ec-d4e2-4bc6-b9b8-e8fb91fcd4a2">
+    <STATIC_text>
+  <text>&lt;p&gt;Sound waves are received by the outer ear, conducted to special receptor cells within the ear, and transmitted by those cells to nerve fibers that lead to the auditory region of the brain in the cerebral cortex. Sensations of sound are perceived within the nerve fibers of the cerebral cortex. Label Figure 17-21 as you read the following paragraphs describing the anatomy and physiology of the ear.&lt;/p&gt;&lt;p&gt;The ear can be divided into three separate regions: outer ear, middle ear, and inner ear. The outer and middle ears function in the conduction of sound waves through the ear, and the inner ear contains structures that receive the auditory waves and relay them to the brain.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="74eabba5-0238-4b1f-8696-a24a6f163d6c">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00017_f017-021-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-21&lt;/span&gt; Anatomy of the ear.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[pinna or auricle]&lt;/li&gt;&lt;li&gt;[external auditory meatus (auditory canal)]&lt;/li&gt;&lt;li&gt;[tympanic membrane or eardrum]&lt;/li&gt;&lt;li&gt;[malleus]&lt;/li&gt;&lt;li&gt;[incus]&lt;/li&gt;&lt;li&gt;[stapes]&lt;/li&gt;&lt;li&gt;[oval window]&lt;/li&gt;&lt;li&gt;[auditory or eustachian tube]&lt;/li&gt;&lt;li&gt;[cochlea]&lt;/li&gt;&lt;li&gt;[auditory nerve fibers]&lt;/li&gt;&lt;li&gt;[vestibule]&lt;/li&gt;&lt;li&gt;[semicircular canals]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="ab1b9ec7-065c-4c76-abdc-acbf21ba1f87">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Outer Ear&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ae08b28d-7996-45dc-8099-5161923ce137">
+    <STATIC_text>
+  <text>&lt;p&gt;Sound waves enter the ear through the&lt;strong&gt; pinna, &lt;/strong&gt;or &lt;strong&gt;auricle&lt;/strong&gt; [1], which is the projecting part, or flap, of the ear. The &lt;strong&gt;external auditory meatus (auditory canal) &lt;/strong&gt;[2] leads from the pinna and is lined with numerous glands that secrete a yellowish brown, waxy substance called &lt;strong&gt;cerumen&lt;/strong&gt;. Cerumen lubricates and protects the ear canal.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7a57028d-11aa-4ac2-acda-058c77a9af08">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Middle Ear&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2c989ffd-2b82-4d3a-a022-44235407391a">
+    <STATIC_text>
+  <text>&lt;p&gt;Sound waves travel through the auditory canal and strike a membrane between the outer and the middle ear. This is the &lt;strong&gt;tympanic membrane, &lt;/strong&gt;or &lt;strong&gt;eardrum &lt;/strong&gt;[3]. As the eardrum vibrates, it moves three small bones, or &lt;strong&gt;ossicles&lt;/strong&gt;, that conduct the sound waves through the middle ear. These bones, in the order of their vibration, are the &lt;strong&gt;malleus &lt;/strong&gt;[4], the &lt;strong&gt;incus &lt;/strong&gt;[5], and the &lt;strong&gt;stapes &lt;/strong&gt;[6]. As the stapes moves, it touches a membrane called the &lt;strong&gt;oval window&lt;/strong&gt; [7], which separates the middle from the inner ear.&lt;/p&gt;&lt;p&gt;Before proceeding with the pathway of sound conduction and reception into the inner ear, an additional structure that affects the middle ear should be mentioned. The &lt;strong&gt;auditory &lt;/strong&gt;or &lt;strong&gt;eustachian tube&lt;/strong&gt; [8] is a canal leading from the middle ear to the pharynx. It normally is closed but opens on swallowing. In an efficient way, this tube can prevent damage to the eardrum and shock to the middle and inner ears. Normally the pressure of air in the middle ear is equal to the pressure of air in the external environment; however, if you ascend in the atmosphere, as in flying in an airplane, climbing a high mountain, or riding a fast elevator, the atmospheric pressure, along with that in the outer ear, drops, while the pressure in the middle ear remains the same—greater than in the outer ear. This inequality of air pressure on the inside and outside of the eardrum forces the eardrum to bulge outward and potentially burst if the difference in pressures increases. Swallowing opens the eustachian tube so that air can leave the middle ear and enter the throat until the atmospheric and middle ear pressures are balanced. The eardrum then relaxes, and the danger of its bursting is averted.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4d23f87e-ed6f-437d-b797-17c16133611a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Inner Ear&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="aab3b9f1-118b-49e7-9a80-66995ce54ba6">
+    <STATIC_text>
+  <text>&lt;p&gt;Sound vibrations, having been transmitted by the movement of the eardrum to the bones of the middle ear, reach the inner ear via the fluctuations of the oval window that separates the middle and inner ears. The inner ear is also called the &lt;strong&gt;labyrinth &lt;/strong&gt;because of its circular, mazelike structure. The part of the labyrinth that leads from the oval window is a bony, snail shell– shaped structure called the &lt;strong&gt;cochlea &lt;/strong&gt;[9]. The cochlea contains special auditory liquids called &lt;strong&gt;perilymph &lt;/strong&gt;and &lt;strong&gt;endolymph &lt;/strong&gt;through which the vibrations travel. Also present in the cochlea is a sensitive auditory receptor area called the &lt;strong&gt;organ of Corti.&lt;/strong&gt; In the organ of Corti, tiny hair cells receive vibrations from the auditory liquids and relay the sound waves to &lt;strong&gt;auditory nerve fibers&lt;/strong&gt; [10], which end in the auditory center of the cerebral cortex, where these impulses are interpreted and “heard.”&lt;/p&gt;&lt;p&gt;Study Figure 17-22 , which is a schematic representation of the pathway of sound vibrations from the outer ear to the brain.&lt;/p&gt;&lt;p&gt;The ear is an important organ of equilibrium (balance), as well as an organ for hearing. Refer back to Figure 17-21. The &lt;strong&gt;vestibule &lt;/strong&gt;[11] connects the cochlea (for hearing) to three &lt;strong&gt;semicircular canals&lt;/strong&gt; [12] (for balance). The vestibule, including the saccule and utricle, contains a fluid, endolymph, as well as sensitive hair cells. In an intricate manner, the fluid and hair cells fluctuate in response to the movement of the head. This sets up impulses in nerve fibers that lead to the brain. Messages are then sent to muscles in all parts of the body to ensure that equilibrium is maintained.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="00459737-5964-4f84-afdb-030e0323c504">
+    <STATIC_figure>
+  <image>chp00017_f017-022-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-22 &lt;/span&gt;Pathway of sound vibrations from the outer ear to the brain (cerebral cortex.)&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

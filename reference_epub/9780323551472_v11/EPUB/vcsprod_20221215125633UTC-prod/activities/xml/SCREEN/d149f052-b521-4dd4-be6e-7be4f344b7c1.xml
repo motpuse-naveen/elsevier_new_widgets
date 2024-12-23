@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="17730b48-a367-4a8c-b5e5-6e0118540f9a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ADRENAL GLANDS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b788d5b8-0fc2-4531-979e-0ec51136df2b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOCATION AND STRUCTURE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="991f3364-8554-4a95-9ef8-8ec02d5b1555">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 18-6.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;adrenal glands&lt;/strong&gt; are two small glands, one on top of each &lt;strong&gt;kidney &lt;/strong&gt;[1]. Each gland consists of two parts: an outer portion, the &lt;strong&gt;adrenal cortex&lt;/strong&gt; [2], and an inner portion, the&lt;strong&gt; adrenal medulla&lt;/strong&gt; [3]. The adrenal cortex and the adrenal medulla are two glands in one, secreting different hormones. The adrenal cortex secretes &lt;strong&gt;steroids &lt;/strong&gt;or &lt;strong&gt;corticosteroids &lt;/strong&gt;(complex chemicals derived from cholesterol); the adrenal medulla secretes &lt;strong&gt;catecholamines &lt;/strong&gt;(chemicals derived from amino acids).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7030c5e4-7312-4f0f-847b-af7257602bf9">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00018_f018-006-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="1-2-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-6&lt;/span&gt; The adrenal glands.&lt;/strong&gt; The prefix ad- means toward; adrenal glands are located “toward” or near the kidneys.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[kidney]&lt;/li&gt;&lt;li&gt;[adrenal cortex]&lt;/li&gt;&lt;li&gt;[adrenal medulla]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5f00c7da-1f5e-4f53-bccd-4e3218f49d65">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;FUNCTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1793274b-c191-495b-80e8-d36a52cd6d8c">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;adrenal cortex &lt;/strong&gt;secretes three types of &lt;strong&gt;corticosteroids&lt;/strong&gt;.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Glucocorticoids &lt;/strong&gt;—These steroid hormones have an important influence on the metabolism of sugars, fats, and proteins within all body cells and have a powerful anti-inflammatory effect.&lt;br/&gt;&lt;strong&gt;Cortisol &lt;/strong&gt;helps regulate glucose, fat, and protein metabolism. It raises blood glucose as part of a response to stress. &lt;strong&gt;Cortisone &lt;/strong&gt;is a hormone very similar to cortisol and can be prepared synthetically. Cortisone is useful in treating inflammatory conditions such as rheumatoid arthritis.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Mineralocorticoids &lt;/strong&gt;—The major mineralocorticoid is &lt;strong&gt;aldosterone&lt;/strong&gt;. It regulates the concentration of mineral &lt;strong&gt;salts (electrolytes)&lt;/strong&gt; in the body. Aldosterone acts on the kidney to reabsorb &lt;strong&gt;sodium &lt;/strong&gt;(an important &lt;strong&gt;electrolyte&lt;/strong&gt;) and water and to excrete &lt;strong&gt;potassium&lt;/strong&gt; (another major &lt;strong&gt;electrolyte&lt;/strong&gt;). Thus, it regulates blood volume and blood pressure and electrolyte concentration.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sex hormones — Androgens&lt;/strong&gt; (testosterone) and &lt;strong&gt;estrogens &lt;/strong&gt;are secreted in small amounts and influence secondary sex characteristics, such as pubic and axillary hair in boys and girls. In females, the masculinizing effects of adrenal androgens (such as increased body hair) may appear when levels of ovarian estrogen decrease after menopause.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Think of the “three S’s” to recall the main adrenal cortex hormones, which influence &lt;strong&gt;&lt;u&gt;s&lt;/u&gt;ugar &lt;/strong&gt;(cortisol), &lt;strong&gt;&lt;u&gt;s&lt;/u&gt;alt &lt;/strong&gt;(aldosterone), and &lt;strong&gt;&lt;u&gt;s&lt;/u&gt;ex &lt;/strong&gt;(androgens and estrogens)&lt;/p&gt;&lt;p&gt;The&lt;strong&gt; adrenal medulla &lt;/strong&gt;secretes two types of &lt;strong&gt;catecholamine &lt;/strong&gt;hormones:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Epinephrine (adrenaline) &lt;/strong&gt;—Increases heart rate and blood pressure, dilates bronchial tubes, and releases glucose (sugar) from glycogen (storage substance) when the body needs it for more energy. It is often called the “fight or flight” hormone.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Norepinephrine (noradrenaline)&lt;/strong&gt; —Constricts blood vessels to raise blood pressure.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Both epinephrine and norepinephrine are &lt;strong&gt;sympathomimetic &lt;/strong&gt;agents because they mimic, or copy, the actions of the sympathetic nervous system. They are released to help the body meet the challenges of stress in response to stimulation by the sympathetic nervous system.&lt;/p&gt;&lt;p&gt;Figure 18-7 summarizes hormones secreted by the adrenal glands and their actions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="720cac83-4415-40a1-8c0f-ed1bb0654d0f">
+    <STATIC_figure>
+  <image>chp00018_f018-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-7 &lt;/span&gt;The adrenal cortex and adrenal medulla: their hormones and actions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

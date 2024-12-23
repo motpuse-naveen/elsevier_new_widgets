@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e1bce2e5-8d9d-4feb-80aa-3840dfd73bfd">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;RADIOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="32fb6b8e-9e0c-44dd-8562-8bd1057c3d65">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CHARACTERISTICS OF X-RAYS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d9249c49-adb9-40e5-abcf-444f19ed6ac2">
+    <STATIC_text>
+  <text>&lt;p&gt;Several characteristics of x-rays are useful to physicians in the diagnosis and treatment of disease. Some of these characteristics are the following:&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;1. &lt;strong&gt;Ability to cause exposure of a photographic plate. &lt;/strong&gt;If a photographic plate is placed in front of a beam of x-rays, the x-rays, traveling unimpeded through the air, will expose the silver coating of the plate and cause it to blacken.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;2. &lt;strong&gt;Ability to penetrate different substances to varying degrees&lt;/strong&gt;. X-rays pass through the different types of substances in the human body (air in the lungs, water in blood vessels and lymph, fat around muscles, and metal such as calcium in bones) with varying ease. Air is the least dense substance and allows the greatest transmission. Fat is denser, water is next, followed by hard materials, such as calcium in bone, which is the densest and transmits least. If the x-rays are absorbed (stopped) by the denser body substance (e.g., calcium in bones), they do not reach the photographic plate held behind the patient, and white areas are left in the x-ray detector (plate). Figure 20-1 is an example of an x-ray photograph.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;A substance is said to be &lt;strong&gt;radiolucent &lt;/strong&gt;if it permits passage of most of the x-rays. Lung tissue (containing air) is an example of a radiolucent substance, and it appears dark on an x-ray image. &lt;strong&gt;Radiopaque &lt;/strong&gt;substances (bones) are those that absorb most of the x-rays they are exposed to, allowing only a small fraction of the x-rays to reach the x-ray plate. Thus, normally radiopaque, calcium-containing bone appears white on an x-ray image.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;3. &lt;strong&gt;Invisibility&lt;/strong&gt;. X-rays cannot be detected by sight, hearing, or touch. Workers exposed to x-rays must wear a &lt;strong&gt;film badge &lt;/strong&gt;to detect and record the amount of radiation to which they have been exposed. The film badge contains a special film that reacts when exposed to x-rays. The amount of blackness on the film is an indication of the amount of x-rays or gamma rays received by the wearer.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;4. &lt;strong&gt;Travel in straight lines&lt;/strong&gt;. This property allows the formation of precise shadow images on the x-ray plate and also permits x-ray beams to be directed accurately at a tissue site during radiotherapy.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;5.&lt;strong&gt; Scattering of x-rays&lt;/strong&gt;. Scattering occurs when x-rays come into contact with any material. Greater scatter occurs with dense objects and less scatter with those substances that are radiolucent. In addition, because scatter can cause blurring (radiographic density that serves no useful purpose) on images, a grid (containing thin lead strips arranged parallel to the x-ray beams) is placed in front of the image detector to absorb scattered radiation before it strikes the x-ray film. In digital imaging, an image receptor replaces film.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;6. &lt;strong&gt;Ionization&lt;/strong&gt;. X-rays have the ability to ionize substances through which they pass. Ionization is a chemical process in which the energy of an x-ray beam causes rearrangement and disruption within a substance, so that previously neutral particles are changed to charged particles called &lt;strong&gt;ions&lt;/strong&gt;. This strongly ionizing ability of x-rays is a double-edged sword. In x-ray or radiation therapy, the ionizing effect of high-energy x-ray beams can help kill cancerous cells and stop tumor growth; however, ionizing x-rays in even small doses can affect normal body cells, leading to tissue damage and malignant changes. Thus, persons exposed to high doses of x-rays are at risk for the development of leukemia, thyroid tumors, breast cancer, or other malignancies.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="724a314e-5797-4df0-9262-5df0ebf2ba3f">
+    <STATIC_figure>
+  <image>chp00020_f020-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-1 &lt;/span&gt;X-ray photograph (radiograph) of the hand. &lt;/strong&gt;Relative positions of x-ray tube, patient (hand), and image detector necessary to make the x-ray photograph are shown. Bones tend to stop (absorb) diagnostic x-rays, but absorption of the x-ray energy occurs to a lesser degree with soft tissue. This results in the light and dark regions that form the image.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="84b65c42-604d-4910-bee0-051152fcf4d9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DIAGNOSTIC TECHNIQUES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6f7eb382-e274-42be-9fd0-e6d6f45676b4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;X-Ray Studies&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9368cf83-c1fb-448a-a1c1-d91e0ed98ca1">
+    <STATIC_text>
+  <text>&lt;p&gt;X-ray imaging is used in a variety of ways to detect pathologic conditions. &lt;strong&gt;Digital radiography &lt;/strong&gt;is a form of x-ray imaging in which digital x-ray sensors are used instead of traditional photographic film. Thus images can be enhanced and transferred easily, and less radiation can be used than in conventional radiography. The chest x-ray is the most commonly performed diagnostic x-ray examination. Another common use of x-rays is in dental practice to locate caries in teeth. &lt;strong&gt;Mammography &lt;/strong&gt;uses low-dose x-rays to visualize breast tissue. Some special diagnostic x-ray techniques are described next.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Computed Tomography (CT)&lt;/strong&gt;&lt;br/&gt;The CTscan, sometimes called “CAT scan” (because the technique originally was known as “computerized axial tomography”), is made by beaming x-rays at multiple angles through a section of the patient’s body. The absorption of all of these x-rays, after they pass through the body, is recorded and used by a computer to create multiple cross-sectional images (Figure 20-2). The ability of a CTscanner to detect abnormalities is increased with the use of iodine-containing contrast agents, which outline blood vessels and confer additional density to soft tissues.&lt;/p&gt;&lt;p&gt;CT scanners are highly sensitive in detecting disease in bones and can actually provide images of internal organs that are impossible to visualize with ordinary x-ray technique. Figure 20-3 shows a series of CTscans through various regions of the body. New ultrafast CTscanners can produce a three-dimensional (3D) image of a beating heart and surrounding blood vessels. State-of-the-art scanners produce 64, 128, 256, and 320 images per rotation and are called &lt;strong&gt;multidetector&lt;/strong&gt; &lt;strong&gt;CT &lt;/strong&gt;or&lt;strong&gt; MDCT scanners.&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="1aadccce-f598-4ed6-bc12-104a8d1a2323">
+    <STATIC_figure>
+  <image>chp00020_f020-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-2 &lt;/span&gt;A, A CTscanner has a rotating x-ray source and set of detectors. B, A patient in a CT scanner.&lt;/strong&gt; This patient has her arms above her head during a chest CT examination.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="00e30f95-5018-4284-af64-87a320aae35f">
+    <STATIC_figure>
+  <image>chp00020_f020-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-3 &lt;/span&gt;CT scans through various regions of the body. &lt;/strong&gt;The level of the scan is indicated on the figure of the body. The &lt;em&gt;bar &lt;/em&gt;below the figure indicates the gray scale of structure density from black (least dense, such as air) to white (most dense, such as bone).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="19318644-f9a2-40a9-adf0-3ac617aba9ea">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Contrast Studies&lt;/strong&gt;&lt;br/&gt;In radiography, the natural differences in the density of body tissues (e.g., from air in lung or from calcium in bone) produce contrasting shadows on the radiographic image. However, when x-rays pass through two adjacent body parts composed of substances of the same density (e.g., different digestive organs in the abdomen), their shadows cannot be distinguished from one another on the film or on the screen. It is necessary, then, to place a &lt;strong&gt;contrast medium&lt;/strong&gt; into the structure or fluid to be visualized so that a specific part, organ, tube, or liquid can be seen as a negative imprint on the dense contrast agent.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Barium Sulfate&lt;/em&gt;&lt;/strong&gt;. Barium sulfate is a radiopaque substance that is mixed in water and used for examination of the upper and lower GI (gastrointestinal) tract. An &lt;strong&gt;upper GI series (UGI) &lt;/strong&gt;involves oral ingestion of barium sulfate so that the esophagus, stomach, and duodenum can be visualized. A &lt;strong&gt;small bowel follow-through (SBFT) &lt;/strong&gt;series traces the passage of barium in a sequential manner as it moves through the small intestine. A &lt;strong&gt;barium enema (BE)&lt;/strong&gt; study is a lower GI series that opacifies the lumen (passageway) of the large intestine using an enema containing barium sulfate. This test has largely been replaced by endoscopy, which allows visualization of the inside of the bowel.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;double-contrast study &lt;/strong&gt;uses both a radiopaque and a radiolucent contrast medium. For example, the walls of the stomach or intestine are coated with barium and the lumen is filled with air. These radiographs show the pattern of mucosal ridges.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eabb89e0-721b-421c-bc5b-e4fd3afe966a">
+    <STATIC_table>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Iodine Compounds&lt;/em&gt;&lt;/strong&gt;. Radiopaque fluids containing up to 50% iodine are used in the following tests:&lt;/p&gt;&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;angiography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray image (angiogram) of blood vessels and heart chambers is obtained after contrast is injected through a catheter into the appropriate blood vessel or heart chamber.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In clinical practice, the terms angiogram and arteriogram are used interchangeably. Figure 20-4 shows &lt;strong&gt;coronary angiography&lt;/strong&gt;, which determines the degree of obstruction of the arteries that supply blood to the heart. Figure 20-5A and B shows coronary angiograms before and after stenting of the artery.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cholangiography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging after injection of contrast into bile ducts.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is typically accomplished by injecting contrast directly into the common bile duct in a procedure called&lt;strong&gt; endoscopic retrograde cholangiopancreatography (ERCP)&lt;/strong&gt; or after surgery of the gallbladder or biliary tract &lt;strong&gt;(intraoperative cholangiography)&lt;/strong&gt;. An alternative route for injection of contrast is via a needle through the skin and into the liver. This is&lt;strong&gt; percutaneous transhepatic cholangiography&lt;/strong&gt; (Figure 20-6).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;digital subtraction angiography&lt;br/&gt;(DSA)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;X-ray image of contrast-injected blood vessels is produced by taking two x-ray pictures (the first without contrast) and using a computer to subtract obscuring shadows from the second image.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hysterosalpingography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray record of the endometrial cavity and fallopian tubes is obtained after injection of contrast material through the vagina and into the endocervical canal.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure determines the patency of the fallopian tubes.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;myelography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging of the spinal cord (myel/o) after injection of contrast agent into the subarachnoid space surrounding the spinal cord.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It usually is performed in patients who cannot undergo MRI (magnetic resonance imaging). After injection of contrast, x-ray films and a CT scan are obtained. This procedure is &lt;strong&gt;CT myelography.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pyelography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging of the renal pelvis and urinary tract.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;retrograde pyelography&lt;/strong&gt; , a catheter is placed through the urethra, bladder, and ureter and into the renal pelvis to inject contrast. &lt;strong&gt;Urography &lt;/strong&gt;also describes the process of recording x-ray images of the urinary tract after the introduction of contrast.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3e431ee4-6a96-47dc-9300-0f0c4332497c">
+    <STATIC_figure>
+  <image>page_657_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-4 &lt;/span&gt;Coronary angiography shows stenosis &lt;/strong&gt;(&lt;em&gt;arrow&lt;/em&gt;) &lt;strong&gt;of the left anterior descending coronary artery.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c2dfc129-790c-475b-9995-e77836ff0561">
+    <STATIC_figure>
+  <image>chp00020_f020-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-5 &lt;/span&gt;Coronary angiograms before and after stenting. A, &lt;/strong&gt;Coronary angiogram before stenting shows narrowed coronary artery (&lt;em&gt;arrow&lt;/em&gt;) preventing blood flow to the heart muscle. &lt;strong&gt;B, &lt;/strong&gt;Coronary angiogram after stenting shows opening of coronary artery (&lt;em&gt;arrow&lt;/em&gt;). &lt;em&gt;(Courtesy Dr. Daniel Simon and Mr. Paul Zampino.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ee828d01-2b8b-4bb7-a334-58d59da1d6dc">
+    <STATIC_figure>
+  <image>chp00020_f020-006-9780323551472.jpg?cachebuster=1596514081405</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-6 &lt;/span&gt;Percutaneous transhepatic cholangiography.&lt;/strong&gt; The needle is passed through the abdominal wall into liver tissue until the tip penetrates the hepatic duct. Contrast medium is introduced, and x-ray pictures are taken to visualize the biliary tree.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e725c464-9988-43af-8dd8-a43b93494a87">
+    <STATIC_text>
+  <text>&lt;p&gt;Patients may experience side effects caused by iodine-containing contrast substances. These effects can range from mild reactions such as flushing, nausea, warmth, tingling sensations, or hives to severe, life-threatening reactions characterized by airway spasm, laryngeal edema (swelling of the larynx), vasodilation, and tachycardia. Treatment of severe reactions involves immediate establishment of an airway and ventilation followed by injections of epinephrine (adrenaline), corticosteroids, or antihistamines.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Digital imaging techniques&lt;/strong&gt; can be used to enhance conventional and fluoroscopic x-ray images. A lower dose of x-rays is used to achieve higher-quality images, and digital images can be sent by way of networks to other locations and computer monitors so that many people can share information and assist in the diagnostic process.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interventional Radiology&lt;/strong&gt;. Interventional radiologists perform invasive procedures (therapeutic or diagnostic) usually under CT or ultrasound guidance or with fluoroscopic imaging. &lt;strong&gt;Fluoroscopy &lt;/strong&gt;is the use of x-rays and a fluorescent screen to produce real-time video images. Procedures include percutaneous biopsy, placement of drainage catheters, drainage of abscesses, occlusion of bleeding vessels, and catheter instillation of antibiotics or chemotherapy agents. In addition, interventional radiologists perform &lt;strong&gt;radiofrequency ablation&lt;/strong&gt; (destruction) of tumors and tissues (liver, kidney, lungs, and adrenals). Neurointerventional radiologists perform endovascular procedures including intracranial thrombolysis; head, neck, and intracranial tumor embolizations; extracranial angioplasty; and stenting. They also perform nonvascular procedures, such as intervertebral facet injections, nerve root blocks, and vertebroplasties. Vascular interventional radiologists perform laser treatments for varicose veins and uterine fibroid embolization.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="680d756f-ac23-4fac-ab8d-86cd92d568ef">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Imaging&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="03d3ff9e-6e16-4460-a1b9-61001fe15914">
+    <STATIC_text>
+  <text>&lt;p&gt;Ultrasound imaging, or &lt;strong&gt;ultrasonography&lt;/strong&gt;, uses high-frequency inaudible sound waves that bounce off body tissues and are then recorded to give information about the anatomy of an internal organ. An instrument called a &lt;strong&gt;transducer &lt;/strong&gt;or &lt;strong&gt;probe &lt;/strong&gt;is placed near or on the skin, which is covered with a thin coating of gel to ensure good transmission of sound waves. The transducer emits sound waves in short, repetitive pulses. The ultrasound waves move through body tissues and detect interfaces between tissues of different densities. An echo reflection of the sound waves is formed as they hit the various body tissues and bounce back to the transducer.&lt;/p&gt;&lt;p&gt;These ultrasonic echoes are then recorded as a composite picture of the area of the body over which the instrument has passed. The record produced by ultrasound imaging is called a &lt;strong&gt;sonogram&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Ultrasound imaging is used as a diagnostic tool not only by radiologists but also by neurosurgeons and ophthalmologists to detect intracranial and ophthalmic lesions. Cardiologists use ultrasound techniques to detect heart valve and blood vessel disorders &lt;strong&gt;(echocardiography)&lt;/strong&gt;, and gastroenterologists use it to locate abdominal masses outside the digestive organs. Similarly, pulmonologists use ultrasound procedures for locating and sampling lesions outside the bronchial tubes. Obstetricians and gynecologists use ultrasound imaging to differentiate single from multiple pregnancies, as well as to help in performing amniocentesis. Other uses are to image benign and malignant tumors and to determine the size and development of the fetus. Measurements of the head, abdomen, and femur are made from ultrasound images obtained in various fetal planes (Figure 20-7).&lt;/p&gt;&lt;p&gt;Ultrasound imaging has several advantages in that the sound waves are not ionizing and do not injure tissues at the energy ranges used for diagnostic purposes. Because water is an excellent conductor of the ultrasound beams, patients are requested to drink large quantities of water before examination so that the urinary bladder will be distended, allowing better viewing of pelvic and abdominal organs.&lt;/p&gt;&lt;p&gt;Two ultrasound techniques, &lt;strong&gt;Doppler ultrasound&lt;/strong&gt; and &lt;strong&gt;color flow imaging,&lt;/strong&gt; make it possible to record blood flow velocity (speed). These techniques are used to image major blood vessels to detect obstructions caused by atherosclerotic plaques in patients at risk for stroke. Figure 20-8A and B shows Doppler ultrasound scanning and color flow imaging.&lt;/p&gt;&lt;p&gt;Ultrasonography is used in interventional radiology to guide needle biopsy for the puncture of cysts, for placing needles during amniocentesis, and for inserting radioactive seeds into the prostate (brachytherapy). In&lt;strong&gt; endoscopic ultrasonography&lt;/strong&gt;, a small ultrasound transducer is attached to the tip of an endoscope that is inserted into the body. This technique is used by gastroenterologists and pulmonologists to obtain high-quality and accurate detailed images of the digestive and respiratory systems.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="82791ab6-6f35-4dc4-843b-6845979055fa">
+    <STATIC_figure>
+  <image>chp00020_f020-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-7 &lt;/span&gt;A, Fetal measurements taken with ultrasound imaging.&lt;/strong&gt; Dashed lines indicate the image planes for measurements of the fetal head, abdomen, and femur. &lt;strong&gt;B, Fetal ultrasound scan&lt;/strong&gt; at 13 weeks gestation. &lt;em&gt;(B, Courtesy Joelle Reidy.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c62b53d7-889b-44fa-8ef5-4af294032e88">
+    <STATIC_figure>
+  <image>chp00020_f020-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-8 &lt;/span&gt;A, Doppler ultrasound scan&lt;/strong&gt; showing an image of the vena cava (in &lt;em&gt;blue&lt;/em&gt;). B&lt;strong&gt;, Color flow imaging in a patient with aortic regurgitation.&lt;/strong&gt; The brightly colored, high-velocity jet (&lt;em&gt;arrow&lt;/em&gt;) can be seen passing from the aorta (AO) to the left ventricle (LV). The center of the jet is &lt;em&gt;white &lt;/em&gt;, and the edges are shades of &lt;em&gt;blue&lt;/em&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a94ae67e-3206-4711-9280-6569d04df380">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Magnetic Resonance Imaging&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="918dc430-a595-43be-9eb2-48fa75278a8e">
+    <STATIC_text>
+  <text>&lt;p&gt;Magnetic resonance imaging (MRI) &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; uses magnetic fields and radiowaves rather than x-rays. Hydrogen protons are aligned and synchronized by placing the body in a strong magnetic field and exposing it to radiowaves. The rates of alignment and relaxation vary from one tissue to the next, producing a sharply defined picture. Because bone is virtually devoid of water, it is not well visualized on MRI. This technique produces sagittal (lateral), frontal (coronal), and axial (cross-sectional) images (Figure 20-9), as well as images in oblique (slanted) planes. A &lt;strong&gt;functional MRI (fMRI) &lt;/strong&gt;measures brain activity by detecting changes associated with blood flow. When a region of the brain is in use, blood flow to that area increases. Functional MRI is used to evaluate the effects of a stroke and other brain diseases. It also can determine which part of the brain is functioning such as in thought, speech, movement, and sensation.&lt;/p&gt;&lt;p&gt;MRI examinations are performed with and without contrast. The contrast agent most commonly used is &lt;strong&gt;gadolinium (Gd)&lt;/strong&gt;. As iodine contrast does with CT, gadolinium enhances vessels and tissues, increases the sensitivity for lesion detection, and helps differentiate between normal and abnormal tissues and structures. MRI provides excellent soft tissue images, detecting edema in the brain, providing direct imaging of the spinal cord, detecting tumors in the chest and abdomen, and visualizing the cardiovascular system.&lt;/p&gt;&lt;p&gt;MRI is contraindicated for patients with pacemakers or metallic implants because the powerful magnet can alter position and functioning of such devices. However, the U.S. Food and Drug Administration (FDA) has recently approved new pacemakers that can be safely used with MRI. The sounds (loud tapping) heard during the test are caused by the pulsing of the magnetic field components as the device scans the body. See &lt;em&gt;&lt;strong&gt;In Person: CT and MRI&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;Figure 20-10 summarizes radiologic diagnostic techniques.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4b4462ff-0c0d-48cf-b57f-e1aa39170c40">
+    <STATIC_figure>
+  <image>chp00020_f020-009-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-9 &lt;/span&gt;Magnetic resonance images. A, Frontal (coronal) view &lt;/strong&gt;of the upper body. &lt;em&gt;White &lt;/em&gt;masses in the chest are Hodgkin lymphoma lesions. &lt;strong&gt;B, Axial (cross-sectional) view&lt;/strong&gt; of the upper body in the same patient, who had a chest mass. &lt;strong&gt;C, Sagittal (lateral) view&lt;/strong&gt; of the head showing cerebrum, ventricles, cerebellum, and medulla oblongata.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3ce2aafc-016d-4c3f-a127-73f6c4969fa7">
+    <STATIC_figure>
+  <image>chp00020_f020-010-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-10 &lt;/span&gt;Summary of radiologic diagnostic techniques.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9b7131e7-ec93-40eb-a6e1-ee1f6acf3d0c">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; MRI versus CT Scanning&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Why do doctors choose MRI or CT scanning? Differences in use depend on the part of the body viewed. In general, CT is useful for visualizing bones, lungs, and solid masses of the chest and abdomen, whereas MRI is better at giving detail in soft tissues that have more water molecules.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8fc64dfc-1930-4186-9a2f-0a7bd115dafe">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;strong&gt;CT&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;strong&gt;MRI&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1. bones&lt;/td&gt;&lt;td&gt;1. spinal cord and brain tumors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2. chest lesions and pneumonia&lt;/td&gt;&lt;td&gt;2. joints, tendons, and ligaments&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="2" colspan="1"&gt;3. bleeding in the brain from head trauma and ruptured arteries&lt;/td&gt;&lt;td&gt;3. liver masses&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4. head and neck lesions&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="dc73a21f-8fa0-41c3-b27f-078199d43df9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;X-RAY POSITIONING&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="19d6ba12-e0eb-4f88-aaa1-8644a1c8a990">
+    <STATIC_text>
+  <text>&lt;p&gt;In order to take the best picture of the part of the body being radiographed, the patient, detector, and x-ray tube must be positioned in the most favorable alignment possible. Radiologists use special terms to refer to the direction of travel of the x-rays through the patient’s body. Listed next are terms for radiographic views that are defined by the direction of the x-ray beam relative to the patient, who is positioned between the source and the detector; the relevant orientations are illustrated in Figure 20-11.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Posteroanterior (PA) view&lt;/strong&gt;. In this most commonly requested chest x-ray view, x-rays travel from a posteriorly placed source to an anteriorly placed detector.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anteroposterior (AP) view&lt;/strong&gt;. X-rays travel from an anteriorly placed source to a posteriorly placed detector.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lateral view.&lt;/strong&gt; In a left lateral view, x-rays travel from a source located to the right of the patient to a detector placed to the left of the patient.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Oblique view.&lt;/strong&gt; X-rays travel in a slanting direction at an angle from the perpendicular plane. Oblique views show regions or structures ordinarily hidden or superimposed in routine PA and AP views.&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eb8df7a8-c637-4ec9-9754-3afac0c1c01f">
+    <STATIC_figure>
+  <image>chp00020_f020-011-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-11 &lt;/span&gt;Positions for x-ray views. &lt;/strong&gt;The &lt;em&gt;arrow &lt;/em&gt;denotes the direction of the x-ray beam through the patient’s body.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e7759b0b-6691-41fb-b59b-653284112162">
+    <STATIC_text>
+  <text>&lt;p&gt;The following terms are used to describe the position of the patient or part of the body in the x-ray examination:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="984c026e-2b2a-4b7a-b7be-5ecfac69229a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;abduction&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Movement away from the midline of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;adduction&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Movement toward the midline of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;decubitus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying down. A &lt;strong&gt;lateral decubitus &lt;/strong&gt;position is lying down on the side.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;eversion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Turning outward.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;extension&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lengthening or straightening a flexed limb.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;flexion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Bending a part of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;inversion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Turning inward.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pr&lt;u&gt;on&lt;/u&gt;e&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying &lt;u&gt;on&lt;/u&gt; the belly (face down).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;recumbent&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying down (may be prone or supine).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;s&lt;u&gt;up&lt;/u&gt;ine&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying on the back (face &lt;u&gt;up&lt;/u&gt;).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="de54bd36-3f5e-48b5-a083-75e851162a2d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;MUSCLES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4ad243c3-a754-4f61-bf9d-20518f659c0e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TYPES OF MUSCLES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e35000ec-6f6c-45c9-b980-6f8812174fec">
+    <STATIC_text>
+  <text>&lt;p&gt;There are three types of muscles in the body. Label Figure 15-29 as you read the following descriptions of the various types of muscles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Striated muscle&lt;/strong&gt; [1] makes up the &lt;strong&gt;voluntary &lt;/strong&gt;or &lt;strong&gt;skeletal muscles&lt;/strong&gt; that move all bones, as well as controlling facial expression and eye movements. Through the central and peripheral nervous systems, we have conscious control over these muscles. Striated muscle fibers (cells) have a pattern of dark and light bands, or fibrils, in their cytoplasm. Fibrous tissue that envelops and separates muscles is called &lt;strong&gt;fascia&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Smooth muscle&lt;/strong&gt; [2]&lt;strong&gt; &lt;/strong&gt;makes up the &lt;strong&gt;involuntary &lt;/strong&gt;or &lt;strong&gt;visceral muscles&lt;/strong&gt; that contract to move internal organs such as the digestive tract, the walls of blood vessels, and secretory ducts leading from glands. These muscles are involuntarily controlled, meaning they are not controlled by the conscious mind. They are called smooth because they have no dark and light fibrils in their cytoplasm. Smooth muscle forms sheets of fibers that wrap around tubes and vessels while skeletal muscle fibers are arranged in bundles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cardiac muscle&lt;/strong&gt; [3] is striated in appearance but is like smooth muscle in its action. Its movement cannot be consciously controlled. The fibers of cardiac muscle are branching fibers and are found in the heart.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0cc61ecc-5441-47fb-8a02-62b72c7be157">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00015_f015-029-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-29&lt;/span&gt; Types of muscles.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[striated muscle]&lt;/li&gt;&lt;li&gt;[smooth muscle]&lt;/li&gt;&lt;li&gt;[cardiac muscle]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="7b27b74e-0648-432e-b6ec-8787afa0af60">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ACTIONS OF SKELETAL MUSCLES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a795bfb9-38c4-49ea-bff1-c77c1c78b180">
+    <STATIC_text>
+  <text>&lt;p&gt;Skeletal (striated) muscles (more than 600 in the human body) are the muscles that move bones and joints. Figure 15-30 shows some skeletal muscles of the head, neck, and torso and muscles of the posterior aspect of the leg. When a muscle contracts, one of the bones to which it is joined remains virtually stationary as a result of other muscles that hold it in place. The point of attachment of the muscle to the stationary bone is called the &lt;strong&gt;origin (beginning)&lt;/strong&gt; of that muscle. When the muscle contracts, however, another bone to which it is attached does move. The point of junction of the muscle to the bone that moves is called the &lt;strong&gt;insertion &lt;/strong&gt;of the muscle. Most often, the origin of a muscle lies proximal in the skeleton, whereas its insertion lies distal.&lt;/p&gt;&lt;p&gt;Figure 15-31 shows the biceps and triceps muscles in the upper arm. One origin of the biceps is at the scapula, and its insertion is at the radius. Tendons are the connective tissue bands that connect muscles to the bones.&lt;/p&gt;&lt;p&gt;Muscles can perform a variety of actions. Some of the terms used to describe those actions are listed here, with a short description of the specific type of movement performed (see Figure 15-32).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b08b4b32-69ef-47eb-a9f4-ac7336c9859a">
+    <STATIC_figure>
+  <image>chp00015_f015-030-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-30 &lt;/span&gt;A, Selected muscles of the head, neck, torso, and arm and their functions. B, Selected muscles of the posterior and anterior aspect of the leg and their functions. &lt;/strong&gt;The Evolve website contains additional anterior and posterior images of major muscles and their functions.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bd02356f-0191-4a92-b2db-db9a3b9e23cd">
+    <STATIC_figure>
+  <image>chp00015_f015-031-9780323551472.jpg?cachebuster=1596130165451</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-31 &lt;/span&gt;Origin and insertion of the biceps in the arm. &lt;/strong&gt;Note also the origin of the triceps at the scapula and the insertion at the olecranon of the ulna.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b571f0c8-527c-4dc8-80cd-14f02bcd9523">
+    <STATIC_figure>
+  <image>chp00015_f015-032-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-32 &lt;/span&gt;Types of muscular actions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="30af0b2f-a4cd-4263-9810-eb8f5203bbd2">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#007FAD;"&gt;ACTION&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#007FAD;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;flexion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Decreasing the angle between two bones; bending a limb.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;extension&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Increasing the angle between two bones; straightening out a limb.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;abduction&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Movement away from the midline of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;adduction&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Movement toward the midline of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rotation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Circular movement around an axis (central point). Internal rotation is toward the center of the body and external rotation is away from the center of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dorsiflexion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Decreasing the angle of the ankle joint so that the foot moves upward, toward the knee or ceiling. This is the opposite movement of stepping on the gas pedal when driving a car.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;plantar flexion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Motion that moves the foot downward toward the ground as when pointing the toes or stepping on the gas pedal. Plant/o means sole of the foot.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;supination&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As applied to the hand and forearm, where the elbow is bent, the act of turning the palm up. As applied to the foot, it is outward roll of the foot/ankle during normal motion.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pronation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As applied to the hand and forearm, where the elbow is bent, the act of turning the palm down. As applied to the foot, it is inward roll of the foot/ankle during normal motion.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

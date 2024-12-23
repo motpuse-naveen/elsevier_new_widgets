@@ -1,0 +1,5980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c2fc0e9c-df46-4da0-9b4a-46fa4a582bfb">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;h2&gt;EXERCISES&lt;/h2&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a4d1b7a4-cb23-4616-a0c6-8018ee90d004">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;amnion&lt;/td&gt;&lt;td&gt;fallopian tubes&lt;/td&gt;&lt;td&gt;perineum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;areola&lt;/td&gt;&lt;td&gt;fimbriae&lt;/td&gt;&lt;td&gt;placenta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cervix&lt;/td&gt;&lt;td&gt;labia&lt;/td&gt;&lt;td&gt;perimetrium&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;chorion&lt;/td&gt;&lt;td&gt;mammary papilla&lt;/td&gt;&lt;td&gt;vagina&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;clitoris&lt;/td&gt;&lt;td&gt;ovaries&lt;/td&gt;&lt;td&gt;vulva&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;endometrium&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. inner lining of the uterus [endometrium]&lt;/p&gt;&lt;p&gt;2. area between the anus and the vagina in females [perineum]&lt;/p&gt;&lt;p&gt;3. dark-pigmented area around the breast nipple [areola]&lt;/p&gt;&lt;p&gt;4. finger-like ends of the fallopian tube [fimbriae]&lt;/p&gt;&lt;p&gt;5. ducts through which the egg travels into the uterus from the ovary [fallopian tubes]&lt;/p&gt;&lt;p&gt;6. organ of sensitive erectile tissue in females; anterior to urethral orifice [clitoris]&lt;/p&gt;&lt;p&gt;7. nipple of the breast [mammary papilla]&lt;/p&gt;&lt;p&gt;8. vascular organ that attaches to the uterine wall during pregnancy [placenta]&lt;/p&gt;&lt;p&gt;9. lower, neck-like portion of the uterus [cervix]&lt;/p&gt;&lt;p&gt;10. innermost membrane around the developing embryo [amnion]&lt;/p&gt;&lt;p&gt;11. outermost layer of the membranes around the developing embryo and forming part of the placenta [chorion]&lt;/p&gt;&lt;p&gt;12. outermost layer surrounding the uterus [perimetrium]&lt;/p&gt;&lt;p&gt;13. lips of the vulva [labia]&lt;/p&gt;&lt;p&gt;14. female gonads; producing ova and hormones [ovaries]&lt;/p&gt;&lt;p&gt;15. includes the perineum, labia and clitoris, and hymen; external genitalia [vulva]&lt;/p&gt;&lt;p&gt;16. muscular, mucosa-lined canal extending from the uterus to the exterior of the body [vagina]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>A</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the following terms for structures or tissues with their meanings below.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="9c85ebc9-2506-4d8a-8a7f-f682595adaa6">
+    <ESSAY>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;fetus&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;embryo from the third month (after 8 weeks) to birth&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;lactiferous ducts&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;tubes that carry milk within the breast&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;gametes&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;sex cells; the egg and sperm cells&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;gonads&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;organs (ovaries and testes) in the female and male that produce gametes&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;adnexa uteri&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;ovaries, fallopian tubes, and supporting ligaments (accessory parts of the uterus)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;cul-de-sac&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;region of the abdomen between the rectum and the uterus&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;genitalia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;reproductive organs (genitals)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Bartholin glands&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;small exocrine glands at the vaginal orifice that secrete a lubricating fluid&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;ovarian follicle&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;developing sac in the ovary that encloses the ovum&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;corpus luteum&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;empty follicle that secretes progesterone after ovulation&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>B</title>
+      <instructions>
+        <instructions>&lt;p&gt;Identify the following terms.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberWritingPrompts value="on">&gt;</autoNumberWritingPrompts>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+    </settings>
+  </form>
+</ESSAY>
+  </block>
+  <block refid="0b830216-a63f-4a12-b2e3-a144c222893a">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;coitus&lt;/td&gt;&lt;td&gt;human chorionic gonadotropin&lt;/td&gt;&lt;td&gt;myometrium&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;estrogen&lt;/td&gt;&lt;td&gt;luteinizing hormone&lt;/td&gt;&lt;td&gt;prenatal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;fertilization&lt;/td&gt;&lt;td&gt;menarche&lt;/td&gt;&lt;td&gt;progesterone&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;follicle-stimulating hormone&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. hormone produced by the ovaries; promotes female secondary sex characteristics [estrogen]&lt;/p&gt;&lt;p&gt;2. hormone secreted by the pituitary gland to stimulate maturation of the egg cell (ovum) [follicle-stimulating hormone]&lt;/p&gt;&lt;p&gt;3. sexual intercourse [coitus]&lt;/p&gt;&lt;p&gt;4. before birth [prenatal]&lt;/p&gt;&lt;p&gt;5. beginning of the first menstrual period [menarche]&lt;/p&gt;&lt;p&gt;6. hormone produced by the placenta to sustain pregnancy by stimulating the ovaries to produce estrogen and progesterone [human chorionic gonadotropin]&lt;/p&gt;&lt;p&gt;7. muscle layer of the uterus [myometrium]&lt;/p&gt;&lt;p&gt;8. hormone produced by the corpus luteum in the ovary and the placenta of a pregnant woman [progesterone]&lt;/p&gt;&lt;p&gt;9. hormone produced by the pituitary gland to promote ovulation [luteinizing hormone]&lt;/p&gt;&lt;p&gt;10. union of the sperm cell and ovum from which the embryo develops [fertilization]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>C</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the listed terms with the descriptions/definitions that follow.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="faea900b-8364-4828-9ab0-a922d9b25416">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. galact/o and lact/o both mean [milk].&lt;/p&gt;&lt;p&gt;2. colp/o and vagin/o both mean [vagina].&lt;/p&gt;&lt;p&gt;3. mamm/o and mast/o both mean [breast].&lt;/p&gt;&lt;p&gt;4. metr/o, uter/o, and hyster/o all mean [uterus].&lt;/p&gt;&lt;p&gt;5. oophor/o and ovari/o both mean [ovary].&lt;/p&gt;&lt;p&gt;6. o/o, ov/o, and ovul/o all mean [egg].&lt;/p&gt;&lt;p&gt;7. in- and endo- both mean [in/within].&lt;/p&gt;&lt;p&gt;8. -cyesis and -gravida both mean [pregnancy].&lt;/p&gt;&lt;p&gt;9. salping/o and -salpinx both mean [fallopian tube].&lt;/p&gt;&lt;p&gt;10. episi/o and vulv/o both mean [vulva].&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>D</title>
+      <instructions>
+        <instructions>&lt;p&gt;Supply definitions to complete the following sentences.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="f6279aff-daf5-4aec-ba13-1110d780eb74">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;bilateral salpingo-oophorectomy&lt;/td&gt;&lt;td&gt;lactation&lt;/td&gt;&lt;td&gt;oxytocin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cervicitis&lt;/td&gt;&lt;td&gt;neonatology&lt;/td&gt;&lt;td&gt;total hysterectomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;chorion&lt;/td&gt;&lt;td&gt;obstetrics&lt;/td&gt;&lt;td&gt;vulvovaginitis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;culdocentesis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. study of the newborn [neonatology]&lt;/p&gt;&lt;p&gt;2. hormone that stimulates the pregnant uterus to contract [oxytocin]&lt;/p&gt;&lt;p&gt;3. secretion of milk [lactation]&lt;/p&gt;&lt;p&gt;4. removal of the entire uterus [total hysterectomy]&lt;/p&gt;&lt;p&gt;5. inflammation of the neck of the uterus [cervicitis]&lt;/p&gt;&lt;p&gt;6. branch of medicine concerned with pregnancy and childbirth [obstetrics]&lt;/p&gt;&lt;p&gt;7. outermost membrane surrounding the fetus [chorion]&lt;/p&gt;&lt;p&gt;8. removal of both fallopian tubes and both ovaries [bilateral salpingo-oophorectomy]&lt;/p&gt;&lt;p&gt;9. inflammation of the external female genitalia and vagina [vulvovaginitis]&lt;/p&gt;&lt;p&gt;10. needle puncture to remove fluid from the cul-de-sac [culdocentesis]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>E</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the listed terms with the meanings/descriptions that follow.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5b503669-d567-43bd-9d24-22d80763f45e">
+    <ESSAY>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;amenorrhea&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;no menstrual flow&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;dysmenorrhea&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;painful menstrual flow&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;leukorrhea&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;white discharge (normally from the vagina and also associated with cervicitis)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;metrorrhagia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;bleeding from the uterus at irregular intervals&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;galactorrhea&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;abnormal discharge of milk from the breasts&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;menorrhagia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;profuse or prolonged menstrual periods occurring at regular intervals&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;pyosalpinx&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;pus in the fallopian (uterine) tubes&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;dyspareunia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;painful sexual intercourse&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;menometrorrhagia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;heavy bleeding at and between menstrual periods&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;oligomenorrhea&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;scanty menstrual flow&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>F</title>
+      <instructions>
+        <instructions>&lt;p&gt;Give the meanings of the following signs and symptoms.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberWritingPrompts value="on">&gt;</autoNumberWritingPrompts>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+    </settings>
+  </form>
+</ESSAY>
+  </block>
+  <block refid="7fc12ab9-88fd-4e1c-937e-15d13e79cb3d">
+    <ESSAY>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;After a total (complete) hysterectomy, a woman still has regular menstrual periods.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. Total hysterectomy means removal of the entire uterus so that menstruation does not occur.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;After a total hysterectomy, a woman may still produce estrogen and progesterone.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;True. Total hysterectomy does not mean that the ovaries have been removed.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Birth control pills prevent pregnancy by keeping levels of estrogen and progesterone high.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;True. Birth control pills contain estrogen and progesterone; high levels prevent ovulation and pregnancy.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;After a total hysterectomy with bilateral salpingo-oophorectomy, a doctor may advise hormone replacement therapy.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;True. This may be necessary to treat symptoms of estrogen loss (vaginal atrophy, hot flashes) and to prevent bone deterioration (osteoporosis).&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Human papillomavirus can cause genital warts and ovarian cancer.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. HPV does produce genital warts but not ovarian cancer. In some cases, HPV infection may lead to cervical cancer.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;A Pap test can detect cervical dysplasia.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;True. A Pap test can detect abnormal changes in the cervix from cervical dysplasia to cervical intraepithelial neoplasia (CIN) and CIS (carcinoma in situ).&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Human chorionic gonadotropin is produced by the ovaries during pregnancy.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. The hormone hCG is produced by the &lt;em&gt;placenta&lt;/em&gt; during pregnancy.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Gynecomastia is a common condition in pregnant women.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. Gynecomastia is a condition of increased breast development in &lt;em&gt;males &lt;/em&gt;.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Treatment for endometriosis is uterine myomectomy.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. Myomectomy means removal of muscle tumors (fibroids). Endometriosis is abnormal location of uterine tissue outside the uterine lining.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;A gravida 3 para 2 is a woman who has given birth 3 times.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. A gravida 3 para 2 is a woman who has had two children and three pregnancies.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;A nulligravida is a woman who has had several pregnancies.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. A nulligravida has had no pregnancies. A multigravida has had many pregnancies.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Pseudocyesis is the same condition as a tubal pregnancy.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. A pseudocyesis is a false pregnancy (no pregnancy occurs), and a tubal pregnancy is an example of ectopic pregnancy (pregnancy occurs in the fallopian tube, not in the uterus).&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Fibrocystic changes in the breast are a malignant condition.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. Fibrocystic changes in the breast are a benign condition.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;Cystadenomas occur in the ovaries.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;True. Cystadenomas are glandular sacs lined with tumor cells; they occur in the ovaries.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;FSH and LH are ovarian hormones.&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;False. FSH and LH are pituitary gland hormones. Estrogen and progesterone are secreted by the ovaries.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>G</title>
+      <instructions>
+        <instructions>&lt;p&gt;State whether the following sentences are true or false, and explain your answers.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberWritingPrompts value="on">&gt;</autoNumberWritingPrompts>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+    </settings>
+  </form>
+</ESSAY>
+  </block>
+  <block refid="20191b6b-f0f9-4322-8065-63b08bbf9870">
+    <ESSAY>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;parturition&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;act of giving birth&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;menopause&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;gradual ending of menstrual function&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;menarche&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;beginning of the first menstrual period at puberty&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;ovulation&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;release of the ovum from the ovary&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;gestation&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;pregnancy&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;anovulatory&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;pertaining to no ovulation (egg is not released from the ovary)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;dilatation&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;widening&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;lactation&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;natural secretion of milk&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;nulliparous&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;a woman who has never given birth&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;oophoritis&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;inflammation of the ovaries&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;bartholinitis&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;inflammation of Bartholin glands&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <prompts>
+            <prompt>
+              <text>&lt;p&gt;vulvodynia&lt;/p&gt;</text>
+            </prompt>
+          </prompts>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;pain in the vulva&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>H</title>
+      <instructions>
+        <instructions>&lt;p&gt;Give the meanings of the following terms.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberWritingPrompts value="on">&gt;</autoNumberWritingPrompts>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+    </settings>
+  </form>
+</ESSAY>
+  </block>
+  <block refid="91da569a-6114-4ccf-b38e-1ddbeda68350">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;abruptio placentae&lt;/td&gt;&lt;td&gt;endometrial cancer&lt;/td&gt;&lt;td&gt;multiple gestations&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cervical cancer&lt;/td&gt;&lt;td&gt;endometriosis&lt;/td&gt;&lt;td&gt;placenta previa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cervicitis&lt;/td&gt;&lt;td&gt;leiomyoma&lt;/td&gt;&lt;td&gt;placenta previa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;cystadenocarcinoma&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. malignant tumor of the ovary [cystadenocarcinoma]&lt;/p&gt;&lt;p&gt;2. inflammation in the lower, neck-like portion of the uterus [cervicitis]&lt;/p&gt;&lt;p&gt;3. condition during pregnancy or shortly thereafter, marked by hypertension, proteinuria, and edema [preeclampsia]&lt;/p&gt;&lt;p&gt;4. uterine tissue located outside the uterus—for example, in the ovaries, cul-de-sac, fallopian tubes, or peritoneum [endometriosis]&lt;/p&gt;&lt;p&gt;5. premature separation of a normally implanted placenta [abruptio placentae]&lt;/p&gt;&lt;p&gt;6. placenta implantation over the cervical opening [placenta previa]&lt;/p&gt;&lt;p&gt;7. more than one fetus inside the uterus [multiple gestations]&lt;/p&gt;&lt;p&gt;8. malignant condition of the lower portion of the uterus [cervical cancer]&lt;/p&gt;&lt;p&gt;9. malignant condition of the inner lining of the uterus [endometrial cancer]&lt;/p&gt;&lt;p&gt;10. benign muscle tumor in the uterus [leiomyoma]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>I</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the listed terms with the meanings/descriptions that follow.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="602e3596-62f5-4b0e-9e20-c0bb211f2a1a">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Burning of abnormal tissue with chemicals or an electrically heated instrument: [cauterization]&lt;/p&gt;&lt;p&gt;2. Contrast material is injected into the uterus and fallopian tubes, and x-ray images are obtained: [hysterosalpingography]&lt;/p&gt;&lt;p&gt;3. Cold temperature is used to destroy tissue: [cryosurgery/cryocauterization]&lt;/p&gt;&lt;p&gt;4. Visual examination of the vagina and cervix: [colposcopy]&lt;/p&gt;&lt;p&gt;5. Widening the cervical opening and scraping the lining of the uterus: [dilation and curettage/dilatation and curettage/dilation &amp;amp; curettage]&lt;/p&gt;&lt;p&gt;6. Withdrawal of fluid or tissue from a cyst or solid mass by suction with a needle: [fine needle aspiration]&lt;/p&gt;&lt;p&gt;7. Process of recording x-ray images of the breast: [mammography]&lt;/p&gt;&lt;p&gt;8. Removal of a cone-shaped section of the cervix for diagnosis or treatment of cervical dysplasia: [conization]&lt;/p&gt;&lt;p&gt;9. Surgical puncture to remove fluid from the cul-de-sac: [culdocentesis]&lt;/p&gt;&lt;p&gt;10. Echoes from sound waves create an image of structures in the pelvic region: [pelvic ultrasonography]&lt;/p&gt;&lt;p&gt;11. Blocking the fallopian tubes to prevent fertilization from occurring: [tubal ligation]&lt;/p&gt;&lt;p&gt;12. Visual examination of the abdominal cavity with an endoscope: [laparoscopy]&lt;/p&gt;&lt;p&gt;13. hCG is measured in the urine or blood: [pregnancy test]&lt;/p&gt;&lt;p&gt;14. Cells are scraped from the cervix or vagina for microscopic analysis: [Pap test]&lt;/p&gt;&lt;p&gt;15. Removal of internal gynecologic organs and adjacent structures in the pelvis: [pelvic exenteration]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>J</title>
+      <instructions>
+        <instructions>&lt;p&gt;Name the appropriate test or procedure for each of the following descriptions.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="f58030fd-224c-4b31-8038-f2147c989e83">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. benign muscle tumors in the uterus [fibroids/leiomyomata/leiomyomas]&lt;/p&gt;&lt;p&gt;2. no menses [amenorrhea]&lt;/p&gt;&lt;p&gt;3. removal of an ovary [oophorectomy]&lt;/p&gt;&lt;p&gt;4. condition of female breasts (in a male) [gynecomastia]&lt;/p&gt;&lt;p&gt;5. ovarian hormone that sustains pregnancy [progesterone]&lt;/p&gt;&lt;p&gt;6. nipple-shaped elevation on the breast [mammary papilla]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>K</title>
+      <instructions>
+        <instructions>&lt;p&gt;Give medical terms for the following definitions. Pay careful attention to spelling.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="17e798f3-3e1d-4818-995d-ac346a93506c">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;abortion&lt;/td&gt;&lt;td&gt;fontanelle&lt;/td&gt;&lt;td&gt;in vitro fertilization&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apgar score&lt;/td&gt;&lt;td&gt;infant respiratory distress syndrome&lt;/td&gt;&lt;td&gt;meconium aspiration syndrome&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cephalic version&lt;/td&gt;&lt;td&gt;hemolytic disease of the newborn&lt;/td&gt;&lt;td&gt;pyloric stenosis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cesarean section&lt;/td&gt;&lt;td rowspan="1" colspan="2"&gt;hydrocephalus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;fetal monitoring&lt;/td&gt;&lt;td rowspan="1" colspan="2"&gt;hydrocephalus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;fetal presentation&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Turning the fetus so that the head presents during birth [cephalic version]&lt;/p&gt;&lt;p&gt;2. The soft spot between the newborn's cranial bones [fontanelle]&lt;/p&gt;&lt;p&gt;3. The evaluation of the newborn's physical condition [Apgar score]&lt;/p&gt;&lt;p&gt;4. Premature termination of pregnancy [abortion]&lt;/p&gt;&lt;p&gt;5. Removal of the fetus by abdominal incision of the uterus [cesarean section]&lt;/p&gt;&lt;p&gt;6. Acute lung disease in the premature newborn: surfactant deficiency [infant respiratory distress syndrome]&lt;/p&gt;&lt;p&gt;7. Use of a machine to electronically record fetal heart rate during labor [fetal monitoring]&lt;/p&gt;&lt;p&gt;8. Narrowing of the opening of the stomach to the small intestine in the infant [pyloric stenosis]&lt;/p&gt;&lt;p&gt;9. Rh factor incompatibility between the mother and fetus [hemolytic disease of the newborn]&lt;/p&gt;&lt;p&gt;10. Accumulation of fluid in the spaces of a neonate's brain [hydrocephalus]&lt;/p&gt;&lt;p&gt;11. Manner in which the fetus appears to the examiner during delivery [fetal presentation]&lt;/p&gt;&lt;p&gt;12. Thick, sticky green-black substance is discharged into the amniotic fluid, causing fetal lung problems [meconium aspiration syndrome]&lt;/p&gt;&lt;p&gt;13. Union of the egg and sperm cell in a laboratory dish [in vitro fertilization]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>L</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the obstetric and neonatal terms with the descriptions that follow.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="59973d83-196e-4b1c-b765-3628c4f1b7cd">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. CIS [carcinoma in situ]&lt;br/&gt;2. FSH [follicle-stimulating hormone]&lt;br/&gt;3. D&amp;amp;C [dilation and curettage/dilatation and curettage/dilation &amp;amp; curettage]&lt;br/&gt;4. multip [multipara]&lt;br/&gt;5. C-section [cesarean section]&lt;br/&gt;6. IVF [in vitro fertilization]&lt;br/&gt;7. Cx [cervix]&lt;br/&gt;8. TAH-BSO [total abdominal hysterectomy with bilateral salpingo-oophorectomy]&lt;br/&gt;9. primip [primipara]&lt;br/&gt;10. OB [obstetrics]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>M, Part 1</title>
+      <instructions>
+        <instructions>&lt;p&gt;Give the meanings of the abbreviations.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="bbb34f44-bbd5-4950-b0de-b2c247a798c3">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Localized cancer growth.&lt;br/&gt;[carcinoma in situ]&lt;br/&gt;2. Secretion from the pituitary gland stimulates the ovaries. [follicle-stimulating hormone]&lt;br/&gt;3. This procedure helps diagnose uterine disease. [dilation and curettage]&lt;br/&gt;4. This woman has given birth to more than one infant. [multipara]&lt;br/&gt;5. Surgical delivery of an infant through an abdominal incision. [cesarean section]&lt;br/&gt;6. Egg and sperm cells are combined outside the body. [in vitro fertilization]&lt;br/&gt;7. Lower, neck-like region of the uterus. [cervix]&lt;br/&gt;8. Surgical procedure to remove the uterus, fallopian tubes, and ovaries. [total abdominal hysterectomy with bilateral salpingo-oophorectomy]&lt;br/&gt;9. This woman has given birth for the first time. [primipara]&lt;br/&gt;10. Branch of medicine dealing with pregnancy and delivery of infants. [obstetrics]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>M, Part 2</title>
+      <instructions>
+        <instructions>&lt;p&gt;From the dropdown, select the term that best matches the description.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="64842db3-7f96-4b86-a539-97980ef690f3">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Pap test [Diagnoses cervical and vaginal cancer]&lt;/p&gt;&lt;p&gt;2. HSG [X-ray record of the uterus and fallopian tubes]&lt;/p&gt;&lt;p&gt;3. AB  [Termination of pregnancy; spontaneous or induced]&lt;/p&gt;&lt;p&gt;4. HPV [Cause of cervical cancer]&lt;/p&gt;&lt;p&gt;5. DCIS [Precancerous lesion in the breast]&lt;/p&gt;&lt;p&gt;6. HRT [Hormones given to menopausal women]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>N</title>
+      <instructions>
+        <instructions>&lt;p&gt;Match the following abbreviations with the best description from the dropdown.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="a5619ea7-48b9-44ca-8268-8ebb79fae376">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Dr. Hanson felt that it was important to do a [Pap test/culdocentesis/amniocentesis] once yearly on each of her GYN patients to screen for abnormal cells.&lt;/p&gt;&lt;p&gt;2. When Doris missed her period, her doctor checked for the presence of [hCG/LH/IUD] in Doris ’ s urine to see if she was pregnant.&lt;/p&gt;&lt;p&gt;3. Ellen was 34 weeks pregnant and experiencing bad headaches and blurry vision, with a 10-pound weight gain in 2 days. Dr. Murphy told her to go to the obstetric emergency department because she suspected [preeclampsia/pelvic inflammatory disease/fibroids].&lt;/p&gt;&lt;p&gt;4. Fifty-two-year-old Sally noticed increasing pain, fullness, and swelling in her abdomen. She had a history of ovarian cancer, so her physician recommended [pelvic ultrasonography/colposcopy/sentinel node biopsy].&lt;/p&gt;&lt;p&gt;5. Clara knew that she should not ignore her fevers and yellow vaginal discharge and the pain in her side. She had previous episodes of [PID/PMS/HRT] treated with IV antibiotics. She worried that she might have a recurrence.&lt;/p&gt;&lt;p&gt;6. After years of trying to become pregnant, Jill decided to speak to her [gynecologist/hematologist/urologist] about in vitro [fertilization/gestation/parturition].&lt;/p&gt;&lt;p&gt;7. To harvest her ova, Jill’s physician prescribed hormones to stimulate egg maturation and [ovulation/coitus/lactation]. Ova were surgically removed and fertilized with sperm cells in a Petri dish.&lt;/p&gt;&lt;p&gt;8. Next, multiple embryos were implanted into Jill’s [uterus/fallopian tube/vagina], and she received hormones to ensure the survival of at least one embryo.&lt;/p&gt;&lt;p&gt;9. The IVF was successful and after [ultrasound examination/abdominal CT], Jill was told that she would have twins in 8&lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; months.&lt;/p&gt;&lt;p&gt;10. At 37 weeks, Jill went into labor. Under continuous [fetal monitoring/chorionic villus sampling/culdocentesis], two healthy infants were delivered vaginally.&lt;/p&gt;&lt;p&gt;11. At age 41, Carol had a screening [mammogram/hysterosalpingogram/conization] of her breasts. The results showed tiny calcium deposits, or calcifications, behind her [areola/chorion/adnexa uteri]. A core needle [biopsy/laparoscopy/colposcopy] was performed and showed cells that were an early sign of cancer called [DCIS/CIN/DUB]. Her surgical oncologist recommended [lumpectomy/TAH-BSO/chorionic villus sampling] to remove the calcifications and surrounding tissue as treatment.&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>O</title>
+      <instructions>
+        <instructions>&lt;p&gt;Select the term from the dropdown that best completes the meaning of each sentence.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+</blocks>

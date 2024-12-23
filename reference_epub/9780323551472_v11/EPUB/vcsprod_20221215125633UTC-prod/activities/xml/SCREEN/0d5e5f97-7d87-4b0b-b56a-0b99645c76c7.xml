@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e69073f2-2c97-4a5f-8fd7-166832107942">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY—JOINTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="16e6f56a-5b4c-4fc8-9c49-44da69ad1705">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c4599b88-2032-467a-9f02-07b39fad9790">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ankyl/o &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;stiff&lt;/td&gt;&lt;td&gt;&lt;u&gt;ankyl&lt;/u&gt;osis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;arthr&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;joint&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;arthr&lt;/u&gt;oplasty&lt;br/&gt;&lt;em&gt;Replacement arthroplasty is replacement of one or both bone ends by a prosthesis (artificial part) of metal or plastic. See page 584.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;arthr&lt;/u&gt;otomy&lt;/p&gt;&lt;p&gt;hem&lt;u&gt;arthr&lt;/u&gt;osis&lt;/p&gt;&lt;p&gt;hydr&lt;u&gt;arthr&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Synovial fluid collects abnormally in the joint.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;poly&lt;u&gt;arthr&lt;/u&gt;itis&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;articul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;joint&lt;/td&gt;&lt;td&gt;&lt;u&gt;articul&lt;/u&gt;ar cartilage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;burs/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;bursa&lt;/td&gt;&lt;td&gt;&lt;u&gt;burs&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;Causes of this periarticular condition may be related to stress placed on the bursa or to diseases such as gout or rheumatoid arthritis. The bursa becomes inflamed and movement is limited and painful. Intrabursal injection of corticosteroids and also rest and splinting of the limb are helpful in treatment.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;chondr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;cartilage&lt;/td&gt;&lt;td&gt;&lt;p&gt;a&lt;u&gt;chondr&lt;/u&gt;oplasia&lt;br/&gt;&lt;em&gt;This is an inherited condition in which the bones of the arms and legs fail to grow to normal size because of a defect in cartilage and bone formation. Dwarfism results, characterized by short limbs and a normal-sized head and trunk. See page 78.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;chondr&lt;/u&gt;osarcoma&lt;/p&gt;&lt;p&gt;&lt;u&gt;chondr&lt;/u&gt;omalacia&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Chondromalacia patellae &lt;/strong&gt;is a softening and roughening of the articular cartilaginous surface of the kneecap, resulting in pain, a grating sensation, and mechanical “catching” behind the patella with joint movement.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ligament/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ligament&lt;/td&gt;&lt;td&gt;&lt;u&gt;ligament&lt;/u&gt;ous&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rheumat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;watery flow&lt;/td&gt;&lt;td&gt;&lt;u&gt;rheumat&lt;/u&gt;ologist&lt;br/&gt;&lt;em&gt;Various forms of arthritis are marked by collection of fluid in joint spaces.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;synov/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;synovial membrane&lt;/td&gt;&lt;td&gt;&lt;u&gt;synov&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ten/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tendon&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ten&lt;/u&gt;orrhaphy&lt;/p&gt;&lt;p&gt;&lt;u&gt;ten&lt;/u&gt;osynovitis&lt;br/&gt;&lt;em&gt;Synov/o here refers to the sheath (covering) around the tendon.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tendin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tendon&lt;/td&gt;&lt;td&gt;&lt;u&gt;tendin&lt;/u&gt;osis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5dab14f8-0d79-43af-9cab-d750634bea94">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Ankylosis/Alkalosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ankylosis &lt;/em&gt;is a condition of joint stiffening or immobilization. Don’t confuse this term with &lt;em&gt;alkalosis, &lt;/em&gt;meaning increased alkalinity (pH) of blood and tissues.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fa4ed95a-b5d7-420b-aa6b-aed3294d636b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a7e92814-73cd-4040-be84-4bfa772f99f5">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-desis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;to bind, tie together&lt;/td&gt;&lt;td&gt;arthro&lt;u&gt;desis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Bones are fused across the joint space by surgery (artificial ankylosis). This operation is performed when a joint is very painful, unstable, or chronically infected.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-stenosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;narrowing&lt;/td&gt;&lt;td&gt;spinal &lt;u&gt;stenosis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Narrowing of the neural (spinal) canal in the lumbar spine. Symptoms (pain, paresthesias, urinary retention, bowel incontinence) come from compression of the cauda equina (nerves that spread out from the lower end of the spinal cord like a horse’s tail). See Figure 15-21.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e67c6aa8-d83d-47f4-800c-a2fe32f35f8c">
+    <STATIC_figure>
+  <image>chp00015_f015-021-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-21 &lt;/span&gt;Spinal stenosis.&lt;/strong&gt; Wear-and-tear effects of aging can lead to narrowing of the spinal (neural) canal.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

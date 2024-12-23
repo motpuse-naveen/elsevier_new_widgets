@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="7b8f12f0-3e76-4d8d-b635-f0ff92c9d13e">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="26c00a55-9f83-4769-815b-e101293205d5">
+    <STATIC_text>
+  <text>&lt;p&gt;This section contains an operating room schedule and an operative report. Explanations of more difficult terms are added in brackets.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eab27c2f-039e-4997-9449-21852c84d2fe">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;strong&gt;&lt;span style="color:#CA500F;"&gt;OPERATING ROOM SCHEDULE: EYE AND EAR PROCEDURES&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b2cc7acf-fe92-4dbe-a6bd-a9dcc376e2de">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;Match the operation in Column I with a diagnosis/surgical indication in Column II.&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;&lt;strong&gt;COLUMN I&lt;/strong&gt;&lt;br/&gt;1. phacoemulsification with IOL; OS [cataracts]&lt;br/&gt;2. blepharoplasty [ptosis of eyelid skin]&lt;br/&gt;3. scleral buckle [retinal detachment]&lt;br/&gt;4. vitrectomy [diabetic retinopathy]&lt;br/&gt;5. radical mastoidectomy [chronic infection of a bone behind the ear]&lt;br/&gt;6. keratoplasty [scarred and torn cornea]&lt;br/&gt;7. cochlear implant [severe deafness]&lt;br/&gt;8. laser photocoagulation of the macula [macular degeneration]&lt;br/&gt;9. incision and drainage of hordeolum [chronic stye]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="cedce5b5-9c5f-4898-acf7-8d9764d2e47d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;OPERATIVE REPORT&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="70826035-629a-4d53-8658-d62158469859">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Preoperative Diagnosis:&lt;/strong&gt; Bilateral chronic serous otitis media; tonsilloadenoiditis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operation:&lt;/strong&gt; Bilateral myringotomies and ventilation tube insertion; T&amp;amp;A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Procedure:&lt;/strong&gt; With the patient in the supine position and under general endotracheal anesthesia, inspection of AD was made under the operating microscope. The external canal was clear; tympanic membrane was divided. A purulent discharge appeared to be present. This drainage was suctioned out and the ear thoroughly lavaged [washed out]. A ventilating tube was put in place and otic drops were administered. Same procedure for AS.&lt;/p&gt;&lt;p&gt;The patient was placed in the Rose position [supine with the head over the table edge in full extension] and the adenoids were removed with adenoid curettes and adenoid biopsy forceps. A nasopharyngeal sponge was put in place. The right tonsil was then grasped with tonsil forceps, dissected free, and removed with snare. Bleeding was controlled with suction cautery. The nasopharyngeal sponge was removed and no further bleeding noted. The patient tolerated the procedure well and left the OR in good condition.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

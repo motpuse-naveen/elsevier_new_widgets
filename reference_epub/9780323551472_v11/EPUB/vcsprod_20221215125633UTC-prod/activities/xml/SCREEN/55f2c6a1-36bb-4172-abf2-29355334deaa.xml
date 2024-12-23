@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d7b5b12a-caf6-4882-b59a-660058e27e9b">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_review_sheet.png" data-handler-handled="true"/&gt; REVIEW SHEET&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0c05c663-eb0d-4a62-bae0-2564e6f58aba">
+    <STATIC_text>
+  <text>&lt;p&gt;Write meanings for combining forms and suffixes in the spaces provided. Check your answers with information in Chapter 5 and this chapter or in the &lt;em&gt;&lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;&lt;strong&gt;Glossary (Medical Word Parts—English)&lt;/strong&gt;&lt;/a&gt; &lt;/em&gt;at the end of this book.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6e80bcdb-d83d-4acd-a35d-58385d591a63">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Combining Forms</text>
+</STATIC_heading>
+  </block>
+  <block refid="6acdeb76-9903-4a4f-9809-325c0a61f2a5">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;: Click or tap on the &lt;em&gt;plus&lt;/em&gt; sign to reveal the opposite side of the card.  &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0f98a712-4774-49dc-85b9-cf9eccbdcea5">
+    <HIDESHOW>
+  <header>
+    <title>amyl/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;starch&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5ab12b6d-d2ce-4850-a374-753906b42689">
+    <HIDESHOW>
+  <header>
+    <title>an/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;anus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="379a2b74-9cbd-4997-91b4-31d55e1f20dc">
+    <HIDESHOW>
+  <header>
+    <title>append/o, appendic/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;appendix&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="8288166e-6757-498b-ba1a-56c07e5066f3">
+    <HIDESHOW>
+  <header>
+    <title>bil/i</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;gall, bile&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b9ca5265-726a-4b89-b02e-e3a8fd31a519">
+    <HIDESHOW>
+  <header>
+    <title>bilirubin/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;bilirubin (bile pigment)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2162af56-3b8d-4fd2-8127-364af88496f6">
+    <HIDESHOW>
+  <header>
+    <title>bucc/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;cheek&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7528614d-79f0-4da5-acd0-a64f608f52c2">
+    <HIDESHOW>
+  <header>
+    <title>cec/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;cecum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="784db30b-99c9-4796-9806-385163d56ebf">
+    <HIDESHOW>
+  <header>
+    <title>celi/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;belly, abdomen&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f9705c59-f1dd-40a7-b9e9-2af93619e1d0">
+    <HIDESHOW>
+  <header>
+    <title>cervic/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;neck; cervix (neck of the uterus)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="29bb34a1-225d-4e64-a0be-c4e775730344">
+    <HIDESHOW>
+  <header>
+    <title>cheil/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;lip&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b294ecf6-152a-462d-ab9f-d66da030fa90">
+    <HIDESHOW>
+  <header>
+    <title>chlorhydr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;hydrochloric acid&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="861315da-bf7c-4f2b-a03e-26e4a648ac55">
+    <HIDESHOW>
+  <header>
+    <title>chol/e</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;gall, bile&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7cabfd22-ba72-439f-adda-994f68d6e60f">
+    <HIDESHOW>
+  <header>
+    <title>cholangi/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;bile vessel&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f221fa01-5198-4c3a-b533-45d4e148b6e5">
+    <HIDESHOW>
+  <header>
+    <title>cholecyst/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;gallbladder&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ae38f0d1-2f6c-4533-a1af-f2f1c1995ea3">
+    <HIDESHOW>
+  <header>
+    <title>choledoch/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;common bile duct&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="4d1624aa-e564-432c-845b-df2346936e7d">
+    <HIDESHOW>
+  <header>
+    <title>cib/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;meal&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fdfb9472-b554-4f27-83ee-7f686f09f785">
+    <HIDESHOW>
+  <header>
+    <title>cirrh/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;orange-yellow&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="d007f13e-816d-473e-82b6-8c01109d7359">
+    <HIDESHOW>
+  <header>
+    <title>col/o, colon/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;colon&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e519d46f-11d6-4093-b686-960b63c97eff">
+    <HIDESHOW>
+  <header>
+    <title>dent/i</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;tooth&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="94cc7c6c-ad5c-49ce-bbcb-eca9d6d8669b">
+    <HIDESHOW>
+  <header>
+    <title>duoden/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;duodenum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="46a1d680-2af7-4b1d-93c3-58b1b264a9ba">
+    <HIDESHOW>
+  <header>
+    <title>enter/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;intestines, usually small intestine&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f189e167-cec5-4812-935e-21591885b917">
+    <HIDESHOW>
+  <header>
+    <title>esophag/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;esophagus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="a520d655-85cc-46e7-9089-9753a32cdcf3">
+    <HIDESHOW>
+  <header>
+    <title>eti/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;cause&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="130d6508-a8be-4d36-919d-265d6cc02548">
+    <HIDESHOW>
+  <header>
+    <title>gastr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;stomach&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="8244ba36-e838-4f48-9a1a-1d49eadad53f">
+    <HIDESHOW>
+  <header>
+    <title>gingiv/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;gums&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fb119fa9-a8ec-46cb-9962-2cb7fa7d0a7c">
+    <HIDESHOW>
+  <header>
+    <title>gloss/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;tongue&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="92309c03-0ea2-43a2-8a90-fba2371ac68f">
+    <HIDESHOW>
+  <header>
+    <title>gluc/o, glyc/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;sugar&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e46f4670-a553-40b1-a4a1-eea966ff1f15">
+    <HIDESHOW>
+  <header>
+    <title>glycogen/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;glycogen, animal starch&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f9f99bd7-e8d8-4763-a9c2-6943c2bb781b">
+    <HIDESHOW>
+  <header>
+    <title>hem/o, hemat/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;blood condition&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5c47ea23-535c-458e-9588-7b98f0c7f4f6">
+    <HIDESHOW>
+  <header>
+    <title>hepat/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;liver&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ea6e2044-37df-4897-bb98-658fb9494438">
+    <HIDESHOW>
+  <header>
+    <title>herni/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;hernia&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="75812f94-746d-4c30-8523-d64b1768fc81">
+    <HIDESHOW>
+  <header>
+    <title>idi/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;unknown; individual; distinct&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2602507a-66b6-463b-b8e4-9cf2cc092efa">
+    <HIDESHOW>
+  <header>
+    <title>ile/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;ileum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="d43d4275-c308-4f82-b30c-6e087e11d736">
+    <HIDESHOW>
+  <header>
+    <title>pancreat/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pancreas&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="9cab5170-42dd-4efe-98c7-7ccad0c37cff">
+    <HIDESHOW>
+  <header>
+    <title>peritone/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;peritoneum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="4803c27a-2d54-409d-936f-2a7ab8432768">
+    <HIDESHOW>
+  <header>
+    <title>pharyng/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;throat&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="3360d1c1-38ac-4ee0-b6a5-8ebbd6bc49ba">
+    <HIDESHOW>
+  <header>
+    <title>proct/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;anus and rectum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fd09f88a-c2b6-4ee0-99ed-59c5d4bec19f">
+    <HIDESHOW>
+  <header>
+    <title>prote/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;protein&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="861b85b1-dee5-429d-b8be-20243228b2d7">
+    <HIDESHOW>
+  <header>
+    <title>py/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="3cef1e86-9f42-49e2-bf6b-3eebd5b341ce">
+    <HIDESHOW>
+  <header>
+    <title>pylor/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pyloric sphincter&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="709c8a4e-9bcc-469c-9593-1f805e9d306c">
+    <HIDESHOW>
+  <header>
+    <title>rect/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;rectum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="02a1b7f2-5d97-461a-8ca8-7983f42150d6">
+    <HIDESHOW>
+  <header>
+    <title>sialaden/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;salivary gland&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="4c96a482-0fda-44d8-a787-36884206c3b3">
+    <HIDESHOW>
+  <header>
+    <title>splen/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;spleen&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1f90b7bc-f071-43fc-8a95-711b67e4753f">
+    <HIDESHOW>
+  <header>
+    <title>steat/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;fat&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="a895a149-6c45-4384-b7cf-0c14c593487d">
+    <HIDESHOW>
+  <header>
+    <title>stomat/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;mouth&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="8b8209e2-5089-4a54-b64e-b8fb258cc8b5">
+    <HIDESHOW>
+  <header>
+    <title>tonsill/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;tonsils&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5daac35e-c6d3-4140-82c7-33f99143e5bd">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;strong&gt;Suffixes&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2bd63035-9504-413c-a511-b1a0c90a70c4">
+    <HIDESHOW>
+  <header>
+    <title>-ase</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;enzyme&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="d84b89f2-11a3-4310-8fb8-90db3f105187">
+    <HIDESHOW>
+  <header>
+    <title>-centesis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;surgical puncture to remove fluid&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ca1e0e81-0811-4216-862d-e8a45c5ad7d7">
+    <HIDESHOW>
+  <header>
+    <title>-chezia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;defecation, elimination of wastes&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="98d6cd85-fe3c-42f8-8316-cfafa8f67450">
+    <HIDESHOW>
+  <header>
+    <title>-ectasia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;dilation (dilatation), widening&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b9995cf3-80da-4990-a5df-2176e929b424">
+    <HIDESHOW>
+  <header>
+    <title>-ectasis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;dilation (dilatation), widening&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="6b96b6e8-6d57-4727-a3ae-aec22ac7dfd7">
+    <HIDESHOW>
+  <header>
+    <title>-ectomy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;removal; excision; resection&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f368d3ed-5ce6-4127-a43d-d9dccd2f92cd">
+    <HIDESHOW>
+  <header>
+    <title>-emesis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;vomiting&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c5105cbd-66ad-464c-a942-e4dae243d93e">
+    <HIDESHOW>
+  <header>
+    <title>-emia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;blood condition&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="be9fbc81-6e51-4c14-9542-06818be37291">
+    <HIDESHOW>
+  <header>
+    <title>-genesis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;producing; forming&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="119db0f3-b415-4471-848d-d69cc6432b5c">
+    <HIDESHOW>
+  <header>
+    <title>-graphy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;process of recording&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ee461544-f6b8-4d33-837d-643c36533dca">
+    <HIDESHOW>
+  <header>
+    <title>-iasis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;abnormal condition&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="75294c84-f112-4df2-ac94-4ee3fb34a29b">
+    <HIDESHOW>
+  <header>
+    <title>-megaly</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;enlargement&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="cda463ca-0f2c-413b-a449-ad05c09ddf80">
+    <HIDESHOW>
+  <header>
+    <title>-orexia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;appetite&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="235d40e2-8f28-492f-91e1-271873c80358">
+    <HIDESHOW>
+  <header>
+    <title>-rrhage</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;bursting forth (of blood)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="0a08ac9a-83c8-4ad4-838e-3d1db6bdf84f">
+    <HIDESHOW>
+  <header>
+    <title>-rrhagia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;bursting forth (of blood)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="6ca27d60-5769-4c34-a95f-8a6b233a616c">
+    <HIDESHOW>
+  <header>
+    <title>-rrhaphy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;suture&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ab1249ef-0605-4d7f-b765-57754ee75630">
+    <HIDESHOW>
+  <header>
+    <title>-rrhea</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;flow, discharge&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="0475ccac-765f-4b9f-ba8f-a5e0b12cc008">
+    <HIDESHOW>
+  <header>
+    <title>-scopy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;visual examination&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="884d5b06-fc13-4a9d-85d3-6b88c1065538">
+    <HIDESHOW>
+  <header>
+    <title>-spasm</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;involuntary contraction of muscles&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fc872e69-2d67-44e9-a2de-441a17e66dab">
+    <HIDESHOW>
+  <header>
+    <title>-stasis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;stopping, controlling&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e875a49c-def5-4451-81e9-501dea89bae7">
+    <HIDESHOW>
+  <header>
+    <title>-stenosis</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;narrowing, tightening&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c6e7bb4a-eff0-4c36-938f-8aa0eba16cac">
+    <HIDESHOW>
+  <header>
+    <title>-stomy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;new opening (to form a mouth)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="a86419f5-b57c-4165-a896-99fe6e856dc7">
+    <HIDESHOW>
+  <header>
+    <title>-tomy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;process of cutting&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="195aedfe-44bc-4491-a464-1bc5c9b58223">
+    <HIDESHOW>
+  <header>
+    <title>-tresia</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;opening&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="06b6fc43-cf52-4fd5-bf9e-ab85e706022b">
+    <STATIC_hr-divider/>
+  </block>
+  <block refid="68e5de8f-a254-4614-a5c2-fee59870ad07">
+    <STATIC_text>
+  <text>&lt;p&gt;Please visit the Evolve website for additional exercises, games, and images related to this chapter.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

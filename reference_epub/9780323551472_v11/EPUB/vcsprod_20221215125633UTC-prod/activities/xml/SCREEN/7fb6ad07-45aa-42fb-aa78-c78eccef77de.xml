@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="3f55b853-aeeb-49b3-9955-2f093b8cbb98">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;APPENDIX I&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="488858df-3328-4d44-acc4-ef8b5a061a3b">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;Plurals&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="cc065643-97b8-40b9-bb0e-0bdde53819b1">
+    <STATIC_text>
+  <text>&lt;p&gt;The rules commonly used to form plurals of medical terms are as follows:&lt;/p&gt;&lt;p&gt;1. For words ending in &lt;strong&gt;a&lt;/strong&gt;, retain the &lt;strong&gt;a&lt;/strong&gt; and add &lt;strong&gt;e&lt;/strong&gt; &lt;em&gt;Examples&lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c997cd91-5b36-4d19-b6cd-262d97318790">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;bulla&lt;/td&gt;&lt;td&gt;bullae &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;bursa&lt;/td&gt;&lt;td&gt;bursae&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;vertebra&lt;/td&gt;&lt;td&gt;vertebrae&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="eabf08f5-9619-4f8c-b96f-7792d9d5bd46">
+    <STATIC_text>
+  <text>&lt;p&gt;2. For words ending in &lt;strong&gt;is&lt;/strong&gt;, drop the &lt;strong&gt;is&lt;/strong&gt; and add &lt;strong&gt;es&lt;/strong&gt;. &lt;em&gt;Examples:&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f474f3ca-4a96-4b63-87f7-01eaa311fd8f">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;anastomosis &lt;/td&gt;&lt;td&gt;anastomoses &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;epiphysis &lt;/td&gt;&lt;td&gt;epiphyses &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;metastasis &lt;/td&gt;&lt;td&gt;metastases &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;prosthesis &lt;/td&gt;&lt;td&gt;prostheses &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;pubis &lt;/td&gt;&lt;td&gt;pubes&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5faaf221-8c19-40d7-a2e0-0c27c807fe09">
+    <STATIC_text>
+  <text>&lt;p&gt;3. For words ending in &lt;strong&gt;ex&lt;/strong&gt; and &lt;strong&gt;ix&lt;/strong&gt;, drop the &lt;strong&gt;ex&lt;/strong&gt; or &lt;strong&gt;ix&lt;/strong&gt; and add &lt;strong&gt;ices&lt;/strong&gt;. &lt;em&gt;Examples&lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ca7dab4b-d751-4d7b-8a87-82544d2d1d54">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;apex&lt;/td&gt;&lt;td&gt;apices &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;varix&lt;/td&gt;&lt;td&gt;varices&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a34d15b0-bc6a-4f85-8a89-6c8acaa0afa0">
+    <STATIC_text>
+  <text>&lt;p&gt;4. For words ending in &lt;strong&gt;on&lt;/strong&gt;, drop the &lt;strong&gt;on&lt;/strong&gt; and add &lt;strong&gt;a&lt;/strong&gt;. &lt;em&gt;Examples&lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="50522078-a38d-4a03-a979-98e365d273c2">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;ganglion &lt;/td&gt;&lt;td&gt;ganglia &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;spermatozoon &lt;/td&gt;&lt;td&gt;spermatozoa&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="17109eaa-15a7-4294-929c-b2d7a28e61be">
+    <STATIC_text>
+  <text>&lt;p&gt;5. For words ending in &lt;strong&gt;um&lt;/strong&gt;, drop the &lt;strong&gt;um&lt;/strong&gt; and add &lt;strong&gt;a&lt;/strong&gt;. &lt;em&gt;Examples&lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4fb7f476-e5fe-4506-a36f-7beabc0f1ee5">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;bacterium&lt;/td&gt;&lt;td&gt;bacteria &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;diverticulum &lt;/td&gt;&lt;td&gt;diverticula &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ovum &lt;/td&gt;&lt;td&gt;ova&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="fbf294d5-7e2c-4052-9d1f-0db453e95c95">
+    <STATIC_text>
+  <text>&lt;p&gt;6. For words ending in &lt;strong&gt;us&lt;/strong&gt;, drop the &lt;strong&gt;us&lt;/strong&gt; and add &lt;strong&gt;i&lt;/strong&gt;. &lt;em&gt;Examples&lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4ba18a89-97d7-4a6b-9102-3ee6e3b82c74">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;bronchus &lt;/td&gt;&lt;td&gt;bronchi &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;calculus &lt;/td&gt;&lt;td&gt;calculi &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;nucleus &lt;/td&gt;&lt;td&gt;nuclei&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Two exceptions to this rule are vir&lt;u&gt;uses&lt;/u&gt; and sin&lt;u&gt;uses&lt;/u&gt;.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c7fc9676-c1bf-44e2-b7b2-02de567c387a">
+    <STATIC_text>
+  <text>&lt;p&gt;7. Additional rules are used to form plurals in other word families. &lt;em&gt;Examples &lt;/em&gt;:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f99ac29c-9aaf-4dc1-beb0-7b09113eda66">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Singular &lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;Plural &lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;anomal&lt;u&gt;y&lt;/u&gt;&lt;/td&gt;&lt;td&gt;anomal&lt;u&gt;ies&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;biops&lt;u&gt;y&lt;/u&gt;&lt;/td&gt;&lt;td&gt;biops&lt;u&gt;ies&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;fem&lt;u&gt;ur&lt;/u&gt;&lt;/td&gt;&lt;td&gt;fem&lt;u&gt;ora&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;foram&lt;u&gt;en&lt;/u&gt;&lt;/td&gt;&lt;td&gt;foram&lt;u&gt;ina&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ir&lt;u&gt;is&lt;/u&gt;&lt;/td&gt;&lt;td&gt;ir&lt;u&gt;ides&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;phala&lt;u&gt;nx&lt;/u&gt;&lt;/td&gt;&lt;td&gt;phala&lt;u&gt;nges&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;thora&lt;u&gt;x&lt;/u&gt;&lt;/td&gt;&lt;td&gt;thora&lt;u&gt;ces&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="40dcc6ff-8791-40c1-aafb-0a44437753d4">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;em&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 100px; height: 26px;" src="../media/icon_evolve.png" data-handler-handled="true"/&gt;   Pronunciations for plural terms as well as other terms can be found on the Evolve website.&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

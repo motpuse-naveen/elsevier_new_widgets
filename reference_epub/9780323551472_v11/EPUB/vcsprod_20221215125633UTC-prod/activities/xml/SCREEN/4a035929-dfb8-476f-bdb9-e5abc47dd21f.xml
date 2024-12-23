@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="939deecb-0774-4e2e-bda9-f508551f3f8a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ADMINISTRATION OF DRUGS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a335d764-f9c0-4d35-8ef7-36692e1aa80f">
+    <STATIC_text>
+  <text>&lt;p&gt;The route of administration of a drug (how it is taken into the body) determines how well it is absorbed into the blood, and its speed and duration of action. Various methods of administering drugs are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Oral administration.&lt;/strong&gt; Drugs given by mouth are slowly dissolved and then absorbed into the bloodstream through the stomach or intestinal wall. This method is convenient for the patient, however it has several disadvantages. If the drug is destroyed in the digestive tract by digestive juices, or if the drug is unable to pass through the intestinal wall, it will be ineffective. Oral administration is also a disadvantage if a rapid onset of action is desired. It takes several hours for oral medication to be fully absorbed into the bloodstream. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sublingual administration&lt;/strong&gt;. Drugs placed under the tongue dissolve in the saliva. For some agents, absorption may be rapid. Nitroglycerin tablets are administered in this way to treat attacks of angina (chest pain).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rectal administration&lt;/strong&gt;. Suppositories (cone-shaped objects containing drugs) and aqueous solutions are inserted into the rectum. Drugs are given by rectum when oral administration presents difficulties, as when the patient is nauseated and vomiting.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Parenteral administration&lt;/strong&gt;. Injection of drug from a &lt;strong&gt;syringe&lt;/strong&gt; (tube) through a hollow needle placed under the skin, into a muscle, vein, or body cavity. There are several types of parenteral injections and instillations:&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;1. &lt;strong&gt;Intracavitary instillation&lt;/strong&gt;. This injection is made into a body cavity, such as the peritoneal or pleural cavity. For example, drugs may be introduced into the pleural cavity in people who have pleural effusions due to malignant disease. The drug causes the pleural surfaces to adhere, thereby obliterating the pleural space and preventing the accumulation of fluid. This procedures is known as &lt;strong&gt;pleurodesis&lt;/strong&gt;.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;2. &lt;strong&gt;Intradermal injection&lt;/strong&gt;. This shallow injection is made into the upper layers of the skin and is used chiefly in skin testing for allergic reactions.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;3. &lt;strong&gt;Subcutaneous (hypodermic) injection (subQ)&lt;/strong&gt;. A small hypodermic needle is introduced into the subcutaneous tissue under the skin, usually on the upper arm, thigh, or abdomen. Insulin is injected daily via this route.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;4. &lt;strong&gt;Intramuscular injection (IM).&lt;/strong&gt; The buttock or upper arm is the usual site for this injection into muscle. This form of drug administration gives rapid absorption of single doses of drugs, but is inconvenient for continuous drug dosing.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;5. &lt;strong&gt;Intrathecal instillation&lt;/strong&gt;. This instillation is into the space under the membranes (meninges) surrounding the spinal cord and brain. Methotrexate (a cancer chemotherapeutic drug) is introduced intrathecally for treatment of leukemia involving the spinal canal.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;6. &lt;strong&gt;Intravenous injection (IV).&lt;/strong&gt; This injection is given directly into a vein. It is used when an immediate effect from the drug is desired or when the drug is poorly absorbed into the bloodstream after oral administration. Good technical skill is needed with intravenous injections because leakage of a drug into surrounding tissues may result in irritation and inflammation. Some medicines, such as anticancer drugs, are dissolved in a large volume of fluid and given by a several-hour-long intravenous infusion.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="1fed35ce-adf5-415e-a77b-cd38778c967e">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Inhalation&lt;/strong&gt;. Vapors, or gases, taken into the nose or mouth are absorbed into the bloodstream through the thin walls of air sacs in the lungs. &lt;strong&gt;Aerosols&lt;/strong&gt; (particles of drug suspended in air) are administered by inhalation, as are many anesthetics. Aerosolized medicines are used to treat asthma (spasm of the lung airways).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Topical application&lt;/strong&gt;. Drugs are applied locally on the skin or mucous membranes of the body. &lt;strong&gt;Antiseptics&lt;/strong&gt; (against infection) and &lt;strong&gt;antipruritics&lt;/strong&gt; (against itching) commonly are used as ointments, creams, and lotions. &lt;strong&gt;Transdermal patches&lt;/strong&gt; are used to deliver drugs (such as estrogen for hormone replacement therapy, slow-release pain medications, and nicotine for smoking cessation programs) continuously through the skin.&lt;/p&gt;&lt;p&gt;Table 21-1 summarizes the various routes of drug administration. Figure 21-2 illustrates examples of vehicles for drug administration.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0ba8ab2d-e3ea-493b-9eb7-f0a79754da60">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-1 ROUTES OF DRUG ADMINISTRATION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ee1fed8e-fb60-4a87-935e-2a513209b3aa">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;ORAL&lt;/th&gt;&lt;th scope="col"&gt; SUBLINGUAL&lt;/th&gt;&lt;th scope="col"&gt; RECTAL&lt;/th&gt;&lt;th scope="col"&gt; PARENTERAL&lt;/th&gt;&lt;th scope="col"&gt; INHALATION &lt;/th&gt;&lt;th scope="col"&gt; TOPICAL&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Caplets&lt;br/&gt;Capsules &lt;br/&gt;Tablets&lt;/td&gt;&lt;td&gt;Tablets&lt;/td&gt;&lt;td&gt;Suppositories&lt;/td&gt;&lt;td&gt;Injections and instillations&lt;br/&gt;Intracavitary&lt;br/&gt;Intradermal&lt;br/&gt;Intramuscular (IM)&lt;br/&gt;Intrathecal&lt;br/&gt;Intravenous (IV) &lt;br/&gt;Subcutaneous  (subQ)&lt;/td&gt;&lt;td&gt;Aerosols&lt;/td&gt;&lt;td&gt;&lt;p&gt;Lotions&lt;br/&gt;Creams&lt;br/&gt;Ointments&lt;br/&gt;Transdermal patches&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b84325b6-53ca-42e4-bb1a-01f31c78f3a8">
+    <STATIC_figure>
+  <image>chp00021_f021-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 21-2 &lt;/span&gt;Examples of vehicles for drug administration. A, Hypodermic syringe. B, Ampule (small, sterile glass or plastic container containing a single dose of drug) and vial (glass container with a metal-enclosed rubber seal). &lt;strong&gt;C, Caplets&lt;/strong&gt; (coated like a &lt;u&gt;cap&lt;/u&gt;sule, but solid like a &lt;u&gt;tab&lt;/u&gt;let). &lt;strong&gt;D, Capsules&lt;/strong&gt; (small soluble containers, usually made of gelatin, with a dose of medication). &lt;strong&gt;E, Tablets&lt;/strong&gt; (small solid pills containing a dose of medication).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

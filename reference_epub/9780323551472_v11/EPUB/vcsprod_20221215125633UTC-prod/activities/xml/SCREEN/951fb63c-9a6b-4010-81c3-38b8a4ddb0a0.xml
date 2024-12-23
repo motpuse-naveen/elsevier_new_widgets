@@ -1,0 +1,3365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a1e9b06b-2620-4ef3-915d-42469917e20c">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 52px;" src="../media/icon_review_sheet.png" data-handler-handled="true"/&gt; &lt;/span&gt;&lt;span style="color:#D81E5D;"&gt;REVIEW SHEET&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="04a10b74-afed-4b9f-93a7-711284cf20b1">
+    <STATIC_text>
+  <text>&lt;p&gt;Write the meaning of each combining form, prefix, or suffix in the space provided, and test yourself. Check your answers with the information in the chapter or in the &lt;em&gt;&lt;strong&gt;&lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Glossary (Medical Word Parts—English)&lt;/a&gt;,&lt;/strong&gt; &lt;/em&gt;at the end of the book.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cc2e9d43-f94e-42d3-a461-66fba87b7135">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Combining Forms</text>
+</STATIC_heading>
+  </block>
+  <block refid="29042fde-fb03-4895-b710-752c7f7a557a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;: Click or tap on the &lt;em&gt;plus&lt;/em&gt; sign to reveal the opposite side of the card.  &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fce43bc4-7c17-4f1b-931f-07767e2a4650">
+    <HIDESHOW>
+  <header>
+    <title>abdomin/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;abdomen&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1cbca0dc-fc4d-4ca9-975b-10361d7cd2dc">
+    <HIDESHOW>
+  <header>
+    <title>adip/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;fat&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="41d59bfa-b8c5-4760-8a7b-1e55c52570c8">
+    <HIDESHOW>
+  <header>
+    <title>anter/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;front&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="d39bc5b8-a724-47e0-941e-18bbcda83959">
+    <HIDESHOW>
+  <header>
+    <title>bol/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;to cast (throw)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="119cb42b-c512-4c9c-bf3f-f38268048f09">
+    <HIDESHOW>
+  <header>
+    <title>cervic/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;neck (of the body or of the uterus)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7ad693ba-4630-4047-996d-b62155ed963b">
+    <HIDESHOW>
+  <header>
+    <title>chondr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;cartilage (type of connective tissue)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="8243f2b3-f216-43ac-a5bd-f110ebb36592">
+    <HIDESHOW>
+  <header>
+    <title>chrom/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;color&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="4c577ac7-e612-4b76-9f83-3021cc80c07b">
+    <HIDESHOW>
+  <header>
+    <title>coccyg/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;coccyx (tailbone)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ccb04bf9-37f6-4209-83bf-de1c4790237d">
+    <HIDESHOW>
+  <header>
+    <title>crani/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;skull&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="46565760-da64-450a-bc95-41e392205499">
+    <HIDESHOW>
+  <header>
+    <title>cyt/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;cell&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c17f6bfb-9e00-4f37-b940-b575f50dcbc1">
+    <HIDESHOW>
+  <header>
+    <title>dist/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;far, distant&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="90e8aa8c-914f-41f9-88a5-4df859ca2eb5">
+    <HIDESHOW>
+  <header>
+    <title>dors/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;back portion of the body&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f9acdd8b-a147-4ae3-a838-c90e92cd7fd2">
+    <HIDESHOW>
+  <header>
+    <title>hist/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;tissue&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="bb895604-f4a0-43e9-b18e-c5476c35eff7">
+    <HIDESHOW>
+  <header>
+    <title>ili/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;ilium (part of the pelvic bone)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="0aaaae57-a9d6-4b1f-83e2-6cb68a05a915">
+    <HIDESHOW>
+  <header>
+    <title>inguin/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;groin&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="748870a9-61a4-4cb6-9e66-8833ab146604">
+    <HIDESHOW>
+  <header>
+    <title>kary/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;nucleus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2971c09b-f5bc-4df4-97ef-905521c0c525">
+    <HIDESHOW>
+  <header>
+    <title>later/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;side&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b0318585-741f-4c5f-acdf-1cba9b98e9f5">
+    <HIDESHOW>
+  <header>
+    <title>lumb/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;lower back (side and back between the ribs and pelvis)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c341fcd3-15e6-4617-b451-2e63597d424e">
+    <HIDESHOW>
+  <header>
+    <title>medi/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;middle&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b8b4a51d-e246-4410-ab66-da7bd414a5e0">
+    <HIDESHOW>
+  <header>
+    <title>nucle/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;nucleus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="05e51072-d616-43c4-944d-266d6b76dd31">
+    <HIDESHOW>
+  <header>
+    <title>pelv/i</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pelvis, hip region&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ff5fa8e2-f05c-43d1-b79a-999178272e8a">
+    <HIDESHOW>
+  <header>
+    <title>poster/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;back, behind&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5182459a-7bf1-4726-bb58-29bfe58bc666">
+    <HIDESHOW>
+  <header>
+    <title>proxim/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;nearest&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="83292e32-d867-48c4-a7fe-ead0fcdedfb1">
+    <HIDESHOW>
+  <header>
+    <title>sacr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;sacrum&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c3798f69-5b4a-4482-83d7-3bb28aea450d">
+    <HIDESHOW>
+  <header>
+    <title>sarc/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;flesh&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="675478fd-f6e3-4e96-82fe-457f70bac320">
+    <HIDESHOW>
+  <header>
+    <title>spin/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;spine, backbone&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="46f66cfe-bfb2-4529-8300-8379fb1f182f">
+    <HIDESHOW>
+  <header>
+    <title>thel/o, theli/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;nipple&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1fce3f82-c717-4f4f-a4b9-5f001696a249">
+    <HIDESHOW>
+  <header>
+    <title>thorac/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;chest&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b72ed67b-b416-4647-be51-c2be1558e609">
+    <HIDESHOW>
+  <header>
+    <title>trache/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;trachea, windpipe&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2f303947-c69f-4295-898e-1e9529a6c693">
+    <HIDESHOW>
+  <header>
+    <title>umbilic/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;navel, umbilicus&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fe91b2dc-1879-45c2-a2cd-671b38147300">
+    <HIDESHOW>
+  <header>
+    <title>ventr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;belly side of the body&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f0572202-193e-4513-957d-c21c674b995c">
+    <HIDESHOW>
+  <header>
+    <title>vertebr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;vertebra(e), backbone(s)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f5c5e824-9450-4a39-94b2-899fa5e18ee7">
+    <HIDESHOW>
+  <header>
+    <title>viscer/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;internal organs&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b40366f9-9aa5-4fa2-a542-569ea45a61eb">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Suffixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="c4cecacc-4c79-464f-a9b2-07055150f864">
+    <HIDESHOW>
+  <header>
+    <title>-al</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pertaining to&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="8fd1bce0-6c9c-4fb9-aec6-2efda3c428ba">
+    <HIDESHOW>
+  <header>
+    <title>-eal</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pertaining to&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="0a44b567-84be-44a5-8ce3-7cac79ce9de7">
+    <HIDESHOW>
+  <header>
+    <title>-ectomy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;removal; excision; resection&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5bbb5845-6d24-452f-88ee-351f543428c7">
+    <HIDESHOW>
+  <header>
+    <title>-iac</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pertaining to&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fef26ce9-ce5e-442e-8ac7-44263da1688c">
+    <HIDESHOW>
+  <header>
+    <title>-ior</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pertaining to&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="780959d7-7682-45d3-803e-070b3288cb4f">
+    <HIDESHOW>
+  <header>
+    <title>-ism</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;process, condition&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2816436e-da1b-4878-ad57-4f5b2642e56b">
+    <HIDESHOW>
+  <header>
+    <title>-oma</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;tumor; mass; fluid collection&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="ce921ae8-b2e2-4dc5-8cff-4293082a1c39">
+    <HIDESHOW>
+  <header>
+    <title>-ose</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;pertaining to, full of&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="71f6ee51-b0ba-4c80-b135-ef67e702e95f">
+    <HIDESHOW>
+  <header>
+    <title>-plasm</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;formation&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="dc10716c-3737-4347-86d1-9732ccb63dcc">
+    <HIDESHOW>
+  <header>
+    <title>-somes</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;bodies&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="07577606-ca28-4bed-bd61-3c5aca676f07">
+    <HIDESHOW>
+  <header>
+    <title>-tomy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;process of cutting&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="9882aeb5-cdd5-47f4-85f5-f9717896e4f5">
+    <HIDESHOW>
+  <header>
+    <title>-type</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;picture, classification&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e48462a7-54d6-4ae9-b255-69a45de9f9c6">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Prefixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="3f8fd827-85bb-4b64-84c2-bcceacd69aef">
+    <HIDESHOW>
+  <header>
+    <title>ana-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;up&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="be248a5d-4a3b-416d-afa2-6c90818ae103">
+    <HIDESHOW>
+  <header>
+    <title>cata-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;down&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b73ac08b-28a1-42fa-9494-dfa097c428fc">
+    <HIDESHOW>
+  <header>
+    <title>epi-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;above&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2b8fa232-c00e-488d-862c-db3301b02ad8">
+    <HIDESHOW>
+  <header>
+    <title>hypo-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;below&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="86db37bf-7021-4ada-b1c0-0b8698c326e8">
+    <HIDESHOW>
+  <header>
+    <title>inter-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;between&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="84a8938d-4e29-4911-9cb8-10b636dd54c8">
+    <HIDESHOW>
+  <header>
+    <title>meta-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;change&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e5783ba1-5116-4967-b02b-fe5adf4139c1">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>review2a.png</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Label the regions for the abdominopelvic area.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;REGIONS&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;[Right hypochondriac region]&lt;/li&gt;&lt;li&gt;[Left hypochondriac region]&lt;/li&gt;&lt;li&gt;[Epigastric region]&lt;/li&gt;&lt;li&gt;[Right lumbar region]&lt;/li&gt;&lt;li&gt;[Left lumbar region]&lt;/li&gt;&lt;li&gt;[Umbilical region]&lt;/li&gt;&lt;li&gt;[Right inguinal region]&lt;/li&gt;&lt;li&gt;[Left inguinal region]&lt;/li&gt;&lt;li&gt;[Hypogastric region]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Label the quadrants for the abdominopelvic area&lt;/p&gt;&lt;p&gt;&lt;strong&gt;QUADRANTS&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;[Right upper quadrant (RUQ)]&lt;/li&gt;&lt;li&gt;[Right lower quadrant (RLQ)]&lt;/li&gt;&lt;li&gt;[Left upper quadrant (LUQ)]&lt;/li&gt;&lt;li&gt;[Left lower quadrant (LLQ)]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors/>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="d0e1d381-0569-406a-b6e1-bbed6f0fc51d">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;neck region (C1 to C7) [cervical]&lt;/p&gt;&lt;p&gt;chest region (T1 to T12) [thoracic]&lt;/p&gt;&lt;p&gt;lower back (loin) region (L1 to L5) [lumbar]&lt;/p&gt;&lt;p&gt;region of the sacrum (S1 to S5) [sacral]&lt;/p&gt;&lt;p&gt;tailbone region [coccygeal]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Name the divisions of the spinal column.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5ffe51ae-70eb-4144-9af6-842a290fc067">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>review2b1.png</image>
+            <imageControls>
+              <imageScale value="1-4-screen"/>
+              <imageAlignment value="left"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;vertical plane that divides the body into anterior and posterior portions&lt;/p&gt;&lt;p&gt;[frontal (coronal) plane/transverse (axial) plane/sagittal (lateral) plane]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>review2b2.png</image>
+            <imageControls>
+              <imageScale value="1-4-screen"/>
+              <imageAlignment value="left"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;horizontal plane that divides the body into upper and lower portions&lt;/p&gt;&lt;p&gt;[transverse (axial) plane/frontal (coronal) plane/sagittal (lateral) plane]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>review2b3.png</image>
+            <imageControls>
+              <imageScale value="1-4-screen"/>
+              <imageAlignment value="left"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;vertical plane that divides the body into right and left portions&lt;/p&gt;&lt;p&gt;[sagittal (lateral) plane/frontal (coronal) plane/transverse (axial) plane]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Name the planes of the head as pictured below.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+  <block refid="edf62cbf-de3b-4215-b809-2268396780b3">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;front of the body&lt;/p&gt;&lt;p&gt;[anterior/ventral]&lt;/p&gt;&lt;p&gt;back of the body&lt;/p&gt;&lt;p&gt;[posterior/dorsal]&lt;/p&gt;&lt;p&gt;away from the surface of the body&lt;/p&gt;&lt;p&gt;[deep]&lt;/p&gt;&lt;p&gt;on the surface of the body&lt;/p&gt;&lt;p&gt;[superficial]&lt;/p&gt;&lt;p&gt;far from the point of attachment to the trunk or far from the beginning of a structure&lt;/p&gt;&lt;p&gt;[distal]&lt;/p&gt;&lt;p&gt;near the point of attachment to the trunk or near the beginning of a structure&lt;/p&gt;&lt;p&gt;[inferior]&lt;/p&gt;&lt;p&gt;below another structure&lt;/p&gt;&lt;p&gt;[inferior]&lt;/p&gt;&lt;p&gt;above another structure&lt;/p&gt;&lt;p&gt;[superior]&lt;/p&gt;&lt;p&gt;pertaining to the side&lt;/p&gt;&lt;p&gt;[lateral]&lt;/p&gt;&lt;p&gt;pertaining to the middle&lt;/p&gt;&lt;p&gt;[medial]&lt;/p&gt;&lt;p&gt;lying on the belly&lt;/p&gt;&lt;p&gt;[prone]&lt;/p&gt;&lt;p&gt;lying on the back&lt;/p&gt;&lt;p&gt;[supine]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Name the positional and directional terms. &lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="4a4f0a70-0562-4946-b184-4ba623d4a2e4">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Chromosomes&lt;/p&gt;&lt;p&gt;[Rod-shaped structures in the nucleus that contain regions of DNA called genes.]&lt;/p&gt;&lt;p&gt;Mitochondria&lt;/p&gt;&lt;p&gt;[Rod-shaped structures in the cytoplasm that provide the principal source of energy for the cell.]&lt;/p&gt;&lt;p&gt;Nucleus&lt;/p&gt;&lt;p&gt;[Control center of the cell.]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;DNA&lt;/p&gt;&lt;p&gt;[Chemical found within each chromosome]&lt;/p&gt;&lt;p&gt;Endoplasmic reticulum&lt;/p&gt;&lt;p&gt;[Network of canals within the cytoplasm of the cell.]&lt;/p&gt;&lt;p&gt;Cell membrane&lt;/p&gt;&lt;p&gt;[Structure surrounding and protecting the cell.]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Catabolism&lt;/p&gt;&lt;p&gt;[Process of breaking down complex nutrients into simpler substances.]&lt;/p&gt;&lt;p&gt;Anabolism&lt;/p&gt;&lt;p&gt;[Process of building up large proteins from amino acids.]&lt;/p&gt;&lt;p&gt;Metabolism&lt;/p&gt;&lt;p&gt;[Total of the chemical process in a cell.]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors/>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Select the correct meanings of the terms pertaining to the cell.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="f32283ac-74c1-4ce0-a9cb-872cdd9ffc81">
+    <FIB>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;membrane surrounding the lungs&lt;/p&gt;&lt;p&gt;[pleura]&lt;/p&gt;&lt;p&gt;membrane surrounding the abdominal viscera&lt;/p&gt;&lt;p&gt;[peritoneum]&lt;/p&gt;&lt;p&gt;muscular wall separating the thoracic and abdominal cavities&lt;/p&gt;&lt;p&gt;[diaphragm]&lt;/p&gt;&lt;p&gt;space between the lungs, containing the heart, windpipe, aorta&lt;/p&gt;&lt;p&gt;[thoracic cavity]&lt;/p&gt;&lt;p&gt;backbone&lt;/p&gt;&lt;p&gt;[vertebra]&lt;/p&gt;&lt;p&gt;pad of cartilage between each backbone and the next&lt;/p&gt;&lt;p&gt;[disc]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Give the term from the meanings below.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <answerSensitivity value="exact-match"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIB>
+  </block>
+  <block refid="2dd5ff3e-192a-4894-b445-78cb7a11927e">
+    <STATIC_hr-divider/>
+  </block>
+  <block refid="870ea974-3a7d-4852-80aa-fca5c900d85b">
+    <STATIC_text>
+  <text>&lt;p&gt;Please visit the Evolve website for additional exercises, games, and images related to this chapter.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

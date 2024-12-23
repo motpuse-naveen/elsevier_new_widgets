@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d4dc9548-faac-4af7-9c41-8f653f29cb46">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;TESTES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2cd677fd-3a34-4eca-857b-b9a05eeb1171">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOCATION AND STRUCTURE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4ab27908-9db0-43e9-9b70-a5df67a2e9f1">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;testes&lt;/strong&gt; are two small ovoid glands suspended from the inguinal region of the male by the spermatic cord and surrounded by the scrotal sac. The testes produce the male gametes, spermatozoa, as well as the male hormone called &lt;strong&gt;testosterone&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ee943779-9448-48b1-8cd0-b599da23277b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;FUNCTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2d00146f-8e77-4b7c-bbaa-4b8044301631">
+    <STATIC_text>
+  <text>&lt;p&gt;Testosterone is an &lt;strong&gt;androgen &lt;/strong&gt;(male steroid hormone) that stimulates development of sperm and secondary sex characteristics in the male (deepening of voice and development of beard and pubic hair).&lt;/p&gt;&lt;p&gt;Figure 18-13 reviews the hormones secreted by the ovaries and testes.&lt;/p&gt;&lt;p&gt;Table 18-2 lists the major endocrine glands, their hormones, and the actions they produce.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="17200575-9192-4e55-879f-84f2d16a3f2d">
+    <STATIC_figure>
+  <image>chp00018_f018-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-13 &lt;/span&gt;The ovaries and testes: their hormones and actions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5eadcb94-4556-4ab7-baba-aa2f6c336254">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 18-2&lt;/strong&gt; MAJOR ENDOCRINE GLANDS: THE HORMONES THEY PRODUCE AND THEIR ACTIONS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ef4c175c-4012-473d-ade4-0f693ce8340b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;ENDOCRINE GLAND&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;HORMONE&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;ACTION&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Thyroid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Thyroxine (T4); triiodothyronine (T3)&lt;/li&gt;&lt;li&gt;Calcitonin&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Increases metabolism in body cells&lt;/li&gt;&lt;li&gt;Decreases blood calcium&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Parathyroids&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Parathyroid hormone (PTH)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Increases blood calcium&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top; white-space: nowrap;"&gt;&lt;p&gt;&lt;strong&gt;Adrenals Cortex&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Medulla&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Cortisol (glucocorticoid)&lt;/li&gt;&lt;li&gt;Aldosterone (mineralocorticoid)&lt;/li&gt;&lt;li&gt;Androgens, estrogens (sex hormones)&lt;br/&gt; &lt;/li&gt;&lt;li&gt;Epinephrine (adrenaline)&lt;/li&gt;&lt;li&gt;Norepinephrine (noradrenaline)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Increases blood sugar&lt;/li&gt;&lt;li&gt;Increases reabsorption of sodium&lt;/li&gt;&lt;li&gt;Secondary sex characteristics&lt;br/&gt; &lt;/li&gt;&lt;li&gt;Sympathomimetic&lt;/li&gt;&lt;li&gt;Sympathomimetic&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Pancreas Islet cells&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Insulin&lt;/li&gt;&lt;li&gt;Glucagon&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Decreases blood sugar (glucose to glycogen)&lt;/li&gt;&lt;li&gt;Increases blood sugar (glycogen to glucose)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Pituitary Anterior lobe&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Posterior lobe&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Growth hormone (GH) (somatotropin)&lt;/li&gt;&lt;li&gt;Thyroid-stimulating hormone (TSH)&lt;/li&gt;&lt;li&gt;Adrenocorticotropic hormone (ACTH)&lt;/li&gt;&lt;li&gt;Gonadotropins&lt;ul style="list-style-type: disc;"&gt;&lt;li&gt;Follicle-stimulating hormone (FSH)&lt;/li&gt;&lt;li&gt;Luteinizing hormone (LH)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Prolactin (PRL)&lt;br/&gt;&lt;br/&gt; &lt;/li&gt;&lt;li&gt;Antidiuretic hormone (ADH) (vasopressin)&lt;/li&gt;&lt;li&gt;Oxytocin&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Increases bone and tissue growth&lt;/li&gt;&lt;li&gt;Stimulates thyroid gland; T4 and T3&lt;/li&gt;&lt;li&gt;Stimulates adrenal cortex; cortisol secretion&lt;/li&gt;&lt;li&gt;Oogenesis and spermatogenesis&lt;/li&gt;&lt;li&gt;Promotes ovulation; testosterone secretion&lt;/li&gt;&lt;li&gt;Growth of breast tissue and milk secretion&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;/li&gt;&lt;li&gt;Reabsorption of water by kidney tubules&lt;/li&gt;&lt;li&gt;Contraction of uterus in childbirth&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ovaries&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Estrogens&lt;/li&gt;&lt;li&gt;Progesterone&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Development of ova and female secondary sex characteristics&lt;/li&gt;&lt;li&gt;Prepares and maintains the uterus in pregnancy&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Testes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Testosterone&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Development of sperm and male secondary sex characteristics&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

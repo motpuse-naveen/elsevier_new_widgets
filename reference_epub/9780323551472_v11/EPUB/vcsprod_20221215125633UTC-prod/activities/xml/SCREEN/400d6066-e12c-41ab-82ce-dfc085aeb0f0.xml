@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="eefbc129-27b9-4aaa-ba66-1cba139dc021">
+    <STATIC_figure>
+  <image>chabner_cover.jpeg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

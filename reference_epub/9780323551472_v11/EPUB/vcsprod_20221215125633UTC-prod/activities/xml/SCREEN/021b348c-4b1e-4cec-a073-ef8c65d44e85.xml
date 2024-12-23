@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="bbd2e551-fc58-434c-8f71-3e4a7144b947">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PHYSIOLOGY: HOW THE KIDNEYS PRODUCE URINE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a3ef6944-4afa-43dd-a902-e3f06281aa5e">
+    <STATIC_text>
+  <text>&lt;p&gt;Blood enters each kidney from the aorta by way of the right and left renal arteries. After the renal artery enters the kidney (at the hilum), it branches into smaller and smaller arteries. The smallest arteries are called &lt;strong&gt;arterioles &lt;/strong&gt;(Figure 7-3A).&lt;/p&gt;&lt;p&gt;Because the arterioles are small, blood passes through them slowly but constantly. Blood flow through the kidney is so essential that the kidneys have their own special device for maintaining blood flow. If blood pressure falls in the vessels of the kidney so that blood flow diminishes, the kidney produces &lt;strong&gt;renin &lt;/strong&gt;and discharges it into the blood. Renin promotes the formation of a substance that stimulates the contraction of arterioles. This increases 7 blood pressure and restores blood flow in the kidneys to normal.&lt;/p&gt;&lt;p&gt;Each arteriole in the cortex of the kidney leads into a mass of very tiny, coiled, and intertwined smaller blood vessels called &lt;strong&gt;glomeruli &lt;/strong&gt;(see Figure 7-3A). Each &lt;strong&gt;glomerulus &lt;/strong&gt;(singular) is a collection of tiny capillaries formed in the shape of a small ball. There are about 1 million glomeruli in the cortex region of each kidney.&lt;/p&gt;&lt;p&gt;The kidneys produce urine by &lt;strong&gt;filtration&lt;/strong&gt;. As blood passes through the many glomeruli, the thin walls of each glomerulus (the filter) permit water, salts, sugar, and urea (with other nitrogenous wastes such as &lt;strong&gt;creatinine &lt;/strong&gt;and &lt;strong&gt;uric acid&lt;/strong&gt;) to leave the bloodstream. These materials collect in a tiny, cup-like structure, a &lt;strong&gt;glomerular (Bowman) capsule&lt;/strong&gt;, that surrounds each glomerulus (Figure 7-3B). The walls of the glomeruli prevent large substances, such as proteins and blood cells, from filtering into the urine. These substances remain in the blood and normally do not appear in urine.&lt;/p&gt;&lt;p&gt;Attached to each glomerular capsule is a long, twisted tube called a &lt;strong&gt;renal tubule&lt;/strong&gt; (Figure 7-3B; see also Figure 7-4). As water, sugar, salts, urea, and other wastes pass through the renal tubule, most of the water, all of the sugar, and almost all of secretionthe sodium return to the bloodstream through tiny capillaries surrounding each tubule. This active process of &lt;strong&gt;reabsorption &lt;/strong&gt;ensures that the body retains essential substances such as sugar (glucose), water, and sodium while allowing waste products to be excreted in the urine. The final process in the formation of urine is &lt;strong&gt;secretion &lt;/strong&gt;of some substances such as potassium, acids and drugs from the bloodstream into the renal tubule. Each renal tubule, now containing urine (95% water and 5% urea, creatinine, salts and acids) connects to a larger collecting tubule.&lt;/p&gt;&lt;p&gt;See Figure 7-4A, which reviews the steps involved in urine formation. Note that waste products may accumulate in the body as a result of kidney failure and may interfere with the function of vital organs, including the brain and heart. The combination of a glomerulus and a renal tubule forms a unit called a &lt;strong&gt;nephron &lt;/strong&gt;(Figure 7-4B). Each kidney contains about 1 million nephrons.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="36647464-1b82-42d7-a82c-37e80546d51f">
+    <STATIC_figure>
+  <image>fig7-3.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-3 &lt;/span&gt;A, Renal artery&lt;/strong&gt; branching to form smaller arteries and arterioles, and glomeruli. &lt;strong&gt;B, Glomerulus&lt;/strong&gt; and &lt;strong&gt;glomerular capsule&lt;/strong&gt;. Afferent arteriole carries blood toward (in this term, af- is a form of ad-) the glomerulus. Efferent arteriole carries blood away (ef- is a form of ex-) from the glomerulus.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e6b40855-5862-4a0f-8e97-215aab048aa5">
+    <STATIC_figure>
+  <image>fig7-4.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 7-4&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt; A, Three steps in the formation of urine: (1) Glomerular filtration&lt;/strong&gt; of water, sugar, wastes (urea and creatinine), and sodium;&lt;strong&gt; (2) Tubular reabsorption &lt;/strong&gt;of water, sugar, and sodium; and &lt;strong&gt;(3) Tubular secretion&lt;/strong&gt; of acids, potassium, and drugs. &lt;strong&gt;B, &lt;/strong&gt;A &lt;strong&gt;nephron &lt;/strong&gt;is the combination of a glomerulus and a renal tubule.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="077871bf-78bb-49b8-8747-763aa2e525e5">
+    <STATIC_text>
+  <text>&lt;p&gt;All collecting tubules lead to the &lt;strong&gt;renal pelvis&lt;/strong&gt;, a basin-like area in the central part of the kidney. Small, cup-like regions of the renal pelvis are called &lt;strong&gt;calyces &lt;/strong&gt;or &lt;strong&gt;calices &lt;/strong&gt;(singular: &lt;strong&gt;calyx &lt;/strong&gt;or &lt;strong&gt;calix&lt;/strong&gt;). Figure 7-5 is an x-ray image of a kidney showing the renal pelvis, calyces, and ureter.&lt;/p&gt;&lt;p&gt;The renal pelvis narrows into the &lt;strong&gt;ureter&lt;/strong&gt;, which carries the urine to the &lt;strong&gt;urinary bladder&lt;/strong&gt;. The bladder, a muscular sac, temporarily stores urine. Sphincter muscles control the exit area of the bladder to the &lt;strong&gt;urethra&lt;/strong&gt;. As the bladder fills and pressure increases at its base, an individual notices a need to urinate and voluntarily relaxes sphincter muscles.&lt;/p&gt;&lt;p&gt;Study the diagram in Figure 7-6 tracing the process of urine formation and excretion.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="bddc5f74-e60d-4cd1-8d87-8cd2950cdc24">
+    <STATIC_figure>
+  <image>fig7-5.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 7-5&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt; Renal pelvis, calyces, and ureter&lt;/strong&gt; as seen on CT urogram (intravenous dye was used).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="fc8ed2b9-a60a-4b21-838c-9b3282682559">
+    <STATIC_figure>
+  <image>fig7-6.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-6&lt;/span&gt; Flow diagram illustrating the process of forming and expelling urine.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

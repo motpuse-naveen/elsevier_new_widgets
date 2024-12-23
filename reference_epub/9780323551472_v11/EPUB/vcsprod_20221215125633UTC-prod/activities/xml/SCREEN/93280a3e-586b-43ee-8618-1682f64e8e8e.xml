@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="495e9fc9-e099-4cfb-a122-820c63f19b5a">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; SUFFIXES AND TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fbcda09a-cc5c-4173-b3a0-9f02f49c1e92">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#007FAD;"&gt;NOUN SUFFIXES&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fe1d0331-f38e-4fd6-bb5a-131b0aa350b4">
+    <STATIC_text>
+  <text>&lt;p&gt;After the meaning of each suffix, terminology illustrates the use of that suffix. Recall the basic rule for building a medical term: Use a combining vowel, such as o, to connect the root to the suffix. However, drop the combining vowel if the suffix begins with a vowel—for example, &lt;strong&gt;gastr/itis&lt;/strong&gt;, &lt;em&gt;not &lt;/em&gt;“gastr/o/itis.”&lt;/p&gt;&lt;p&gt;More detail is given about specific terms. This section, called &lt;strong&gt;A Closer Look&lt;/strong&gt;, will give you a fuller understanding of the terminology.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5dc42acb-0a1d-4b7f-823b-aea3b3c3ac70">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-algia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pain&lt;/td&gt;&lt;td&gt;arthr&lt;u&gt;algia&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;ot&lt;u&gt;algia&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;neur&lt;u&gt;algia&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;my&lt;u&gt;algia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Fibromyalgia&lt;/strong&gt; is a common chronic disorder that involves widespread pain in muscles and ﬁbrous tissues around joints.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-cele&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hernia&lt;br/&gt;(see &lt;em&gt;&lt;strong&gt;A Closer Look: Hernia&lt;/strong&gt;&lt;/em&gt;)&lt;/td&gt;&lt;td&gt;recto&lt;u&gt;cele&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;cysto&lt;u&gt;cele&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-centesis &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;puncture to remove ﬂuid&lt;/td&gt;&lt;td&gt;thora&lt;u&gt;centesis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Notice that this term is shortened from thoracocentesis.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;amnio&lt;u&gt;centesis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;The amnion is the sac (membrane) surrounding the embryo (fetus after the 8th week) in the uterus. Fluid accumulates within the amnion and may be withdrawn for analysis between the 12th and 18th weeks of pregnancy. See Figure 3-1.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;abdomino&lt;u&gt;centesis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This procedure is more commonly known as &lt;strong&gt;abdominal paracentesis&lt;/strong&gt; (para- means beside or near). A tube is placed through an incision in the abdomen and ﬂuid is removed from the peritoneal cavity (beside the abdominal organs).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-coccus&lt;/strong&gt;&lt;br/&gt;&lt;em&gt;(singular)&lt;/em&gt;&lt;br/&gt;&lt;strong&gt;-cocci&lt;/strong&gt;&lt;br/&gt;&lt;em&gt;(plural) &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/em&gt;&lt;/td&gt;&lt;td&gt;berry-shaped bacterium&lt;br/&gt;(&lt;em&gt;plural&lt;/em&gt;: bacteria)&lt;/td&gt;&lt;td&gt;strepto&lt;u&gt;coccus&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;staphylo&lt;u&gt;cocci&lt;/u&gt;&lt;br/&gt;(stah-ﬁh-lo-KOK-si)&lt;br/&gt;Microbiologists often refer to bacteria in clusters as “staph.”&lt;br/&gt;See &lt;em&gt;&lt;strong&gt;A Closer Look: Streptococci, Staphylococci, and Other Bacteria&lt;/strong&gt;&lt;/em&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="d7e172e0-2618-4c23-bf7a-6f641b829599">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Formation of Plurals&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Words ending in &lt;strong&gt;-us&lt;/strong&gt; commonly form their plural by dropping &lt;strong&gt;-us&lt;/strong&gt; and adding &lt;strong&gt;-i&lt;/strong&gt;. Other examples of &lt;strong&gt;-us&lt;/strong&gt; plural formation follow:&lt;/p&gt;&lt;p&gt;nucle&lt;strong&gt;us&lt;/strong&gt; → nucle&lt;strong&gt;i&lt;/strong&gt;&lt;br/&gt;bronch&lt;strong&gt;us&lt;/strong&gt; → bronch&lt;strong&gt;i&lt;/strong&gt;&lt;br/&gt;thromb&lt;strong&gt;us&lt;/strong&gt; → thromb&lt;strong&gt;i&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;See Appendix I at the end of the book for additional information about plural formation.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cadc0145-e41a-4a45-9653-89b3e7157808">
+    <STATIC_figure>
+  <image>Fig_3.1.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-1 &lt;/span&gt;&lt;strong&gt;Amniocentesis&lt;/strong&gt;. Under ultrasound guidance (imaging based on high-frequency sound waves), the physician inserts a needle through the uterine wall and amnion, into the amniotic cavity. Amniotic fluid, containing fetal cells, is withdrawn and grown (cultured) for microscopic analysis. A karyotype is made to study chromosomes. Fluid is examined for chemicals that indicate fetal defects.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b35e4ea8-172c-4946-8865-d3223ecf0eaf">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-cyte&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-cyte cell&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;erythro&lt;u&gt;cyte&lt;/u&gt;&lt;br/&gt;See &lt;em&gt;&lt;strong&gt;A Closer Look: Blood Cells.&lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;leuko&lt;u&gt;cyte&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;thrombo&lt;u&gt;cyte&lt;/u&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-dynia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;pain&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;pleuro&lt;u&gt;dynia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Pain in the chest wall muscles that is aggravated by breathing.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-ectomy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;excision, removal, resection&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;laryng&lt;u&gt;ectomy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;mast&lt;u&gt;ectomy&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;-emia&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;blood condition &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;an&lt;u&gt;emia&lt;/u&gt; &lt;em&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;isch&lt;u&gt;emia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Literally, to hold back (isch/o) blood (-emia) from a part of the body or tissue. Because of a decrease in blood supply (blood clot in a vessel or narrowing and closing off of a vessel), tissue becomes &lt;strong&gt;ischemic&lt;/strong&gt; and can even die if it is deprived of oxygen long enough.&lt;br/&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;HINT&lt;/strong&gt;: You may be familiar with a &lt;strong&gt;TIA (transient ischemic attack)&lt;/strong&gt;, which is a “mini-stroke” that occurs when blood is held back from tissue in the brain.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ab92ebcc-9632-43cf-b937-92774750399d">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Anemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While anemia literally means “no blood,” it is actually a condition marked by &lt;strong&gt;reduction&lt;/strong&gt; in the number of erythrocytes or in the amount of hemoglobin in blood. Examples of types of anemias are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;iron deﬁciency anemia &lt;/strong&gt;(iron is needed to make hemoglobin)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;sickle cell anemia&lt;/strong&gt; (erythrocytes assume an abnormal sickle shape and clog blood vessels)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;aplastic anemia&lt;/strong&gt; (erythrocytes, leukocytes, and thrombocytes are not formed in bone marrow)&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2eaa66ac-4512-4d70-a851-e2ef6b778e1e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-genesis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;condition of producing, forming&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;carcino&lt;u&gt;genesis&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;patho&lt;u&gt;genesis&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;angio&lt;u&gt;genesis&lt;/u&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-gram&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;record&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;electroencephalo&lt;u&gt;gram&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;mammo&lt;u&gt;gram&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-graph&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;instrument for recording&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;electroencephalo&lt;u&gt;graph&lt;/u&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-graphy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;process of recording&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;electroencephalo&lt;u&gt;graphy&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-itis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;inflammation&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;bronch&lt;u&gt;itis&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;myel&lt;u&gt;itis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Myel/o means spinal cord in this term.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;tonsill&lt;u&gt;itis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Tonsils (notice the spelling with one letter, whereas the combining form has a double letter) are lymphatic tissue in the back of the throat. See Figure 3-2.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;thrombophleb&lt;u&gt;itis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Also called phlebitis.&lt;/em&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-logy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;study of&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;ophthalmo&lt;u&gt;logy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;morpho&lt;u&gt;logy&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-lysis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;breakdown, destruction, separation&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;hemo&lt;u&gt;lysis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Normal breakdown of red blood cells. Excessive destruction of red blood cells can lead to a type of anemia called &lt;strong&gt;hemolytic anemia&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-malacia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;softening&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;osteo&lt;u&gt;malacia&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;chondro&lt;u&gt;malacia&lt;/u&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="83aeb812-c504-4d00-a574-f8fa5590b701">
+    <STATIC_figure>
+  <image>page_072_01.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-2 &lt;/span&gt;&lt;strong&gt;Tonsillitis&lt;/strong&gt;. This shows streptococcal tonsillitis with intense erythema (redness) of the tonsils (see arrows) and a creamy-yellow exudate (pus containing leukocytes and bacteria). Normally, tonsils contain lymphocytes that fight bacteria. When they become infected and inflamed, &lt;strong&gt;tonsillectomy&lt;/strong&gt; may be necessary.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="244c72db-533f-4429-a8a6-09c6f697b59d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-megaly&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;enlargement&lt;/td&gt;&lt;td&gt;acro&lt;u&gt;megaly&lt;/u&gt;&lt;br/&gt;&lt;em&gt;See &lt;strong&gt;A Closer Look: Acromegaly&lt;/strong&gt;&lt;/em&gt;.&lt;br/&gt;&lt;br/&gt;spleno&lt;u&gt;megaly&lt;/u&gt; &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-oma&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;tumor, mass, collection of ﬂuid &lt;/td&gt;&lt;td&gt;my&lt;u&gt;oma&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A benign tumor.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;myosarc&lt;u&gt;oma&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A malignant tumor. Muscle is a type of ﬂesh (sarc/o) tissue.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;multiple myel&lt;u&gt;oma&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Myel/o means bone marrow in this term. This malignant tumor occurs in bone marrow tissue throughout the body.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;hemat&lt;u&gt;oma&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-opsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;to view&lt;/td&gt;&lt;td&gt;bi&lt;u&gt;opsy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;necr&lt;u&gt;opsy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This term is used in veterinary medicine. An autopsy is a necropsy performed on humans.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-osis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;condition, usually abnormal &lt;/td&gt;&lt;td&gt;necr&lt;u&gt;osis&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;hydronephr&lt;u&gt;osis&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;leukocyt&lt;u&gt;osis&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-pathy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;disease condition&lt;/td&gt;&lt;td&gt;cardiomyo&lt;u&gt;pathy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Primary disease of the heart muscle in the absence of a known underlying etiology (cause).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-penia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;deﬁciency&lt;/td&gt;&lt;td&gt;erythro&lt;u&gt;penia&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;neutro&lt;u&gt;penia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;In this term, neutr/o indicates neutrophil (a type of white blood cell).&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;thrombocyto&lt;u&gt;penia&lt;/u&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-phobia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fear&lt;/td&gt;&lt;td&gt;acro&lt;u&gt;phobia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Fear of heights. Acr/o means extremities, in the sense of extreme or far points. &lt;span style="color:#D24634;"&gt;&lt;strong&gt;* &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;HINT:&lt;/strong&gt; Think of &lt;strong&gt;acrobats&lt;/strong&gt; who perform high-wire acts. &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;agora&lt;u&gt;phobia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Agora means marketplace. This is an anxiety disorder marked by fear of being outside of home alone, being in open or enclosed places, or using public transportation.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b9e05049-4b0b-4c8d-a615-44bf51190a0b">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Splenomegaly&lt;/strong&gt;&lt;br/&gt;The spleen is an organ in left upper quadrant (LUQ) of the abdomen (below the diaphragm and to the side of the stomach). Composed of lymph tissue and blood vessels, it disposes of dying red blood cells and contains white blood cells to fight disease. &lt;strong&gt;Splenomegaly&lt;/strong&gt; occurs with development of high blood pressure in hepatic veins and hemolytic blood diseases (anemias involving excessive destruction or lysis of red blood cells). If the spleen is removed (splenectomy), other organs carry out its functions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="da27f360-051e-45d4-8a34-fbaead69d7ed">
+    <STATIC_figure>
+  <image>page_074_01.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-3 &lt;/span&gt;&lt;strong&gt;Achondroplasia&lt;/strong&gt;. A boy with achondroplasia. His abnormalities include short stature with normal length of the trunk, short limbs and fingers, bowed legs, prominent forehead, and depressed nasal bridge. &lt;em&gt;(Courtesy A.E. Chudley, MD, Section of Genetics and Metabolism, Department of Pediatrics and Child Health, Children’s Hospital, Winnipeg, Manitoba, Canada.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="dc4dfde9-41d8-4ca2-9fae-ab87732e4638">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-plasia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;development, formation, growth&lt;/td&gt;&lt;td&gt;achondro&lt;u&gt;plasia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This is an inherited disorder or can be the result of a mutation (change) in a speciﬁc gene. Bones of the arms and legs do not grow to normal size because of a defect in cartilage and bone formation. Dwarﬁsm results, marked by short limbs but normalsized head and trunk and normal intelligence. See Figure 3-3.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-plasty&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;surgical repair &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;td&gt;angio&lt;u&gt;plasty&lt;/u&gt;&lt;br/&gt;&lt;em&gt;An interventional cardiologist opens a narrowed blood vessel (artery) using a balloon that is inﬂated after insertion into the vessel. Stents, or slotted tubes, are then put in place to keep the artery open.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ptosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;drooping, falling, prolapse &lt;/td&gt;&lt;td&gt;blepharo&lt;u&gt;ptosis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Physicians use &lt;strong&gt;ptosis&lt;/strong&gt; &lt;/em&gt;(TO-sis)&lt;em&gt; alone to indicate drooping of the upper eyelids or the breasts. See Figure 3-4.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-rrhea&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ﬂow, discharge&lt;/td&gt;&lt;td&gt;rhino&lt;u&gt;rrhea&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-sclerosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hardening&lt;/td&gt;&lt;td&gt;arterio&lt;u&gt;sclerosis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;In &lt;strong&gt;atherosclerosis&lt;/strong&gt; (a form of arteriosclerosis), deposits of fat (ather/o means fatty material) collect in an artery.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-scope&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;instrument for visual examination&lt;/td&gt;&lt;td&gt;laparo&lt;u&gt;scope&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="32c6c740-7f77-45ab-8a9e-37dcb531c1c1">
+    <STATIC_figure>
+  <image>page_074_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-4 &lt;/span&gt;&lt;strong&gt;Ptosis of the upper eyelid (blepharoptosis).&lt;/strong&gt; This condition may be congenital (appear at birth), can occur with aging, or may be associated with stroke (cerebrovascular accident), cranial nerve damage, and other neurologic disorders. The eyelid droops because of muscle weakness.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="cba667ac-d514-4bc0-ac79-4d64d098c9bb">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Common Surgical Repair Procedures&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Popular procedures include:&lt;br/&gt;abdominoplasty—abdomen&lt;br/&gt;mammoplasty—breast&lt;br/&gt;blepharoplasty—eyelid&lt;br/&gt;rhinoplasty—nose&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="18211bef-4ecb-4fd7-b009-f310b34c637f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-scopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;process of visual examination (with an endoscope) &lt;/td&gt;&lt;td&gt;laparo&lt;u&gt;scopy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;See Figure 3-5B below and &lt;strong&gt;A Closer Look: Laparoscopy&lt;/strong&gt;.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-stasis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;controlling, stopping&lt;/td&gt;&lt;td&gt;meta&lt;u&gt;stasis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Meta- means beyond. A metastasis is the spread of a malignant tumor beyond its original site to a secondary organ or location.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;hemo&lt;u&gt;stasis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Blood ﬂow is stopped naturally by clotting or artiﬁcially by compression or suturing of a wound. A &lt;strong&gt;hemostat&lt;/strong&gt; is a surgical clamp used in operating rooms to stop blood ﬂow.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-stomy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;opening to form a mouth (stoma)&lt;/td&gt;&lt;td&gt;colo&lt;u&gt;stomy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;tracheo&lt;u&gt;stomy&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-therapy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;treatment&lt;/td&gt;&lt;td&gt;hydro&lt;u&gt;therapy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;chemo&lt;u&gt;therapy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;radio&lt;u&gt;therapy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;High-energy radiation is used to treat, not diagnose, illness.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-tomy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;incision, cutting into&lt;/td&gt;&lt;td&gt;laparo&lt;u&gt;tomy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Also referred to as a “lap,” this procedure is creation of a large incision into the peritoneal cavity, often performed on an exploratory basis. Don't confuse laparotomy with laparoscopy. See Figure 3-5.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;phlebo&lt;u&gt;tomy&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;tracheo&lt;u&gt;tomy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;See &lt;strong&gt;A Closer Look: Tracheotomy.&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-trophy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;development, nourishment&lt;br/&gt; &lt;/td&gt;&lt;td&gt;hyper&lt;u&gt;trophy&lt;/u&gt;&lt;br/&gt;(hy-PER-tro-fe)&lt;br/&gt;&lt;em&gt;Cells increase in size, not number. Muscles of weight lifters often hypertrophy.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;a&lt;u&gt;trophy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Cells decrease in size. Muscles atrophy when immobilized in a cast and not in use. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="967d0e92-6f7d-4575-ae67-9a7fd1bf70e9">
+    <STATIC_figure>
+  <image>FIG_3.5.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-5 &lt;/span&gt;&lt;strong&gt;&lt;span style="color:#3c3c3c;"&gt;A. Laparotomy.&lt;/span&gt;&lt;/strong&gt; This large incision was closed with surgical staples. &lt;strong&gt;B. Laparoscopy&lt;/strong&gt;. The abdomen is examined making small incisions and using a &lt;strong&gt;laparoscope&lt;/strong&gt;. This procedure is often used to examine and remove organs such as the appendix and gallbladder.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="71f84afc-4873-4e6c-877d-29d184956cde">
+    <STATIC_text>
+  <text>&lt;p&gt;The following are shorter noun sufﬁxes that usually are attached to roots in words.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6c874fae-94e8-48e1-b376-73b27810b9bc">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-er&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;one who&lt;/td&gt;&lt;td&gt;radiograph&lt;u&gt;er&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A technologist who assists in the making of diagnostic x-ray pictures.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;condition &lt;/td&gt;&lt;td&gt;leukem&lt;u&gt;ia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This is a group of cancers that begins in bone marrow and results in high numbers of abnormal, immature white blood cells.&lt;/em&gt;&lt;br/&gt;pneumon&lt;u&gt;ia&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ist&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;specialist&lt;/td&gt;&lt;td&gt;nephrolog&lt;u&gt;ist&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-oid&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;resembling, derived from&lt;/td&gt;&lt;td&gt;opi&lt;u&gt;oid&lt;/u&gt; &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;&lt;br/&gt;aden&lt;u&gt;oid&lt;/u&gt;s&lt;br/&gt;&lt;em&gt;See &lt;strong&gt;A Closer Look: Adenoids&lt;/strong&gt;.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ole&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;little, small&lt;/td&gt;&lt;td&gt;arteri&lt;u&gt;ole&lt;/u&gt; &lt;br/&gt;&lt;em&gt;See Figure 3-6&lt;/em&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ule&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;little, small &lt;/td&gt;&lt;td&gt;ven&lt;u&gt;ule&lt;/u&gt;&lt;br/&gt;&lt;em&gt;See Figure 3-6&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-um,&lt;br/&gt;-ium&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;structure, tissue &lt;/td&gt;&lt;td&gt;pericardi&lt;u&gt;um&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This membrane surrounds the heart.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-us&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;structure, substance &lt;/td&gt;&lt;td&gt;muc&lt;u&gt;us&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;esophag&lt;u&gt;us&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Eso- means within or inward.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-y&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;condition, process &lt;/td&gt;&lt;td&gt;nephropath&lt;u&gt;y&lt;/u&gt;&lt;br/&gt;(neh-FROP-ah-the)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c803fc07-45c1-41cc-908e-fc43d5b76ccc">
+    <STATIC_figure>
+  <image>Fig_3.6.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 3-6&lt;/span&gt; &lt;strong&gt;Relationship of blood vessels&lt;/strong&gt;. An &lt;strong&gt;artery&lt;/strong&gt; carries blood rich in oxygen from the heart to the organs of the body. In the organs, the artery narrows to form &lt;strong&gt;arterioles&lt;/strong&gt; (small arteries) that branch into capillaries (the smallest blood vessels). Through the thin walls of capillaries, oxygen leaves the blood and enters cells. Thus, the capillaries branching into &lt;strong&gt;venules&lt;/strong&gt; (small veins) carry blood low in oxygen. Venules lead to a vein that brings oxygen-poor blood back to the heart.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bb211463-b9dc-45b4-8c80-49f3c777abdc">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Opioid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An opioid is a drug derived from the opium poppy plant. Opioids, also known as narcotics (narc/o means stupor or sleep), include heroin, fentanyl, oxycodone (OxyContin), hydrocodone (Vicodin), codeine, and morphine. These drugs act on brain receptors to alleviate pain. Misuse of opioids increases the risk of addiction, overdose, and death. A medication called buprenorphine treats opioid addiction. While reducing acute and chronic pain, it minimizes withdrawal symptoms. Narcan (naloxone) is a medication to counter the effects of life-threatening opioid overdose.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="00bf73ce-f537-4bf9-a73d-f23a3f146da4">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#007FAD;"&gt;ADJECTIVE SUFFIXES&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="03870271-58c8-4d0c-b885-fc3a6d24123a">
+    <STATIC_text>
+  <text>&lt;p&gt;No simple rule will explain which suffix meaning “pertaining to” is used with a specific combining form. Concentrate on identifying the suffix in each term; then write the meaning of the term. For a list of suffixes meaning “pertaining to,” see the &lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;&lt;strong&gt;Glossary of Word Parts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b4d86142-e570-4a10-af7f-5f624f483a0a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ac,&lt;br/&gt;-iac&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;cardi&lt;u&gt;ac&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-al &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;peritone&lt;u&gt;al&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;inguin&lt;u&gt;al&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;myocardi&lt;u&gt;al&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A &lt;strong&gt;myocardial infarction&lt;/strong&gt; (MI) is a heart attack. An infarction is an area of dead tissue (necrosis) resulting from &lt;strong&gt;ischemia&lt;/strong&gt; (lack of blood supply to that tissue).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ar &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to&lt;/td&gt;&lt;td&gt;tonsill&lt;u&gt;ar&lt;/u&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;pulmon&lt;u&gt;ary&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;axill&lt;u&gt;ary&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Axillary lymph nodes are found in the armpit and are important in breast cancer. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-eal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;laryng&lt;u&gt;eal&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-genic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to producing, produced by or in&lt;/td&gt;&lt;td&gt;carcino&lt;u&gt;genic&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;osteo&lt;u&gt;genic&lt;/u&gt;&lt;br/&gt;&lt;em&gt;An osteogenic sarcoma is a malignant tumor produced in bone&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ic,&lt;br/&gt;-ical&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;chron&lt;u&gt;ic&lt;/u&gt;&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Acute&lt;/strong&gt; is the opposite of chronic. It describes a disease that is of rapid onset and has severe symptoms and brief duration.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;patholog&lt;u&gt;ic&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ose&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;pertaining to, full of&lt;/td&gt;&lt;td&gt;adip&lt;u&gt;ose&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ous&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;muc&lt;u&gt;ous&lt;/u&gt; membrane &lt;br/&gt;&lt;em&gt;&lt;strong&gt;Mucous&lt;/strong&gt; (an adjective) &lt;strong&gt;membranes&lt;/strong&gt; produce the sticky secretion called &lt;strong&gt;mucus&lt;/strong&gt; (a noun).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-tic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pertaining to &lt;/td&gt;&lt;td&gt;necro&lt;u&gt;tic&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5cebbbd4-f98e-49ca-832f-5453f72d5c64">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Axillary Lymph Nodes and Breast Cancer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Breast cancer cells often spread to axillary lymph nodes. When this occurs, the tumor found in the axillary lymph nodes is a breast cancer metastasis. The first lymph node to which cancer is most likely to spread is called the &lt;strong&gt;sentinel axillary lymph node&lt;/strong&gt;. It is removed during mastectomy or lumpectomy and biopsied to determine if the cancer has spread beyond the breast (metastasized).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="47beab42-5483-45e3-9aa9-85462ea82818">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5c9d53a0-5ad4-4ac3-af38-2c6141d37c65">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;DISEASE DESCRIPTIONS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6b038aa7-b7ee-476f-9baa-68f565d25131">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;1. Candidiasis&lt;/strong&gt; (&lt;em&gt;Candida &lt;/em&gt;is a yeast-like fungus): This fungus is normally found on mucous membranes, skin, and vaginal mucosa. Under certain circumstances (excessive warmth and moisture; administration of antibiotics and corticosteroids; debilitated states; infancy), it can proliferate and cause localized or generalized mucocutaneous disease. Examples are paronychial lesions, lesions in areas of the body where the rubbing of opposed surfaces is common (groin, perianal, axillary, inframammary, and interdigital), thrush (white plaques attached to oral or vaginal mucous membranes), and vulvovaginitis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2. Cellulitis:&lt;/strong&gt; This is a common nonsuppurative infection of connective tissue with severe inflammation of the dermal and subcutaneous layers of the skin. Cellulitis appears on an extremity as a warm reddish area of tender edematous skin. A surgical wound, puncture, insect bite, skin ulcer, or patch of dermatitis is the usual means of entry for bacteria (most cases are caused by streptococci or Staphylococcus aureus). Therapy includes rest, elevation, hot wet packs, and antibiotics. Any cellulitis on the face should be given special attention because the infection may extend directly to the brain.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3. Mycosis fungoides (cutaneous T cell lymphoma):&lt;/strong&gt; This rare, chronic skin condition is caused by the infiltration of the skin by atypical lymphocytes. Contrary to its name (myc/o = fungus), it is not caused by a fungus but was formerly thought to be of fungal origin. It can manifest with generalized erythroderma or large, reddish, raised tumors that spread and ulcerate. In some cases, the malignant cells may involve lymph nodes and other organs. Treatment with cortisone ointments, topical nitrogen mustard, psoralen–ultraviolet light A (PUVA), and systemic retinoids or immunomodulators can be effective in controlling the disease.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ec2c3c81-b122-4d9a-a73b-2c61ccebbffa">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CASE REPORT: SQUAMOUS CELL CARCINOMA&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6f839c78-a656-4f8d-8018-000d338ae9bf">
+    <STATIC_text>
+  <text>&lt;p&gt;A 76-year-old woman noticed a 1-inch-diameter flaky patch on her scalp. Over a period of months, the lesion increased in size and became ulcerated, with the skull bone visible (Figure 16-25A). A biopsy was performed and pathologic examination revealed squamous cell carcinoma. Mohs micrographic surgery was attempted but a CT study of the head/brain with contrast showed the likelihood of residual tumor extending into the skull (Figure 16-25B).&lt;/p&gt;&lt;p&gt;Major surgery was performed to resect residual malignant tissue. A large portion of skull was removed and replaced with titanium mesh on which muscle from her back and skin from her leg were grafted. The primary surgical area healed well. Pathologic examination confirmed the presence of tumor invading the skull and underlying dura at the surgical margin. The patient is now receiving radiation therapy for 6 weeks to treat the affected area.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6e30969c-b63b-4e92-8eff-f7347c9cbf00">
+    <STATIC_figure>
+  <image>chp00016_f016-025-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-25 &lt;/span&gt;A, Squamous cell carcinoma&lt;/strong&gt; on scalp. &lt;strong&gt;B,&lt;/strong&gt; CTscan showing defect (&lt;em&gt;arrow&lt;/em&gt;) in skull from tumor invasion.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

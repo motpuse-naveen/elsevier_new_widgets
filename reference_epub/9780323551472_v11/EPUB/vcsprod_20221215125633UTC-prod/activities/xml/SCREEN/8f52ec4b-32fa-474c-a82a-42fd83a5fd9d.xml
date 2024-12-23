@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="286f6578-263a-42d2-a95e-3137ace84bed">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3b896f63-57c0-4cd8-8017-a06ed0eb0d04">
+    <STATIC_text>
+  <text>&lt;p&gt;This section contains an actual operative report and brief excerpts from other medical records using words that you have studied in this and previous chapters. Explanations of more difficult terms are added in brackets.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c7767c66-65aa-44ce-9af2-27014069e55e">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;OPERATIVE REPORT&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2fa837ec-0c7f-446f-92d8-a81c81a08f0f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Preoperative diagnosis&lt;/strong&gt;: Menorrhagia, leiomyomata&lt;br/&gt;&lt;strong&gt;Anesthetic&lt;/strong&gt;: General&lt;br/&gt;&lt;strong&gt;Material forwarded to laboratory for examination:&lt;/strong&gt;&lt;/p&gt;&lt;ol start="1" style="list-style-type: upper-alpha;"&gt;&lt;li&gt;Endocervical curettings&lt;/li&gt;&lt;li&gt;Endometrial curettings&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;Operation performed&lt;/strong&gt;: Dilation and curettage of the uterus&lt;/p&gt;&lt;p&gt;With the patient in the dorsal lithotomy position [legs are flexed on the thighs, thighs flexed on the abdomen and abducted] and sterilely prepped and draped, manual examination of the uterus revealed it to be 6- to 8-week size, retroflexed; no adnexal masses noted. The anterior lip of the cervix was then grasped with a tenaculum [a hook-like surgical instrument for grasping and holding parts]. The cervix was dilated up to a #20 Hank’s dilator. The uterus was sounded [depth measured] up to 4 inches. A sharp curettage of the endocervix showed only a scant amount of tissue. With a sharp curet, the uterus was curetted in a clockwise fashion with an irregularity noted in the posterior floor. A large amount of endometrial tissue was removed. The patient tolerated the procedure well.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operative diagnosis&lt;/strong&gt;: Leiomyomata uteri&lt;br/&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;: Hysterectomy for myomectomy&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8e131e2d-1886-45f3-b7df-dfc7d58b7a87">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SENTENCES USING MEDICAL TERMINOLOGY&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="aa4d1c2f-89a2-4945-96a5-26b3df9d2890">
+    <STATIC_text>
+  <text>&lt;ol&gt;&lt;li&gt;&lt;em&gt;Mammogram report: &lt;/em&gt;The breast parenchyma [essential tissue] is symmetric bilaterally. There are no abnormal masses or calcifications in either breast. The axillae are normal.&lt;/li&gt;&lt;li&gt;This is a 43-year-old gravida 3, para 2 with premature ovarian failure and now on HRT. She has history of endocervical atypia [cells are not normal or typical] secondary to chlamydial infection, which is now being treated.&lt;/li&gt;&lt;li&gt;The patient is a 40-year-old gravida 3, para 2 admitted for exploratory laparotomy to remove and evaluate a 10-cm left adnexal mass. Discharge diagnosis: (1) endometriosis, left ovary; (2) benign cystic teratoma [dermoid cyst], left ovary.&lt;/li&gt;&lt;li&gt;&lt;em&gt;History: &lt;/em&gt;51-year-old G3 P3; LMP early 40s; on HRT until age 49 when diagnosed with carcinoma of breast; treated with mastectomy and tamoxifen. Followed by ultrasounds showing slightly thickened 9-10 mm endometrium. No bleeding.&lt;br/&gt;&lt;em&gt;Operative findings: &lt;/em&gt;office endometrial biopsy, scant tissue&lt;br/&gt;&lt;em&gt;Clinical diagnosis: &lt;/em&gt;rule out hyperplasia&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f2c69e01-0353-430a-af5a-d6570198622a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;OPERATING ROOM SCHEDULE&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="092afbf9-aef6-4a72-a7f1-2eeb079483c7">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;The operating room schedule for one day in a large general hospital listed six different gynecologic procedures. Match the surgical procedures with the indications for surgery in the dropdown. &lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt; Left oophorectomy&lt;br/&gt;[LLQ pain; ovarian mass on pelvic ultrasound]&lt;/li&gt;&lt;li&gt; Vaginal hysterectomy with colporrhaphy&lt;br/&gt;[Uterine prolapse]&lt;/li&gt;&lt;li&gt; TAH-BSO, pelvic and periaortic lymphadenectomy&lt;br/&gt;[Endometrial cancer]&lt;/li&gt;&lt;li&gt; Exploratory laparotomy for uterine myomectomy&lt;br/&gt;[Fibroids]&lt;/li&gt;&lt;li&gt; Conization of the cervix&lt;br/&gt;[Suspected cervical cancer]&lt;/li&gt;&lt;li&gt; Lumpectomy with SLN biopsy&lt;br/&gt;[Small invasive ductal carcinoma of the breast ]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="734debcc-10f8-4a50-a9d3-3b486df21b1e">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;strong&gt;&lt;span style="color:#CA500F;"&gt;CONTRACEPTIVE CHOICES&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2248b9df-48e6-4b3d-8a3b-7290cca95769">
+    <STATIC_text>
+  <text>&lt;p&gt;Review and compare the various birth control options available today.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2b5dc761-d027-4a93-9a9c-903ca06bc247">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#CA500F;"&gt;METHOD&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;br/&gt;&lt;span style="color:#CA500F;"&gt; UNINTENDED PREGNANCY RATES: TYPICAL USE/ PERFECT USE&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1. Abstinence—no sexual intercourse&lt;/td&gt;&lt;td&gt;0% / 0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2. Cervical cap—inserted by doctor or nurse&lt;/td&gt;&lt;td&gt;16% / 9%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3. Condom—male&lt;/td&gt;&lt;td&gt;15% / 2%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4. Condom—female&lt;/td&gt;&lt;td&gt;21% / 5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5. Diaphragm (with spermicide)&lt;/td&gt;&lt;td&gt;16% / 6%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6. Film and foam (with spermicide)&lt;/td&gt;&lt;td&gt;29% / 18%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7. Implant—inserted into upper arm; releases hormones; effective for 3 years&lt;/td&gt;&lt;td&gt;0.05% / 0.05%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8. Injectable—Depo-Provera given every 3 months&lt;/td&gt;&lt;td&gt;3% / 3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9. Intrauterine device (IUD)&lt;/td&gt;&lt;td&gt;less than 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10. Oral contraceptives (birth control pills)&lt;/td&gt;&lt;td&gt;8% / 3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11. Patch—applied to skin weekly&lt;/td&gt;&lt;td&gt;8% / 3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12. Ring—inserted in vagina; effective for 1 month&lt;/td&gt;&lt;td&gt;8% / less than 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13. Sponge—used by women who have never given birth&lt;/td&gt;&lt;td&gt;16% / 9%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14. Suppositories—inserted in vagina (with spermicide)&lt;/td&gt;&lt;td&gt;29% / 15%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15. Withdrawal&lt;/td&gt;&lt;td&gt;27% / 4%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

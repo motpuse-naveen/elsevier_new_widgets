@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="71fdbab5-f683-4ae1-b76c-4c48cca8fc1a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;THE EYE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e001f312-c651-483f-8b19-ea59b284de35">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANATOMY AND PHYSIOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0aefb6b4-21b4-4461-96c9-dd93f151875d">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 17-2 as you read the following:&lt;/p&gt;&lt;p&gt;Light rays enter the central dark opening of the eye, the &lt;strong&gt;pupil&lt;/strong&gt; [1], which is surrounded by the colored portion of the eye, or &lt;strong&gt;iris &lt;/strong&gt;(see the photo inset). The &lt;strong&gt;conjunctiva&lt;/strong&gt; [2] is a membrane lining the inner surfaces of the eyelids and anterior portion of the eyeball over the white of the eye. The conjunctiva is clear and almost colorless except when blood vessels are dilated. Dust and smoke may cause the blood vessels to dilate, giving the conjunctiva a reddish appearance—commonly known as bloodshot eyes. Also, the same blood vessels may dilate when the eye is infected or inflamed by allergies. This condition is known as conjunctivitis.&lt;/p&gt;&lt;p&gt;Before entering the eye through the pupil, light passes through the &lt;strong&gt;cornea&lt;/strong&gt; [3]. The cornea is a fibrous, transparent tissue that extends like a dome over the pupil and iris. The function of the cornea is to bend, or &lt;strong&gt;refract&lt;/strong&gt;, the rays of light so they are focused properly on the sensitive receptor cells in the posterior region of the eye. The normal, healthy cornea is avascular (has no blood vessels) but receives nourishment from blood vessels near its junction with the opaque white of the eye, the &lt;strong&gt;sclera&lt;/strong&gt; [4]. Corneal transplants for people with scarred or opaque corneas are often successful because antibodies responsible for rejection of foreign tissue usually do not reach the avascular, transplanted corneal tissue. The sclera is a fibrous layer under the conjunctiva. It extends from the cornea on the anterior surface of the eyeball to the optic nerve in the posterior of the eye.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;choroid&lt;/strong&gt; [5] is a dark brown membrane inside the sclera. It contains many blood vessels that supply nutrients to the eye. The choroid is continuous with the pigment-containing &lt;strong&gt;iris&lt;/strong&gt; [6] and the &lt;strong&gt;ciliary body&lt;/strong&gt; [7] in the anterior portion of the eye. The choroid, iris, and ciliary body are known as the &lt;strong&gt;uvea&lt;/strong&gt; of the eye.&lt;/p&gt;&lt;p&gt;The iris is the colored portion of the eye (it can appear blue, green, hazel, gray, or brown), which has a circular opening in the center that forms the pupil. Muscles of the iris constrict the pupil in bright light and dilate the pupil in dim light, thereby regulating the amount of light entering the eye.&lt;/p&gt;&lt;p&gt;The ciliary body surrounds the outer rim of the &lt;strong&gt;lens&lt;/strong&gt; [8] in circular fashion for a full 360 degrees. There are fine, thread-like attachments (zonules) that connect the ciliary body to the lens, allowing the muscles in the ciliary body to adjust the shape and thickness of the lens. These changes in the shape of the lens cause &lt;strong&gt;refraction&lt;/strong&gt; of light rays. Refraction is the bending of rays as they pass through the cornea, lens, and other tissues. Muscles of the ciliary body produce flattening of the lens (for distant vision) and thickening and rounding of the lens (for close vision). This refractory adjustment to focus on an object from far to near is called &lt;strong&gt;accommodation&lt;/strong&gt;. When people get older, their eyes’ ability to accommodate decreases, so they may need magnifying glasses to see close objects and to read.&lt;/p&gt;&lt;p&gt;Besides regulating the shape of the lens, the ciliary body also secretes a fluid called &lt;strong&gt;aqueous humor&lt;/strong&gt;, which is found in the &lt;strong&gt;anterior chamber&lt;/strong&gt; [9] of the eye. Aqueous humor maintains the shape of the anterior portion of the eye and nourishes the structures in that region. The fluid is constantly produced and leaves the eye through a canal that carries it into the bloodstream. The posterior cavity of the eye is the &lt;strong&gt;vitreous chamber&lt;/strong&gt;, which is the large region behind the lens filled with a soft, jelly-like material, the &lt;strong&gt;vitreous humor&lt;/strong&gt; [10]. Vitreous humor (often referred to as the vitrous) maintains the shape of the eyeball and is not constantly re-formed. Its escape (due to trauma or surgical damage) may result in significant damage to the eye, leading to possible retinal damage and blindness. Both the aqueous and the vitreous humors further refract light rays.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="626c4605-ea5d-45ba-a7db-292d5bbf41d2">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig_17.2.png</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-2&lt;/span&gt; &lt;strong&gt;The structure of the eye.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[pupil]&lt;/li&gt;&lt;li&gt;[conjunctiva]&lt;/li&gt;&lt;li&gt;[cornea]&lt;/li&gt;&lt;li&gt;[sclera]&lt;/li&gt;&lt;li&gt;[choroid]&lt;/li&gt;&lt;li&gt;[iris]&lt;/li&gt;&lt;li&gt;[ciliary body]&lt;/li&gt;&lt;li&gt;[lens]&lt;/li&gt;&lt;li&gt;[anterior chamber]&lt;/li&gt;&lt;li&gt;[vitreous humor]&lt;/li&gt;&lt;li&gt;[retina]&lt;/li&gt;&lt;li&gt;[optic nerve]&lt;/li&gt;&lt;li&gt;[optic disc]&lt;/li&gt;&lt;li&gt;[macula]&lt;/li&gt;&lt;li&gt;[fovea centralis]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="247a3c95-0a6c-4290-86e8-e642dd27d2d8">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;retina&lt;/strong&gt; [11] is the thin, delicate, and sensitive nerve layer of the eye. As light energy, in the form of waves, travels through the eye, it is refracted (by the cornea, lens, and fluids), so that it focuses on sensitive receptor cells of the retina called the &lt;strong&gt;rods&lt;/strong&gt; and &lt;strong&gt;cones&lt;/strong&gt;. There are approximately 6.5 million cones and 120 million rods in the retina. The cones function in bright levels of light and are responsible for color and central vision. There are three types of cones, each stimulated by one of the primary colors in light (red, green, or blue). Most cases of color blindness affect either the green or the red receptors, so that the two colors cannot be distinguished from each other. Rods function at reduced levels of light and are responsible for peripheral vision and vision in dim light.&lt;/p&gt;&lt;p&gt;When light rays are focused on the retina, a chemical change occurs in the rods and cones, initiating nerve impulses that then travel from the eye to the brain via the &lt;strong&gt;optic nerve&lt;/strong&gt; [12]. The region in the eye where the optic nerve meets the retina is called the &lt;strong&gt;optic disc&lt;/strong&gt; [13]. Because there are no light receptor cells in the optic disc, it is known as the blind spot of the eye. The &lt;strong&gt;macula&lt;/strong&gt; [14] is a small, oval area of the retina adjacent to the optic disc. It contains a central depression called the &lt;strong&gt;fovea centralis&lt;/strong&gt; [15], which is composed largely of cones and is the location of the sharpest vision in the eye. If a portion of the fovea or macula is damaged, vision is reduced and central-vision blindness occurs. Figure 17-3 shows the retina of a normal eye as seen through an ophthalmoscope. The &lt;strong&gt;fundus&lt;/strong&gt; of the eye is this posterior, inner part that is visualized through the ophthalmoscope.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3fd0222e-e2c6-4c77-aeb6-e25c91554cb7">
+    <STATIC_figure>
+  <image>chp00017_f017-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-3 &lt;/span&gt;&lt;strong&gt;The posterior, inner part (fundus) of the eye,&lt;/strong&gt; showing the retina as seen through an ophthalmoscope.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c758d87c-8b08-4e33-b6c2-b9d0e324ed07">
+    <STATIC_figure>
+  <image>chp00017_f017-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-4 &lt;/span&gt;&lt;strong&gt;Visual pathway from the retina &lt;em&gt;(A) &lt;/em&gt;to the visual cerebral cortex &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;(D)&lt;/strong&gt; &lt;/em&gt;(occipital lobe of the brain). Objects in the left visual field are “seen” by the right side of the brain, whereas objects in the right visual field are projected into the left visual cerebral cortex.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b7d068be-e202-45ed-bb09-d5d9af864735">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 17-4 illustrates what happens when you look at an object and “see” it. If an object is in your &lt;strong&gt;left visual field&lt;/strong&gt; (purple area), sensitive cells—rods and cones—in the &lt;strong&gt;right&lt;/strong&gt; half of each &lt;strong&gt;retina&lt;/strong&gt; (labeled A in the figure) are stimulated. Similarly, if an object is in your &lt;strong&gt;right visual field&lt;/strong&gt; (orange color), rods and cones are stimulated in the left half of each retina. Nervous impulses then travel along optic nerve fibers from each retina and then merge to form the &lt;strong&gt;optic chiasm&lt;/strong&gt; (B). Here, medial optic nerve fibers cross and temporal fibers do not. Thus, fibers from the right half of each retina (purple color) form an &lt;strong&gt;optic tract&lt;/strong&gt; (C) leading, via the thalamus (relay center), to the &lt;strong&gt;right visual cerebral cortex&lt;/strong&gt; (D). Similarly, fibers from the left half of each retina (orange color) form an optic tract leading to the &lt;strong&gt;left visual cerebral cortex&lt;/strong&gt; (D). Images (one from each eye) are then fused in the occipital lobe of the brain, producing a single visual sensation with the three-dimensional effect. This is &lt;strong&gt;binocular vision&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Brain damage to nerve cells in the right visual cerebral cortex (such as in a stroke) causes loss of vision in the left visual field (purple), whereas damage in the left cerebral cortex causes loss of vision in the right visual field (gold). This loss of vision, which occurs in both eyes, on the contralateral (opposite side) visual field is called &lt;strong&gt;hemianopsia (hemi-&lt;/strong&gt; means half, &lt;strong&gt;an-&lt;/strong&gt; means without, &lt;strong&gt;-opsia&lt;/strong&gt; means vision). In the right eye, the loss is in the left nasal visual field, and in the left eye, the loss is in the left temporal visual field.&lt;/p&gt;&lt;p&gt;Figure 17-5 reviews the pathway of light rays from the cornea to the cerebral cortex of the brain.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c0fe1d61-ca3c-4f65-af3a-a1d8db4ece41">
+    <STATIC_figure>
+  <image>chp00017_f017-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-5&lt;/span&gt; &lt;strong&gt;Pathway of light rays from the cornea of the eye to the cerebral cortex of the brain.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

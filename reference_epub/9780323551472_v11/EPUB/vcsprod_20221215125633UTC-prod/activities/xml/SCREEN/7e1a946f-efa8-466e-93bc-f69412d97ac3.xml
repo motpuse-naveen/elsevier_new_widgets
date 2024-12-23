@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="1a3aed5d-727b-489e-aee2-2936436c0f80">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a63cbf8f-caf4-43b0-bcdd-3ad3f080658b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;THYROID GLAND&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6ece1ed9-596f-4204-9c6a-7350687102c4">
+    <STATIC_text>
+  <text>&lt;p&gt;Enlargement of the thyroid gland is &lt;strong&gt;goiter &lt;/strong&gt;(Figure 18-15A). &lt;strong&gt;Endemic &lt;/strong&gt;(&lt;strong&gt;en-&lt;/strong&gt; = in; &lt;strong&gt;dem/o&lt;/strong&gt; = people) &lt;strong&gt;goiter &lt;/strong&gt;occurs in certain regions where there is a lack of &lt;strong&gt;iodine &lt;/strong&gt;in the diet. Goiter develops when low iodine levels lead to low T3 and T4 levels. This causes feedback to the hypothalamus and adenohypophysis, stimulating them to secrete releasing factors and TSH. TSH then promotes the thyroid gland to secrete T3 and T4, but because there is no iodine available, the only effect is to increase the size of the gland (goiter). Prevention includes increasing the supply of iodine (as iodized salt) in the diet.&lt;/p&gt;&lt;p&gt;Another type of goiter is &lt;strong&gt;nodular &lt;/strong&gt;or &lt;strong&gt;adenomatous goiter&lt;/strong&gt;, in which hyperplasia occurs as well as formation of nodules and adenomas. Some patients with nodular goiter develop hyperthyroidism with clinical signs and symptoms such as rapid pulse, tremors, nervousness, and excessive sweating. Treatment is with thyroidblocking drugs or radioactive iodine to suppress thyroid functioning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4ff1b3d9-d08e-4cd2-bf8a-d3b4367a75e4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5a68ff60-d122-4364-9c52-c6c02d17102b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hyperthyroidism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Overactivity of the thyroid gland; thyrotoxicosis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The most common form of this condition is &lt;strong&gt;Graves disease&lt;/strong&gt; (resulting from autoimmune processes). Because metabolism is faster, the condition is marked by an increase in heart rate (with irregular beats), higher body temperature, hyperactivity, weight loss, and increased peristalsis (diarrhea occurs). In addition, &lt;strong&gt;exophthalmos &lt;/strong&gt;(protrusion of the eyeballs, or &lt;strong&gt;proptosis&lt;/strong&gt;) occurs as a result of swelling of tissue behind the eyeball, pushing it forward. Treatment of Graves disease includes management with antithyroid drugs to reduce the amount of thyroid hormone produced by the gland and administration of radioactive iodine, which destroys the overactive glandular tissue. Figure 18-15B shows a patient with Graves disease.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="fdc6ba26-4937-466c-b0ed-6709a2017a84">
+    <STATIC_figure>
+  <image>chp00018_f018-015-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-15 &lt;/span&gt;A, Goiter. &lt;/strong&gt;Notice the wide neck, indicating enlargement of the thyroid gland. Goiter comes from the Latin &lt;em&gt;guttur, &lt;/em&gt;meaning throat. &lt;strong&gt;B, Exophthalmos in Graves disease. &lt;/strong&gt;Note the staring or startled expression resulting from periorbital edema (swelling of tissue around the eyeball or orbit of the eye). Exophthalmos usually persists despite treatment of Graves disease.&lt;strong&gt; C, Myxedema.&lt;/strong&gt; Note the dull, puffy, yellowed skin; coarse, sparse hair; prominent tongue. &lt;em&gt;(C, Courtesy Paul W. Ladenson, MD, Johns Hopkins University and Hospital, Baltimore, Maryland.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="d31c210d-feb2-41af-a0e4-47fb0b9e18e9">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="454af3f6-f2f8-4d61-b412-69760b8c8bf7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hypothyroidism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Underactivity of the thyroid gland. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Any of several conditions can produce hypothyroidism (thyroidectomy, thyroiditis, endemic goiter, destruction of the gland by irradiation), but all have similar physiologic effects. These include fatigue, muscular and mental sluggishness, weight gain, fluid retention, slow heart rate, low body temperature, and constipation. Two examples of hypothyroid disorders are myxedema and cretinism.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Myxedema &lt;/strong&gt;is advanced hypothyroidism in adulthood. Atrophy of the thyroid gland occurs, and practically no hormone is produced. The skin becomes dry and puffy (edema) because of the collection of mucus-like (myx/o = mucus) material under the skin. Many patients also develop atherosclerosis because lack of thyroid hormone increases the quantity of blood lipids (fats). Recovery may be complete if thyroid hormone is given soon after symptoms appear. Figure 18-15C shows a patient with myxedema.&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;cretinism&lt;/strong&gt;, extreme hypothyroidism during infancy and childhood leads to a lack of normal physical and mental growth. Skeletal growth is more inhibited than soft tissue growth, so the affected person has the appearance of an obese, short, and stocky child. Treatment consists of administration of thyroid hormone, which may be able to reverse some of the hypothyroid effects.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="19d42f0a-ef38-41e9-bf88-e7402738ffe2">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Neoplasms&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a0789ce3-99e4-4026-a3a4-58e926fe4a40">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thyroid carcinoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Cancer of the thyroid gland.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;More than one half of thyroid malignancies are slow-growing papillary carcinomas, and about one third are slow-growing follicular carcinomas. Others include rapidly growing anaplastic (widely metastatic) tumors. Radioactive iodine scans distinguish hyperfunctioning areas from hypofunctioning areas. “Hot” tumor areas (those collecting more radioactivity than surrounding tissues) usually indicate hyperthyroidism and benign growth; “cold,” nonfunctional nodules can be either benign or malignant. Ultimately, fine needle aspiration, surgical biopsy, or excision is required to make the diagnosis. Total or subtotal thyroidectomy with lymph node removal is indicated for most thyroid carcinomas. Postsurgical treatment with radioactive iodine destroys remaining tissue, and high doses of exogenous thyroid hormone are given to suppress TSH, in an effort to cause regression of residual tumor dependent on TSH.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="0f51b9ab-bc53-4bc6-8976-aed81aaacae3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PARATHYROID GLANDS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1bd86c2f-92c7-4240-a464-51408ec6ab16">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e3838f87-ee27-4f7d-8a2d-06adb5fb0f39">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt; &lt;strong&gt;hyperparathyroidism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt; Excessive production of parathormone. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hypercalcemia occurs as calcium leaves the bones and enters the bloodstream, where it can produce damage to the kidneys and heart. Bones become decalcified with generalized loss of bone density (&lt;strong&gt;osteoporosis&lt;/strong&gt;) and susceptibility to fractures and formation of cysts. Kidney stones can occur as a result of hypercalcemia and hypercalciuria. The cause is parathyroid hyperplasia or a parathyroid tumor. Treatment is resection of the overactive tissue. Medical therapy is another option for the patient who is not a surgical candidate. Bisphosphonates, such as alendronate (Fosamax), decrease bone turnover and decrease hypercalcemia.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="f24a2b68-f086-4c7f-8ccc-e74a3b06d186">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="811fe7af-6d63-465c-8902-0f587d2d01cd">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hypoparathyroidism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Deficient production of parathyroid hormone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hypocalcemia results as calcium remains in bones and is unable to enter the bloodstream. This leads to muscle and nerve weakness with spasms of muscles, a condition called &lt;strong&gt;tetany &lt;/strong&gt;(constant muscle contraction). Administration of calcium plus large quantities of vitamin D (to promote absorption of calcium) can control the calcium level in the bloodstream.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="be04fbc8-d2b6-4209-bdb3-4cf73d902641">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ADRENAL CORTEX&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b08cbeb0-fe1a-4cb6-9dc1-ad8d3ac9a109">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b3b9282c-fb01-41ca-bbac-d5b087d6c1e1">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;adrenal virilism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Excessive secretion of adrenal androgens.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Adrenal hyperplasia or more commonly adrenal adenomas or carcinomas can cause &lt;strong&gt;virilization &lt;/strong&gt;in adult women. Signs and symptoms include amenorrhea, &lt;strong&gt;hirsutism &lt;/strong&gt;(excessive hair on the face and body), acne, and deepening of the voice. Drug therapy to suppress androgen production and adrenalectomy are possible treatments. See Figure 18-16A.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Cushing syndrome&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Group of signs and symptoms produced by excess cortisol from the adrenal cortex. &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;p&gt;A number of signs and symptoms occur as a result of increased cortisol secretion, including obesity, moon-like fullness of the face, excess deposition of fat in the thoracic region of the back (so-called buffalo hump), hyperglycemia, hypernatremia, hypokalemia, osteoporosis, virilization, and hypertension. The cause may be excess ACTH secretion or tumor of the adrenal cortex. Tumors and disseminated cancers can be associated with ectopic secretion of hormone, such as ectopic ACTH produced by nonendocrine neoplasms (lung and thyroid tumors). Figure 18-16B shows a woman with Cushing syndrome. See &lt;em&gt;&lt;strong&gt;In Person: My Cushing’s Journey&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;In clinical practice, most cases of Cushing syndrome result from chronic use of cortisone-like drugs, such as steroids. Examples are the cases in young athletes seeking to improve their performance and in patients treated for autoimmune disorders, asthma, colitis, kidney and skin conditions. Steroids (prednisone is an example) are never discontinued abruptly because the adrenal cortex and pituitary gland (ACTH producer) need time to “restart” after long periods of prescribed cortisol use (the adrenal gland stops producing cortisol when cortisol is given as therapy).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="bf60d185-5620-4e08-a53a-5a66f386b6d2">
+    <STATIC_figure>
+  <image>fig18-16.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-16 &lt;/span&gt;A, Hirsutism. B, Cushing syndrome.&lt;/strong&gt; Elevated plasma levels of cortisol (steroids) produce obesity, rounded facial appearance (moon-face), thin skin that bruises easily, and muscle weakness.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="d1a423c9-d2e9-481d-90a3-cb93a2c55c2a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Cushing Disease&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cushing disease is one cause of Cushing syndrome. In Cushing disease, a benign tumor of the pituitary gland (pituitary adenoma) increases ACTH secretion, stimulating the adrenal cortex to produce excess cortisol. The cure for Cushing disease is removal of the pituitary adenoma. Dr. Harvey Cushing described the condition in 1932.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="72a591b8-f5fd-4edd-ae25-cb88d5e78b3c">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="14d95ebc-4a27-47a5-808e-9de469d3352b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Addison disease&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Hypofunctioning of the adrenal cortex.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The adrenal cortex is essential to life. When aldosterone and cortisol blood levels are low, the patient experiences generalized malaise, weakness, muscle atrophy, and severe loss of fluids and electrolytes (with hypoglycemia, low blood pressure, and hyponatremia). An insufficient supply of cortisol signals the pituitary to secrete more ACTH, which increases pigmentation of skin, scars, and breast nipples (hyperpigmentation) (Figure 18-17).&lt;/p&gt;&lt;p&gt;Primary insufficiency is believed to be due to autoimmune adrenalitis. Treatment consists of daily cortisone administration and intake of salts or administration of a synthetic form of aldosterone.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="77ab6de0-446a-4834-8cc7-b0cb048f9749">
+    <STATIC_figure>
+  <image>page_595_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-17 &lt;/span&gt;Addison disease. &lt;/strong&gt;Skin signs of Addison disease. Diffuse hyperpigmentation (shown in contrast to the physician’s hand) is accentuated in sun-exposed skin.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="13620595-82b7-481c-86c3-d452eca65437">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ADRENAL MEDULLA&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="62eba277-35e2-45bb-9c51-26bb4589bac4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="88b1a1e2-6f68-4488-813f-d22ec9dc61cd">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pheochromocytoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Benign tumor of the adrenal medulla.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The name of this tumor, pheochromocytoma, derives from the staining of its cells; phe/o means dark or dusky and chrom/o means color. The tumor cells produce excess epinephrine and norepinephrine. Signs and symptoms are hypertension, tachycardia, palpitations, severe headaches, sweating, flushing of the face, and muscle spasms. Surgery to remove the tumor and administration of antihypertensive drugs are possible treatments.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7052b766-708f-48c9-95fe-d6f9208ce975">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PANCREAS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0d11fd63-e1d1-4a93-8fe1-6975a8d987d3">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="128da666-0095-4333-87b9-b62f30cb9a8c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hyperinsulinism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Excess secretion of insulin causing hypoglycemia.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cause is an overdose of insulin. Hypoglycemia occurs as insulin draws sugar out of the bloodstream. Fainting spells, convulsions, and loss of consciousness are common because a minimal level of blood sugar is necessary for proper mental functioning.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="441dc342-ad5f-424e-92a2-1093ed15f880">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bc204f57-d5aa-477c-84a2-4a1174c606b4">
+    <STATIC_table>
+  <text>&lt;p&gt; &lt;/p&gt;&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;diabetes mellitus (DM)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Lack of insulin secretion or resistance of insulin in promoting sugar, starch, and fat metabolism in cells.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In diabetes mellitus (mellitus means sweet or sugary), insulin insufficiency or ineffectiveness prevents sugar from leaving the blood and entering the body cells, where it is used to produce energy. There are two types of diabetes mellitus.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Type 1 diabetes &lt;/strong&gt;is an&lt;strong&gt; autoimmune disease&lt;/strong&gt;. Autoantibodies against normal pancreatic islet cells are present. Onset is usually in early childhood but can occur in adulthood, and the etiology involves destruction of the beta islet cells, producing complete deficiency of insulin in the body. Patients usually are thin and require frequent injections of insulin to maintain a normal level of glucose in the blood. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;Type 1 requires patients to monitor their blood glucose levels several times a day using a glucometer. To test sugar levels with this device, the user pricks a finger to draw blood. At a minimum, patients test before each meal and at bedtime, but many test up to 12 times a day. Patients must continually (every day) balance insulin levels with food and exercise (see &lt;em&gt;&lt;strong&gt;In Person: Living with Diabetes&lt;/strong&gt;&lt;/em&gt;, pages 730). In addition to injecting insulin into the body (buttocks, thighs, abdomen and arms), it also is possible to administer insulin through a portable pump, which infuses the drug continuously through a indwelling needle. A &lt;strong&gt;Continuous Glucose Monitoring System (CGMS) &lt;/strong&gt;can track glucose levels throughout the day and night and communicate with the insulin pump to deliver insulin as needed. See Figure 18-18AB.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Type 2 diabetes&lt;/strong&gt; is a separate disease from type 1. Patients often are older, but can be adolescents, and usually with a family history of type 2 diabetes (T2D). Obesity is very common. The islet cells are not initially destroyed, and there is a relative deficiency of insulin secretion with a resistance by target tissues to insulin. &lt;strong&gt;Insulin resistance&lt;/strong&gt; usually develops 5 to 10 years before type 2 diabetes is diagnosed, and is associated with an increased risk of cardiovascular disease. Often, high blood pressure, high cholesterol, and central abdominal obesity are seen in people who have insulin resistance. Treatment of type 2 diabetes is with diet, weight reduction, exercise, and, if necessary, insulin or oral hypoglycemic agents. &lt;strong&gt;Oral hypoglycemic agents&lt;/strong&gt; stimulate the release of insulin from the pancreas and improve the body’s sensitivity to insulin.&lt;/p&gt;&lt;p&gt;Table 18-3 compares the clinical features, symptoms, and treatment of type 1 and type 2 diabetes.&lt;/p&gt;&lt;p&gt;Both type 1 and type 2 diabetes are associated with primary and secondary complications. The &lt;strong&gt;primary complication&lt;/strong&gt; of type 1 is &lt;strong&gt;hyperglycemia&lt;/strong&gt;. Hyperglycemia can lead to ketoacidosis (fats are improperly burned, leading to an accumulation of ketones and acids in the body). &lt;strong&gt;Ketoacidosis &lt;/strong&gt;also can result from illness or infection, and initial symptoms may be upset stomach and vomiting. &lt;strong&gt;Hypoglycemia&lt;/strong&gt; occurs when too much insulin is taken. &lt;strong&gt;Insulin shock&lt;/strong&gt; is severe hypoglycemia caused by an overdose of insulin, decreased intake of food, or excessive exercise. Signs and symptoms are sweating, hunger, confusion, trembling, nervousness, and numbness. Treatment of severe hypoglycemia is with either a shot of glucagon or intravenous glucose to restore normal blood glucose levels. Convulsions, coma, and loss of consciousness can result if treatment is not given.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Secondary &lt;/strong&gt;(long-term) &lt;strong&gt;complications&lt;/strong&gt; may appear many years after the patient develops diabetes. These include destruction of retinal blood vessels&lt;strong&gt; (diabetic retinopathy)&lt;/strong&gt;, causing visual loss and blindness; destruction of the kidneys &lt;strong&gt;(diabetic nephropathy)&lt;/strong&gt;, causing renal insufficiency and often requiring hemodialysis or renal transplantation; destruction of blood vessels, with &lt;strong&gt;atherosclerosis&lt;/strong&gt; leading to stroke, heart disease, and peripherovascular ischemia (gangrene, infection, and loss of limbs); and destruction of nerves &lt;strong&gt;(diabetic neuropathy) &lt;/strong&gt;involving pain or loss of sensation, most commonly in the extremities. Loss of gastric motility &lt;strong&gt;(gastroparesis) &lt;/strong&gt;also occurs. Figure 18-19 reviews the secondary complications of diabetes mellitus.&lt;/p&gt;&lt;p&gt; As a result of hormonal changes during pregnancy, &lt;strong&gt;gestational diabetes&lt;/strong&gt; can occur in women with a predisposition to diabetes during the second or third trimester of pregnancy. After delivery, blood glucose usually returns to normal. Type 2 diabetes may develop in these women later in life.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4396e022-3cfe-4512-9bb8-eb1de2306c6f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Insulin&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There are many different types of insulin. Insulins can be &lt;strong&gt;rapid-acting&lt;/strong&gt; (peak at 30 to 60 minutes and last 3 to 5 hours), &lt;strong&gt;short-acting&lt;/strong&gt; (peak at &lt;span role="math" aria-label="1 bevelled 1 half"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mfrac bevelled="true"&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;&lt;/span&gt; to 2 hours and last 6 to 8 hours), &lt;strong&gt;intermediate-acting&lt;/strong&gt; (peak at 4 to 12 hours and last 14 to 24 hours), or &lt;strong&gt;long-acting&lt;/strong&gt; (last for up to 24 hours). The rapid- and short-acting insulins are taken before a meal to reduce the blood sugar spike that normally occurs after eating. Intermediate- and long-acting insulins mimic the natural production of insulin by the pancreas.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0e0d0851-3381-4c59-812c-f3132778bb0a">
+    <STATIC_figure>
+  <image>fig18-18.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-18 &lt;/span&gt;&lt;/strong&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;A. Insulin pump and continuous glucose monitor system (CGMS)&lt;/strong&gt; shows an insulin pump(1), injection cannula (2), glucose sensor (3), and data transmitter (4). The glucose sensor and data transmitter are part of the CGMS. &lt;strong&gt;B. Tandem t:slim X2&lt;sup&gt;TM&lt;/sup&gt; Insulin Pump&lt;/strong&gt; that communicates with a CGMS, displaying blood sugar readings over a 3-hour period of time.&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7dc4dd6a-0d90-4e5b-805a-dcc16657ef33">
+    <STATIC_figure>
+  <image>chp00018_f018-019-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-19&lt;/span&gt; Secondary complications of diabetes mellitus. &lt;/strong&gt;Complications can be avoided or minimized with optimal glycemic control.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6dbe2179-0a26-4551-a92f-be32fe778017">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 18-3 &lt;/strong&gt;COMPARISON OF TYPE 1 AND TYPE 2 DIABETES MELLITUS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="100ed1f0-2c3c-4803-b4aa-1c9fac3c3970">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;CATEGORY&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;TYPE 1&lt;sup&gt;*&lt;/sup&gt;&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;TYPE 2&lt;sup&gt;†&lt;/sup&gt;&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Clinical features&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Usually occurs before age 30&lt;br/&gt;Abrupt, rapid onset of symptoms&lt;br/&gt;Little or no insulin production&lt;br/&gt;Thin or normal body weight at onset&lt;br/&gt;Ketoacidosis often occurs&lt;/td&gt;&lt;td&gt;Usually occurs after age 30&lt;br/&gt;Gradual onset; asymptomatic&lt;br/&gt;Insulin usually present&lt;br/&gt;Obesity in 85% of affected persons&lt;br/&gt;Ketoacidosis seldom occurs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Symptoms&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Polyuria (glycosuria promotes loss of water)&lt;br/&gt;Polydipsia (dehydration causes thirst)&lt;br/&gt;Polyphagia (tissue breakdown causes hunger)&lt;/td&gt;&lt;td&gt;Polyuria sometimes seen&lt;br/&gt;Polydipsia sometimes seen&lt;br/&gt;Polyphagia sometimes seen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Treatment&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Insulin&lt;/td&gt;&lt;td&gt;Diet (weight loss); oral hypoglycemics or insulin&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;* Type 1 formerly was called juvenile (juvenile-onset) diabetes.&lt;br/&gt;† Type 2 formerly was called adult-onset diabetes.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7e206958-6754-4be6-b6a7-8a5384a551ca">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PITUITARY GLAND: ANTERIOR LOBE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fad5a667-8f53-4506-965c-4202d22daae4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a052e94a-a6b5-4b47-906e-429bc25db09c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;acromegaly&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Hypersecretion of growth hormone from the anterior pituitary after puberty, leading to enlargement of extremities.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An excess of growth hormone (GH) is produced by adenomas of the pituitary gland that occur during adulthood. This excess GH stimulates the liver to secrete a hormone (somatomedin C, or insulin-like growth factor [IGF]) that causes the clinical manifestations of acromegaly (acr/o in this term means extremities). Bones in the hands, feet, face, and jaw grow abnormally large, producing a characteristic “coarsened” facial appearance. The pituitary adenoma can be irradiated or surgically removed. Figure 18-20 shows the features of a woman with acromegaly. Measurement of blood levels of somatomedin C as GH fluctuates is a test for acromegaly.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;gigantism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Hypersecretion of growth hormone from the anterior pituitary before puberty, leading to abnormal overgrowth of body tissues.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Benign adenomas of the pituitary gland that occur before a child reaches puberty produce an excess of growth hormone. See Figure 18-21 . The underlying hormonal problem caused by gigantism can be corrected by early diagnosis in childhood.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4630b5f4-7a8c-43ce-9abe-9ea84f2b5b1f">
+    <STATIC_figure>
+  <image>page_599_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-20&lt;/span&gt; Early features of acromegaly.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2b810942-6afc-4bf3-94d4-e4a2f3d6af11">
+    <STATIC_figure>
+  <image>fig18-21.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-21 &lt;/span&gt;Gigantism.&lt;/strong&gt; A 22-year-old man with gigantism due to excess growth hormone is standing next to his identical twin. The increased height (&lt;strong&gt;A&lt;/strong&gt;) and enlarged hand (&lt;strong&gt;B&lt;/strong&gt;) and foot (&lt;strong&gt;C&lt;/strong&gt;) of the affected twin are apparent. Their height and features began to diverge at the age of approximately 13 years. &lt;em&gt;(&lt;strong&gt;A&lt;/strong&gt; to &lt;strong&gt;C&lt;/strong&gt;, Courtesy Robert F. Gagel, MD, and Ian E. McCutcheon, MD, University of Texas M.D. Anderson Cancer Center, Houston, Texas.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c5553d67-0ecf-4a4c-b9ed-c2f07e721d57">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f441190f-489e-461c-a33e-157737b10f18">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;dwarfism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Congenital hyposecretion of growth hormone; hypopituitary dwarfism.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Children who are affected are normal mentally, but their bones remain small. Treatment consists of administration of growth hormone. Achondroplastic dwarfs differ from hypopituitary dwarfs in that they have a genetic defect in cartilage formation that limits the growth of long bones.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;panhypopituitarism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Deficiency of all pituitary hormones.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tumors of the sellaturcica as well as arterial aneurysms may be etiologic factors, causing a failure of the pituitary to secrete hormones that stimulate major glands in the body.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ee2d8d24-a452-456b-a59e-c888c49f4b10">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PITUITARY GLAND: POSTERIOR LOBE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="aa4ba532-2bf7-487c-8459-73c41834b536">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hypersecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e157f683-6cf1-4e8c-91a5-bf07a37ca8df">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;syndrome of inappropriate ADH (SIADH)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Excessive secretion of antidiuretic hormone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hypersecretion of ADH produces excess water retention in the body. Treatment consists of dietary water restriction. Tumor, drug reactions, and head injury are some of the possible causes.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a05eed71-05eb-4aed-86a6-9223f9f21eb3">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Hyposecretion&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="decf64cb-3d87-43fd-aff9-8c6e205e5bc3">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;diabetes insipidus (DI)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Insufficient secretion of antidiuretic hormone (vasopressin).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Deficiency of antidiuretic hormone causes the kidney tubules to fail to hold back (reabsorb) needed water and salts. Clinical manifestations include polyuria and polydipsia. Synthetic preparations of ADH are administered with nasal sprays or intramuscularly as treatment. &lt;strong&gt;Insipidus &lt;/strong&gt;means tasteless, reflecting the condition of dilute urine, as opposed to &lt;strong&gt;mellitus&lt;/strong&gt;, meaning sweet or like honey, reflecting the sugar content of urine in diabetes mellitus. The term diabetes comes from the Greek &lt;em&gt;diabainein&lt;/em&gt;, meaning to pass through. Both diabetes insipidus and diabetes mellitus are characterized by polyuria. See &lt;em&gt;&lt;strong&gt;In Person: Diabetes Insipidus&lt;/strong&gt;&lt;/em&gt; on page 731.&lt;/p&gt;&lt;p&gt;Table 18-4 reviews the abnormal conditions associated with hypersecretions and hyposecretions of the endocrine glands.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9690a231-e39d-4d69-9833-e599eb3b63be">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 18-4&lt;/strong&gt; ABNORMAL CONDITIONS OF ENDOCRINE GLANDS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c1823392-680e-4119-905e-0e323f104544">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;ENDOCRINE GLAND&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;HYPERSECRETION&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;HYPOSECRETION&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Adrenal cortex&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Adrenal virilism&lt;/li&gt;&lt;li&gt;Cushing syndrome&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Addison disease&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Adrenal medulla&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Pheochromocytoma&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Pancreas&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Hyperinsulinism&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Diabetes mellitus&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Parathyroid glands&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Hyperparathyroidism (hypercalcemia, osteoporosis, kidney stones)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Hypoparathyroidism (tetany, hypocalcemia)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Pituitary—anterior lobe&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Acromegaly&lt;/li&gt;&lt;li&gt;Gigantism&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Dwarfism&lt;/li&gt;&lt;li&gt;Panhypopituitarism&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Pituitary—posterior lobe&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Syndrome of inappropriate antidiuretic hormone&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Diabetes insipidus&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Thyroid gland&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Exophthalmic goiter (Graves disease, thyrotoxicosis)&lt;/li&gt;&lt;li&gt;Nodular (adenomatous) goiter&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Cretinism (children)&lt;/li&gt;&lt;li&gt;Endemic goiter&lt;/li&gt;&lt;li&gt;Myxedema (adults)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

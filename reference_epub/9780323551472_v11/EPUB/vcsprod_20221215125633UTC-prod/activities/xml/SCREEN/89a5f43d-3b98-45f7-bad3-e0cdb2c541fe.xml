@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="451b8c57-35b6-4179-9db3-ea52f4092340">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGIC DESCRIPTIONS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e9587f06-e219-4e7f-b749-d7e22a7d2f50">
+    <STATIC_text>
+  <text>&lt;p&gt;The following terms are used to describe the appearance of a malignant tumor, on either gross (visual) or microscopic examination.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4b3d16b4-88de-48de-8018-cd9f2fd46bd3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;GROSS DESCRIPTIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="df187fb2-ced0-45ed-b97b-686e5491f003">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cystic&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Forming large open spaces filled with fluid.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mucinous &lt;/strong&gt;tumors are filled with mucus (thick, sticky fluid), and &lt;strong&gt;serous &lt;/strong&gt;tumors are filled with a thin, watery fluid resembling serum. The most common site of cystic tumors is in ovaries (Figure 19-6A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;fungating&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Mushrooming pattern of growth in which tumor cells pile one on top of another and project from a tissue surface.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tumors found in the colon are often of this type.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;inflammatory&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Having the features of inflammation—that is, redness, swelling, and heat.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Inflammatory changes result from tumor blockage of the lymphatic drainage of the skin, as in breast cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;medullary&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Large, soft, fleshy tumors.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thyroid and breast tumors may be medullary (Figure 19-6B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;necrotic&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Containing dead tissue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Any type of tumor can outgrow its blood supply with resulting cell death and necrosis of part or all of the tumor.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;polypoid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Growths that form projections extending outward from a base.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sessile &lt;/strong&gt;polypoid tumors extend from a broad base, and &lt;strong&gt;pedunculated &lt;/strong&gt;polypoid tumors extend from a stem or stalk. Both benign and malignant tumors of the colon may grow as polyps. Benign polyps of the colon have a significant risk of becoming malignant over time and should be removed to prevent cancer (Figure 19-7A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ulcerating&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Characterized by an open, exposed surface resulting from the death of overlying tissue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ulcerating tumors often are found in the stomach, breast, colon, and skin (Figure 19-7B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;verrucous&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Resembling a wart-like growth.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tumors of the gingiva (gum) frequently are verrucous.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a5eaf325-d59e-4e1f-9c15-c956efa97454">
+    <STATIC_figure>
+  <image>chp00019_f019-006-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-6 &lt;/span&gt;A, Cystic ovarian adenocarcinoma. &lt;/strong&gt;Note that the tumor has formed fluid-filled cysts and blood-filled sacs. &lt;strong&gt;B, Medullary carcinoma&lt;/strong&gt; of the thyroid. Tumor shows a solid pattern of growth. &lt;em&gt;(&lt;strong&gt;A,&lt;/strong&gt; Courtesy Dr. Annekathryn Goodman, Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7fa9deae-5a42-41d1-9daf-6ae66d4be80f">
+    <STATIC_figure>
+  <image>chp00019_f019-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-7 &lt;/span&gt;A, Adenomatous polyposis of the colon. &lt;/strong&gt;These innumerable polypoid adenomas have a strong tendency for progression to colon adenocarcinoma.&lt;strong&gt; B, Gastric (stomach) carcinoma presenting as a large, irregular ulcer.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3e4b0ed4-cabe-4000-8280-f8f590646ff9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;MICROSCOPIC DESCRIPTIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6e8ecc1a-0446-4980-a503-b450c4d5e727">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;alveolar&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Tumor cells form patterns resembling small sacs; &lt;/strong&gt;commonly found in tumors of muscle, bone, fat, and cartilage.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;carcinoma in situ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Referring to localized tumor cells that have not invaded adjacent structures.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(Latin in &lt;em&gt;situ &lt;/em&gt;means in place.) Cancer of the cervix may begin as carcinoma in situ.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;diffuse&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Spreading evenly throughout the affected tissue.&lt;/strong&gt; Malignant lymphomas may display diffuse involvement of lymph nodes.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dysplastic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Containing abnormal-appearing cells that are not clearly cancerous.&lt;/strong&gt; Dysplastic nevi (moles on skin) are an example. They are often forerunners of skin cancers.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epidermoid&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Resembling squamous epithelial cells (thin, plate-like);&lt;/strong&gt; often occurring in the respiratory tract.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;follicular&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Forming small glandular sacs. &lt;/strong&gt;Thyroid gland cancer and lymphomas are examples (Figure 19-8A).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;papillary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Forming small, finger-like or nipple-like projections of cells.&lt;/strong&gt; Bladder and thyroid cancers are examples (Figure 19-8B).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pleomorphic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Composed of a variety of types of cells. &lt;/strong&gt;Mixed-cell tumors are examples.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;scirrhous&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Densely packed&lt;/strong&gt; (scirrhous means hard) &lt;strong&gt;tumors, due to dense bands of fibrous tissue;&lt;/strong&gt; commonly found in breast or stomach cancers.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;undifferentiated&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Lacking any microscopic structures typical of normal mature cells.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="6a6b33bb-3b90-497a-b316-738585efa126">
+    <STATIC_figure>
+  <image>chp00019_f019-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-8 &lt;/span&gt;A, Follicular non-Hodgkin lymphoma involving a lymph node. B, Papillary carcinoma of the thyroid.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

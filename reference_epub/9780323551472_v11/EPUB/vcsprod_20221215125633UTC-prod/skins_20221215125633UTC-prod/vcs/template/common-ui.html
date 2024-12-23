@@ -1,0 +1,102 @@
+
+<!--
+  only common ui related templates here
+-->
+
+<script type="text/template" id="common-ui-template">
+</script>
+
+<script type="text/template" id="common-ui-activity-template">
+
+	<div class="screen__margin">
+		<div class="header">
+			<div class="header-area">
+				<h2 class="title"><%=title%></h2><div class="hide-show-icon hidden"></div>
+			</div>
+			<div class="instructions">
+				<div class="instructions-holder"><%=instructions%></div><div class="instructions-mobile-holder"><%=instructionsMobile%></div>
+			</div>
+			<div class="page-nav vstdonthighlight"></div>
+		</div>
+		<div id="<%=id%>-activity" class="activity"></div>
+		<div class="global-feedback vstdonthighlight" tabindex="-1"<%=itu.dirltr()%>><span class="global-feedback-title visuallyhidden">Feedback</span><div class="global-feedback-holder"></div></div>
+		<div id="<%=id%>-footer" class="footer">
+			<div class="bottom-bar">
+				<div class="toolbar control-btns">
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-page-nav-template">
+	<div class="main-nav">
+		<div class="nav-wrapper">
+			<button class="previous-page-btn" aria-hidden="true" tabindex="-1"></button>
+			<button class="ellipsis-left-btn" aria-hidden="true" tabindex="-1"></button>
+			<span class="page-btns-holder" role="tablist">
+				<% for (var i = 0; i < pages.length; i++) { %>
+					<button class="page-btn" role="tab" aria-controls="<%=pages[i].pid%>" tabindex="-1"><span><span class="visuallyhidden">Question</span><%=(i+1)%></span></button><% } %>
+			</span>
+			<button class="ellipsis-right-btn" aria-hidden="true" tabindex="-1"></button>
+			<div class="page-dropdown"<%=itu.dirltr()%>>
+				<div class="page-dropdown-btn-holder">
+					<button aria-owns="<%=id%>-page-select-bar" class="page-dropdown-btn" aria-expanded="false"><span class="page-dropdown-text"></span><span class="page-dropdown-btn-arrow"></span></button>
+				</div>
+			</div>
+			<button class="next-page-btn" aria-hidden="true" tabindex="-1"></button>
+		</div>
+	</div>
+	<div class="page-select-bar-holder">
+		<div class="page-select-bar" role="tablist" id="<%=id%>-page-select-bar">
+			<% for (var i = 0; i < pages.length; i++) { %>
+			<button class="page-bar-btn" role="tab" aria-controls="<%=pages[i].pid%>" tabindex="-1"><span><span class="visuallyhidden">Question</span><%=(i+1)%></span></button><% } %>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-vcs-screen-btn-template">
+	<button data-function="checkAllAnswers" data-subfunction="submit"><%= submittedText %></button>
+	<button data-function="resetAllAnswers" data-subfunction="reset">Retry</button>
+	<button data-function="revealAllAnswers" data-subfunction="reveal">Reveal All Answers</button>
+	<button data-function="print" data-subfunction="print"<%=itu.dirltr()%>><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+</script>
+
+<script type="text/template" id="common-ui-vcs-paged-btn-template">
+	<button data-function="checkPageAnswer" data-subfunction="submit">Submit</button>
+	<button data-function="checkPageAnswer" data-subfunction="checkAnswer">Check Answer</button>
+	<button data-function="showHidePageFeedback" data-subfunction="showFeedback">Show Feedback</button>
+	<button data-function="showHidePageFeedback" data-subfunction="hideFeedback">Hide Feedback</button>
+	<button data-function="resetPageAnswer" data-subfunction="reset">Retry</button>
+	<button data-function="revealPageAnswer" data-subfunction="reveal">Reveal Answer</button>
+	<button data-function="nextPage" data-subfunction="next">Next Question</button>
+	<button data-function="print" data-subfunction="print"<%=itu.dirltr()%>><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+</script>
+
+
+<script type="text/template" id="common-ui-vcs-stacked-btn-template">
+	<button data-function="checkAllAnswers" data-subfunction="submit">Submit All Answers</button>
+	<button data-function="checkAllAnswers" data-subfunction="checkAnswer">Check All Answers</button>
+	<button data-function="showHideAllFeedback" data-subfunction="showFeedback">Show Feedback</button>
+	<button data-function="showHideAllFeedback" data-subfunction="hideFeedback">Hide Feedback</button>
+	<button data-function="resetAllAnswers" data-subfunction="reset">Retry</button>
+	<button data-function="revealAllAnswers" data-subfunction="reveal">Reveal All Answers</button>
+	<button data-function="print" data-subfunction="print"<%=itu.dirltr()%>><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+</script>
+
+<script type="text/template" id="common-ui-vcs-stacked-single-question-btn-template">
+	<button data-function="checkAllAnswers" data-subfunction="submit">Submit Answer</button>
+	<button data-function="checkAllAnswers" data-subfunction="checkAnswer">Check Answer</button>
+	<button data-function="showHideAllFeedback" data-subfunction="showFeedback">Show Feedback</button>
+	<button data-function="showHideAllFeedback" data-subfunction="hideFeedback">Hide Feedback</button>
+	<button data-function="resetAllAnswers" data-subfunction="reset">Retry</button>
+	<button data-function="revealAllAnswers" data-subfunction="reveal">Reveal Answer</button>
+	<button data-function="print" data-subfunction="print"<%=itu.dirltr()%>><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+</script>
+
+<script type="text/template" id="common-ui-text-page-display">
+	<span class="visuallyhidden">Question</span><%=index%> of <%=total%>
+</script>
+
+
+

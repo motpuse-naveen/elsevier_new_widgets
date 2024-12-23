@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="ec2057b8-fa29-43d4-b765-3310a46ea425">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_review_sheet.png" data-handler-handled="true"/&gt; &lt;/span&gt;&lt;span style="color:#D81E5D;"&gt;REVIEW SHEET&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0b24d94f-bc6f-4858-b873-ff02c270a928">
+    <STATIC_text>
+  <text>&lt;p&gt;Write the meanings of the word parts in the spaces provided. Check your answers with the information in the chapter or in the &lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;&lt;strong&gt;Glossary &lt;/strong&gt;&lt;/a&gt;&lt;em&gt;&lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;&lt;strong&gt;(Medical Word Parts—English)&lt;/strong&gt;&lt;/a&gt; &lt;/em&gt;at the end of the book.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cabd9d1c-8f7c-4c0d-b8d3-a827972671c8">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Combining Forms</text>
+</STATIC_heading>
+  </block>
+  <block refid="685bc942-59d8-4be3-bf3c-99c5d8c536b8">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;: Click or tap on the &lt;em&gt;plus&lt;/em&gt; sign to reveal the opposite side of the card.  &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="aba675c0-c2a2-4f80-a986-f472f2c82aa8">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;bas/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;bas/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;base (alkaline)&amp;quot;}"&gt;base (alkaline)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="061b6f1c-ec63-4efb-9975-c59beaa780a6">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;chrom/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;chrom/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;color&amp;quot;}"&gt;color&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="9105a0f5-77ff-48c4-b851-d39e59a7a8d1">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;coagul/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;coagul/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;clotting&amp;quot;}"&gt;clotting&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="39de28bf-84af-4540-bb69-bad749dadd94">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;cyt/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;cyt/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;cell&amp;quot;}"&gt;cell&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7aab369b-0a5d-4406-b39c-bde17227006e">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;eosin/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;eosin/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;red, dawn, rosy&amp;quot;}"&gt;red, dawn, rosy&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c1b5b37e-89f9-4493-98a0-9e9ec36cc5f6">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;erythr/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;erythr/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;red&amp;quot;}"&gt;red&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f0e039ec-615e-4f2b-91e3-2d18fa8d5c58">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;fibrin/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;fibrin/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;fiber&amp;quot;}"&gt;fiber&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2bc1ac7a-e2d0-4bfc-91b3-b86fd894d2e9">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;granul/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;granul/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;granules&amp;quot;}"&gt;granules&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c8c3494b-b3a7-4e09-b3bc-dad2a603c937">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;hem/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;hem/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;blood&amp;quot;}"&gt;blood&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="267307ff-2a42-4eec-886c-30d11246efda">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;hemat/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;hemat/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;blood&amp;quot;}"&gt;blood&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5327c5ad-f7cd-47b0-8098-60b62185a5aa">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;hemoglobin/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;hemoglobin/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;hemoglobin&amp;quot;}"&gt;hemoglobin&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="da1d67a3-e546-41c8-8c9a-d930503e9b66">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;is/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;is/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;same, equal&amp;quot;}"&gt;same, equal&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="549ce140-45aa-470b-a83f-eefcfe1a79af">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;kary/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;kary/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;nucleus&amp;quot;}"&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="11ecb5cf-883c-4d75-bcdd-a8cc661d2d9c">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;leuk/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;leuk/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;white&amp;quot;}"&gt;white&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b3512171-6689-4802-9f70-a74d64be58a3">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;mon/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;mon/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;one, single&amp;quot;}"&gt;one, single&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="18253a31-2f51-457e-820a-9b82167eddfd">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;morph/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;morph/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;shape, form&amp;quot;}"&gt;shape, form&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="08709660-e2c5-4090-b08f-626398251be5">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;myel/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;myel/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;bone marrow&amp;quot;}"&gt;bone marrow&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="be45221a-8a9a-4b19-9d16-02a1da7d9ca1">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;neutr/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;neutr/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;neutral (neither base nor acid)&amp;quot;}"&gt;neutral (neither base nor acid)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b20db8c7-e880-44ee-a8d0-3739dc544c07">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;nucle/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;nucle/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;nucleus&amp;quot;}"&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="d0b5f763-37a9-491f-a337-8aa6c432d6a9">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;phag/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;phag/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;eat, swallow&amp;quot;}"&gt;eat, swallow&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c69c1fe0-de75-43eb-8a69-ebe1109f38af">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;poikil/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;poikil/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;varied, irregular&amp;quot;}"&gt;varied, irregular&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="72191874-f72f-4d92-b32c-76d833c954f7">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;sider/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;sider/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;iron&amp;quot;}"&gt;iron&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e3d0414d-9a9c-470c-9e46-bdeb1d32fb69">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;spher/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;spher/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;globe, round&amp;quot;}"&gt;globe, round&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="da6c4ce2-0777-4b68-a92e-00c59f401450">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;thromb/o&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;thromb/o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;clot&amp;quot;}"&gt;clot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c16947e6-9238-4272-859b-9967fd41d95e">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Suffixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="d0c077b5-8977-42d5-8b98-f92bccf10194">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-apheresis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-apheresis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;removal and carrying away&amp;quot;}"&gt;removal and carrying away&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="783bcfc6-4fd7-426a-8d38-ec24cedcd0ff">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-blast&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-blast&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;immature cell, embryonic&amp;quot;}"&gt;immature cell, embryonic&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e4022016-c7ce-4882-bf00-5b3d3a7f1ec4">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-cytosis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-cytosis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;abnormal condition in cells (increase in cells)&amp;quot;}"&gt;abnormal condition in cells (increase in cells)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2dc28a5d-441d-4fa3-8111-d2a097a99d30">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-emia&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-emia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;blood condition&amp;quot;}"&gt;blood condition&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f294f456-c79a-41ee-bacf-f91b3a6e558f">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-gen&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-gen&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;giving rise to&amp;quot;}"&gt;giving rise to&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7af43836-187a-4a25-aaca-939696534651">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-globin&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-globin&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;protein&amp;quot;}"&gt;protein&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="9abaf916-bff0-4187-b3c2-1218914c18da">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-globulin&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-globulin&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;protein&amp;quot;}"&gt;protein&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7dffdb6d-0881-4f7f-87d7-be759d1555a9">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-lytic&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-lytic&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;pertaining to destruction&amp;quot;}"&gt;pertaining to destruction&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="44f068b4-adba-44f8-b741-04ae5288184d">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-oid&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-oid&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;derived from or originating from&amp;quot;}"&gt;derived from or originating from&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="30aa3045-1648-4736-8dd7-8133fb16ece5">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-osis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-osis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;abnormal condition&amp;quot;}"&gt;abnormal condition&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="dfbe4daa-51b7-4347-a049-03362c8ff9fe">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-penia&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-penia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;deficiency&amp;quot;}"&gt;deficiency&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="97f98e77-3a0a-42ba-8a32-26b9f7b5bb73">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-phage&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-phage&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;eat, swallow&amp;quot;}"&gt;eat, swallow&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="75a4ca46-1e06-4939-9a1b-be3f9f65538c">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-philia&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-philia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;attraction for (increase in cell numbers)&amp;quot;}"&gt;attraction for (increase in cell numbers)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="34062ca5-5a33-4d81-8a90-21e8878faf0a">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-phoresis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-phoresis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;carrying, transmission&amp;quot;}"&gt;carrying, transmission&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="a725f3a6-5cb9-4d8e-8193-7da1365b5d2b">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-plasia&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-plasia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;development; formation; growth&amp;quot;}"&gt;development; formation; growth&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c76c62da-b67f-4694-b247-220cbeae98a6">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-poiesis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-poiesis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;formation&amp;quot;}"&gt;formation&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="4d54c0fa-c3c7-41cf-97a7-1d916e8739a3">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;-stasis&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;-stasis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;stop, control&amp;quot;}"&gt;stop, control&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e4eed47b-39e6-451e-9847-5cdb9807770b">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Prefixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="e43210c2-a051-4fb8-a61e-9be90eae550c">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;a-, an-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;a-, an-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;no; not; without&amp;quot;}"&gt;no; not; without&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="6f9763b0-a201-4c47-a8b8-b37c476c2ffa">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;anti-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;anti-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;against&amp;quot;}"&gt;against&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="fc96080c-1b26-4592-9936-1624547323a2">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;hypo-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;hypo-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;deficient, under&amp;quot;}"&gt;deficient, under&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="53442de4-d120-4096-ab9e-38d4b83ebbb0">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;macro-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;macro-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;large&amp;quot;}"&gt;large&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1dc4f209-4cd1-4a1a-b438-dab4ff44fc20">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;mega-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;mega-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;large&amp;quot;}"&gt;large&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c8ca94b0-7f91-4f1c-9670-d7407ac53088">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;micro-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;micro-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;small&amp;quot;}"&gt;small&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1385577e-34e8-4af9-b825-4b95accb93db">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;mono-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;mono-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;one; single&amp;quot;}"&gt;one; single&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="c171ec03-6f3e-4ab0-9d8b-23f8b534db34">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;pan-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;pan-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;all&amp;quot;}"&gt;all&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="3f8f8e71-1d02-421d-952c-58ac0690263c">
+    <HIDESHOW>
+  <header>
+    <title>&lt;table border="0" cellpadding="0" cellspacing="0" width="121"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="121" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;poly-&amp;quot;}" data-sheets-numberformat="{&amp;quot;1&amp;quot;:1}"&gt;poly-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;table border="0" cellpadding="0" cellspacing="0" width="309"&gt;&lt;tbody&gt;&lt;tr height="22"&gt;&lt;td height="22" width="309" data-sheets-value="{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;many; much&amp;quot;}"&gt;many; much&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e81f1a62-9f4e-4d29-927b-1d862cbb9213">
+    <STATIC_hr-divider/>
+  </block>
+  <block refid="4e7973a1-9c48-495f-950a-b0f333bd4c2d">
+    <STATIC_text>
+  <text>&lt;p&gt;Please visit the Evolve website for additional exercises, games, and images related to this chapter.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

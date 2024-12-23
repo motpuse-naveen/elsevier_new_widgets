@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="64949a58-4872-4b29-9302-e13d16d5f037">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4fab0dfb-d429-4fc7-94a5-72afe3797495">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;eye&lt;/strong&gt; and the &lt;strong&gt;ear&lt;/strong&gt; are sense organs, like the skin, taste buds, and &lt;strong&gt;olfactory&lt;/strong&gt; (centers of smell in the nose) regions. As such, they are receptors whose sensitive cells may be activated by a particular form of energy or stimulus in the external or internal environment. The sensitive cells in the eye and ear respond to the stimulus by initiating a series of nerve impulses along sensory nerve fibers that lead to the brain.&lt;/p&gt;&lt;p&gt;No matter what stimulus affects a particular receptor, the resulting sensation is determined by regions in the brain connected to that receptor. Thus, mechanical injury that stimulates receptor cells in the eye and the ear may produce sensations of vision (flashes of light) and sound (ringing in the ears). If a workable connection could be made between the sensitive receptor cells of the ear and the area in the brain associated with sight, it would be possible to “see” sounds.&lt;/p&gt;&lt;p&gt;Figure 17-1 reviews the general pattern of events that occur when such stimuli as light and sound are received by sense organs such as the eye and the ear.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2dd8308f-f6cd-4e06-a968-a02676cd7df6">
+    <STATIC_figure>
+  <image>chp00017_f017-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt; FIGURE 17-1&lt;/span&gt; &lt;strong&gt;Pattern of events in the stimulation of a sense organ.&lt;/strong&gt;    &lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

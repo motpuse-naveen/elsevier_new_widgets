@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="8a4b6fc8-c1ae-4441-ba02-8968e21b473e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PLANES OF THE BODY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f92ce9e8-65e4-46d7-8297-9275eefda1c2">
+    <STATIC_text>
+  <text>&lt;p&gt;A &lt;strong&gt;plane&lt;/strong&gt; is an imaginary flat surface. Label Figure 2-18 to identify the following planes of the body:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3408f455-df41-41e9-8f20-27f3fe5e8b0d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component c-table--fixed" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;PLANE&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;LOCATION&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Frontal (coronal) plane&lt;/strong&gt; [1]&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Vertical plane dividing the body or structure into anterior and posterior portions.&lt;/strong&gt; A common chest x-ray view is a PA (posteroanterior—viewed from back to front) view, which is in the frontal (coronal) plane. See Figure 2-18.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sagittal (lateral) plane&lt;/strong&gt; [2]&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Lengthwise vertical plane dividing the body or structure into right and left sides&lt;/strong&gt;. The &lt;strong&gt;midsagittal &lt;/strong&gt;plane divides the body into right and left halves. A lateral (side-to-side) chest x-ray film is taken in the sagittal plane.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;T&lt;strong&gt;ransverse (axial) plane&lt;/strong&gt; [3]&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Horizontal (cross-sectional) plane running across the body parallel to the ground.&lt;/strong&gt; This cross-sectional plane divides the body or structure into upper and lower portions. A CT (computed tomography) scan is one of a series of x-ray pictures taken in the transverse (axial or cross-sectional) plane.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b8626850-ce95-4139-95c5-df94cee870e3">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-18.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-18&lt;/span&gt; Planes of the body. &lt;/strong&gt;The figure is in the &lt;strong&gt;anatomic position&lt;/strong&gt;. Note the views of the body represented by each plane.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[Frontal (coronal) plane]&lt;/li&gt;&lt;li&gt;[Sagittal (lateral) plane]&lt;/li&gt;&lt;li&gt;[Transverse (axial) plane]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="fae9a310-99d2-4681-9ec5-a60ee661b91f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION 5&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="273c75e4-5a43-47a3-a141-4fd7d0819f39">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term, and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="19bf0cd3-8ca2-4f16-89c8-a97d5a903b04">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;anterior (ventral)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Front surface of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;deep&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Away from the surface.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;distal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Far from the point of attachment to the trunk or far from the beginning of a structure.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;frontal (coronal) plane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vertical plane dividing the body or structure into anterior and posterior portions.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;inferior&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Below another structure; pertaining to the lower portion of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lateral&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pertaining to the side.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;medial&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pertaining to the middle or near the medial plane of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;posterior (dorsal)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Back surface of the body.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;prone&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying on the belly (face down, palms down).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;proximal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Near the point of attachment to the trunk or near the beginning of a structure.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sagittal (lateral) plane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lengthwise, vertical plane dividing the body or structure into right and left sides. From the Latin &lt;em&gt;sagitta&lt;/em&gt;, meaning arrow. As an arrow is shot from a bow it enters the body in the sagittal plane, dividing right from left. The &lt;strong&gt;midsagittal &lt;/strong&gt;plane divides the body into right and left halves.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;superficial&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;On the surface.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;superior (cephalic)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Above another structure; pertaining to the head.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;supine&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lying on the back (face up, palms up).&lt;strong&gt; &lt;strong&gt;&lt;span style="color:#D24634;"&gt;*&lt;/span&gt; &lt;/strong&gt;HINT: &lt;/strong&gt;Lying supine is on your spine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;transverse (axial) plane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Horizontal (cross-sectional) plane dividing the body into upper and lower portions.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,2392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="78fcc611-516a-4355-97e4-bcae37662d1b">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0e352e02-fbf4-4914-b7ad-5a34e8cd5c95">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;strong&gt;&lt;span style="color:#CA500F;"&gt;DOS AND DON’TS OF TAKING MEDICINES&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3039cf10-0ca6-4c0f-83d6-f870c22b901d">
+    <STATIC_text>
+  <text>&lt;p&gt;Select DO or DON’T for the following scenarios.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="05156fb6-4e97-416c-a418-366a623a0362">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt; 1. If your medicine prescription label says: 1 tab PO a.c., you take it before meals.&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;:  DO (a.c. means &lt;em&gt;ante cibum&lt;/em&gt; “before meals”. Some medications are better absorbed on an empty stomach, such as 1 hour before eating or 2 hours after eating. READ labels carefully!)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="02e6187f-2888-4578-ac6b-4bd65a39ad1a">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;2. If your medicine prescription label says: 1 PO qPM prn pain, you take it every morning.&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;:  DON’T (qPM means “every evening” and PRN means “when needed.”)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="ebb5abad-033a-4c3d-9b98-9331dc54de6f">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;3. If you feel 100% better, skip the last few doses of antibiotic medication.   &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Antibiotics work best when an optimal blood level of the drug is reached and then maintained for a period of time. If you stop your course of treatment early, you may prevent complete eradication of infection. Finish your entire course of medication and call your doctor if you are not feeling better.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="5684f9e2-c2b0-4ea6-a241-c95e803eb352">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;4. Lend a friend your pills if she has the same condition or is taking the same medication. &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (People take different doses of medications and for different reasons. NEVER SHARE. Any mistake could have serious side effects.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="d17257eb-7613-492f-bddc-9b2a3796bc81">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;5. You may take your cholesterol-lowering statin pill with grapefruit juice.   &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Grapefruit juice increases blood levels of Lipitor that may lead to toxic side effects such as liver and muscle damage.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="11ff5e34-43d3-461a-8966-14c6016baf7a">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;6. It’s a good idea to take your ACE inhibitor (blood pressure medication) with bananas.&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Bananas contain potassium, and ACE inhibitors cause the body to retain potassium. If you combine the two, you may end up with a dangerously high level of potassium in the blood.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="6d448180-95d5-4c48-9cc7-0624917944d4">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;7. Add vegetables like kale, mustard greens, and spinach to your diet when you are taking the anticoagulant warfarin (Coumadin).&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Kale and similar vegetables are rich in vitamin K. Warfarin works as an anticoagulant by decreasing the activity of vitamin K, which is necessary for clotting. Therefore, kale and other vegetables can counteract the anti-clotting beneﬁts of warfarin.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="94abcb6d-e404-46a9-8429-b39880473ffc">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;8. After taking your heart medicine digoxin, you may enjoy a treat of black licorice.&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Black licorice, or glycyrrhiza glabra, decreases potassium levels in the body. Low potassium levels can increase the side effects that may occur with digoxin usage. These side effects are nausea, vomiting, headache, loss of appetite and diarrhea.)&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="14888155-9e70-4f87-8c90-717f110fd3a2">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;9. Enjoy a glass or two of wine when you are taking the antibiotic Flagyl (metronidazole).&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Flagyl interferes with how alcohol is eliminated from the body and results in gastrointestinal symptoms like nausea and vomiting.) &lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="8554e229-8eba-43d9-a14d-45044be13a4d">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;10. Eat walnuts, Brazil nuts, soybean ﬂour, or foods with high ﬁber content when you are taking thyroid medication (levothyroxine).&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>DO </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>DON’T</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;em&gt;Answer&lt;/em&gt;: DON’T (Walnuts, Brazil nuts, soybean ﬂ our, and high-ﬁ ber foods can prevent your body from absorbing thyroid medication.) &lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="6a2b8d67-b5fb-488d-bb09-f666101fb648">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;PRESCRIPTIONS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8c08cf86-1518-4bfc-a6bd-dd7275766ad2">
+    <STATIC_text>
+  <text>&lt;p&gt;The usual order of drug prescription information is as follows: name of the drug, dosage, route of administration, timing of administration. Frequently, the physician will include a qualifying phrase to indicate why the prescription is being written. Not all information is listed with every prescription.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5288798d-40b0-474c-bb28-dac376ce0eef">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;a. Fluoxetine (Prozac) 20 mg PO b.i.d.&lt;br/&gt;b. Lisinopril (Zestril) 20 mg 1 cap qAM&lt;br/&gt;c. Ondansetron (Zofran) 4 mg 1 tab/cap t.i.d. p.r.n. for nausea&lt;br/&gt;d. Cimetidine (Tagamet) 200 mg 1 tab p.c. t.i.d.&lt;br/&gt;e. Olanzapine (Zyprexa) 5 mg 1 tab qPM&lt;br/&gt;f. Acetaminophen (300 mg) &amp;amp; codeine (30 mg) 1 tab q.i.d. p.r.n. for pain&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. anti-GERD drug taken after meals 3 times a day [d]&lt;br/&gt;2. Tylenol with a narcotic taken 4 times a day as needed [f]&lt;br/&gt;3. antidepressant taken by mouth twice a day [a]&lt;br/&gt;4. antiemetic taken 3 times a day as needed [c]&lt;br/&gt;5. antihypertensive taken every morning [b]&lt;br/&gt;6. antipsychotic, one tablet every evening [e]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Match the prescriptions as written with the explanations that follow. &lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="007a376e-42d6-48ef-a1c1-9627cd38dda5">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CONTROLLED SUBSTANCES&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="018764e9-49f4-428c-ae31-2d5fc7e4e267">
+    <STATIC_text>
+  <text>&lt;p&gt;Controlled substances are drugs regulated under existing federal law. The substances are divided into five classes (schedules) based on the substance’s medicinal value, harmfulness, and potential for abuse or addiction. Schedule I includes the most dangerous drugs that have no recognized medicinal use, and Schedule V includes the least dangerous drugs. The following table lists examples of drugs in each class with their type, trade and/or “street” names, and medical uses.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5899b339-34bd-4278-91bf-12dd62ec5405">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;DRUG&lt;/th&gt;&lt;th scope="col"&gt;TYPE&lt;/th&gt;&lt;th scope="col"&gt; TRADE OR OTHER NAME(S)&lt;/th&gt;&lt;th scope="col"&gt;MEDICAL USE(S)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;Class (Schedule) I&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;heroin&lt;/td&gt;&lt;td&gt;narcotic&lt;/td&gt;&lt;td&gt;diacetylmorphine, horse, smack&lt;/td&gt;&lt;td&gt;None &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;LSD (lysergic acid diethylamide)&lt;/td&gt;&lt;td&gt;hallucinogen&lt;/td&gt;&lt;td&gt;acid, microdot &lt;/td&gt;&lt;td&gt;None &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;mescaline, peyote&lt;/td&gt;&lt;td&gt;hallucinogen&lt;/td&gt;&lt;td&gt;mesc, buttons, cactus&lt;/td&gt;&lt;td&gt;None &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;methaqualone&lt;/td&gt;&lt;td&gt;depressant&lt;/td&gt;&lt;td&gt;Quaalude, *Parest&lt;/td&gt;&lt;td&gt;sedative-hypnotic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;MDMA &lt;/td&gt;&lt;td&gt;hallucinogen&lt;/td&gt;&lt;td&gt;ecstasy/Molly&lt;/td&gt;&lt;td&gt;None&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;*Quaaludes have been discontinued in the United States, but methaqualone (ab)use continues owing to Internet availability.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5be1b233-eb88-40f1-b3f5-f0d3ce8218d0">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;DRUG&lt;/th&gt;&lt;th scope="col"&gt;TYPE&lt;/th&gt;&lt;th scope="col"&gt; TRADE OR OTHER NAME(S)&lt;/th&gt;&lt;th scope="col"&gt;MEDICAL USE(S)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;Class (Schedule) II&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;em&gt;Dangerous substances with general medical indications and high potential for abuse and addiction.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;hydromorphone&lt;/td&gt;&lt;td&gt;narcotic &lt;/td&gt;&lt;td&gt;Dilaudid &lt;/td&gt;&lt;td&gt;analgesic &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;meperidine &lt;/td&gt;&lt;td&gt;narcotic &lt;/td&gt;&lt;td&gt;Demerol &lt;/td&gt;&lt;td&gt;analgesic &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cocaine &lt;/td&gt;&lt;td&gt;stimulant &lt;/td&gt;&lt;td&gt;coke, ﬂake, snow &lt;/td&gt;&lt;td&gt;local anesthetic &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;methylphenidate&lt;/td&gt;&lt;td&gt;stimulant &lt;/td&gt;&lt;td&gt;Ritalin &lt;/td&gt;&lt;td&gt;hyperkinesis &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;oxycodone &lt;/td&gt;&lt;td&gt;narcotic &lt;/td&gt;&lt;td&gt;Tylox, Percodan, OxyContin, OC, OX, Oxy&lt;/td&gt;&lt;td&gt;analgesic, pain management&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;crystal methamphetamine&lt;/td&gt;&lt;td&gt;stimulant &lt;/td&gt;&lt;td&gt;crystal meth, ice&lt;/td&gt;&lt;td&gt;weight control&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;phencyclidine &lt;/td&gt;&lt;td&gt;hallucinogen &lt;/td&gt;&lt;td&gt;PCP, angel dust, hog &lt;/td&gt;&lt;td&gt;veterinary anesthetic &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;opium &lt;/td&gt;&lt;td&gt;narcotic &lt;/td&gt;&lt;td&gt;Dover ’ s powder, paregoric &lt;/td&gt;&lt;td&gt;analgesic, antidiarrheal &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;barbiturates &lt;/td&gt;&lt;td&gt;narcotic &lt;/td&gt;&lt;td&gt;amobarbital (Amytal), pentobarbital (Nembutal), secobarbital (Seconal)&lt;/td&gt;&lt;td&gt;anesthetic, anticonvulsant, sedative-hypnotic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;amphetamines&lt;/td&gt;&lt;td&gt;stimulant&lt;/td&gt;&lt;td&gt;Dexedrine, Desoxyn&lt;/td&gt;&lt;td&gt;weight control, narcolepsy&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="cddef09a-eb91-433b-84b7-af9e5f8b9841">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;DRUG&lt;/th&gt;&lt;th scope="col"&gt;TYPE&lt;/th&gt;&lt;th scope="col"&gt; TRADE OR OTHER NAME(S)&lt;/th&gt;&lt;th scope="col"&gt;MEDICAL USE(S)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;Class (Schedule) III&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;em&gt;Carries less potential for abuse, but casual use can lead to psychological addiction and dependence.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;anabolic steroids&lt;/td&gt;&lt;td&gt;male sex hormones&lt;/td&gt;&lt;td&gt;testosterone, Anavar, Winstrol, Dianabol&lt;/td&gt;&lt;td&gt;hormone deﬁciency, increasing muscle mass&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;barbiturates&lt;/td&gt;&lt;td&gt;depressant&lt;/td&gt;&lt;td&gt;aprobarbital (Alurate), butalbital (Fiorinal), butabarbital (Butisol)&lt;/td&gt;&lt;td&gt;anesthetic, anticonvulsant, sedative-hypnotic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;codeine&lt;/td&gt;&lt;td&gt;narcotic&lt;/td&gt;&lt;td&gt;codeine&lt;/td&gt;&lt;td&gt;analgesic, antitussive&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3728d0fc-8ed8-47e8-b37d-56c2b6fa2dde">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;DRUG&lt;/th&gt;&lt;th scope="col"&gt;TYPE&lt;/th&gt;&lt;th scope="col"&gt; TRADE OR OTHER NAME(S)&lt;/th&gt;&lt;th scope="col"&gt;MEDICAL USE(S)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;Class (Schedule) IV&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;em&gt;Carries low potential for abuse but a risk of psychological or limited physical dependence.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;barbiturates &lt;/td&gt;&lt;td&gt;depressant &lt;/td&gt;&lt;td&gt;phenobarbital &lt;/td&gt;&lt;td&gt;anesthetic, anticonvulsant, sedative-hypnotic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;benzodiazepines &lt;/td&gt;&lt;td&gt;minor tranquilizer&lt;/td&gt;&lt;td&gt;lorazepam (Ativan), diazepam (Valium), chlordiazepoxide (Librium), clonazepam (Klonopin), triazolam (Halcion), alprazolam (Xanax)&lt;/td&gt;&lt;td&gt;antianxiety, sedative-hypnotic, anticonvulsant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;nonbenzodiazepine agent&lt;/td&gt;&lt;td&gt;hypnotic&lt;/td&gt;&lt;td&gt;eszopiclone (Lunesta)&lt;/td&gt;&lt;td&gt;insomnia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="71a12de0-c31d-402e-9662-66bb49a81c37">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;Class (Schedule) V&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="4"&gt;&lt;em&gt;This class includes codeine preparations &lt;/em&gt;(Robitussin A-C)&lt;em&gt; and opium/opioid preparations (Kapectolin PG—antidiarrheal, Lomotil—antidiarrheal, Motofen—antidiarrheal).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

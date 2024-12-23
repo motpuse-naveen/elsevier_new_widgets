@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="aef30dcc-3b54-4dca-9d6f-60f6ee115272">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ORGANS OF THE FEMALE REPRODUCTIVE SYSTEM&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="66ddc56c-c500-46ff-b9fe-5d305ee062a8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;UTERUS, OVARIES, AND ASSOCIATED ORGANS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="17ca406f-d697-4e1b-907e-4f462af22682">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figures 8-1 and 8-3 as you read the following description of the female reproductive system.&lt;/p&gt;&lt;p&gt;Figure 8-1 shows a side view of the female reproductive organs and their relationship to other organs in the pelvic cavity. The &lt;strong&gt;ovaries&lt;/strong&gt; [1] (only one ovary is shown in this lateral view) are a pair of small almond-shaped organs located in the pelvis. The &lt;strong&gt;fallopian tubes&lt;/strong&gt; [2] (only one is shown in this view) lead from each ovary to the &lt;strong&gt;uterus&lt;/strong&gt; [3], which is a fibromuscular organ situated between the urinary bladder and the rectum. The uterus normally is the size and shape of a pear and is about 3 to 4 inches long in a nonpregnant woman. Midway between the uterus and the rectum is a region in the abdominal cavity known as the &lt;strong&gt;cul-de-sac&lt;/strong&gt; [4].&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="59b93d49-9290-4fb0-8bae-89c1ca422e4f">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_8.1.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-1 &lt;/span&gt;Organs of the female reproductive system&lt;/strong&gt;, lateral view.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[ovaries]&lt;/li&gt;&lt;li&gt;[fallopian tubes]&lt;/li&gt;&lt;li&gt;[uterus]&lt;/li&gt;&lt;li&gt;[cul-de-sac]&lt;/li&gt;&lt;li&gt;[vagina]&lt;/li&gt;&lt;li&gt;[Bartholin glands]&lt;/li&gt;&lt;li&gt;[clitoris]&lt;/li&gt;&lt;li&gt;[perineum]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="2a4681a5-d7aa-4219-91de-510b3b352450">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;vagina&lt;/strong&gt; [5], a tubular structure, extends from the uterus to the exterior of the body. &lt;strong&gt;Bartholin glands&lt;/strong&gt; [6] are two small, rounded glands on either side of the vaginal orifice. These glands produce a mucous secretion that lubricates the vagina. The &lt;strong&gt;clitoris&lt;/strong&gt; [7] is an organ of sensitive, erectile tissue located anterior to the vaginal orifice (opening) and in front of the urethral orifice. The region between the vaginal orifice and the anus is the &lt;strong&gt;perineum&lt;/strong&gt; [8].&lt;/p&gt;&lt;p&gt;The external genitalia of the female are collectively called the &lt;strong&gt;vulva&lt;/strong&gt;. Figure 8-2 shows the various structures that are part of the vulva. The &lt;strong&gt;labia majora&lt;/strong&gt;, the outer lips of the vagina, surround the smaller, inner lips, the &lt;strong&gt;labia minora&lt;/strong&gt;. The &lt;strong&gt;hymen&lt;/strong&gt; is a thin membrane covering the entrance to the vagina. The clitoris and Bartholin glands also are parts of the vulva.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="792100e0-2ea6-47ab-9dd4-697c7e93d9fd">
+    <STATIC_figure>
+  <image>FIG_8.2.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-2 &lt;/span&gt;&lt;strong&gt;Female external genitalia (vulva)&lt;/strong&gt;. The mons pubis (Latin &lt;em&gt;mons&lt;/em&gt;, mountain) is a pad of tissue overlying the pubic symphysis. After puberty it is covered with pubic hair.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3baec505-123b-4f67-b5d3-9585363a1673">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 8-3 shows an anterior view of the female reproductive system. Each &lt;strong&gt;ovary&lt;/strong&gt; [1] is held in place on either side of the uterus by a &lt;strong&gt;utero-ovarian ligament&lt;/strong&gt; [2].&lt;/p&gt;&lt;p&gt;Within each ovary are thousands of small sacs—the &lt;strong&gt;ovarian follicles&lt;/strong&gt; [3]. Each follicle contains an &lt;strong&gt;ovum&lt;/strong&gt; [4]. During ovulation, an ovum matures; its follicle ruptures through the surface and releases the ovum from the ovary. A ruptured follicle fills with a yellow, fat-like material. It is then called the &lt;strong&gt;corpus luteum&lt;/strong&gt; [5], meaning yellow body. The corpus luteum secretes hormones (both estrogen and progesterone) that maintain the very first stages of pregnancy.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;fallopian tube&lt;/strong&gt; [6] is about 5 1/2 inches long and lies near each ovary. Collectively, the fallopian tubes, ovaries, and supporting ligaments are the &lt;strong&gt;adnexa&lt;/strong&gt; (accessory structures) of the uterus. The finger-like ends of the fallopian tube are the &lt;strong&gt;fimbriae&lt;/strong&gt; [7]. They catch the egg after its release from the ovary. &lt;strong&gt;Cilia&lt;/strong&gt; (small hairs) line the fallopian tube and, through their motion, sweep the ovum toward the uterus. It usually takes the ovum about 2 to 3 days to pass through the fallopian tube.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e5c9068a-aec8-4386-bf45-ea5179258334">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>FIG_8.3.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 8-3&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Organs of the female reproductive system&lt;/strong&gt;, anterior view.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[ovary]&lt;/li&gt;&lt;li&gt;[utero-ovarian ligament]&lt;/li&gt;&lt;li&gt;[ovarian follicles]&lt;/li&gt;&lt;li&gt;[ovum]&lt;/li&gt;&lt;li&gt;[corpus luteum]&lt;/li&gt;&lt;li&gt;[fallopian tube]&lt;/li&gt;&lt;li&gt;[fimbriae]&lt;/li&gt;&lt;li&gt;[uterus]&lt;/li&gt;&lt;li&gt;[endometrium]&lt;/li&gt;&lt;li&gt;[myometrium]&lt;/li&gt;&lt;li&gt;[perimetrium (uterine serosa)]&lt;/li&gt;&lt;li&gt;[cervix]&lt;/li&gt;&lt;li&gt;[vagina]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5556181e-dc9e-4ea7-8b63-7f98b07c73db">
+    <STATIC_text>
+  <text>&lt;p&gt;If sperm cells are present in the fallopian tube, fertilization may occur (Figure 8-4). If sperm cells are not present, the ovum remains unfertilized and eventually disintegrates.&lt;/p&gt;&lt;p&gt;The fallopian tubes, one on each side, lead into the &lt;strong&gt;uterus&lt;/strong&gt; [8], a pear-shaped organ with muscular walls and a mucous membrane lining filled with a rich supply of blood vessels. The rounded upper portion of the uterus is the &lt;strong&gt;fundus&lt;/strong&gt;, and the larger, central section is the &lt;strong&gt;corpus&lt;/strong&gt; (body of the organ). The inner layer, a specialized epithelial mucosa of the uterus is the &lt;strong&gt;endometrium&lt;/strong&gt; [9]; the middle, muscular layer of the uterine wall is the &lt;strong&gt;myometrium&lt;/strong&gt; [10]; and the outer, membranous tissue layer is the &lt;strong&gt;perimetrium (uterine serosa)&lt;/strong&gt; [11], a lining that produces a watery, serum-like secretion. The outermost layer of an organ in the abdomen or thorax is also known as a serosa.&lt;/p&gt;&lt;p&gt;The narrow, lowermost portion of the uterus is the &lt;strong&gt;cervix&lt;/strong&gt; [12] (Latin &lt;em&gt;cervix &lt;/em&gt;means neck). The cervical opening leads into a 3-inch-long muscular, mucosa-lined canal called the &lt;strong&gt;vagina&lt;/strong&gt; [13], which opens to the outside of the body.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a30839e4-d3cf-41ab-8e9c-6613ac7aacbe">
+    <STATIC_figure>
+  <image>FIG_8.4.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-4 &lt;/span&gt;&lt;strong&gt;Fertilization. A,&lt;/strong&gt; Once a single sperm cell has penetrated the ovum, others are prevented from entering. &lt;strong&gt;B,&lt;/strong&gt; Electromicrograph showing a sperm cell penetrating an ovum.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="132614aa-d08d-4c28-93d7-5e1d2212c0e2">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;THE BREAST (ACCESSORY ORGAN OF REPRODUCTION)&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5c591609-efef-4d70-a768-a2ea9b2adda6">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 8-5 as you read the following description of breast structures.&lt;/p&gt;&lt;p&gt;The breasts, located on the upper anterior region of the chest, are composed mostly of &lt;strong&gt;mammary glands&lt;/strong&gt;. The &lt;strong&gt;glandular tissue&lt;/strong&gt; [1] contains milk glands that develop in response to hormones from the ovaries during puberty. The breasts also contain &lt;strong&gt;fibrous&lt;/strong&gt; and &lt;strong&gt;fatty tissue&lt;/strong&gt; [2], special &lt;strong&gt;lactiferous&lt;/strong&gt; (milk-carrying) &lt;strong&gt;ducts&lt;/strong&gt; [3], and &lt;strong&gt;sinuses&lt;/strong&gt; (cavities) [4] that carry milk to the nipple, which has small openings for the ducts to release their milk. The breast nipple is the &lt;strong&gt;mammary papilla&lt;/strong&gt; [5], and the dark pigmented area around the mammary papilla is the &lt;strong&gt;areola&lt;/strong&gt; [6].&lt;/p&gt;&lt;p&gt;During pregnancy the hormones from the ovaries and the placenta stimulate glandular and other tissues in the breasts to their full development. After &lt;strong&gt;parturition&lt;/strong&gt; (giving birth), hormones from the pituitary gland stimulate the normal secretion of milk (&lt;strong&gt;lactation&lt;/strong&gt;).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="73aca0b6-ebc1-451b-96e1-d069f93be657">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_8.5.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 8-5&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Views of the breast&lt;/strong&gt;. &lt;strong&gt;A,&lt;/strong&gt; Sagittal. &lt;strong&gt;B,&lt;/strong&gt; Frontal. Notice the numerous lymph nodes.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[glandular tissue]&lt;/li&gt;&lt;li&gt;[fibrous and fatty tissue]&lt;/li&gt;&lt;li&gt;[lactiferous (milk-carrying) ducts]&lt;/li&gt;&lt;li&gt;[sinuses (cavities)]&lt;/li&gt;&lt;li&gt;[mammary papilla]&lt;/li&gt;&lt;li&gt;[areola]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+</blocks>

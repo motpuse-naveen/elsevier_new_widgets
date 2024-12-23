@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b0de93de-3647-4688-a714-584ca43ada28">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY: GYNECOLOGIC, BREAST, PREGNANCY, AND NEONATAL&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="950d918b-eb2b-4d52-9ac2-49098aecf35d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;GYNECOLOGIC&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1e161617-8b02-4538-989f-ee5ac5d83e6a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Uterus&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fa229028-5769-4a55-b43b-69918d0332da">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="white-space: nowrap;"&gt;&lt;p&gt;&lt;strong&gt;cervical cancer&lt;br/&gt;(carcinoma of the cervix)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant cells within the cervix.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Human papillomavirus (HPV) &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;/strong&gt;is the cause and risk factor for developing cancer. Other factors that may act together with HPV to increase the risk of developing cervical cancer include cigarette smoking, having multiple sexual partners, and having a weakened immune system (e.g., patients with AIDS). Human papillomavirus is the most widespread sexually transmitted infection in the world. In countries with high rates of HPV infection, cervical cancer may become the most common cancer in adult women. There are over 200 types of HPV. Some cause &lt;strong&gt;genital warts&lt;/strong&gt; (benign growths on the vulva, cervix, vagina, or anus), whereas others can cause cancer, most commonly of the cervix, vagina, vulva, anus, penis, or head and heck.&lt;/p&gt;&lt;p&gt;Most HPV infections are cleared by a person’s immune system. A persistent infection may lead to precancerous changes called &lt;strong&gt;cervical intraepithelial neoplasia (CIN)&lt;/strong&gt;. See Figure 8-14 showing CIN progression. CIN is also known as cervical &lt;strong&gt;dysplasia&lt;/strong&gt; (abnormal cell growth). &lt;strong&gt;Carcinoma in situ (CIS)&lt;/strong&gt; is considered an early, localized, precancerous form of cervical cancer and local resection (conization) of CIS may be necessary to prevent development of invasive cancer. Figure 8-15 shows a normal cervix and one with cervical cancer.&lt;/p&gt;&lt;p&gt;Surgical treatment for cervical cancer requires &lt;strong&gt;radical hysterectomy&lt;/strong&gt;, in which the entire uterus with ligaments, supportive tissues, and the top one third of the vagina are removed. Radiation therapy and chemotherapy with cisplatin are used to treat disease that has spread beyond the cervix, into neighboring pelvic tissues, and to distant organs. Brachytherapy (radioactive seeds implanted into the cervix) may also be an effective treatment.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="858ff48d-31c6-47d8-8567-1efccff601d2">
+    <STATIC_figure>
+  <image>FIG_8.14.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-14 &lt;/span&gt;Precancerous neoplastic lesions are called cervical &lt;strong&gt;intraepithelial neoplasia (CIN)&lt;/strong&gt;. Pathologists diagnose such lesions from a &lt;strong&gt;Pap test&lt;/strong&gt; (microscopic examination of cells scraped from cervical epithelium) and grade them as CIN-1 to CIN-3. Cervical carcinoma in situ (CIS) is equivalent to CIN-3. These are precancerous lesions that have not yet invaded the substance of the cervix.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c55b2f24-0c2f-4770-9f0e-7b6369ee2440">
+    <STATIC_figure>
+  <image>FIG_8.15.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-15&lt;/span&gt; &lt;strong&gt;Normal cervix (A) and cervix with cervical cancer (B)&lt;/strong&gt; as seen on &lt;strong&gt;colposcopy&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="d80604f7-dda2-4c6c-8a4c-94b3866ee0de">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; HPV Vaccine&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;HPV vaccines are given in a series of three shots over 6 months to protect females and males against HPV infections. Girls can get this vaccine to prevent cervical cancer, vulvar and vaginal cancer, and genital warts. Boys get the vaccine to prevent anal cancer and genital warts. The names of these vaccines are Cervarix, Gardasil, and Gardasil 9.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2fc42e9a-d0a4-42a7-9886-6fd9a5bf854b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cervicitis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inﬂammation of the cervix.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bacteria such as &lt;em&gt;Chlamydia trachomatis&lt;/em&gt; and &lt;em&gt;Neisseria gonorrhoeae&lt;/em&gt; commonly cause cervicitis. In acute cervicitis, the cervix is reddened and can have an exudate (discharge) or even ulcerations.&lt;/p&gt;&lt;p&gt;After the presence of malignancy has been excluded (by Pap test or biopsy), &lt;strong&gt;cryocauterization&lt;/strong&gt; (destroying tissue by freezing) of the diseased area and treatment with antibiotics may be indicated.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;endometrial cancer&lt;br/&gt;(carcinoma of the endometrium) &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the uterine lining (adenocarcinoma).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The most common sign of endometrial cancer is postmenopausal bleeding. This malignancy occurs more often in women exposed to high levels of estrogen, either from estrogen replacement therapy, estrogen-producing tumors, or obesity (estrogen is produced by fat tissue). Physicians perform endometrial biopsy, hysteroscopy, and &lt;strong&gt;dilation&lt;/strong&gt; (widening the cervical canal) and &lt;strong&gt;curettage&lt;/strong&gt; (scraping the inner lining of the uterus) for diagnosis. When the cancer is conﬁned to the uterus, surgery (hysterectomy and bilateral salpingo-oophorectomy) is curative. Radiation oncologists administer radiation therapy as additional treatment.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;endometriosis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Endometrial tissue located outside the uterus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In endometriosis, endometrial tissue may be found in ovaries, fallopian tubes, supporting ligaments, or small intestine, causing inﬂammation and scar tissue. When the endometrium sheds and bleeds in its monthly cycle, it may cause dysmenorrhea or pelvic pain. Infertility (inability to become pregnant) and dyspareunia may also occur. Most cases are the result of growth of bits of menstrual endometrium that have passed backward through the &lt;strong&gt;lumen&lt;/strong&gt; (opening) of the fallopian tube and into the peritoneal cavity. When endometriosis affects the ovaries, large cysts ﬁlled with menstrual blood (“&lt;strong&gt;chocolate cysts&lt;/strong&gt;”) develop. Symptoms may not correlate with the amount of the endometriosis. Women may have extensive disease but no symptoms, while others may have minimal endometriosis but severe symptoms. Treatment ranges from symptomatic relief of pain and hormonal drugs that suppress the menstrual cycle to surgical removal of ectopic endometrial tissue and hysterectomy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ﬁbroids&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Benign tumors in the uterus&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Fibroids, also called &lt;strong&gt;leiomyomata&lt;/strong&gt; or &lt;strong&gt;leiomyomas&lt;/strong&gt; (lei/o = smooth, my/o = muscle, and -oma = tumor), are composed of ﬁbrous tissue and muscle. If ﬁbroids grow and cause symptoms such as metrorrhagia (irregular periods), pelvic pain, or menorrhagia, (heavy periods), either a myomectomy or hysterectomy is indicated. Fibroid ablation (destruction) without surgery may be accomplished by &lt;strong&gt;uterine artery embolization (UAE)&lt;/strong&gt;, in which tiny pellets (acting as emboli) are injected into a uterine artery, blocking the blood supply to ﬁbroids, causing them to shrink. Figure 8-16A and B shows the location of uterine ﬁbroids.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c87b2a42-5ab3-4c51-9862-695ccf4976d1">
+    <STATIC_figure>
+  <image>Fig_8.16.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-16&lt;/span&gt; &lt;strong&gt;A,&lt;/strong&gt; &lt;strong&gt;Location of uterine fibroids (leiomyomas). Pedunculated&lt;/strong&gt; growths protrude on stalks. A &lt;strong&gt;subserosal&lt;/strong&gt; mass lies under the serosal (outermost) layer of the uterus. A &lt;strong&gt;submucosal&lt;/strong&gt; leiomyoma grows under the mucosal (innermost) layer. &lt;strong&gt;Intramural&lt;/strong&gt; (mural means wall) masses arise within the muscular uterine wall. &lt;strong&gt;B, Fibroids&lt;/strong&gt; shown after hysterectectomy.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1ffbd375-cea8-4d73-bb9a-119088688e66">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;em&gt;&lt;strong&gt;&lt;span style="color:#556B04;"&gt;Ovaries&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="657ca942-ed31-440e-b7b5-2af5ed35a02c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ovarian cancer &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the ovary (adenocarcinoma).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Each year, about 22,000 women in the United States are diagnosed with ovarian cancer. Two types of ovarian cancer are most common: &lt;strong&gt;serous&lt;/strong&gt; (clear ﬂuid) and &lt;strong&gt;mucinous&lt;/strong&gt; (thick, pasty ﬂuid) &lt;strong&gt;cystadenocarcinomas&lt;/strong&gt;. The tumor usually is discovered in an advanced stage as an abdominal mass and may produce few symptoms in its early stages. When the disease metastasizes beyond the ovary before diagnosis, &lt;strong&gt;ascites&lt;/strong&gt; (accumulation of ﬂuid in the abdominal cavity) is often present. Treatment consists of surgery to remove as much of the tumor as possible (tumor &lt;strong&gt;debulking&lt;/strong&gt;). This may include hysterectomy, bilateral salpingooophorectomy, and removal of the omentum (fatty tissue that covers abdominal organs and often contains deposits of tumor). Surgery is followed by systemic drug therapy, which is dependent on the type of ovarian cancer. A protein marker produced by tumor cells, CA 125, can be measured in the bloodstream to assess effectiveness of treatment.&lt;/p&gt;&lt;p&gt;Inherited mutations (changes) in genes greatly increase the risk of developing ovarian and breast cancer. These mutations are &lt;em&gt;&lt;strong&gt;BRCA1&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;BRCA2&lt;/strong&gt;&lt;/em&gt; (short for &lt;u&gt;br&lt;/u&gt;east &lt;u&gt;ca&lt;/u&gt;ncer &lt;u&gt;1&lt;/u&gt; and &lt;u&gt;br&lt;/u&gt;east &lt;u&gt;ca&lt;/u&gt;ncer &lt;u&gt;2&lt;/u&gt;). Women with a strong family history of ovarian cancer (with multiple members of the family affected) may seek genetic counseling to determine if they should be tested for these inherited defects. &lt;strong&gt;Prophylactic&lt;/strong&gt; (preventive) &lt;strong&gt;oophorectomy&lt;/strong&gt; signiﬁcantly reduces the odds of developing ovarian cancer if a woman is at high risk.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ovarian cysts&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Fluid-ﬁlled sacs within the ovary.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Some cysts are benign and lined with typical ovarian cells. These cysts originate in unruptured ovarian follicles (follicular cysts) or in follicles that have ruptured and have immediately been sealed (luteal cysts). Other cysts are malignant and lined with tumor cells (&lt;strong&gt;cystadenocarcinomas&lt;/strong&gt;). Physicians decide to remove these cysts to distinguish between benign and malignant tumors. Other benign ovarian cysts are &lt;strong&gt;dermoid cysts&lt;/strong&gt;. They contain a variety of cell types, including skin, hair, teeth, and cartilage, and arise from immature egg cells in the ovary. Because of the strange assortment of tissue types in the tumor (Figure 8-17), this tumor often is called a &lt;strong&gt;benign cystic teratoma&lt;/strong&gt; (terat/o = monster) or a &lt;strong&gt;mature teratoma&lt;/strong&gt;. Surgical removal of the cyst cures the condition.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e87277ad-ce67-4079-8560-bc7966c890e9">
+    <STATIC_figure>
+  <image>page_214_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-17 &lt;/span&gt;&lt;strong&gt;Dermoid cyst of the ovary&lt;/strong&gt; with hair, skin, and teeth. &lt;em&gt;(Courtesy Dr. Elizabeth Chabner Thompson.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="113d702c-b1ed-4f90-8ce6-d6d828b71838">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Fallopian Tubes&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="227e495d-b7e9-4c68-b444-0143260f6921">
+    <STATIC_table>
+  <text>&lt;p&gt; &lt;/p&gt;&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pelvic inﬂammatory disease (PID)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inﬂammation and infection of organs in the pelvis and abdomen; salpingitis, oophoritis, endometritis, endocervicitis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;PID is caused by &lt;strong&gt;sexually transmitted infections&lt;/strong&gt;.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Repetitive episodes of these infections lead to formation of adhesions and scarring within the fallopian tubes. After PID, women have an increased risk of ectopic pregnancy and infertility. Signs and symptoms include fever, vaginal discharge, abdominal pain in the left and right lower quadrants (LLQ and RLQ), and tenderness to &lt;strong&gt;palpation&lt;/strong&gt; (examining by touch) of the cervix. Antibiotics treat PID.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="66be4084-d0d7-4553-9edc-94d1d19d5fdd">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Sexually Transmitted Infections (STIs)&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;Examples of bacterial and viral STIs in women are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;gonorrhea &lt;/strong&gt;(gonococcal bacteria)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;chlamydia&lt;/strong&gt; (chlamydial bacteria)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;syphilis&lt;/strong&gt; (spirochete bacteria)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;genital herpes&lt;/strong&gt; (herpes simplex virus—HSV)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;HPV infection and genital warts&lt;/strong&gt; (human papillomavirus)&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="56a7ac27-9290-42a3-82c7-e9e9befb27cb">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Breast&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="20830eed-4317-47e8-ab51-756a54302939">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;breast cancer&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the breast (arising from milk glands and ducts).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The most common type of breast cancer is &lt;strong&gt;invasive ductal carcinoma (IDC)&lt;/strong&gt;. Invasive means that the tumor has spread to surrounding breast tissue. Figure 8-18A shows the tumor on a mammogram. Figure 8-18B shows a cut section of an invasive ductal carcinoma. Other histopathologic (histo- means tissue) types are &lt;strong&gt;lobular&lt;/strong&gt; and &lt;strong&gt;medullary carcinoma&lt;/strong&gt; of the breast.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ductal carcinoma in situ (DCIS)&lt;/strong&gt; is non-invasive breast cancer. It starts in milk ducts and does not spread beyond its original location (in situ). DCIS can increase the risk of developing invasive breast cancer and is treated by lumpectomy.&lt;/p&gt;&lt;p&gt;Breast cancer spreads ﬁrst to lymph nodes in the axilla (armpit) nearest the affected breast and then to the skin and chest wall. From the lymph nodes it also may metastasize to other body organs, including bone, liver, lung, and brain. The diagnosis is ﬁrst established by biopsy, either core needle aspiration or surgical removal of the specimen (solid mass or area of microcalciﬁcation). A &lt;strong&gt;stereotactic core needle biopsy&lt;/strong&gt; is performed with the help of mammography for guidance.&lt;/p&gt;&lt;p&gt;For small primary tumors, the lump with immediately surrounding tissue can be removed &lt;strong&gt;(lumpectomy)&lt;/strong&gt;. To determine whether the tumor has spread to lymph nodes, a &lt;strong&gt;sentinel node biopsy (SNB)&lt;/strong&gt; is performed. For this procedure, a blue dye or a radioisotope is injected into the tumor site and tracks to the axillary (underarm) lymph nodes. See Figure 8-19. After lumpectomy, radiation therapy to the breast and to any involved lymph nodes then follows, to kill remaining tumor cells.&lt;/p&gt;&lt;p&gt;An alternative surgical procedure is &lt;strong&gt;mastectomy&lt;/strong&gt; (Figure 8-20A), which is removal of the entire breast. After either lumpectomy or mastectomy if lymph nodes are involved, or if the primary tumor was large, &lt;strong&gt;adjuvant&lt;/strong&gt; (aiding) &lt;strong&gt;chemotherapy&lt;/strong&gt; is given to prevent recurrence of the tumor. Breast reconstruction is an option after mastectomy. See Figure 8-20B. In patients with large primary tumors, &lt;strong&gt;neoadjuvant chemotherapy&lt;/strong&gt; (added prior to surgery) may be administered to reduce tumor bulk and allow for complete surgical removal of the tumor.&lt;/p&gt;&lt;p&gt;After surgery, further treatment may be indicated to prevent recurrence. To determine which treatment is best, it is important to test the breast cancer tumor for the presence of &lt;strong&gt;estrogen receptors (ERs)&lt;/strong&gt;. Two thirds of breast cancers are ER-positive (ER +). These receptor proteins indicate that the tumor will respond to therapy that blocks estrogen stimulation. If metastases should subsequently develop, this information will be valuable in selecting further treatment. There are two types of drugs that block the effects of estrogen and thereby kill ER-positive breast cancer cells.&lt;/p&gt;&lt;p&gt;Drugs of the ﬁrst type directly block the ER reception. An example is &lt;strong&gt;tamoxifen&lt;/strong&gt;. Drugs of the second type block the production of estrogen by inhibiting the enzyme aromatase. These &lt;strong&gt;aromatase inhibitors&lt;/strong&gt; are particularly useful in treating postmenopausal women. Examples are anastrozole (Arimidex) and letrozole (Femara).&lt;/p&gt;&lt;p&gt;A second receptor protein, &lt;strong&gt;HER2,&lt;/strong&gt; is found in some breast cancers and signals a high risk of tumor recurrence. &lt;strong&gt;Herceptin&lt;/strong&gt;, an antibody that binds to and blocks HER2, is effective in stopping growth when used with chemotherapy. A new drug, pertuzumab, also targets HER2 and, combined with Herceptin, is effective in treating HER2–positive advanced breast cancer. &lt;strong&gt;Triple-negative tumors&lt;/strong&gt; lack estrogen, progesterone, and HER2 and are rapidly growing but respond well to chemotherapy.&lt;/p&gt;&lt;p&gt;Testing for hereditary mutations &lt;em&gt;&lt;strong&gt;BRCA1&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;BRCA2&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;PALB2&lt;/strong&gt;&lt;/em&gt; (partner and localizer of &lt;em&gt;BRCA1&lt;/em&gt; and &lt;em&gt;BRCA2&lt;/em&gt;) is advised for women with a strong family history of breast cancer. Some women who test positively for the breast cancer genes elect to have prophylactic (preventive) bilateral mastectomy with reconstruction to eliminate the risk of developing a new breast cancer. See the &lt;em&gt;&lt;strong&gt;In Person: Prophylactic Mastectomy&lt;/strong&gt;&lt;/em&gt; story.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ﬁbrocystic breast disease&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Numerous small sacs of ﬂuid surrounded by dense strands of ﬁbrous tissue in the breast.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Women with this common benign condition notice a nodular (lumpy) consistency of the breast, often associated with premenstrual tenderness and fullness. Mammography and surgical biopsy are often indicated to differentiate ﬁbrocystic changes from breast cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c3c4ab0b-a11a-4c86-9022-61568593f791">
+    <STATIC_figure>
+  <image>FIG_8.18.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-18 &lt;/span&gt;&lt;strong&gt;A,&lt;/strong&gt; &lt;em&gt;Arrows &lt;/em&gt;in &lt;strong&gt;mammogram&lt;/strong&gt; point to invasive breast cancer. A dense white fragment of calcium is seen at 2 o’clock in the mass; calcifications like this frequently are a sign of cancer. &lt;strong&gt;B,&lt;/strong&gt; Cut section of &lt;strong&gt;invasive ductal carcinoma&lt;/strong&gt; of the breast.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="969e71cd-dffe-43a2-a9ab-9620e6b6e585">
+    <STATIC_figure>
+  <image>Fig_8.19.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-19 &lt;/span&gt;&lt;strong&gt;Sentinel node biopsy&lt;/strong&gt;. After injection of dye or radioisotope, its path is visualized and the sentinel (first) lymph node is identified. It is the one most likely to contain a tumor if cells have left the breast. The sentinel node is removed and biopsied. If it is negative for tumor cells, the breast cancer has not spread.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7893773e-34cd-42d3-8b6f-e2fccb64fb15">
+    <STATIC_figure>
+  <image>Fig_8.20.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-20 &lt;/span&gt;&lt;strong&gt;A, Surgical scar, mastectomy&lt;/strong&gt;, right breast. A &lt;strong&gt;modified radical mastectomy&lt;/strong&gt; removes the breast and axillary lymph nodes (usually 20 to 30 nodes). &lt;strong&gt;B, Reconstruction of right breast after skin-sparing mastectomy&lt;/strong&gt;. A gel silicone implant was used. At a second operation, local tissue was manipulated to create the semblance of a nipple-areola complex. The procedure was completed by tattooing color around the nipple. In this patient, the right breast tissue was removed prophylactically and a silicone implant was inserted through an inframammary incision. &lt;em&gt;(A, Courtesy Dr. Elizabeth Chabner Thompson.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b9bc48a7-4058-477b-aad1-e61dec1c3c5f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PREGNANCY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6596fb3b-e74a-4e17-bcbb-7efd68cc7fa0">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;abruptio placentae&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Premature separation of the normally implanted placenta.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abruptio placentae (Latin &lt;em&gt;ab&lt;/em&gt;, away from; &lt;em&gt;ruptus&lt;/em&gt;, ruptured) occurs because of trauma, such as a fall, or may be secondary to vascular insufﬁciency resulting from hypertension or preeclampsia. Signs and symptoms of acute abruption include sudden searing (burning) abdominal pain and bleeding. It is an obstetric emergency.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;choriocarcinoma&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the placenta.&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;This extremely rare cancerous tumor comes from cells that were part of the placenta in a normal pregnancy. Treatment of metastatic choriocarcinoma may include chemotherapy and radiation therapy to distant sites of cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ectopic pregnancy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Implantation of the fertilized egg outside the uterus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The condition occurs in 1-2% of all pregnancies, and most of these occur in the fallopian tubes (&lt;strong&gt;tubal pregnancy&lt;/strong&gt;). Rupture of the ectopic implant within the fallopian tube can lead to massive abdominal bleeding and death. Surgeons can remove the implant, or treatment with medication (methotrexate) can destroy it, thereby preserving the fallopian tube before rupture occurs. Other sites of ectopic pregnancy include the ovaries and abdominal cavity; whatever the location, ectopic pregnancy often constitutes a surgical emergency.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;multiple gestations&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Presence of more than one embryo developing in the uterus during pregnancy.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multiple births are increasing in the United States. This is because of assisted reproductive technology (ART) such as ovulation induction followed by intrauterine insemination (IUI) or in vitro fertilization (IVF). These pregnancies are at higher risk for preterm delivery, fetal growth restriction, high blood pressure, and diabetes.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;placenta previa&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Implantation of the placenta over the cervical opening or in the lower region of the uterus&lt;/strong&gt; (Figure 8-21).&lt;/p&gt;&lt;p&gt;Maternal signs and symptoms include painless bleeding, hemorrhage, and premature labor. Cesarean delivery usually is recommended.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;preeclampsia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal condition associated with pregnancy, marked by high blood pressure, proteinuria, edema, and headache.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mild preeclampsia can be managed by bed rest and close monitoring of blood pressure. Women with severe preeclampsia need treatment with medications such as magnesium sulfate to prevent seizures, and the baby is delivered as quickly as possible. The Greek word &lt;em&gt;eklampein&lt;/em&gt; means to shine forth, referring to the convulsions and hypertension—typically with visual symptoms of ﬂashing lights— that accompany the condition. &lt;strong&gt;Eclampsia&lt;/strong&gt; is the ﬁnal and most severe phase of untreated preeclampsia. It often causes seizures and even death of the mother and baby.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="12de2af9-7c1c-4672-9e8f-077c0a015415">
+    <STATIC_figure>
+  <image>FIG_8.21.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-21 &lt;/span&gt;&lt;strong&gt;Placenta previa&lt;/strong&gt;. Previa means before or in the front of. Three forms of this abnormal implantation of the placenta are: &lt;strong&gt;placenta accreta&lt;/strong&gt; (on the wall but not in muscle), &lt;strong&gt;placenta increta&lt;/strong&gt; (in uterine muscle), and &lt;strong&gt;placenta percreta&lt;/strong&gt; (attaching to another organ).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="167cb638-f30c-4a0d-acae-4ad5570f4207">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NEONATAL&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fd22ed51-cdbf-4bc7-818a-8aebdbffe468">
+    <STATIC_text>
+  <text>&lt;p&gt;The following terms describe conditions or symptoms that can affect the newborn. The &lt;strong&gt;Apgar score&lt;/strong&gt; (Figure 8-22) is a system of scoring an infant’s physical condition at 1 minute and again at 5 minutes after birth. &lt;strong&gt;Heart rate&lt;/strong&gt;, &lt;strong&gt;respiration&lt;/strong&gt;, &lt;strong&gt;color&lt;/strong&gt;, &lt;strong&gt;muscle tone&lt;/strong&gt;, and &lt;strong&gt;response to stimuli&lt;/strong&gt; each are rated 0, 1, or 2. The maximum total score is 10. Infants with Apgar scores below 7 require immediate medical attention such as suctioning of the airways or oxygen to help breathing.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="37440f70-ad8f-48e6-9ab1-a28bda56d1af">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Down syndrome&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Chromosomal abnormality (trisomy 21) results in mental retardation, retarded growth, and a ﬂat face with a short nose, low-set ears, and slanted eyes.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hemolytic disease in the newborn (HDN)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Destruction of red blood cells in the newborn caused by a blood group (Rh factor) incompatibility between the mother and the fetus.&lt;/strong&gt; See explanation in Chapter 4.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;infant respiratory distress syndrome (IRDS)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Acute lung disease commonly seen in the premature newborn.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This condition is caused by deﬁciency of &lt;strong&gt;surfactant&lt;/strong&gt;, a protein necessary for proper lung function. Surfactant can be administered to the newborn to cure the condition. This condition was previously called hyaline membrane disease.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c77cdc03-1892-4f59-b726-e022e8149a07">
+    <STATIC_figure>
+  <image>FIG_8.22.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-22 &lt;/span&gt;&lt;strong&gt;Apgar scoring chart&lt;/strong&gt;. This test is named for anesthesiologist Virginia Apgar (1909-1974), who devised it in 1953. Dr. Joseph Butterfield, in 1963, introduced an &lt;strong&gt;“APGAR”&lt;/strong&gt; acronym as a mnemonic (memory device): &lt;strong&gt;A&lt;/strong&gt;ppearance (color), &lt;strong&gt;P&lt;/strong&gt;ulse (heart rate), &lt;strong&gt;G&lt;/strong&gt;rimace (response to catheter in nostril), &lt;strong&gt;A&lt;/strong&gt;ctivity (muscle tone), and &lt;strong&gt;R&lt;/strong&gt;espiration (respiratory effort).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9e8e5222-6a71-4fe7-816e-3c0aca827c5f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hydrocephalus&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Accumulation of ﬂuid in the spaces of the brain.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In an infant with this condition, the entire head can enlarge because the bones of the skull do not completely fuse together at birth. Infants normally have a soft spot or &lt;strong&gt;fontanelle&lt;/strong&gt; between the cranial bones that allows for some swelling during the birth of the baby. Hydrocephalus occurs because of a problem in the circulation of ﬂuid within the brain and spinal cord, resulting in ﬂuid accumulation. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;meconium aspiration syndrome&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal inhalation of meconium produced by a fetus or newborn.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Meconium, a thick, sticky, greenish to black substance, is the ﬁrst intestinal discharge (stools) from newborns. Intrauterine distress can cause its passage into amniotic ﬂuid. Once the meconium has passed into the surrounding amniotic ﬂuid, the fetus may breath meconium into its lungs. It can cause breathing problems due to inﬂammation in the baby’s lungs after birth.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pyloric stenosis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Narrowing of the opening of the stomach to the duodenum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This condition may be present at birth and frequently is associated with Down syndrome. Surgical repair of the pyloric opening may be necessary.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,25 @@
+
+
+<script type="text/template" id="fib-page-template">
+
+	<div class="content">
+		<%
+		var doAutoNumber = autoNumberQuestions; // make available in _.each callback scope
+		var questionNumber = index;
+		var questionClasses = !doAutoNumber ? "no-autonumber" : "";
+		var topMarginRequired = !stacked && (stimulus.isEmpty || !isStimulusAboveQuestion())
+		if (topMarginRequired) {
+			questionClasses += " no-stimulus-margin";
+		}
+		_.each(questions,function(question,i) {
+		%>
+		<h3 class="visuallyhidden">Question <%=questionNumber+1%></h3>
+		<div id="<%= question.qid %>" class="question <%=questionClasses%>" >
+			<div class="question-txt js-review-focus" tabindex="-1"><span class="question-num"><%= doAutoNumber ? (question.index + 1) + "." : "" %></span><%=question.transformedText.length ? question.transformedText:"&nbsp;"%></div>
+			<div class="stimulus-after u-float--clearfix"></div>
+		</div>
+		<% }); %>
+	</div>
+
+</script>
+

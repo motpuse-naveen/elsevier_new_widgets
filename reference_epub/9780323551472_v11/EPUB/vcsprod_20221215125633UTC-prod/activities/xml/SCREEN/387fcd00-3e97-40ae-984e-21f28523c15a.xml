@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c9a6bff6-ef9b-4dcc-a73a-c1fb10621fba">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6b3cad19-5556-401f-a993-3525d42d6f7b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;A USEFUL WEAPON AGAINST ANEMIA&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a4a70727-d048-4a0b-b6b3-cef797ccac53">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;strong&gt;Anemia &lt;/strong&gt;is a major problem for many patients who are in &lt;strong&gt;chronic renal failure&lt;/strong&gt;. This is because as renal function decreases, the kidneys secrete less &lt;strong&gt;erythropoietin&lt;/strong&gt;, a hormone that stimulates the production of red blood cells. Under normal conditions, when the body senses a decrease in red blood cells or a deficiency in the supply of oxygen, more erythropoietin is produced, thus increasing the number of &lt;strong&gt;erythrocytes&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Epoetin alfa&lt;/strong&gt; (Epogen or Procrit) is a man-made form of human erythropoietin. It is genetically engineered through &lt;strong&gt;recombinant DNA&lt;/strong&gt; technology and stimulates bone marrow to make and release red blood cells. As the &lt;strong&gt;hematocrit &lt;/strong&gt;rises, patients experience increased energy, appetite, and greater stamina.&lt;/p&gt;&lt;p&gt;The FDA has approved Epogen for treating anemia in &lt;strong&gt;dialysis &lt;/strong&gt;patients and in patients who are in chronic renal failure, but not on dialysis. It is also effective in counteracting the &lt;strong&gt;myelosuppressive &lt;/strong&gt;effects of &lt;strong&gt;chemotherapy&lt;/strong&gt;. Other &lt;strong&gt;hematopoietic&lt;/strong&gt; drugs produced with recombinant DNA technology are Neupogen (filgrastim) for neutropenia and thrombopoietin (TPO) for thrombocytopenia.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Anemia is a major problem for patients in chronic renal failure because&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>patients produce less of a hormone that stimulates production of erythrocytes</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>patients may go into heart failure and lose consciousness</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>the kidney overproduces erythropoietin</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;The type of erythropoietin that is used for these patients is &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>made in a laboratory by using pieces of DNA that code for the hormone</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>made from the blood of other patients</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>given by bone marrow transfusion</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;The hematocrit is &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>the percentage of red blood cells in a volume of blood</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>a measurement of the volume of white and red blood cells</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>lower in people with greater stamina and energy levels</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Patients go on dialysis when &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>they have a low hematocrit</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>they are undergoing chemotherapy</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>they are in chronic renal failure</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;Side effects of myelosuppressiive chemotherapy may be treated by &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Epogen, Neupogen, and thrombopoietin</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>hemodialysis or peritoneal dialysis</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>cytotoxic agents</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="on"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+</blocks>

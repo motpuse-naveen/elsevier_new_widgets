@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="6253df51-77fe-46c3-9349-4a7bdcbf0874">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c970d51d-a543-40c5-90fa-7ae318d3d99c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;X-RAY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2857f69d-083c-47b8-b443-e82849b1ee22">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;chest x-ray (CXR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radiographic image of the thoracic cavity (chest film).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chest x-rays are taken in the frontal (coronal) plane as posteroanterior (PA) or anteroposterior (AP) views and in the sagittal plane as lateral views. Figure 12-15A and B shows a normal chest film and an x-ray film of the chest with pneumonia.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;computed tomography (CT) scan of the chest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Computer-generated series of x-ray images show thoracic structures in cross section and other planes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This test is for diagnosis of lesions difficult to assess by conventional x-ray studies, such as those in the lungs, mediastinum, and pleura.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CT pulmonary angiography (CTPA)&lt;/strong&gt; is the combination of CT scanning and angiography. It is useful to examine the pulmonary circulation in the diagnosis of a pulmonary embolism.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="115b3f7a-eae5-48bd-bbdb-3f7eecc27b30">
+    <STATIC_figure>
+  <image>chp00012_f012-015-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-15 &lt;/span&gt;A, A normal chest x-ray&lt;/strong&gt; appearance. The image is taken from the &lt;strong&gt;posteroanterior (PA) &lt;/strong&gt;view (x-ray passes from back to front). The &lt;em&gt;backward L &lt;/em&gt;in the upper corner is placed on the film to indicate the left side of the patient ’ s chest. A, Diaphragm; B, costophrenic angle; C, left ventricle of the heart; D, right atrium of the heart; E, aortic arch; F, superior vena cava; G, trachea. Air-filled lung spaces appear black.&lt;strong&gt; B, Pneumonia &lt;/strong&gt;of the right lung shown on an x-ray image of the chest.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5bb06e6a-b96d-4ce2-87b8-6cb820524072">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;MAGNETIC RESONANCE IMAGING&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="13a61e13-c45d-4e92-b9c2-a380e1bc8dbb">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;magnetic resonance imaging&lt;br/&gt;(MRI) of the chest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Magnetic waves create detailed images of the chest in frontal, lateral (sagittal), and cross-sectional (axial) planes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This test is helpful in defining mediastinal tumors (such as those of Hodgkin disease) difficult to assess by CT scan.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ef6bb415-d3ad-41ee-bbb4-a2030d53741e">
+    <STATIC_figure>
+  <image>chp00012_f012-016-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-16 &lt;/span&gt;A, Fiberoptic bronchoscopy.&lt;/strong&gt; A bronchoscope is passed through the nose, throat, larynx, and trachea into a bronchus.&lt;strong&gt; B, &lt;/strong&gt;A &lt;strong&gt;bronchoscope,&lt;/strong&gt; with brush catheter, in place in a bronchial tube.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ad5b401b-a44c-4e2d-b122-7f2f2deafcde">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NUCLEAR MEDICINE TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b567aea1-bb4b-4271-9987-1b4cecc34fee">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;positron emission tomography (PET) scan of the lung&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radioactive glucose is injected, and images reveal metabolic activity in the lungs&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;This scanning technique can identify malignant tumors, which have higher metabolic activity. It is also used to assess small nodules seen on a CT scan.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ventilation-perfusion (V/Q) scan&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Detection device records radioactivity in the lung after intravenous injection of a radioisotope and inhalation of a small amount of radioactive gas (xenon).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This test can identify areas of the lung not receiving adequate air flow (ventilation) or blood flow (perfusion) as well as areas where there is a mismatch in air flow (V) and blood flow (Q). Air flow without matched blood flow suggests a pulmonary embolus.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="dfd9515a-8881-48ef-a876-22d17bbf515d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;OTHER PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1cd9c83c-7e3a-42af-b3a3-c8f0f3c9a88c">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bronchoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Fiberoptic endoscope examination of the bronchial tubes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A physician places the bronchoscope through the throat, larynx, and trachea into the bronchi for diagnosis, biopsy, or collection of secretions. In &lt;strong&gt;bronchoalveolar lavage (bronchial washing),&lt;/strong&gt; fluid is injected and withdrawn. In &lt;strong&gt;bronchial brushing&lt;/strong&gt;, a brush is inserted through the bronchoscope and is used to scrape off tissue (Figure 12-16).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Endobronchial ultrasound (EBUS)&lt;/strong&gt; is performed during bronchoscopy to diagnose and stage lung cancer. An EBUS-guided biopsy allows for sampling of small (&amp;lt; 3 cm) peripheral lesions endoscopically.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="d6281625-63a6-4aa2-bbbf-5f76805f3a19">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;endotracheal intubation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Placement of a tube through the mouth into the pharynx, larynx, and trachea to establish an airway &lt;/strong&gt;(Figure 12-17).&lt;/p&gt;&lt;p&gt;This procedure also allows the patient to be placed on a mechanical &lt;strong&gt;ventilator &lt;/strong&gt;(an apparatus that moves air into and out of the lungs).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;laryngoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the voice box.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A lighted, flexible endoscope is passed through the mouth or nose into the larynx.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;lung biopsy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of lung tissue followed by microscopic examination.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Specimens may be obtained by bronchoscopy, thoracotomy (open-lung biopsy), needle biopsy through the chest wall, or video-assisted thoracoscopic surgery (VATS).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;mediastinoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Endoscopic visual examination of the mediastinum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An incision is made above the breastbone (suprasternal) for inspection and biopsy of lymph nodes in the underlying space (mediastinum).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pulmonary function tests (PFTs)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Tests that measure the ventilation mechanics of the lungs: airway function, lung volume, and the capacity of the lungs to exchange oxygen and carbon dioxide efficiently.&lt;/strong&gt; See Figure 12-18.&lt;/p&gt;&lt;p&gt;PFTs are used for many reasons: (1) to evaluate patients with shortness of breath (SOB); (2) to monitor lung function in patients with known respiratory disease; (3) to evaluate disability; and (4) to assess lung function before surgery. A &lt;strong&gt;spirometer&lt;/strong&gt; measures the volume and rate of air passing into and out of the lung.&lt;/p&gt;&lt;p&gt;PFTs determine if lung disease is obstructive, restrictive, or both. In &lt;strong&gt;obstructive lung disease,&lt;/strong&gt; airways are narrowed, which results in resistance to air flow during breathing. A hallmark PFT abnormality in obstructive disease is decreased expiratory flow rate or &lt;strong&gt;FEV&lt;sub&gt;1&lt;/sub&gt; &lt;/strong&gt;(forced expiratory volume in the first second of expiration). Examples of obstructive lung diseases are asthma, COPD, bronchiectasis, cystic fibrosis, and bronchiolitis.&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;restrictive lung disease&lt;/strong&gt;, expansion of the lung is limited by disease that affects the chest wall, pleura, or lung tissue itself. A hallmark PFT abnormality in restrictive disease is decreased &lt;strong&gt;total lung capacity (TLC)&lt;/strong&gt;. Examples of lung conditions that stiffen and scar the lung are pulmonary fibrosis, radiation damage to the lung, and pneumoconiosis. Other causes of restrictive lung disease are neuromuscular conditions that affect the lung, such as myasthenia gravis, muscular dystrophy, and diaphragmatic weakness and paralysis.&lt;/p&gt;&lt;p&gt;The ability of gas to diffuse across the alveolar-capillary membrane is assessed by determining the diffusion capacity of the lung for carbon monoxide (&lt;strong&gt;DLCO)&lt;/strong&gt;. A patient breathes in a small amount of carbon monoxide (CO), and the length of time it takes the gas to enter the bloodstream is measured. A common cause of reduced DLCO is emphysema due to destruction of alveoli.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thoracentesis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Needle is inserted into pleural space to remove excess fluid.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This minimally invasive procedure is used to obtain pleural fluid for diagnosis or to therapeutically drain a pleural effusion (Figure 12-19). The suffix -centesis means puncture with a needle.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="29826bf4-5950-4de9-9f50-e7fe6d8b22f2">
+    <STATIC_figure>
+  <image>chp00012_f012-017-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-17 &lt;/span&gt;Endotracheal intubation.&lt;/strong&gt; The patient is in a supine position; the head is hyperextended, the lower portion of the neck is flexed, and the mouth is opened. A &lt;strong&gt;laryngoscope &lt;/strong&gt;is used to hold the airway open, to expose the vocal cords, and as a guide for placing the tube into the trachea.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c4275426-b8cc-41b2-b29e-b6890b979590">
+    <STATIC_figure>
+  <image>page_367_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-18 &lt;/span&gt;&lt;/strong&gt;An individual undergoing a&lt;strong&gt; pulmonary function test.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2372957f-f843-4afa-8aca-8bd4929b9c50">
+    <STATIC_figure>
+  <image>chp00012_f012-019-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-19 &lt;/span&gt;Thoracentesis. A, &lt;/strong&gt;The patient is sitting in the correct position for the procedure; it allows the chest wall to be pulled outward in an expanded position. &lt;strong&gt;B,&lt;/strong&gt; The needle is inserted close to the base of the effusion so that gravity can help with drainage, but it is kept as far away from the diaphragm as possible. The needle is inserted above the appropriate rib to avoid the neurovascular structures that run beneath each rib.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a255542d-d592-4f48-b456-93b640667acf">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thoracotomy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Large surgical incision of the chest.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The incision is large, cutting into bone, muscle, and cartilage. It is necessary for major resections of the lung (lobectomy and pneumonectomy).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thoracoscopy (thorascopy)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the chest via small incisions and use of an endoscope.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Video-assisted thoracic surgery (VATS)&lt;/strong&gt; allows the surgeon to view the chest from a video monitor. The thorascope (thoracoscope) is equipped with a camera that magnifies the image on the monitor. Thoracoscopy can diagnose and treat conditions of the lung, pleura, and mediastinum.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;tracheostomy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical creation of an opening into the trachea through the neck.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A tube is inserted to create an airway. The tracheostomy tube may be permanent as well as an emergency device (Figure 12-20). A &lt;strong&gt;tracheotomy &lt;/strong&gt;is the incision necessary to create a tracheostomy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;tuberculin test&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Determines past or present tuberculous exposure based on a positive skin reaction.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Examples are the &lt;strong&gt;Heaf test&lt;/strong&gt; and the &lt;strong&gt;tine test&lt;/strong&gt;, using purified protein derivative &lt;strong&gt;(PPD)&lt;/strong&gt; applied with multiple punctures of the skin, and the &lt;strong&gt;Mantoux test, &lt;/strong&gt;using PPD given by intraepidermal injection.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;tube thoracostomy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Flexible, plastic chest tube is passed into the pleural space through an opening in the chest. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure is used to continuously remove air (pneumothorax), fluid (pleural effusion), blood (hemothorax), pus (empyema). See Figure 12-21.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="48b68654-886d-4485-8084-76475bf3a65a">
+    <STATIC_figure>
+  <image>chp00012_f012-020-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-20 &lt;/span&gt;A, Tracheostomy tub&lt;/strong&gt;e in place. &lt;strong&gt;B, Healed tracheostom&lt;/strong&gt;y after laryngectomy.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="59f65ab7-5544-4d09-8ac0-8024a26267af">
+    <STATIC_figure>
+  <image>chp00012_f012-021-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-21 &lt;/span&gt;A, Tube thoracostomy. B, A patient with two thoracostomy tube&lt;/strong&gt;s draining a pleural effusion from two different areas of the chest.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

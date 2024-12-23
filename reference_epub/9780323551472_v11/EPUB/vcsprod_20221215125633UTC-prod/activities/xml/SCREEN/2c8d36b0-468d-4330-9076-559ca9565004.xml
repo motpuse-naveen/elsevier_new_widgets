@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="4c0d2327-1d6f-426f-a046-2760f2f433e9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;THE SPINAL CORD AND MENINGES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dde5439f-9568-46bb-8bf0-c220167deec6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SPINAL CORD&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="06847053-be00-4a5d-a9be-9390f453788d">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;spinal cord&lt;/strong&gt; is a column of nervous tissue extending from the medulla oblongata to the second lumbar vertebra within the vertebral column. Below the end of the spinal cord is the &lt;strong&gt;cauda equina&lt;/strong&gt; (Latin for “horse’s tail”), a fan of nerve fibers (see Figure 10-1, page 323). The spinal cord carries all the nerves to and from the limbs and lower part of the body, and it is the pathway for impulses going to and from the brain. A cross-sectional view of the spinal cord (Figure 10-10) reveals an inner region of &lt;strong&gt;gray matter&lt;/strong&gt; (containing cell bodies and dendrites) and an outer region of&lt;strong&gt; white matter &lt;/strong&gt;(containing the nerve fiber tracts with myelin sheaths) conducting impulses to and from the brain.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="1a6c717f-a030-44e8-8326-6f32cdbe3a90">
+    <STATIC_figure>
+  <image>fig10-10.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-10 &lt;/span&gt;The spinal cord, showing gray and white matter &lt;/strong&gt;(transverse view). &lt;strong&gt;Afferent neurons&lt;/strong&gt; bring impulses from a sensory receptor (such as the skin) into the spinal cord. &lt;strong&gt;Efferent neurons&lt;/strong&gt; carry impulses from the spinal cord to effector organs (such as skeletal muscle). The central canal is the space through which CSF travels.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b38e8827-6702-4b1b-aa68-bf3ac50ca6f7">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;MENINGES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="86b48642-be06-4559-9505-f931e20d3547">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;meninges &lt;/strong&gt;are three layers of connective tissue membranes that surround the brain and spinal cord. Label Figure 10-11 as you study the following description of the meninges.&lt;/p&gt;&lt;p&gt;The outermost membrane of the meninges is the&lt;strong&gt; dura mater &lt;/strong&gt;[1]. This thick, tough membrane contains channels (dural sinuses) that contain blood. The&lt;strong&gt; subdural space&lt;/strong&gt; [2] is below the dural membrane. The second layer surrounding the brain and spinal cord is the &lt;strong&gt;arachnoid membrane &lt;/strong&gt;[3]. The arachnoid (spider-like) membrane is loosely attached to the other meninges by web-like fibers, so there is a space for fluid between the fibers and the third membrane. This is the &lt;strong&gt;subarachnoid space&lt;/strong&gt; [4], containing CSF. The third layer of the meninges, closest to the brain and spinal cord, is the &lt;strong&gt;pia mater &lt;/strong&gt;[5]. It contains delicate (Latin &lt;em&gt;pia&lt;/em&gt;) connective tissue with a rich supply of blood vessels. Most physicians refer to the pia and arachnoid membranes together as the pia-arachnoid.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c68d0d04-7862-4104-a29e-9c434ffdbb67">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig10-11.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-11&lt;/span&gt; The meninges,&lt;/strong&gt; posterior view.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[dura mater]&lt;/li&gt;&lt;li&gt;[subdural space]&lt;/li&gt;&lt;li&gt;[arachnoid membrane]&lt;/li&gt;&lt;li&gt;[subarachnoid space]&lt;/li&gt;&lt;li&gt;[pia mater]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+</blocks>

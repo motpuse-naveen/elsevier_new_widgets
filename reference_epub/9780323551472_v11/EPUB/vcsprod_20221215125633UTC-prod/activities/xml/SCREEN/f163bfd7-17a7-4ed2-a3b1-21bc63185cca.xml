@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e49209c1-86d8-4c29-ad27-4e1eeaf1332b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="441c53a6-3d22-47be-9ff4-b60cd319a866">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="82e52f99-213e-452d-9ad5-9ab1d0435285">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;antinuclear antibody test (ANA)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Detects an antibody often present in serum of patients with systemic lupus erythematosus (SLE) and other autoimmune diseases.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;erythrocyte sedimentation rate (ESR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measures time it takes for erythrocytes to settle to the bottom of a test tube.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elevated ESR is associated with inflammatory disorders such as rheumatoid arthritis, tumors, and infections.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rheumatoid factor test (RF)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Serum is tested for the presence of an antibody found in many patients with rheumatoid arthritis.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;serum calcium (Ca)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of calcium level in serum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hypercalcemia may be caused by disorders of the parathyroid gland and malignancy that affects bone metabolism. Hypocalcemia is seen in critically ill patients with burns, sepsis, and acute renal failure.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;serum creatine kinase (CK)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of the enzyme creatine kinase in serum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This enzyme normally is present in skeletal and cardiac muscle. Increased levels occur in muscular dystrophy, polymyositis, and rhabdomyolysis with traumatic injuries.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;uric acid test&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of uric acid in serum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;High levels are associated with gouty arthritis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e8ab1fdc-2765-49e6-acbe-46077a575720">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="47687d28-457b-4c54-ae73-8c23cf9a9a03">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;arthrocentesis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Surgical puncture to remove fluid from the joint space.&lt;/strong&gt;&lt;br/&gt;Synovial fluid is removed for analysis using a needle and syringe.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;arthrography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Taking x-ray images after injection of contrast material into a joint.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;arthroplasty&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical repair or replacement of a joint.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Total hip arthroplasty or&lt;strong&gt; total hip replacement (THR) &lt;/strong&gt;is replacement of the femoral head and acetabulum with prostheses that are fastened into the bone (Figure 15-34). The femoral component is made of metal and the acetabular component is made of a plastic liner that sits inside a metal shell. &lt;em&gt;&lt;strong&gt;See In Person: Total Hip Arthroplasty,&lt;/strong&gt;&lt;/em&gt; page 592.&lt;/p&gt;&lt;p&gt;In a &lt;strong&gt;total knee replacement (TKR) &lt;/strong&gt;a metal prosthesis covers the end of the femur, and a tibial component made of metal and plastic covers the top end of the tibia. See page 591 for a clinical case describing TKR.&lt;/p&gt;&lt;p&gt;Other examples of arthroplasties are&lt;strong&gt; resection arthroplasty &lt;/strong&gt;(small portion of a bone is removed to repair the joint; acromioclavicular joint is a common location), &lt;strong&gt;interposition arthroplasty&lt;/strong&gt; (new tissue is placed between damaged surface of a joint such as the elbow), and &lt;strong&gt;revision arthroplasty&lt;/strong&gt; (an operation to replace a failing prosthetic joint).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;arthroscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of a joint with an arthroscope, which projects an image on a video monitor.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An orthopedist passes small surgical instruments into a joint (knee, shoulder, ankle, wrist, hip) to evaluate and/or remove and repair damaged tissue while viewing the joint simultaneously with a scope. See Figure 15-35.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bone density test (bone densitometry)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Low-energy x-ray absorption in bones of the spinal column, pelvis, and wrist is used to measure bone mass.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An x-ray detector measures how well x-rays penetrate through bones (Figure 15-36). Areas of decreased density indicate osteopenia and osteoporosis. Also called &lt;strong&gt;dual-energy x-ray absorptiometry (DEXA or DXA).&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bone scan&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Uptake of a radioactive substance is measured in bone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After a radioactive tracer is injected intravenously into the patient, a nuclear medicine technician uses a special scanning device to detect areas of increased uptake (found with tumors, infection, inflammation, stress fractures) (Figure 15-37).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;computed tomography (CT)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray beam and computer show cross-sectional and other images of body tissues.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;CT scans identify bone abnormalities, and musculo-skeletal trauma.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;discography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;X-ray examination of cervical or lumbar intervertebral disc after injection of contrast into nucleus pulposus (interior of the disc).&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;electromyography (EMG)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Recording the electrical activity of muscle tissue.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;magnetic resonance imaging (MRI)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Strong magnetic field and advanced computing technology are used to create high-resolution images of soft tissues inside the body.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;MRI shows soft tissue conditions in greater detail than that achieved with CT.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;muscle biopsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Removal of muscle tissue for microscopic examination to assess for anormalities or disease.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ddf5bdde-ece4-401f-b641-231e40919c3e">
+    <STATIC_figure>
+  <image>chp00015_f015-034-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-34 &lt;/span&gt;A, Acetabular and femoral components of a total hip arthroplasty. B,&lt;/strong&gt; Radiograph showing a hip after placement of a cementless Harris-Galante implant. The bone grows into the porous metal to stabilize it to the skeleton.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="672f2026-efa6-4ac1-8eee-3426ef3af368">
+    <STATIC_figure>
+  <image>page_484_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-35 &lt;/span&gt;Knee arthroscopy in progress. &lt;/strong&gt;Notice the monitor in the background. An arthroscope is used in the diagnosis and treatment of pathologic changes.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e319ac6b-8eea-4084-85a1-ee9e9779d022">
+    <STATIC_figure>
+  <image>page_484_03.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-36 &lt;/span&gt;&lt;/strong&gt;Patient undergoing &lt;strong&gt;bone density test or dual energy x-ray absorptiometry (DEXA or DXA).&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="356bb26a-6341-4f34-a9fb-bc328509aa7b">
+    <STATIC_figure>
+  <image>page_485_02.png</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-37 &lt;/span&gt;A technetium-99m bone scan of a skeleton &lt;/strong&gt;showing an area of increased radioactive uptake on the right tibia (&lt;em&gt;arrow&lt;/em&gt;) that indicates a bone tumor.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

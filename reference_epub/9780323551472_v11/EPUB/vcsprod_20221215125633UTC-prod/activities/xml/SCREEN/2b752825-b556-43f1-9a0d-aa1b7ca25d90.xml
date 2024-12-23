@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="dcef4fcf-1f69-4d7b-ad6a-3fb72ba54f5d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGIC CONDITIONS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b466992d-630b-4cdc-8be4-2184d0bbdf1a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;IMMUNODEFICIENCY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fb7260cf-0cf1-4843-b3aa-241434f4d43e">
+    <STATIC_text>
+  <text>&lt;p&gt;Some immunodeficiency disorders are present at birth. An example is &lt;strong&gt;severe combined immunodeficiency disease (SCID).&lt;/strong&gt; Affected infants are born with a deficiency of B cells and T cells, resulting in a lack of immunity. The thymus is small, and children have little or no protection against infection.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fcd70351-96f5-4da7-bbf1-0294342524c3">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;acquired immunodeﬁciency syndrome (AIDS)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Group of clinical signs and symptoms associated with suppression of the immune system and marked by opportunistic infections, secondary neoplasms, and neurologic problems.&lt;/strong&gt;&lt;br/&gt;AIDS is caused by the &lt;strong&gt;human immunodeficiency virus (HIV).&lt;/strong&gt; HIV destroys &lt;strong&gt;helper T cells&lt;/strong&gt; (also known as &lt;strong&gt;CD4+ cells,&lt;/strong&gt; containing the CD4 protein antigen). This disrupts the immune response, allowing infections to occur. Infectious diseases associated with AIDS are called &lt;strong&gt;opportunistic infections&lt;/strong&gt; because HIV lowers resistance and allows infection by bacteria and parasites that are easily otherwise contained by normal defenses. Table 14-2 lists many of these opportunistic infections; use the table as a reference.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9b72e090-b7b8-49a6-8d49-e1958ecc3c4f">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 14-2 OPPORTUNISTIC INFECTIONS ASSOCIATED WITH AIDS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e24af9e5-cda5-4fd9-86b0-6f7a6b49e08c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;INFECTION&lt;/th&gt;&lt;th scope="col"&gt;DESCRIPTION&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;candidiasis &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Yeast-like fungus (&lt;em&gt;Candida&lt;/em&gt;), normally present in the mouth, skin, intestinal tract, and vagina, overgrows, causing infection of the mouth (thrush), respiratory tract, and skin.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cryptococcal infection (Crypto)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Yeast-like fungus (&lt;em&gt;Cryptococcus&lt;/em&gt;) causes lung, brain, and blood infections. Pathogen is found in pigeon droppings and nesting places, air, water, and soil. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cryptosporidiosis&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;Parasitic infection of the gastrointestinal tract and brain and spinal cord. The pathogen, &lt;em&gt;Cryptosporidium&lt;/em&gt;, is a one-celled organism commonly found in farm animals.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cytomegalovirus (CMV) infection &lt;/strong&gt;&lt;br/&gt; &lt;/td&gt;&lt;td&gt;Virus causes enteritis and retinitis (inﬂ ammation of the retina at the back of the eye). Found in saliva, semen, cervical secretions, urine, feces, blood, and breast milk, but usually causes disease only when the immune system is compromised.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;herpes simplex &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Viral infection causes small blisters on the skin of the lips or nose or on the genitals. Herpes simplex virus also can cause encephalitis. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;histoplasmosis (Histo) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fungal infection caused by inhalation of dust contaminated with &lt;em&gt;Histoplasma capsulatum&lt;/em&gt;; causes fever, chills, and lung infection. Pathogen is found in bird and bat droppings. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;&lt;em&gt;Mycobacterium avium-intracellulare&lt;/em&gt; (MAI) complex infection&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Bacterial disease manifesting with fever, malaise, night sweats, anorexia, diarrhea, weight loss, and lung and blood infections.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Pneumocystis pneumonia (PCP) &lt;/strong&gt;&lt;br/&gt; &lt;/td&gt;&lt;td&gt;One-celled organism causes lung infection, with fever, cough, and chest pain. Pathogen is found in air, water, and soil and is carried by animals. Infection is treated with trimethoprim-sulfamethoxazole (Bactrim), a combination of several antibiotics, or pentamidine. Aerosolized pentamidine, which is inhaled, can prevent occurrence of PCP.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;toxoplasmosis (Toxo)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Parasitic infection involving the central nervous system (CNS) and causing fever, chills, visual disturbances, confusion, hemiparesis (slight paralysis in half of the body), and seizures. Pathogen (&lt;em&gt;Toxoplasma&lt;/em&gt;) is acquired by eating uncooked lamb or pork, unpasteurized dairy products, or raw eggs or vegetables.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tuberculosis (TB)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Bacterial disease (caused by &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;) involving the lungs, brain, and other organs. Signs and symptoms are fever, cough, loss of weight, anorexia, and blood in sputum.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3ef9186c-08ee-4b3f-9a14-53055441b4b7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;&lt;p&gt;Malignancies associated with AIDS are &lt;strong&gt;Kaposi sarcoma&lt;/strong&gt; (a cancer arising from the lining cells of capillaries that produces dark-purplish skin nodules) and &lt;strong&gt;lymphoma&lt;/strong&gt; (cancer of lymph nodes). &lt;strong&gt;Wasting syndrome&lt;/strong&gt;, marked by weight loss and decrease in muscular strength, appetite, and mental activity, also may occur with AIDS (Figure 14-12A and B).&lt;/p&gt;&lt;p&gt;Persons who were exposed to HIV and now have antibodies in their blood against this virus are &lt;strong&gt;HIV-positive&lt;/strong&gt;. HIV is found in blood, semen, vaginal and cervical secretions, saliva, and other body fluids. Transmission of HIV may occur by three routes: sexual contact, blood inoculation (through sharing of contaminated needles, accidental needlesticks, or contact with contaminated blood or blood products), and passage of the virus from infected mothers to their newborns. Table 14-3 summarizes the common routes of transmission of HIV.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="bd88aa98-6d3a-443f-832a-76308afedfe0">
+    <STATIC_figure>
+  <image>chp00014_f014-012-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-12 &lt;/span&gt;&lt;strong&gt;A, Kaposi sarcoma. B, Wasting syndrome.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="04b80f2c-5c29-411e-ada1-2c017438431f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;&lt;p&gt;HIV-infected patients may remain asymptomatic for as long as 10 years. Signs and symptoms associated with HIV infection are lymphadenopathy, neurologic disease, oral thrush (fungal infection), night sweats, fatigue, and evidence of opportunistic infections.&lt;/p&gt;&lt;p&gt;Some drugs that are used to treat AIDS are inhibitors of the viral enzyme called &lt;strong&gt;reverse transcriptase (RT)&lt;/strong&gt;. After invading the helper T cell (carrying the CD4+ antigen), HIV releases reverse transcriptase to help it grow and multiply inside the cell. Examples of &lt;strong&gt;reverse transcriptase inhibitors (RTIs)&lt;/strong&gt; are zidovudine and lamivudine (Epivir). A second class of anti-HIV drugs is the &lt;strong&gt;protease inhibitors&lt;/strong&gt;. These drugs inhibit another viral enzyme called protease. HIV needs protease to reproduce. Use of combinations of protease inhibitors and agents that act by other mechanisms (such as blocking the entry of HIV into T cells) are entry inhibitors and integrase inhibitors. This is called &lt;strong&gt;HAART (highly active antiretroviral therapy)&lt;/strong&gt;. This treatment has in many cases eliminated evidence of viral infection in affected people.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e55c98c0-1997-4dbf-9675-ada167150bf1">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 14-3 COMMON ROUTES OF TRANSMISSION OF AIDS VIRUS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="36ba93c1-cfd3-41ad-83e0-be93a1b0e737">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;ROUTE&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt; PEOPLE AFFECTED&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Receptive oral and anal intercourse&lt;/td&gt;&lt;td&gt;Men and women&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Receptive vaginal intercourse&lt;/td&gt;&lt;td&gt;Women &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sharing of needles and equipment (users of intravenous drugs)&lt;/td&gt;&lt;td&gt;Men and women&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Contaminated blood (for transfusion) or blood products&lt;/td&gt;&lt;td&gt;Men and women (with hemophilia)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;From mother—in utero or by breast feeding&lt;/td&gt;&lt;td&gt;Neonates&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="edbeba9c-2509-4800-9665-3268f792326b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;HYPERSENSITIVITY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8d174a14-f6f0-469b-9f88-a9ebb84e6f58">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;allergy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal hypersensitivity acquired by exposure to an antigen.&lt;/strong&gt; Allergic (all/o = other) reactions occur when a sensitized person, who has previously been exposed to an agent &lt;strong&gt;(allergen)&lt;/strong&gt;, reacts violently to a subsequent exposure. This reaction varies in intensity from &lt;strong&gt;allergic rhinitis&lt;/strong&gt; or hay fever (caused by pollen or animal dander) to &lt;strong&gt;systemic anaphylaxis,&lt;/strong&gt; in which an extraordinary hypersensitivity reaction occurs throughout the body, leading to fall in blood pressure (hypotension), shock, respiratory distress, and edema (swelling) of the larynx. Anaphylaxis can be life-threatening, but the patient usually survives if the airways are kept open and treatment is given immediately (epinephrine and antihistamines).&lt;/p&gt;&lt;p&gt;Other allergies include &lt;strong&gt;asthma&lt;/strong&gt; (pollens, dust, molds), &lt;strong&gt;hives&lt;/strong&gt; (caused by food or drugs), and &lt;strong&gt;atopic dermatitis&lt;/strong&gt; (rash from soaps, cosmetics, chemicals). Atopic means related to &lt;strong&gt;atopy&lt;/strong&gt;, a hypersensitivity or allergic state arising from an inherited predisposition. A person who is atopic is prone to allergies (Figure 14-13).&lt;/p&gt;&lt;p&gt;Allergen immunotherapy, also known as allergy shots, is a form of treatment that decreases symptoms for many people with allergic rhinitis, allergic asthma, and other common allergies.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="39d5322f-10a6-4308-8c71-0417c59fbd9b">
+    <STATIC_figure>
+  <image>page_426_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-13 &lt;/span&gt;&lt;strong&gt;Atopic dermatitis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="16b5b0eb-abea-4729-8eb5-cec492240ab7">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; How do Allergy Shots Work?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allergy shots work like a vaccine. Your body responds to injected trace amounts of a particular allergen given in increasing doses. These injections cause production of antibodies that lead to lessening of allergic symptoms.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5e6ab912-4ee1-4119-b29e-20cb348fb1d2">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;MALIGNANCIES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0547708d-474d-4222-bb7d-2059f09c6ba1">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;lymphoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of lymph nodes and lymph tissue.&lt;/strong&gt;&lt;br/&gt;There are many types of lymphoma, varying according to the particular cell type and degree of differentiation. Some examples are:&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Hodgkin lymphoma&lt;/strong&gt; —Malignant tumor of lymphoid tissue in the spleen and lymph nodes. This disease is characterized by &lt;strong&gt;lymphadenopathy&lt;/strong&gt; (lymph nodes enlarge), splenomegaly, fever, weakness, and loss of weight and appetite. The diagnosis often is made by identifying a type of malignant cell (&lt;strong&gt;Reed-Sternberg cell&lt;/strong&gt;) in the lymph nodes. If disease is localized, the treatment may be radiotherapy or chemotherapy. If the disease is more widespread, chemotherapy is given alone. There is a very high probability of cure with available treatments. Figure 14-14 illustrates staging of Hodgkin lymphoma.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Non-Hodgkin lymphomas&lt;/strong&gt; —These include &lt;strong&gt;follicular lymphoma&lt;/strong&gt; (composed of collections of small lymphocytes in a follicle or nodule arrangement) and &lt;strong&gt;large cell lymphoma&lt;/strong&gt; (composed of large lymphocytes that infiltrate nodes and tissues diffusely). Non-Hodgkin lymphomas are mostly B cell lymphomas and rarely T cell malignancies. Chemotherapy may cure or stop the progress of this disease.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="649799b9-2339-4fef-b258-3393eb15d0a3">
+    <STATIC_figure>
+  <image>chp00014_f014-014-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-14 &lt;/span&gt;&lt;strong&gt;Staging of Hodgkin lymphoma&lt;/strong&gt; involves assessing the extent of spread of the disease. Lymph node biopsies, laparotomy with liver and lymph node biopsies, and splenectomy may be necessary for staging.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="149988fa-d873-426d-b585-9f6c956b955d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;multiple myeloma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Malignant tumor of bone marrow cells. This is a tumor composed of &lt;strong&gt;plasma cells&lt;/strong&gt; (antibody-producing B lymphocytes) associated with high levels of one of the specific immunoglobulins, usually IgG. &lt;strong&gt;Waldenström macroglobulinemia&lt;/strong&gt; is another disorder of malignant B cells. This disease involves B cells that produce large quantities of IgM (a globulin of high molecular weight). Increased IgM concentration impairs the passage of blood through capillaries in the brain and eyes, causing a hyperviscosity syndrome (thickening of the blood).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thymoma &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Tumor of the thymus gland.&lt;/strong&gt;&lt;br/&gt;Thymoma is associated with myasthenia gravis, a neuromuscular disorder. Many patients with thymoma also have other autoimmune disorders such as systemic lupus erythematosus, rheumatoid arthritis, and red cell aplasia.&lt;br/&gt;Although thymomas are rare tumors with benign appearance, malignant potential is present so that tumors may invade local tissues and metastasize regionally. Surgery is the principal method of treating thymoma; postoperative radiation therapy is used for patients with evidence of invasion or spread of the tumor.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="aee981a6-0b16-49fe-8a1e-63fa416dba0f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 52px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b415ddad-79c8-48c6-bc3c-b5f29e270a2e">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="20e9c821-adc5-4a52-8802-225fb24a5eed">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;allergen&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Substance capable of causing a speciﬁc hypersensitivity reaction; a type of antigen.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;anaphylaxis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Exaggerated or unusual hypersensitivity to foreign protein or other substance.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;atopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Hypersensitive or allergic state involving an inherited predisposition. From the Greek &lt;em&gt;atopia&lt;/em&gt;, meaning strangeness. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CD4+ cells&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Helper T cells that carry the CD4 protein antigen on their surface. HIV binds to CD4 and infects and kills T cells bearing this protein. AIDS patients have an inadequate number of CD4+ cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hodgkin lymphoma&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;Malignant tumor of lymphoid tissue in spleen and lymph nodes; Reed-Sternberg cells are often found on microscopic analysis. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;human immunodeﬁciency virus (HIV) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Virus (retrovirus) that causes AIDS. Retroviruses are a class of viruses that have RNA, instead of DNA, as their genetic material.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kaposi sarcoma &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Malignant lesion associated with AIDS; arises from the lining of capillaries and appears as red, purple, brown, or black skin nodules. Kaposi sarcoma is caused by a herpesvirus called human herpesvirus 8.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;non-Hodgkin lymphomas &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Group of malignant tumors involving lymphoid tissue. Examples are follicular lymphoma and large cell lymphoma.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;opportunistic infections&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Infectious diseases associated with AIDS; they occur because HIV infection lowers the body’s resistance and allows infection by bacteria and parasites that normally are easily contained. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;protease inhibitor &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drug that treats AIDS by blocking the production of protease, a proteolytic enzyme that helps create new viral pieces for HIV. Other anti-retroviral drugs are entry inhibitors and integrase inhibitors. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;reverse transcriptase inhibitor (RTI) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drug that treats AIDS by blocking reverse transcriptase, an enzyme needed to make copies of HIV. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;wasting syndrome &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Weight loss, decrease in muscular strength, appetite, and mental activity; associated with AIDS.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

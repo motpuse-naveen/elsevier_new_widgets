@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="9e97eb5f-2b43-4f21-b066-7d7c70bb61c1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PITUITARY GLAND&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2891d064-4632-4a32-af88-c26dad74f29f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOCATION AND STRUCTURE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="964eb5af-c32f-4129-80e7-37018ffbbd8a">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 18-10.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;pituitary gland&lt;/strong&gt;, also called the &lt;strong&gt;hypophysis&lt;/strong&gt;, is a small pea-sized gland located at the base of the brain in a small pocket-like depression of the skull called the &lt;strong&gt;sella turcica&lt;/strong&gt;. It is a well-protected gland, with the entire mass of the brain above it and the nasal cavity below. The ancient Greeks incorrectly imagined that its function was to produce &lt;em&gt;pituita, &lt;/em&gt;or nasal secretion.&lt;/p&gt;&lt;p&gt;The pituitary consists of two distinct parts: an &lt;strong&gt;anterior lobe&lt;/strong&gt; or &lt;strong&gt;adenohypophysis &lt;/strong&gt;[1], composed of glandular epithelial tissue, and a&lt;strong&gt; posterior lobe &lt;/strong&gt;or &lt;strong&gt;neurohypophysis&lt;/strong&gt; [2], composed of nervous tissue. The &lt;strong&gt;hypothalamus &lt;/strong&gt;[3] is a region of the brain under the thalamus and above the pituitary gland. Signals transmitted from the hypothalamus control secretions by the pituitary gland. Special secretory neurons in the hypothalamus send releasing and inhibiting factors (hormones) via capillaries to the anterior pituitary gland.&lt;/p&gt;&lt;p&gt;These factors stimulate or inhibit secretion of hormones from the anterior lobe of the pituitary gland. The hypothalamus also produces and secretes hormones directly to the posterior lobe of the pituitary gland, where the hormones are stored and then released (Figure 18-11).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="18d9ca94-5d9c-4e6a-907c-b6fce4b275c2">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00018_f018-010-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-10 &lt;/span&gt;The pituitary gland.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[anterior lobe or adenohypophysis]&lt;/li&gt;&lt;li&gt;[posterior lobe or neurohypophysis]&lt;/li&gt;&lt;li&gt;[hypothalamus]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="3a76b469-8266-4c21-9dcd-f70195e5f331">
+    <STATIC_figure>
+  <image>chp00018_f018-011-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-11&lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt; The relationship of the hypothalamus to the anterior and posterior lobes of the pituitary gland&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7ab4fc55-86ea-4fa7-8da5-57b1cc07decc">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;FUNCTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6adc0fe4-a258-4d32-8c94-d3a54e496aeb">
+    <STATIC_text>
+  <text>&lt;p&gt;Although no bigger than a pea, the&lt;strong&gt; pituitary gland&lt;/strong&gt; is often called the&lt;strong&gt; “master gland”&lt;/strong&gt; because it makes hormones that control several other endocrine glands.&lt;/p&gt;&lt;p&gt;The major hormones of the &lt;strong&gt;anterior pituitary gland&lt;/strong&gt; are:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Growth hormone (GH)&lt;/strong&gt;, or &lt;strong&gt;somatotropin&lt;/strong&gt; —Promotes protein synthesis that results in the growth of bones, muscles, and other tissues. GH also stimulates the liver to make insulin-like growth factor (also called IGF), which stimulates the growth of bones. It increases blood glucose levels and is secreted during exercise, sleep, and hypoglycemia.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thyroid-stimulating hormone (TSH), &lt;/strong&gt;or &lt;strong&gt;thyrotropin&lt;/strong&gt; —Stimulates the growth of the thyroid gland and secretion of thyroxine (T4) and triiodothyronine (T3).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Adrenocorticotropic hormone (ACTH), &lt;/strong&gt;or &lt;strong&gt;adrenocorticotropin &lt;/strong&gt;—Stimulates the growth of the adrenal cortex and increases its secretion of steroid hormones (primarily cortisol).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gonadotropic hormones&lt;/strong&gt; —Several gonadotropic hormones influence the growth and hormone secretion of the ovaries in females and the testes in males.&lt;br/&gt;In the female, &lt;strong&gt;follicle-stimulating hormone (FSH) &lt;/strong&gt;and &lt;strong&gt;luteinizing hormone (LH) &lt;/strong&gt;stimulate the growth of eggs in the ovaries, the production of hormones, and ovulation. In the male, FSH influences the production of sperm, and LH (an interstitial cell– stimulating hormone) stimulates the testes to produce testosterone.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Prolactin (PRL)&lt;/strong&gt; —Stimulates breast development during pregnancy and sustains milk production after birth.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;The &lt;strong&gt;posterior pituitary gland &lt;/strong&gt;stores and releases two important hormones that are synthesized in the hypothalamus:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Antidiuretic hormone (ADH), &lt;/strong&gt;also called &lt;strong&gt;vasopressin &lt;/strong&gt;—Stimulates the reabsorption of water by the kidney tubules. In addition, ADH also increases blood pressure by constricting arterioles.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Oxytocin (OT) &lt;/strong&gt;—Stimulates the uterus to contract during childbirth and maintains labor during childbirth. OT also is secreted during suckling and causes the production of milk from the mammary glands.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Figure 18-12 summarizes hormones secreted by the pituitary gland and their functions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6a05a166-7e3c-49c5-a235-4fb47c55e894">
+    <STATIC_figure>
+  <image>chp00018_f018-012-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-12 &lt;/span&gt;The pituitary gland: its hormones and actions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

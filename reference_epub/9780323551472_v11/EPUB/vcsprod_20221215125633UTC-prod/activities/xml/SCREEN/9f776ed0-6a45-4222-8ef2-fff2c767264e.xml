@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="8cfd199a-6744-414a-9c89-1fcef8bec29f">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;CHAPTER 18 | &lt;span style="color:#CA500F;"&gt;Endocrine System&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="24594c6c-4c0f-4d92-a103-d48d95e49812">
+    <STATIC_figure>
+  <image>chp00018_co018-9780323551472.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="96301b1d-6378-4cc9-bc1a-0e774ebe83d6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Chapter Sections:&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="64c9be54-a5e8-4073-b852-8bf6645d5f38">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;a href="000302215190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Introduction&lt;/a&gt;&lt;br/&gt;&lt;a href="000302216190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Thyroid Gland&lt;/a&gt;&lt;br/&gt;&lt;a href="000302217190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Parathyroid Glands&lt;/a&gt;&lt;br/&gt;&lt;a href="000302218190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Adrenal Glands&lt;/a&gt;&lt;br/&gt;&lt;a href="000302219190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pancreas&lt;/a&gt;&lt;br/&gt;&lt;a href="000302220190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pituitary Gland&lt;/a&gt;&lt;br/&gt;&lt;a href="000302221190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Ovaries&lt;/a&gt;&lt;br/&gt;&lt;a href="000302222190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Testes&lt;/a&gt;&lt;br/&gt;&lt;a href="000302223190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Vocabulary&lt;/a&gt;&lt;br/&gt;&lt;a href="000302224190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Terminology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302225190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pathology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302226190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Laboratory Tests&lt;/a&gt;&lt;br/&gt;&lt;a href="000302227190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Clinical Procedures&lt;/a&gt;&lt;br/&gt;&lt;a href="000302228190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Abbreviations&lt;/a&gt;&lt;br/&gt;&lt;a href="000302229190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Practical Applications&lt;/a&gt;&lt;br/&gt;&lt;a href="000302230190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;In Person: Living with Diabetes&lt;/a&gt;&lt;br/&gt;&lt;a href="000302231190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;In Person: Diabetes Insipidus&lt;/a&gt;&lt;br/&gt;&lt;a href="000302232190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;In Person: My Cushing’s Journey&lt;/a&gt;&lt;br/&gt;&lt;a href="000315292240211919.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Exercises&lt;/a&gt;&lt;br/&gt;&lt;a href="000302233190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pronunciation of Terms&lt;/a&gt;&lt;br/&gt;&lt;a href="000302234190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Review Sheet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="864599f5-bbcb-486a-b4eb-947d4153a335">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CHAPTER GOALS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Identify the endocrine glands and their hormones.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Gain an understanding of the functions of these hormones in the body.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Analyze medical terms related to the endocrine glands and their hormones.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Identify the abnormal conditions resulting from excessive and deficient secretions of the endocrine glands.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Describe laboratory tests and clinical procedures related to endocrinology, and recognize relevant abbreviations.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+</blocks>

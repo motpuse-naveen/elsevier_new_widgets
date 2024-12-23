@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="90c1c229-d4e8-42ee-bb9b-d90487a643b8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY OF THE HEART&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b5258bfa-fd04-4b83-9353-a969d8875552">
+    <STATIC_text>
+  <text>&lt;p&gt;The human heart weighs less than a pound (300-450 grams), is roughly the size of an adult fist, and lies in the thoracic cavity, just behind the breastbone in the mediastinum (between the lungs).&lt;/p&gt;&lt;p&gt;The heart is a pump consisting of four chambers: two upper chambers called &lt;strong&gt;atria&lt;/strong&gt; (&lt;em&gt;singular&lt;/em&gt;: &lt;strong&gt;atrium&lt;/strong&gt;) and two lower chambers called &lt;strong&gt;ventricles&lt;/strong&gt;. It is actually a double pump, bound into one organ and synchronized very carefully. Blood passes through each pump in a definite pattern. Pump station number one, on the right side of the heart, sends oxygen-deficient blood to the lungs, where the blood picks up oxygen and releases its carbon dioxide. The newly oxygenated blood returns to the left side of the heart to pump station number two and does not mix with the oxygen-poor blood in pump station number one. Pump station number two then forces the oxygenated blood out to all parts of the body. At the body tissues, the blood loses its oxygen, and on returning to the heart, to pump station number one, blood poor in oxygen (rich in carbon dioxide) is sent out to the lungs to begin the cycle anew.&lt;/p&gt;&lt;p&gt;Label Figure 11-5 as you learn the names of the parts of the heart and the vessels that carry blood to and from it.&lt;/p&gt;&lt;p&gt;Oxygen-poor blood enters the heart through the two largest veins in the body, the &lt;strong&gt;venae cavae&lt;/strong&gt;. The &lt;strong&gt;superior venae cava&lt;/strong&gt; [1] drains blood from the upper portion of the body, and the &lt;strong&gt;inferior vena cava&lt;/strong&gt; [2] carries blood from the lower part of the body.&lt;/p&gt;&lt;p&gt;The venae cavae bring oxygen-poor blood that has passed through all of the body to the &lt;strong&gt;right atrium&lt;/strong&gt; [3], the thin-walled upper right chamber of the heart. The right atrium contracts to force blood through the &lt;strong&gt;tricuspid valve&lt;/strong&gt; [4] (cusps are the flaps of the valves) into the &lt;strong&gt;right ventricle&lt;/strong&gt; [5], the lower right chamber of the heart. The cusps of the tricuspid valve form a one-way passage designed to keep the blood flowing in only one direction. As the right ventricle contracts to pump oxygen-poor blood through the &lt;strong&gt;pulmonary valve&lt;/strong&gt; [6] into the &lt;strong&gt;pulmonary artery&lt;/strong&gt; [7], the tricuspid valve stays shut, thus preventing blood from pushing back into the right atrium. The pulmonary artery then branches to carry oxygendeficient blood to each lung.&lt;/p&gt;&lt;p&gt;The blood that enters the lung capillaries from the pulmonary artery soon loses its large quantity of carbon dioxide into the lung tissue, and the carbon dioxide is expelled. At the same time, oxygen enters the capillaries of the lungs and is brought back to the heart via the pulmonary veins [8]. The newly oxygenated blood enters the &lt;strong&gt;left atrium&lt;/strong&gt; [9] of the heart from the pulmonary veins. The walls of the left atrium contract to force blood through the &lt;strong&gt;mitral valve&lt;/strong&gt; [10] into the &lt;strong&gt;left ventricle&lt;/strong&gt; [11].&lt;/p&gt;&lt;p&gt;The left ventricle has the thickest walls of all four heart chambers (three times the thickness of the right ventricular wall). It must pump blood with great force so that the blood travels through arteries to all parts of the body. The left ventricle propels the blood through the &lt;strong&gt;aortic valve&lt;/strong&gt; [12] into the &lt;strong&gt;aorta&lt;/strong&gt; [13], which branches to carry blood all over the body. The aortic valve closes to prevent return of aortic blood to the left ventricle.&lt;/p&gt;&lt;p&gt;In Figure 11-6, notice that the four chambers of the heart are separated by partitions called &lt;strong&gt;septa&lt;/strong&gt; (&lt;em&gt;singular&lt;/em&gt;: septum). (Label Figure 11-6 as you read these paragraphs.) The &lt;strong&gt;interatrial septum&lt;/strong&gt; [1] separates the two upper chambers (atria), and the &lt;strong&gt;interventricular septum&lt;/strong&gt; [2], a muscular wall, lies between the two lower chambers (ventricles).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="74f4c165-6765-44b3-9735-65a08ab6af0b">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00011_f011-005-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-5&lt;/span&gt; &lt;strong&gt;Structure of the heart&lt;/strong&gt;. &lt;em&gt;Blue arrows &lt;/em&gt;indicate oxygen-poor blood flow. &lt;em&gt;Red arrows &lt;/em&gt;show oxygenated blood flow.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[superior vena cava]&lt;/li&gt;&lt;li&gt;[inferior vena cava]&lt;/li&gt;&lt;li&gt;[right atrium]&lt;/li&gt;&lt;li&gt;[tricuspid valve]&lt;/li&gt;&lt;li&gt;[right ventricle]&lt;/li&gt;&lt;li&gt;[pulmonary valve]&lt;/li&gt;&lt;li&gt;[pulmonary artery]&lt;/li&gt;&lt;li&gt;[pulmonary veins]&lt;/li&gt;&lt;li&gt;[left atrium]&lt;/li&gt;&lt;li&gt;[mitral valve]&lt;/li&gt;&lt;li&gt;[left ventricle]&lt;/li&gt;&lt;li&gt;[aortic valve]&lt;/li&gt;&lt;li&gt;[aorta]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="f1160cba-bf52-4dbc-af46-5944ed12c516">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00011_f011-006-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-6 &lt;/span&gt;&lt;strong&gt;The septa (walls of the heart) and the 3 layers of the heart&lt;/strong&gt;. Note that the &lt;strong&gt;apex of the heart&lt;/strong&gt; is the conical (shaped like a cone) lower tip of the heart.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[interatrial septum]&lt;/li&gt;&lt;li&gt;[interventricular septum]&lt;/li&gt;&lt;li&gt;[endocardium]&lt;/li&gt;&lt;li&gt;[myocardium]&lt;/li&gt;&lt;li&gt;[pericardium]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="44dc5fb2-5396-408b-a979-0fc5a605dee5">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 11-6 also shows the three layers of the heart. The &lt;strong&gt;endocardium&lt;/strong&gt; [3], a smooth layer of endothelial cells, lines the interior of the heart and heart valves. The &lt;strong&gt;myocardium&lt;/strong&gt; [4], the middle, muscular layer of the heart wall, is its thickest layer. The &lt;strong&gt;pericardium&lt;/strong&gt; [5], a fibrous and membranous sac, surrounds the heart. It is composed of two layers, the &lt;strong&gt;visceral pericardium&lt;/strong&gt;, adhering to the heart, and the &lt;strong&gt;parietal&lt;/strong&gt; (parietal means wall) pericardium, lining the outer fibrous coat. The &lt;strong&gt;pericardial cavity&lt;/strong&gt; (between the visceral and the parietal pericardial layers) normally contains 10 to 15 mL of pericardial fluid, which lubricates the membranes as the heart beats.&lt;/p&gt;&lt;p&gt;Figure 11-7 reviews the pathway of blood through the heart.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="43251798-aad6-4901-8326-5ce4f5e7e875">
+    <STATIC_figure>
+  <image>Fig_11.7.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-7 &lt;/span&gt;&lt;strong&gt;Pathway of blood through the heart&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

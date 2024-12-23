@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d268b820-5ab2-4019-b928-1581cca34d6d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CHARACTERISTICS OF TUMORS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="15b82c8d-8431-4d24-b3ed-bcff3a4e29b8">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Tumors (neoplasms)&lt;/strong&gt; are new growths that arise from normal tissue. They may be either &lt;strong&gt;malignant&lt;/strong&gt; (capable of invasion and spread to surrounding or more distant sites) or &lt;strong&gt;benign &lt;/strong&gt;(noninvasive and not spreading to other sites). There are several differences between benign and malignant tumors. Some of these differences are:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Benign tumors&lt;strong&gt; grow slowly,&lt;/strong&gt; and malignant tumor cells &lt;strong&gt;multiply rapidly&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Benign tumors are often &lt;strong&gt;encapsulated &lt;/strong&gt;(contained within a fibrous capsule or cover), so that the tumor cells do not invade the surrounding tissue. Malignant tumors characteristically are &lt;strong&gt;invasive &lt;/strong&gt;and &lt;strong&gt;infiltrative&lt;/strong&gt;, extending into neighboring normal tissue.&lt;/li&gt;&lt;li&gt;Benign tumors are composed of organized and specialized &lt;strong&gt;(differentiated)&lt;/strong&gt; cells that closely resemble the normal, mature tissue from which they are derived. For example, benign tumors derived from epithelial cells that line the wall of the gastrointestinal tract look very much like their normal counterparts. Malignant tumors are composed of cancerous cells that resemble primitive cells and lack the capacity to perform mature cell functions. This characteristic of malignant tumors is called &lt;strong&gt;anaplasia&lt;/strong&gt;. Anaplasia (ana- means backward and -plasia means growth) indicates that the cancerous cells are &lt;strong&gt;dedifferentiated&lt;/strong&gt;, or &lt;strong&gt;undifferentiated&lt;/strong&gt; (reverting to a less specialized state), in contrast with the normal, differentiated tissue of their origin. Anaplastic cells lack an orderly arrangement. Thus, tumor cells vary in size and shape and are piled one on top of the other in a disorganized fashion. The nuclei in these cells are large and &lt;strong&gt;hyperchromatic&lt;/strong&gt; (stain excessively with dyes that recognize genetic material, DNA). Figure 19-1A and B shows normal skeletal muscle and anaplastic malignant muscle tumor cells.&lt;/li&gt;&lt;li&gt;Cells from benign tumors do not spread or &lt;strong&gt;metastasize &lt;/strong&gt;to form secondary tumor masses in distant places in the body. Cells from malignant tumors, however, can detach themselves from the primary tumor site, penetrate a blood vessel or lymphatic vessel, travel through the bloodstream or lymphatic system, and establish a new tumor site at a distant tissue, such as the lung, liver, or bone marrow. The secondary growth is called a &lt;strong&gt;metastasis&lt;/strong&gt;. Figure 19-2 shows metastatic tumors within the liver.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Figure 19-3 reviews the differences between benign and malignant tumors.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="345bd3b9-4cdb-4b39-ae36-44ffdc987b51">
+    <STATIC_figure>
+  <image>chp00019_f019-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-1&lt;/span&gt; A, Photomicrograph of normal skeletal muscle cells (fibers).&lt;/strong&gt; Note the orderly arrangement and the long, narrow, threadlike shape of the cells. There are many nuclei per cell and many cross striations. &lt;strong&gt;B, Anaplastic tumor cells of the skeletal muscle (rhabdomyosarcoma).&lt;/strong&gt; Note the variation in size and shape of the nuclei (pleomorphism; pleo = many, morph/o = shape), hyperchromatic (intensely staining) nuclei, and large tumor cells (which may possess more than one nucleus). &lt;em&gt;(&lt;strong&gt;B, &lt;/strong&gt;Courtesy Trace Worrell, MD, Department of Pathology, University of Texas Southwestern Medical School, Dallas.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c3f8643a-5734-483f-8a6e-a5465878e9d2">
+    <STATIC_figure>
+  <image>page_615_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-2&lt;/span&gt; A liver studded with metastatic cancer.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e25d0322-aa97-4fd2-a873-20c7b1c4bd62">
+    <STATIC_figure>
+  <image>chp00019_f019-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-3 &lt;/span&gt;Differences between benign and malignant tumors.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

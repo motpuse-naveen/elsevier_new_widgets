@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="32102632-724d-48be-8fbe-acb6874711b0">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="69e30e65-1589-4a24-96e7-d15c34257ff8">
+    <STATIC_text>
+  <text>&lt;p&gt;Reproduced here from actual medical records is a case report on a patient with post-TURP complaints. Background data and explanations of more difficult terms are added in brackets.&lt;/p&gt;&lt;p&gt;Also presented for your review is an actual surgical pathology report for a man diagnosed with prostate cancer, as well as a summary of current knowledge on anabolic steroids.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="da794b4e-b675-46c7-b778-902e8aefa564">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CASE REPORT: A MAN WITH POST-TURP COMPLAINTS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="badce013-45e9-486c-8fc7-94e741c1abd7">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;The patient is a 70-year-old man who underwent a TURP for BPH 5 years ago and now has severe obstructive urinary symptoms with a large postvoid residual.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;On DRE, his prostate was found to be large, bulky, and nodular, with palpable extension to the left seminal vesicle. His PSA level was 15 ng/mL [normal is 0 to 4 ng/mL] and a bone scan was negative. A CT scan revealed bilateral external iliac adenopathy with lymph nodes measuring 1.5 cm on average [normal lymph node size is less than 1 cm]. A prostatic biopsy revealed a poorly differentiated adenocarcinoma.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;This patient most likely has at least stage T3 N+ disease [extension into seminal vesicles and nodal metastases]. Recommendation is anti-testosterone hormonal drug treatment.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Questions about the Case Report&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Five years previously, the patient had which type of surgery? [Partial prostatectomy (transurethral)/Perineal prostatectomy/Removal of testicles]&lt;/p&gt;&lt;p&gt;2. What was the reason for the surgery then? [Benign overgrowth of the prostate gland/Testicular cancer/Cryptorchidism]&lt;/p&gt;&lt;p&gt;3. What symptom does he have now? [Urinary retention/Burning pain on urination/Premature ejaculation]&lt;/p&gt;&lt;p&gt;4. What examination allowed the physician to feel the tumor? [Palpation by a finger inserted into the rectum/CT scan/Prostate-specific antigen test]&lt;/p&gt;&lt;p&gt;5. Where had the tumor spread? [Pelvic lymph nodes and left seminal vesicle/Testes/Pelvic bone]&lt;/p&gt;&lt;p&gt;6. What is likely to stimulate prostatic adenocarcinoma growth? [Testosterone secretion/Prostatic biopsy/Hormonal drug treatment]&lt;/p&gt;&lt;p&gt;7. Stage T3 N+ means that the tumor [Has spread locally and beyond lymph nodes/Is confined to the prostate gland/Is localized to the hip area]&lt;/p&gt;&lt;p&gt;8. Why is staging of tumors important? [To classify the extent of spread of the tumor and to plan treatment/To make the initial diagnosis/To make an adequate biopsy of the tumor]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+  <block refid="696b8c9f-b565-4037-a5a0-da7d1d463c35">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SURGICAL PATHOLOGY REPORT: PROSTATE CANCER/HYPERPLASIA&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="67fa140b-2e90-4d01-ac46-bd522ee6017a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Patient name:&lt;/strong&gt; Bill Scott&lt;br/&gt;&lt;strong&gt;DOB:&lt;/strong&gt; 9/14/1942 (Age 78)&lt;br/&gt;&lt;strong&gt;Gender:&lt;/strong&gt; M&lt;br/&gt;&lt;strong&gt;Clinical Data:&lt;/strong&gt; ?Nodule, right side of prostate; PSA 7.1&lt;br/&gt;&lt;strong&gt;Specimen(s):&lt;/strong&gt;&lt;/p&gt;&lt;ol start="1" style="list-style-type: upper-alpha;"&gt;&lt;li&gt;Right side prostate biopsy&lt;/li&gt;&lt;li&gt;Left side prostate biopsy&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;FINAL PATHOLOGIC DIAGNOSIS&lt;/strong&gt;&lt;/p&gt;&lt;ol start="1" style="list-style-type: upper-alpha;"&gt;&lt;li&gt;Needle biopsy of right side prostate gland (six cores)&lt;br/&gt;ADENOCARCINOMA, MODERATELY TO POORLY DIFFERENTIATED&lt;br/&gt;Gleason score 4 + 3 = 7 &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;Estimated tumor load, 10% of prostatic tissue&lt;br/&gt;Represented in both specimens A and B&lt;/li&gt;&lt;li&gt;Needle biopsy of left side prostate gland&lt;br/&gt;BENIGN HYPERPLASIA&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4b6735d8-1dfc-4b7f-badb-d9d1ec1f0289">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;ABOUT ANABOLIC STEROIDS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5bd2492e-bebc-443b-91bd-bd69fb12a042">
+    <STATIC_text>
+  <text>&lt;p&gt;Anabolic steroids are male hormones (androgens) that increase body weight and muscle size and may be used by doctors to increase growth in boys who do not mature physically as expected for their age. Steroids also may be used by athletes in an effort to increase strength and enhance performance; however, significant detrimental side effects of these drugs have been recognized:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;High levels of anabolic steroids cause acne, hepatic tumors, and sterility (testicular atrophy and oligospermia).&lt;/li&gt;&lt;li&gt;In women, the androgenic effect of anabolic steroids leads to male hair distribution, deepening of the voice, amenorrhea, and clitoral enlargement.&lt;/li&gt;&lt;li&gt;Anabolic steroid use also causes hypercholesterolemia, hypertension, jaundice (liver abnormalities), and salt and water retention (edema).&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="dd1d3fc7-8d14-40fe-92bd-610e666583f2">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Gleason Score&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;Gleason score&lt;/strong&gt; (named after Dr. Donald Gleason, a pathologist who developed it in the 1960s) is based on the microscopic appearance of the prostate biopsy specimen. Cancers with a higher Gleason score are more aggressive and carry a worse prognosis. The pathologist assigns a grade (number) to the most common tumor cells and another to the next most common tumor cells. Adding these numbers together gives the Gleason score. The score is based on a scale from 1 to 5. More well-differentiated (closer to normal) cells are given a lower grade, and poorly differentiated (malignant) cells are given a higher grade.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

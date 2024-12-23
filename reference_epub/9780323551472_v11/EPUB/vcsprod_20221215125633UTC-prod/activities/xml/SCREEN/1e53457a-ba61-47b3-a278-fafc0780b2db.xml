@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="35ba791f-6a4b-47c9-8f3a-30783ea71046">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;DIVISIONS OF THE BACK (SPINAL COLUMN)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="847de721-f3d3-4af6-bf99-25e4706ac64d">
+    <STATIC_text>
+  <text>&lt;p&gt;The spinal column is composed of a series of bones that extend from the neck to the tailbone. Each bone is a &lt;strong&gt;vertebra &lt;/strong&gt;(plural: &lt;strong&gt;vertebrae&lt;/strong&gt;).&lt;/p&gt;&lt;p&gt;Label the divisions of the back on Figure 2-16A as you study the following:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b76513be-d33b-4a5b-97cb-7d38aa9c917d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;DIVISION OF THE BACK&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;ABBREVIATION&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;LOCATION&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cervical &lt;/strong&gt;[1]&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;Neck region. There are seven cervical vertebrae (C1 to C7).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Thoracic &lt;/strong&gt;[2]&lt;/td&gt;&lt;td&gt;T&lt;/td&gt;&lt;td&gt;Chest region. There are 12 thoracic vertebrae (T1 to T12). Each bone is joined to a rib.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lumbar &lt;/strong&gt;[3]&lt;/td&gt;&lt;td&gt;L&lt;/td&gt;&lt;td&gt;Loin (waist) or flank region (between the ribs and the hipbone). There are five lumbar vertebrae (L1 to L5).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sacral &lt;/strong&gt;[4]&lt;/td&gt;&lt;td&gt;S&lt;/td&gt;&lt;td&gt;Five bones (S1 to S5) are fused to form one bone, the &lt;strong&gt;sacrum&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Coccygeal &lt;/strong&gt;[5]&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;The &lt;strong&gt;coccyx &lt;/strong&gt;(tailbone) is a small bone composed of four fused pieces.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="1cab11a8-aa7d-46ac-9509-472dd7c0f1cd">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-16.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-16&lt;/span&gt; A, Anatomic divisions of the back (spinal column)&lt;/strong&gt;. A &lt;strong&gt;disc &lt;/strong&gt;is a small pad of cartilage between each backbone.&lt;strong&gt; B, MRI (magnetic resonance image) &lt;/strong&gt;of a &lt;strong&gt;herniated disc&lt;/strong&gt; at the L4-L5 level of the spinal column.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[Cervical]&lt;/li&gt;&lt;li&gt;[Thoracic]&lt;/li&gt;&lt;li&gt;[Lumbar]&lt;/li&gt;&lt;li&gt;[Sacral]&lt;/li&gt;&lt;li&gt;[Coccygeal]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="ec34e21d-7fba-40ab-b70e-b9b4b64d18d6">
+    <STATIC_text>
+  <text>&lt;p&gt;Do not confuse the &lt;strong&gt;spinal column&lt;/strong&gt; (backbones or vertebrae) with the &lt;strong&gt;spinal cord&lt;/strong&gt; (nerves surrounded by the column). The &lt;strong&gt;spinal column&lt;/strong&gt; is &lt;strong&gt;bone tissue&lt;/strong&gt;, whereas the &lt;strong&gt;spinal cord&lt;/strong&gt; is &lt;strong&gt;nervous tissue&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;The spaces between the vertebrae (intervertebral spaces) are identified according to the two vertebrae between which they occur—for example, the L5–S1 space is between the fifth lumbar vertebra and the first sacral vertebra; T2–3 is between the second and third thoracic vertebrae. Within the space and between vertebrae is a small pad called a &lt;strong&gt;disc&lt;/strong&gt;. The disc, composed of water and cartilage, is a shock absorber. Occasionally, a disc may move out of place (herniate) and put pressure on a nerve (see Figure 2-16B). This “&lt;strong&gt;slipped disc&lt;/strong&gt;” can cause pain in an area of the body affected by the nerve.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a6eecf2f-42c3-4b88-85b9-7cba50eb287f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION 4&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="14c894b1-72c6-41cb-84c7-f90c63e30792">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term, and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="95232605-9b5f-4740-a83e-dd2fc739224c">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;ABDOMINOPELVIC REGIONS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="17993789-0431-4a39-ab54-3adba315c7ab">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hypochondriac&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Right and left upper regions beneath the ribs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epigastric&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Middle upper region above the stomach.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lumbar&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Right and left middle regions near the waist.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;umbilical&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Central region near the navel.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;inguinal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Right and left lower regions near the groin. Also called iliac regions.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hypogastric&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Middle lower region below the umbilical region.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="f003f263-60ff-497c-89a9-1bf9140654e6">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;ABDOMINOPELVIC QUADRANTS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f8ed43af-eb81-4a5d-9794-8f98fd6b2a8e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;RUQ&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Right upper quadrant.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;LUQ&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Left upper quadrant.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;RLQ&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Right lower quadrant.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;LLQ&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Left lower quadrant.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="46b60153-db7a-4dc6-b30d-7246b7cdf857">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;DIVISIONS OF THE BACK&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2c51eef8-71ef-4359-a13f-946c84602b26">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cervical&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Neck region (C1 to C7).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thoracic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Chest region (T1 to T12).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lumbar&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Loin (waist) region (L1 to L5).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sacral&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Region of the sacrum (S1 to S5).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;coccygeal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Region of the coccyx (tailbone).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="463770f7-bc73-4fe8-9c5d-a0cdeadc01c1">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;RELATED TERMS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2cab826f-af0e-41fd-bce5-bc410187babf">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vertebra&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Single backbone. &lt;span style="color:#D24634;"&gt;* &lt;/span&gt;&lt;strong&gt;HINT:&lt;/strong&gt; There are two e’s in vertebra&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vertebrae&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Backbones. (VER-teh-bray)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spinal column&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Bone tissue surrounding the spinal cavity.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spinal cord&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Nervous tissue within the spinal cavity.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;disc&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pad of cartilage between vertebrae.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

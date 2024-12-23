@@ -1,0 +1,105 @@
+
+<!--
+  only root ui related templates here
+-->
+
+<script type="text/template" id="root-ui-overlay-root-template">
+	<div class="overlay-root vstdonthighlight">
+		<div class="modal-cover-holder">
+			<div class="modal-cover-outer"><div class="modal-cover"></div></div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-loading-icon-template">
+	<div class="loading-spinner" tabindex="-1">
+		<!-- Set opacity to 0 inline to prevent screen flash -->
+		<div class="spinner-message visuallyhidden" style="opacity: 0">Loading</div>
+		<div class="spinner"></div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-zoomable-image-wrapper-template">
+	<div class="image-zoom-holder">
+		<img class="image-zoom-proxy"/>
+		<button class="image-zoom-button"><span class="visuallyhidden">zoom image</span></button>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-zoom-image-popup-template">
+	<div class="zoom-image-popup">
+		<div class="image-zoom-holder">
+			<button class="image-zoom-close-btn" tabindex="0"><span class="visuallyhidden">close image zoom</span></button>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-text-popup-template">
+	<div class="text-popup">
+		<button class="text-popup-close-btn" tabindex="0"><span class="visuallyhidden">close text popup</span></button>
+		<div class="text-popup-container"></div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-text-popup-term-definition-template">
+	<div class="text-popup-cutout"></div>
+	<span class="popup-term"><%=term%></span><span class="popup-definition"><%=definition%></span>
+</script>
+
+<script type="text/template" id="root-ui-text-alert-template">
+	<div class="alert-container">
+		<div class="screen__margin">
+			<div class="alert-modal" role="alertdialog" describedby="alert-content">
+				<div class="alert-modal__btn-container">
+					<button class="alert-modal__close-btn js-close-btn" tabindex="0"><span class="visuallyhidden"><%= closeText %></span></button>
+				</div>
+				<div class="alert-modal__icon-container">
+					<div class="alert-modal__icon"></div>
+				</div>
+				<div id="alert-content" class="alert-modal__message"><%= message %></div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-select-template">
+	<div class="selection-items">
+		<label for="<%= id %>"><%= label %></label>
+		<select id="<%= id %>" class="drop-element drop-element-select" spellcheck="false">
+		<% _.each(selectionOptions, function(selectionOption, i) { %>
+			<option value="<%= selectionOption.value %>"><%= selectionOption.label %></option>
+		<% }); %>
+		</select>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-modal-template">
+	<div class="modal-container">
+		<div class="screen__margin">
+			<div class="modal u-float--clearfix" role="dialog" describedby="modal-dialog-content">
+				<div class="modal__close-btn-container">
+					<button class="modal__close-btn js-close-btn" tabindex="0"><span class="visuallyhidden"><%= closeText %></span></button>
+				</div>
+				<div class="modal__icon-container">
+					<div class="modal__icon"></div>
+				</div>
+
+				<div id="modal-dialog-content" class="modal__contents">
+					<% if (message) { %>
+						<div class="modal__message"><%= message %></div>
+					<% } %>
+					<div class="modal__selection-btns">
+						<button data-function="cancel" class="modal__selection-btn js-cancel-btn"><%= cancelText %></button>
+						<button data-function="confirm" class="modal__selection-btn js-confirm-btn js-last-btn"><%= confirmText %></button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="root-ui-tooltip-template">
+	<div class="tooltip-container" aria-hidden="true">
+		<span class="tooltip-text"><%= text %></span>
+	</div>
+</script>

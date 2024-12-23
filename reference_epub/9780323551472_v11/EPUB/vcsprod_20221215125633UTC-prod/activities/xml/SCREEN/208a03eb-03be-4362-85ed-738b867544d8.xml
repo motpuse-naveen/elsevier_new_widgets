@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="334eb564-a461-4e28-9e22-3902c1c9c742">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;CHAPTER 4 | &lt;span style="color:#CA500F;"&gt;Prefixes&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="425fd420-c625-45f3-9f53-22e9bf0610b2">
+    <STATIC_figure>
+  <image>chp00004_co004-9780323551472.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="07ab0472-bf5a-44ee-811e-4fbe1176161b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Chapter Sections:&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8c35aaf0-c249-49c7-b4fa-6d8728000d05">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;a href="000304593202125229.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Introduction&lt;/a&gt;&lt;br/&gt;&lt;a href="000302009190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Combining Forms and Suffixes&lt;/a&gt;&lt;br/&gt;&lt;a href="000302010190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Prefixes and Terminology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302011190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;A Closer Look&lt;/a&gt;&lt;br/&gt;&lt;a href="000302012190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Practical Applications&lt;/a&gt;&lt;br/&gt;&lt;a href="000315278240211917.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Exercises&lt;/a&gt;&lt;br/&gt;&lt;a href="000302013190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pronunciation of Terms&lt;/a&gt;&lt;br/&gt;&lt;a href="000302014190230741.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Review Sheet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7a2dcae7-c947-4abb-8cba-6c6abc482d85">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CHAPTER GOALS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Define basic prefixes used in the medical language.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Analyze medical terms that combine prefixes and other word elements.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Learn about the Rh condition as an example of an antigen-antibody reaction.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+</blocks>

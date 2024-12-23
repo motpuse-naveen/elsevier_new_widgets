@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="3b1a86fd-c144-444c-836b-75608b6a63ac">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;NUCLEAR MEDICINE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ee336b1d-ba60-4d21-9067-44b1c0585e10">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;RADIOACTIVITY AND RADIONUCLIDES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4b3f6e6c-e04c-406c-b687-35d87114dc01">
+    <STATIC_text>
+  <text>&lt;p&gt;The spontaneous emission of energy in the form of particles or rays coming from the interior of a substance is called &lt;strong&gt;radioactivity&lt;/strong&gt;. A &lt;strong&gt;radionuclide&lt;/strong&gt; (or &lt;strong&gt;radioisotope&lt;/strong&gt;) is a substance that gives off high-energy particles or rays as it disintegrates. Radionuclides are produced in either a nuclear reactor or a charged-particle accelerator (cyclotron) or by irradiating stable substances, causing disruption and instability.&lt;strong&gt; Half-life&lt;/strong&gt; is the time required for a radioactive substance (radionuclide) to lose half of its radioactivity by disintegration. Knowledge of a radionuclide’s half-life is important in determining how long the radioactive substance will emit radioactivity when in the body. The half-life must be long enough to allow for diagnostic imaging but as short as possible to minimize patient exposure to radiation.&lt;/p&gt;&lt;p&gt;Radionuclides emit three types of radioactivity: &lt;strong&gt;alpha particles, beta particles&lt;/strong&gt;, and &lt;strong&gt;gamma rays&lt;/strong&gt;. Gamma rays, which have greater penetrating ability than alpha and beta particles, and more ionizing power, are especially useful to physicians in both the diagnosis and the treatment of disease. &lt;strong&gt;Technetium-99m &lt;/strong&gt;(&lt;sup&gt;99m&lt;/sup&gt;Tc) is essentially a pure gamma emitter with a half-life of 6 hours. Its properties make it the most frequently used radionuclide in diagnostic imaging.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a485c7cf-c09d-4d59-ba89-8076fbefa195">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NUCLEAR MEDICINE TESTS: IN VITRO AND IN VIVO PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="696e18a3-47ce-4efc-87d1-ce451456e42a">
+    <STATIC_text>
+  <text>&lt;p&gt;Nuclear medicine physicians use two types of tests in the diagnosis of disease: &lt;strong&gt;in vitro&lt;/strong&gt; (in the test tube) procedures and in vivo (in the body) procedures. In vitro procedures involve analysis of blood and urine specimens using radioactive chemicals. For example, a &lt;strong&gt;radioimmunoassay (RIA) &lt;/strong&gt;is an in vitro procedure that combines the use of radioactive chemicals and antibodies to detect hormones and drugs in a patient’s blood. The test allows the detection of minute amounts of substances or compounds. RIA is used to monitor the amount of digitalis, a drug used to treat heart disease, in a patient’s bloodstream and can detect hypothyroidism in newborn infants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In vivo&lt;/strong&gt; tests trace the amounts of radioactive substances within the body. They are given directly to the patient to evaluate the function of an organ or to image it. For example, in &lt;strong&gt;tracer studies&lt;/strong&gt;, a specific radionuclide is incorporated into a chemical substance and administered to a patient. The combination of the radionuclide and a drug or chemical is called a &lt;strong&gt;radiopharmaceutical &lt;/strong&gt;(or r&lt;strong&gt;adiolabeled compound&lt;/strong&gt;). Each radiopharmaceutical is designed to concentrate in a certain organ. The organ can then be imaged using the radiation given off by the radionuclide.&lt;/p&gt;&lt;p&gt;A sensitive, external detection instrument called a &lt;strong&gt;gamma camera&lt;/strong&gt; is used to determine the distribution and localization of the radiopharmaceutical in various organs, tissues, and fluids (Figure 20-12). The amount of radiopharmaceutical at a given location is proportional to the rate at which the gamma rays are emitted. Nuclear medicine studies depict the physiologic behavior (how the organ works) rather than the specific anatomy of an organ.&lt;/p&gt;&lt;p&gt;The procedure of making an image by tracking the distribution of radioactive substance in the body is &lt;strong&gt;radionuclide scanning. Uptake&lt;/strong&gt; refers to the rate of absorption of the radiopharmaceutical into an organ or tissue.&lt;/p&gt;&lt;p&gt;Radiopharmaceuticals are administered by different routes to obtain a scan of a specific organ in the body. For example, during a &lt;strong&gt;lung scan&lt;/strong&gt;, a radiopharmaceutical is given intravenously &lt;strong&gt;(perfusion study)&lt;/strong&gt; so that the radioactive compound travels through the capillaries of the lungs, where it can be imaged. In a&lt;strong&gt; ventilation study&lt;/strong&gt; , a radiolabeled gas or aerosol is inhaled to fill the air sacs (alveoli) before imaging. The combination of these tests, a &lt;strong&gt;ventilation-perfusion study&lt;/strong&gt;, permits sensitive and specific diagnosis of clots in the lung arteries (pulmonary emboli).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="79c26405-d98c-4e9e-96c7-1be0b50fcef9">
+    <STATIC_figure>
+  <image>chp00020_f020-012-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-12 &lt;/span&gt;A, Patient receiving intravenous injection of radionuclide for detection of heart function. B, Gamma camera &lt;/strong&gt;moves around the patient, detecting radioactivity in heart muscle.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a699b2bb-c3f0-4bad-8dba-b26749ebff76">
+    <STATIC_text>
+  <text>&lt;p&gt;Other diagnostic procedures that use radionuclides include the following:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a9ae9f0b-31a3-4e7a-a916-246867f28675">
+    <STATIC_text>
+  <text>&lt;p&gt;1. &lt;strong&gt;Bone scan.&lt;/strong&gt; Technetium-99m (Tc-99m) is used to label a phosphate-containing substance, which then is injected intravenously. The radioactive phosphate compound is taken up preferentially by bone, and the skeleton is imaged in 2 or 3 hours. Waiting 2 to 3 hours allows much of the radiopharmaceutical to be excreted in urine and allows for better visualization of the radioactive material remaining in the skeleton. The scan detects infection, inflammation, or tumors involving the skeleton, which appear as areas of high uptake (“hot spots”) on the scan. See Figure 15-37 on page 586.&lt;/p&gt;&lt;p&gt;2. &lt;strong&gt;Lymphoscintigraphy&lt;/strong&gt;. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; This type of nuclear medicine imaging provides pictures (scintigrams) of the lymphatic system. A &lt;strong&gt;radiotracer &lt;/strong&gt;(radioactive isotope) is injected under the skin, or deeper, using a small needle. A gamma camera then takes a series of images of an area of the body. Physicians perform lymphoscintigraphy to identify a &lt;strong&gt;sentinel lymph node&lt;/strong&gt; (the first lymph node to receive lymph drainage from a tumor), identify areas of lymph node blockage, or evaluate lymphedema (accumulation of fluid in soft tissues leading to swelling).&lt;/p&gt;&lt;p&gt;3. &lt;strong&gt;Positron emission tomography (PET &lt;/strong&gt;or &lt;strong&gt;PET scan)&lt;/strong&gt;. This radionuclide technique produces images of the distribution of radioactivity in the body through emission of positrons. It is similar to the CT scan, but radioisotopes are used instead of contrast and x-rays. After intravenous injection, the radionuclides are incorporated into the tissues and an image is made showing where the radionuclide is or is not being metabolized. The most common radionuclide is radiolabeled fluorodeoxyglucose (18F-FDG), but others are in use. PET scanning has determined that schizophrenics do not metabolize glucose equally in all parts of the brain and that drug treatment can bring improvement to these regions. Areas of metabolic deficiency can be pinpointed by PET, making it helpful in diagnosing and treating other neurologic disorders such as stroke, epilepsy, and Alzheimer disease. Areas of infection, inflammation, and tumor demonstrate increased metabolic activity, highlighted as hot spots on the PET scan (Figure 20-13).&lt;/p&gt;&lt;p&gt;4. &lt;strong&gt;PET-CT scan&lt;/strong&gt;. This scan combines PET and CT techniques to produce a more accurate image than PET or CT alone. See Figure 20-14. It is often used to detect cancer and metastases, especially to determine if the cancer is responding to treatment.&lt;strong&gt; PET-MRI scans &lt;/strong&gt;combine magnetic resonance imaging (soft tissue anatomy) with positron emission tomography (functional imaging).&lt;/p&gt;&lt;p&gt;5.&lt;strong&gt; Single photon emission computed tomography (SPECT)&lt;/strong&gt;. This technique involves an intravenous injection of radioactive tracer (such as Tc-99m) and the computer reconstruction of a 3D image based on a composite of many views. Uses include detecting liver tumors, brain function, cardiac ischemia, and bone disease of the spine.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c8fb2fe6-0bee-42af-98c6-4ce677954d66">
+    <STATIC_figure>
+  <image>chp00020_f020-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-13 &lt;/span&gt;Whole-body sagittal PET images. A, 18F-FDG image &lt;/strong&gt;obtained in a patient with breast cancer metastases. Numerous tumors (&lt;em&gt;dark spots&lt;/em&gt;) are seen along the spine and sternum.&lt;strong&gt; B, Image obtained after chemotherapy &lt;/strong&gt;shows regression of the cancer.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5d9d3162-54b3-4709-a1ed-8e7616ac0bac">
+    <STATIC_figure>
+  <image>chp00020_f020-014-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-14 &lt;/span&gt;PET scan, CTscan, and PET-CT scan. &lt;/strong&gt;&lt;em&gt;(Courtesy UPMC, University of Pittsburgh.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6904dbfb-878d-444c-baa4-f4ceffdb1b66">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Scintigraphy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Scintigraphy is the process of obtaining an image using a radioisotope. The term is derived from Latin scintilla, meaning spark. Bone scintigraphy is commonly called a bone scan, and lung scintigraphy is commonly called a lung scan.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="efc6f725-c02c-4105-a53e-c6f601a0e25c">
+    <STATIC_text>
+  <text>&lt;p&gt;6. &lt;strong&gt;Technetium Tc99m sestamibi (Cardiolite) scan&lt;/strong&gt;. For this scan, the technetium radiopharmaceutical is injected intravenously and traced to heart muscle. An exercise tolerance test (ETT) is used with it for an ETT-MIBI scan. In a &lt;strong&gt;mu&lt;/strong&gt;ltiple &lt;strong&gt;g&lt;/strong&gt;ated &lt;strong&gt;a&lt;/strong&gt;cquisition&lt;strong&gt; (MUGA) &lt;/strong&gt;scan, Tc-99m is injected intravenously to study the motion of the heart wall muscle and the ventricle’s ability to eject blood (ejection fraction).&lt;/p&gt;&lt;p&gt;7.&lt;strong&gt; Thallium scan&lt;/strong&gt;. Thallium-201 (Tl-201) is injected intravenously to evaluate myocardial perfusion. A high concentration of Tl-201 is present in well-perfused heart muscle cells, but infarcted or scarred myocardium does not take up any thallium, showing up as “cold spots.” If the defective area is ischemic, the cold spots fill in (become “warm”) on delayed images (obtained later).&lt;/p&gt;&lt;p&gt;8. &lt;strong&gt;Thyroid scan&lt;/strong&gt;. In a thyroid scan, an iodine radionuclide, usually iodine-123 (I-123), is administered orally, and the scan reveals the size, shape, and position of the thyroid gland. Alternatively, radioactive technetium can be administered intravenously. Hyperfunctioning thyroid nodules (adenomas) accumulate higher amounts of radioactivity and are termed “hot.” Thyroid carcinoma does not concentrate radioiodine well and is seen as a “cold” spot on the scan. Figure 20-15 shows thyroid scans.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;radioactive iodine uptake (RAIU) &lt;/strong&gt;study is performed to assess the function of the thyroid gland (such as hyperthyroidism). The patient is given radioactive iodine (in this case, I-131), also called radioiodine, in liquid or capsule form, and then a sensor is placed over the thyroid gland. It detects gamma rays emitted from the radioactive tracer, which is taken up by the thyroid more readily than by other tissues. Radioiodine also is used in larger doses to treat hyperthyroidism, thyroid nodules, or thyroid cancer. After the patient swallows the I-131, it is absorbed into the bloodstream and then travels to the thyroid gland, where it destroys overactive thyroid tissue.&lt;/p&gt;&lt;p&gt;Figure 20-16 lists in vitro and in vivo nuclear medicine diagnostic tests.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="95c6a563-442c-4c2a-b8ac-13e1910dbd18">
+    <STATIC_figure>
+  <image>chp00020_f020-015-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-15 &lt;/span&gt;I-123 thyroid scans.&lt;/strong&gt; The scan of a “hot nodule” shows a darkened area of increased uptake of radioactive iodine, which indicates an active nodule. Chances are very good that the nodule is benign. The scan of a “cold nodule” shows an area of decreased uptake, which indicates a nonfunctioning region, a common occurrence when normal tissue is replaced by malignancy.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9732bfa6-4128-46f7-9e64-52d6e7015d87">
+    <STATIC_figure>
+  <image>chp00020_f020-016-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 20-16 &lt;/span&gt;In vitro and in vivo nuclear medicine diagnostic tests.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

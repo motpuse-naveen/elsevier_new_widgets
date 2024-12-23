@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a091f675-d076-4093-98a8-432562a66500">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7596f380-70e3-44fc-9ed3-d9e62f50a3af">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SHORT CLINICAL CASES&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4eea188b-68c8-4d33-a7f5-d5647f891f1f">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. John was a healthy baby until the age of 22 months, when he developed angioedema [swelling induced while eating a cookie containing peanut butter]. The symptoms disappeared in about an hour. A month later, while eating the same type of cookie, he started to vomit, became hoarse, had great difficulty in breathing, started to wheeze, and developed a swollen face. He was taken immediately to the ED of Children’s Hospital, where he was given a subcutaneous injection of epinephrine [adrenaline]. Within minutes of the epinephrine injection, John’s hoarseness decreased, the wheezing diminished, and his breathing was less labored. His parents were advised to avoid giving him foods containing peanuts in any form.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Diagnosis&lt;/em&gt;:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>multiple myeloma</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>acute systemic anaphylaxis</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>acquired immunodeficiency syndrome</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;acute systemic anaphylaxis—Allergic reactions occur when already sensitized people are reexposed to the same allergen. The ﬁrst exposure generates allergen-speciﬁc antibodies and/or T cells, and reexposure to the same allergen can produce a severe allergic reaction or anaphylaxis.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="74ace6d6-bb2b-4365-a2c1-a65e3af1093b">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;2. Mark Scott is a 48-year-old man who has always been in good health. Six months ago he went to the ED at the local hospital complaining of fever and sudden swelling of his right hand from a cat scratch. He was admitted to the hospital for the hand infection. His blood lymphocyte count was very low, so a blood sample was sent to be tested for antibodies against HIV. Both ELISA and a Western blot revealed presence of anti-HIV antibodies. His CD4+ T cell count was very low at 170 [normal is 500 to 1600]. His physician prescribed trimethoprim-sulfamethoxazole for prophylaxis against &lt;em&gt;Pneumocystis&lt;/em&gt; pneumonia, and Mark also was given HAART. After 5 weeks of therapy, his HIV viral load declined to undetectable levels and his CD4+ T cell count rose. He remains well and active and works full time.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Diagnosis&lt;/em&gt;:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>T cell lymphoma</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>severe combined immunodeﬁciency disease</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>acquired immunodeﬁciency syndrome</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="ad4551de-c014-4eda-9112-3a6e32120579">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;3. Mrs. Archer is a 55-year-old housewife who began to experience excessive fatigue. A blood sample revealed mild anemia and slightly lowered white blood cell count. Her sedimentation rate was elevated, and electrophoresis of serum proteins showed marked elevation of IgG. She returned for regular visits to her physician, and on each occasion serum IgG levels were gradually increasing. After she experienced sudden onset of upper back pain, a thoracic spine MRI study was performed and showed destruction of a portion of a vertebra. A bone marrow biopsy specimen showed a proliferation of plasma cells. She was given anticancer drugs bortezomib (Velcave) and lenalinamide (Relimid), but a year later she developed fever and chest pain. Chest x-ray revealed pneumonia, and antibiotics were given. The outlook for her survival is poor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Diagnosis&lt;/em&gt;:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>multiple myeloma</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>hemolytic anemia</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Hodgkin lymphoma</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+</blocks>

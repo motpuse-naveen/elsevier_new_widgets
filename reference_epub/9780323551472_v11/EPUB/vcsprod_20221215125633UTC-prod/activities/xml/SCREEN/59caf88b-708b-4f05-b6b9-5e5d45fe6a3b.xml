@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="09b9de87-2bdd-46c7-a9dc-81a545868e8b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL PROCEDURES—THE EYE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3699a659-0586-4f29-8134-b996dc4aa12d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DIAGNOSTIC&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ee9b88d2-252f-4d01-967d-5de3e3bf8dc8">
+    <STATIC_figure>
+  <image>Fig_17.13.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-13&lt;/span&gt; &lt;strong&gt;A, Normal eye seen on fluorescein angiogram. B, Optical coherence tomography (OCT)&lt;/strong&gt;. The image shows the normal retina with each of its distinctive layers.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="de6cc932-8e02-41f7-99b5-c6bd14d274b8">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ﬂuorescein angiography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Intravenous injection of ﬂuorescein (a dye) followed by serial photographs of the retina through dilated pupils.&lt;/strong&gt;&lt;br/&gt;This test provides diagnostic information about blood ﬂow in the retina, detects vascular changes in diabetic and hypertensive retinopathy, and identiﬁes lesions in the macular area of the retina (Figure 17-13).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ophthalmoscopy &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Visual examination of the interior of the eye.&lt;/strong&gt;&lt;br/&gt;Ideally, the pupil is dilated and the physician holds the ophthalmoscope close to the patient’s eye, shining the light into the back of the eye (Figure 17-14). Ophthalmologists also may use special lenses in conjunction with a head lamp or a slit lamp (Figure 17-15).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;optical coherence tomography (OCT) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Non-invasive imaging technique using light waves to take cross-sectional pictures of the retina. &lt;/strong&gt;&lt;br/&gt;OCT can be used to examine the optic nerve and retina for glaucoma and other retinal diseases. See Figure 17-13B.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;slit lamp microscopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Examination of anterior ocular structures under microscopic magniﬁcation.&lt;/strong&gt;&lt;br/&gt;This procedure provides a magniﬁed view of the conjunctiva, sclera, cornea, anterior chamber, iris, lens, and vitreous. Devices attached to a slit lamp expand  the scope of the examination. &lt;strong&gt;Tonometry&lt;/strong&gt; (ton/o = tension) measures intraocular pressure to detect glaucoma (see Figure 17-15). Special magnifying lenses also permit examination of the fundus, as with a direct ophthalmoscope.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c1b0f85a-f184-4015-a5e8-a95d479a9bf2">
+    <STATIC_figure>
+  <image>page_546_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-14&lt;/span&gt; &lt;strong&gt;Ophthalmoscopy&lt;/strong&gt;. In addition to inspecting the cornea, lens, and vitreous humor for opacities (cloudiness), the examiner can see the blood vessels at the back of the eye (fundus) and note degenerative changes in the retina.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="4ff9fb81-bfca-4f6c-820d-72de8ee437ae">
+    <STATIC_figure>
+  <image>page_547_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-15 &lt;/span&gt;&lt;strong&gt;Slit lamp examination measuring intraocular pressure by tonometry&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2a025f1c-0b8e-44a4-afb8-2762a6201306">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;visual acuity test&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Clarity of vision is assessed &lt;/strong&gt;(Figure 17-16A).&lt;br/&gt;A patient reads from a &lt;strong&gt;Snellen chart&lt;/strong&gt; at 20 feet (distance vision test). Visual acuity is expressed as a ratio, such as 20/20. The ﬁrst number is the distance the patient is standing from the chart. The second number is the distance at which a person with normal vision could read the same line of the chart. If the best a patient can see is the 20/200 line on the chart, then at 20 feet the patient can see what a “healthy” eye sees at 200 feet.&lt;br/&gt;Mirrors are used so that measurements can be taken at less than 20 feet and still be equivalent to those for vision measured at 20 feet.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;visual ﬁeld test&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Measurement of the entire scope of vision (peripheral and central). See  Figure 17-16B.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="38a1b3d1-c3d1-499f-9826-34d577fd329f">
+    <STATIC_figure>
+  <image>chp00017_f017-016-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-16&lt;/span&gt; &lt;strong&gt;A, Snellen chart&lt;/strong&gt; assesses visual acuity.  &lt;strong&gt;B,&lt;/strong&gt; &lt;strong&gt;Visual ﬁeld test&lt;/strong&gt; is performed with the eyes ﬁxes, looking straight ahead without movement of the head.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="74ed371d-69b3-4726-83be-fd2014d8c2fa">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Direct Ophthalmoscopy and Slit Lamp Microscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As part of a visual examination, both of these procedures are frequently used. &lt;strong&gt;Direct ophthalmoscopy&lt;/strong&gt; examines the fundus and interior of the eye, whereas &lt;strong&gt;slit lamp microscopy&lt;/strong&gt; visualizes the anterior part of the eye.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7236d8a9-0815-4427-a2a7-1bfb394df765">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TREATMENT&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8e4b0152-5b50-4cac-985c-24a417675ea7">
+    <STATIC_figure>
+  <image>page_548_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-17 &lt;/span&gt;&lt;strong&gt;Clinical appearance of the eye after keratoplasty&lt;/strong&gt;. &lt;em&gt;(Courtesy Ophthalmic Photography at the University of Michigan, WK Kellogg Eye Center, Ann Arbor. From Black JM, Hawks JH: Medical-Surgical Nursing: Clinical Management for Positive Outcomes, 7th ed., Philadelphia, Saunders, 2005, p. 1958.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="05e49325-555b-498d-9daa-65f0670f5cfa">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;enucleation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Removal of the entire eyeball. &lt;/strong&gt;&lt;br/&gt;This surgical procedure is necessary to treat tumors such as ocular melanoma (malignant tumor of pigmented cells in the choroid layer) or if an eye has become blind and painful from trauma or disease, such as glaucoma.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;keratoplasty&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Surgical repair of the cornea.&lt;/strong&gt;&lt;br/&gt;Also known as a &lt;strong&gt;corneal transplant&lt;/strong&gt; procedure (&lt;strong&gt;penetrating keratoplasty&lt;/strong&gt;). The ophthalmic surgeon removes the patient’s scarred or opaque cornea and replaces it with a donor cornea (“button” or graft), which is sutured into place (Figure 17-17). Newer procedures involve transplanting only partial thickness layers of the cornea when the eye has less damage. This allows for quicker recovery.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b48d504c-61ef-48fc-a605-0be323cae0c6">
+    <STATIC_figure>
+  <image>chp00017_f017-018-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-18&lt;/span&gt; &lt;strong&gt;A, LASIK refractive surgery: &lt;/strong&gt;(1) An instrument to cut the cornea (microkeratome) creates a hinged cap of tissue, which then is lifted off the corneal surface. (2) An excimer laser vaporizes and reshapes the cornea to correct the refraction. (3) The corneal ﬂap is replaced. &lt;strong&gt;B,&lt;/strong&gt; Ophthalmologists typically perform LASIK surgery as an ofﬁce procedure. The patient with corrected vision returns home that day and is visually functioning normally or close to it the next day. &lt;em&gt;(&lt;strong&gt;B&lt;/strong&gt;, Courtesy Eric R. Mandel, MD, Mandel Vision, New York.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3cefda03-7f65-490d-b9ed-f122ab7c24ef">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;laser photocoagulation &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt; &lt;br/&gt;&lt;strong&gt;Intense, precisely focused light beam (argon laser) creates an inﬂammatory reaction that seals retinal tears and leaky retinal blood vessels. &lt;br/&gt; &lt;/strong&gt;&lt;br/&gt;This procedure is useful to treat retinal tears, diabetic retinopathy, and wet macular degeneration.&lt;span style="color:#CA500F;"&gt;*&lt;/span&gt; &lt;strong&gt;HINT &lt;/strong&gt;: Laser is an acronym for &lt;u&gt;l&lt;/u&gt;&lt;em&gt;ight &lt;/em&gt;&lt;u&gt;a&lt;/u&gt;&lt;em&gt;mplification by &lt;/em&gt;&lt;u&gt;s&lt;/u&gt;&lt;em&gt;timulated&lt;/em&gt; &lt;u&gt;e&lt;/u&gt;&lt;em&gt;mission of &lt;/em&gt;&lt;u&gt;r&lt;/u&gt;&lt;em&gt;adiation.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;LASIK &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;br/&gt;&lt;strong&gt;Use of an excimer laser to correct errors of refraction (myopia, hyperopia, and astigmatism)&lt;/strong&gt;. &lt;br/&gt; &lt;br/&gt;Performed as an outpatient procedure with use of local anesthesia. The surgeon lifts the top layer of the cornea (a ﬂap is made) and uses a laser to sculpt the underlying cornea. The corneal ﬂap is then repositioned. LASIK is an acronym for &lt;u&gt; l&lt;/u&gt;&lt;em&gt;&lt;u&gt;as&lt;/u&gt;er &lt;/em&gt;&lt;u&gt;i&lt;/u&gt;&lt;em&gt;n situ &lt;/em&gt;&lt;u&gt;k&lt;/u&gt;&lt;em&gt;eratomileusis&lt;/em&gt;  (shaping the cornea) (Figure 17-18).&lt;br/&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;phacoemulsiﬁcation &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Cataract removal surgery in which ultrasonic vibrations break up the lens; the pieces are then aspirated through the ultrasonic probe&lt;/strong&gt;  (Figure 17-19).&lt;/p&gt;&lt;p&gt;This is the typical surgery for&lt;strong&gt; cataract removal.&lt;/strong&gt;  The ophthalmic surgeon uses a small, scleral tunnel or self-sealing corneal incision. In most patients, a foldable intraocular lens (IOL) is implanted at the time of surgery. Laser-assisted cataract removal may assist in correcting vision. Premium lenses can be implanted which decrease the patient's need for glasses.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;scleral buckle &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Suture of a silicone band to the sclera over a detached portion of the retina. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The band pushes the two parts of the retina against each other to bring together the two layers of the detached retina (Figure 17-20).  &lt;strong&gt;Pneumatic retinopexy&lt;/strong&gt;  is an outpatient surgical alternative for selected retinal detachment and scleral buckle. A gas bubble is injected into the middle of the eye, and the tear is sealed with a freezing probe or laser beam.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;vitrectomy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of the vitreous humor.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The vitreous is replaced with a clear solution. This is necessary when blood and scar tissue accumulate in the vitreous humor (a complication of diabetic retinopathy). Vitrectomy is also commonly used to provide better access to the retina. Once surgery for removal of scar tissue or repair of retinal detachment is complete, a gas bubble may be injected into the vitreous to help hold the retina in position.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="69bf8cd9-0e12-4271-bce7-58ea76a9e7ea">
+    <STATIC_figure>
+  <image>page_549_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-19 &lt;/span&gt;&lt;strong&gt;Phacoemulsification of a cataractous lens through a small scleral tunnel incision&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="46aa15ae-ee34-45c2-9209-6969ff0c167d">
+    <STATIC_figure>
+  <image>chp00017_f017-020-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-20 &lt;/span&gt;&lt;strong&gt;A, Detached retina. B, Scleral buckling procedure&lt;/strong&gt; to repair retinal detachment.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

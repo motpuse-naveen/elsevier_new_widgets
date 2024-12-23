@@ -1,0 +1,43 @@
+<script type="text/template" id="flagsimulator-template">
+	<div id="<%= id %>" class="flag-simulator">
+		<div>
+			<button data-function="close">Close</button>
+		</div>
+		<div>
+			<form>
+				<label for="<%= id %>_status_0">Open</label>
+				<% if (status === "Open") { %>
+					<input id="<%= id %>_status_0" name="status" value="Open" type="radio" checked="checked" />
+				<% } else { %>
+					<input id="<%= id %>_status_0" name="status" value="Open" type="radio"/>
+				<% } %>
+				<label for="<%= id %>_status_1">Resolved</label>
+				<% if (status === "Resolved") { %>
+					<input id="<%= id %>_status_1" name="status" value="Resolved" type="radio" checked="checked" />
+				<% } else { %>
+					<input id="<%= id %>_status_1" name="status" value="Resolved" type="radio"/>
+				<% } %>
+			</form>
+		</div>
+		<div>
+			<label for="<%= id %>_assignee">Assignee:</label>
+			<select id="<%= id %>_assignee">
+				<% for (var i = 0, j = assignees.length; i < j; i++) { %>
+					<% if (assignee === assignees[i]) { %>
+						<option selected="selected"><%= assignees[i] %></option>
+					<% } else { %>
+						<option><%= assignees[i] %></option>
+					<% } %>
+				<% } %>
+			</select>
+		</div>
+		<div>
+			<label for="<%= id %>_comment">Add Comment:</label>
+			<textarea id="<%= id %>_comment"></textarea>
+		</div>
+		<div>
+			<button data-function="close">Cancel</button>
+			<button data-function="save">Save</button>
+		</div>
+	</div>
+</script>

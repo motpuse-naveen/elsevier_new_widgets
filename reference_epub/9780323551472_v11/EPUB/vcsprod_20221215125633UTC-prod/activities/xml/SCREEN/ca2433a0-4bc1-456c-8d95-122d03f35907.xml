@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="64ba22d2-626a-4ad1-9929-63d37f0dd11f">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c7f11bb1-2196-4604-b319-2bbd7f7bb1bf">
+    <STATIC_text>
+  <text>&lt;p&gt;The following table lists endocrine medicines and how they are used.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="26d51a50-c722-4cce-9346-7ec60d79123d">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;strong&gt;&lt;span style="color:#007FAD;"&gt;ENDOCRINE MEDICINES (brand names are in parentheses)&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="df2f32dc-0698-493a-97f5-6d164eef72a5">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;&lt;em&gt;Antidiabetic Medicines&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;insulin&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Injected synthetic hormone; lowers blood sugar; comes in short-acting and long-acting forms; used in type 1 and type 2 diabetes&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;metformin&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Oral hypoglycemic medication that reduces glucose production by the liver and increases the body ’ s sensitivity to insulin; used in type 2 diabetes&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;sulfonylureas&lt;br/&gt;glipizide&lt;br/&gt;glyburide&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Oral hypoglycemic medications that stimulate pancreatic beta cells to produce insulin; used in type 2 diabetes&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;&lt;em&gt;Thyroid Medicines&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;levothyroxine (Synthroid, Levoxyl)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Oral synthetic thyroid hormone (T4); used in hypothyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;liothyronine (Cytomel)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Oral synthetic thyroid hormone (T3); used in hypothyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;thyroid ISP (Armour thyroid)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Desiccated thyroid extract (combination of T3 and T4); used in hypothyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;methimazole (Tapazole)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Inhibits thyroid hormone production; used in Graves hyperthyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;prophylthiouracil (PTU)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Inhibits thyroid hormone production; used in Graves hyperthyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;beta blockers (atenolol, propranolol)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Reduce the symptoms of hyperthyroidism (palpitations, tachycardia, tremors)&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;&lt;em&gt;Corticosteroids&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;prednisone&lt;/li&gt;&lt;li&gt;hydrocortisone&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Used in the treatment of hypoadrenalism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Bisphosphonates&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;alendronate (Fosamax)&lt;/li&gt;&lt;li&gt;ibandronate (Boniva)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Used to build bone strength in osteoporosis and to treat hyperparathyroidism&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Diabetes Insipidus Medicine&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;desmopressin (DDAVP, Stimate)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Intranasal or oral synthetic form of vasopressin (antidiuretic hormone); used to treat diabetes insipidus&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9ad937f3-7872-4112-99bb-987b599d50e8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;QUESTIONS:&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="89fb41f1-7f27-4b4a-b65f-d38e8f081a05">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Which endocrine medicine treats hypothyroidism? [Liothyronine/Prophylthiouracil/Prednisone]&lt;/p&gt;&lt;p&gt;2. Which endocrine medicine treats type 2 diabetes? [Metformin/Desmopressin/Hydrocortisone]&lt;/p&gt;&lt;p&gt;3. Which endocrine medicine treats osteoporosis? [Alendronate/Beta blockers/Insulin]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+</blocks>

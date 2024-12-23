@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="00c4909d-0e37-4241-ae50-8a7e667cb822">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_inperson.jpg" data-handler-handled="true"/&gt; IN PERSON: METASTATIC MELANOMA&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d617558a-142b-48be-b4a2-c58bf1c101a2">
+    <STATIC_text-figure>
+  <image>page_525_07.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;em&gt;This is an account of a patient’s course of treatment for metastatic melanoma from 2010 to the present. It was written by the physician of a patient with his permission.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mr. Murphy noticed a hard mass on his right buttocks. He consulted his doctor who recommended a biopsy, which was initially read as a poorly differentiated soft tissue sarcoma metastatic to lung and bone. Seeking further advice, he came to an East Coast cancer center, where the pathology reading was changed to a malignant melanoma, a skin tumor that rarely responds to conventional chemotherapy. Eight years earlier he had a “dysplastic nevus” removed from his shoulder. A rereading of that material confirmed that the earlier lesion was in fact a melanoma, undoubtedly the source of his new lesions. He was fortunate that genomic analysis revealed that his tumor contained a mutation in the B-RAF oncogene indicating that it would be sensitive to a new “targeted” drug, specific for his kind of B-RAF mutant tumor.&lt;/p&gt;&lt;p&gt;With that experimental treatment, he experienced a five year complete remission. At that point, after stopping his drugs, he quickly had a recurrence of tumor in the form of multiple small lesions in the brain. These were treated with radiation therapy. New tumors were found growing along his spinal cord, indicating that his tumor was no longer responsive to the B-RAF inhibitor. However the spinal metastases responded to treatment with a new immunotherapy, an anti-PD-1 antibody. The antibody caused an autoimmune reaction, a severe colitis, which was controlled with other medication. He is now more than 8 years from his original diagnosis, biking and hiking, and free of symptoms, with no signs of active disease. &lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="eeb9cc17-ae3f-4933-b73f-4efb67c37e08">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;The following is an account of the same treatment experience written by the patient.&lt;/span&gt;&lt;/p&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+  <block refid="b661b25b-5c94-48f0-9685-160f8c21d1c8">
+    <STATIC_text>
+  <text>&lt;p&gt;In the beginning, hearing the words, “Death, numerous lesions, lungs, ilium” and “Not that long before it will take you …” put me in denial and fear and lonesome turning into forsaken. But I had two things going for me, my college sweetheart wife, Mary, who said right off, “You can’t die on me,” and my brother, Marty, who guided my course to a second opinion at an East Coast cancer center.&lt;/p&gt;&lt;p&gt;After a diagnosis of metastatic melanoma, I became a cohort in the first human trial of targeted drug therapy for my B-RAF mutated tumor. After five years of a wonderful life, sprinkled with occasions of great unpleasantness from feverous side effects, the drug trial concluded, and I soon discovered that cancer was now in my brain. After zapping the lesions with SRS (stereotactic radiosurgery), doctors would have to attack and kill leptomeningeal brain and spine cancer. They switched me to immunotherapy and that’s where I remain. I learned first-hand about colitis, a side effect of immunotherapy, but happily, doctors were able to get my bowels put back right to boot. Now, it’s just the occasional knife fight with the cancerous “escaped lesions” in my abdomen and leg, but my immunotherapy drug, Opdivo, continues to work.&lt;/p&gt;&lt;p&gt;Along the way, in the hard times, I realized that it takes courage to look for Hope, but if you look hard you will surely find some hope, and it will help you prolong your life. I think we need Gratitude too. Cancer is an intolerable menace that plagues so many across the globe. Science has fought back with life-saving drugs. I’m a beneficiary. Finally we need Vigilance. I’m still motivated to fight that fierce wolf, the cancer that first came tearing into me. It’s still there, limping along with the mange, a notched ear, and eye that doesn’t seem to open. Ultimately, I find my greatest source of strength is to be in love with a woman who looks you in the eye and says, “You can’t die on me!”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;em&gt;John Murphy is a lawyer who still rides bikes and hikes mountains in Colorado.&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

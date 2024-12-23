@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="1f6fd193-ed32-4c9a-962f-6043a1cb99fa">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;DRUG NAMES, STANDARDS, AND REFERENCES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7f060abc-a5a6-4ea8-82e4-606ccae5cfae">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NAMES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ddff143d-ed25-470b-97a9-c28f1d000f75">
+    <STATIC_text>
+  <text>&lt;p&gt;A drug can have three different names. The &lt;strong&gt;chemical name&lt;/strong&gt; specifies the exact chemical makeup of the drug. This name often is long and complicated.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;generic name&lt;/strong&gt;, typically shorter and less complicated, identifies the drug legally and scientifically. The generic name becomes public property after 17 years of use by the original manufacturer, and any drug manufacturer may use it thereafter. There is only one generic name for each drug.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;brand name&lt;/strong&gt; or trademark is the private property of the individual drug manufacturer, and no competitor may use it. A brand name (also called trade name) often has the superscript® after or before the name, indicating that it is a registered brand name. Drugs can have several brand names, because each manufacturer producing the drug gives it a different name. When a specific brand name is ordered on a prescription by a physician, it must be dispensed by the pharmacist; no other brand name may be substituted. It is usual practice to capitalize the first letter of a brand name.&lt;/p&gt;&lt;p&gt;The following example shows the chemical, generic, and brand names for the antibiotic drug amoxicillin; note that the drug has several brand names but only one generic, or official, name:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="bea56f31-1971-4229-b142-7faacf8a37e5">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;CHEMICAL NAME&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt; GENERIC NAME&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt; BRAND NAMES&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;[2&lt;em&gt;S&lt;/em&gt;,5&lt;em&gt;R&lt;/em&gt;,6&lt;em&gt;R&lt;/em&gt;]-6-[(&lt;em&gt;R&lt;/em&gt;)-(–)-2-amino-2-(&lt;em&gt;p&lt;/em&gt;-hydroxyphenyl) acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0] heptane-2-carboxylic acid&lt;/td&gt;&lt;td&gt;amoxicillin&lt;/td&gt;&lt;td&gt;Amoxil&lt;br/&gt;Polymox&lt;br/&gt;Trimox&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="da97fd0d-a87e-4e15-8a89-b4e172aa2ce3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;STANDARDS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9ea96f10-f0d9-448c-ba6a-cd97869aaff1">
+    <STATIC_text>
+  <text>&lt;p&gt;The U.S. &lt;strong&gt;Food and Drug Administration (FDA)&lt;/strong&gt; has the legal responsibility for deciding whether a drug may be distributed and sold. It sets strict standards for efficacy (effectiveness), safety, and purity. The FDA requires extensive experimental testing in animals and people before it approves a new drug for sale for a specific medical use. An independent committee of physicians, pharmacologists, pharmacists, and manufacturers, called the &lt;strong&gt;United States Pharmacopeia (USP)&lt;/strong&gt;, reviews the available commercial drugs and continually reappraises their effectiveness in specific medical conditions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="20cb7756-3c80-44d0-bfca-085e7326e5ec">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;REFERENCES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ced52f53-53ac-4f4b-8ac5-fcffafd9a41c">
+    <STATIC_text>
+  <text>&lt;p&gt;Two large reference listings of drugs are available at libraries and hospitals. The most complete and up-to-date listing is the &lt;strong&gt;hospital formulary&lt;/strong&gt;, which gives information about the characteristics of drugs and their clinical usage (application to patient care) as approved by that particular hospital.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Physicians’ Desk Reference &lt;/em&gt;(PDR)&lt;/strong&gt; is published by a private firm, and drug manufacturers pay to have their products listed. The PDR is a useful reference with several different indices to identify drugs, along with a complete description of the drug’s properties and approved indications. It also gives precautions, warnings about side effects, and information about the recommended dosage and administration of each drug.&lt;/p&gt;&lt;p&gt;Most drugs are described online in individual product websites. The FDA maintains an extensive website that contains information about drug approvals and warnings about drug side effects.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

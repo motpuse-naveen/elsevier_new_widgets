@@ -1,0 +1,222 @@
+
+<!--
+  enter any templates that apply to all engines here
+  these templates will get appended to the end of the per engine templates
+  (as they could feasibly override this structure)
+-->
+
+<script type="text/template" id="common-ui-page-base">
+	<div class="page" id="<%=pid%>">
+		<div class="stimulus"/>
+		<div class="content-holder"/>
+		<% if (useFeedbackFocusPrefixDiv) { %>
+		<!-- focus helper on iOS -->
+		<div class="feedback-focus-helper" tabindex="-1">Swipe next to hear feedback</div>
+		<% } %>
+		<div class="feedback vstdonthighlight" tabindex="-1">
+			<span class="visuallyhidden">Feedback</span>
+			<p class="result"<%=itu.dirltr()%>></p> <!-- dynamic feedback -->
+			<!-- main feedback if present -->
+			<div class="feedback-content stimulus"></div>
+		</div>
+	</div>
+</script>
+
+
+<script type="text/template" id="common-ui-page-stimulus">
+	<div class="audio-holder">
+		<div class="audio-player"></div>
+		<div class="audio-transcript media-transcript-holder"></div>
+	</div>
+	<%
+	var holderClass = "";
+	if (image) {
+	var data = {
+		image: obj.image,
+		imageAlt: obj.imageAlt,
+		imageCaption: obj.imageCaption,
+		imageControls: obj.imageControls
+	}
+	var isLegacy = itu.isLegacyImg(data);
+	data.isFloating = !isLegacy && obj.text.length > 0;
+	data.isLegacyDynamic = isLegacy; // legacy dynamics used their own styling not global figure styles
+	holderClass = isLegacy ? " legacy-image-holder" : "";
+	%>
+	<div class="fig-holder<%=holderClass%>">
+		<%= itu.createImg(data) %>
+	</div>
+	<% } %>
+	<div class="reading"><%=text%></div>
+	<div class="video-holder">
+		<div class="video-info"><%=videoInfo%></div>
+		<div class="video-player"></div>
+		<div class="video-transcript media-transcript-holder"></div>
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-transcript">
+	<%
+		var transcriptBtnID = id + "-show-btn";
+		var transcriptContentID = id + "-content";
+	%>
+	<div class="media-transcript vstdonthighlight">
+		<div class="media-transcript-toolbar">
+			<button id="<%=transcriptBtnID%>" class="media-transcript-show-btn" aria-controls="<%=transcriptContentID%>" aria-expanded="false" title="transcript"><span class="visuallyhidden">Transcript</span></button>
+		</div>
+		<div id="<%=transcriptContentID%>" class="media-transcript-body-holder" aria-labelledby="<%=transcriptBtnID%>" tabindex="0">
+			<div class="media-transcript-body"></div>
+		</div>
+	</div>
+</script>
+
+
+<!--
+  audio and video stimulus templates common to all engines
+-->
+<script type="text/template" id="common-ui-video-stimulus">
+	<video controls="controls" preload="none"<%= itu.conditionalAttribute(videoPoster !== "", "poster", videoPoster) %>>
+		<source src="<%-video%>" type="video/mp4" />
+
+		<!-- label should be "captions off" until we support multiple subtitles or captions -->
+		<% if (videoCaption) { %>
+			<track src="<%-videoCaption%>" kind="captions" srclang="en" label="captions on" default="default" />
+		<% } %>
+	</video>
+</script>
+
+<script type="text/template" id="common-ui-embedded-video-stimulus">
+	<div class="embedded-video-holder"></div>
+</script>
+
+<script type="text/template" id="common-ui-audio-stimulus">
+	<audio controls="controls" preload="none">
+		<source src="<%-audio%>" type="audio/mpeg" />
+	</audio>
+</script>
+
+
+<script type="text/template" id="common-ui-reveal-stimulus-template">
+	<%
+	var revealBtnID = id + "-show-btn";
+	var revealContentID = id + "-content";
+	%>
+	<div class="reveal-stimulus vstdonthighlight">
+		<button id="<%=revealBtnID%>" class="reveal-stimulus-show-btn" aria-controls="<%=revealContentID%>" aria-expanded="false">Hint</button>
+		<div id="<%=revealContentID%>" class="reveal-stimulus-content clearfix" aria-labelledby="<%=revealBtnID%>">
+			<div class="reveal-stimulus-arrow"></div>
+			<div class="stimulus reveal-stimulus-content-holder"></div>
+		</div>
+	</div>
+</script>
+
+
+<script type="text/template" id="utility-empty-template">
+	<div class="empty-indicator empty-<%=blockType%> screen__margin"<%=itu.dirltr()%>><span aria-hidden="true" class="<%=blockType%>-icon"/><span>Click to add <%=blockLabel%></span></div>
+</script>
+
+<script type="text/template" id="utility-empty-epub-template">
+	<div class="empty-indicator empty-<%=blockType%> screen__margin"<%=itu.dirltr()%>><span aria-hidden="true" class="<%=blockType%>-icon"/><span>This block is empty</span></div>
+</script>
+
+<script type="text/template" id="common-ui-text-answer-correct">
+Your answer is correct.
+</script>
+
+<script type="text/template" id="common-ui-text-answer-incorrect">
+Your answer is incorrect.
+</script>
+
+<script type="text/template" id="common-ui-text-answer-incorrect-partial-correct">
+	You have one or more incorrect answers.
+</script>
+
+<script type="text/template" id="common-ui-text-answer-incorrect-missing-answers">
+	Your answer is incorrect because you missed one or more answers.
+</script>
+
+<script type="text/template" id="common-ui-text-answer-submitted">
+Your answer has been submitted.
+</script>
+
+<script type="text/template" id="common-ui-scored-screen-header-attempts">
+	<% if (attempts < 0) { %>
+		<p>You have unlimited attempts.</p>
+	<% } else { %>
+		<% var attemptPlural = attempts === 1 ? "attempt" : "attempts"; %>
+		<p>You have <%= attempts %> <%= attemptPlural %> left.</p>
+	<% } %>
+</script>
+
+<script type="text/template" id="common-ui-scored-screen-feedback-correct">
+	<div class="feedback__text correct">
+		<span class="visuallyhidden">Feedback</span>
+		<div class="feedback__message">All of your scorable answers are correct.</div>
+		<button class="feedback__review-link">Review your answers</button>.
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-scored-screen-feedback-incorrect">
+	<div class="feedback__text incorrect">
+		<span class="visuallyhidden">Feedback</span>
+		<div class="feedback__message">One or more of your scorable answers is incorrect.</div>
+		<button class="feedback__review-link">Review your answers</button>.
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-scored-screen-feedback-submitted">
+	<div class="feedback__text submitted">
+		<div class="feedback__message">Your answer has been submitted.</div>
+	</div>
+</script>
+
+<script type="text/template" id="common-ui-text-answer-cannot-submit">
+	Answers are not saved between screens. Print these questions and answers, or copy any content you wish to retain.
+</script>
+
+<script type="text/template" id="common-ui-text-answer">
+answer
+</script>
+
+<script type="text/template" id="common-ui-text-not-answered">
+not attempted
+</script>
+
+<script type="text/template" id="common-ui-text-correct-shown">
+correct answer
+</script>
+
+<script type="text/template" id="common-ui-text-marked-correct">
+marked correct
+</script>
+
+<script type="text/template" id="common-ui-text-marked-incorrect">
+marked incorrect
+</script>
+
+<script type="text/template" id="common-ui-correct-answer">
+correct answer
+</script>
+
+<script type="text/template" id="common-ui-global-feedback-correct">
+	<% if (useFeedbackFocusPrefixDiv) { %>
+	<!-- focus helper on iOS -->
+		<div class="feedback-focus-helper" tabindex="-1">Swipe next to hear feedback</div>
+	<% } %>
+	All of your answers are correct.
+</script>
+
+<script type="text/template" id="common-ui-global-feedback-incorrect">
+	<% if (useFeedbackFocusPrefixDiv) { %>
+	<!-- focus helper on iOS -->
+		<div class="feedback-focus-helper" tabindex="-1">Swipe next to hear feedback</div>
+	<% } %>
+	One or more answers are incorrect. <button>Review your answers</button>.
+</script>
+
+<script type="text/template" id="common-ui-reveal-stimulus-show-hint">
+	Hint
+</script>
+
+<script type="text/template" id="common-ui-reveal-stimulus-hide-hint">
+	Close Hint
+</script>

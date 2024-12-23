@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="bc98a872-6da6-4c3f-bd93-b122c1528cfa">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="02e03130-8976-455b-b6b1-88dfe5f200ba">
+    <STATIC_text>
+  <text>&lt;p&gt;The endocrine system is an information signaling system much like the nervous system. However, the nervous system uses nerves to conduct information, whereas the endocrine system uses blood vessels as information channels. &lt;strong&gt;Glands &lt;/strong&gt;located in many regions of the body release into the bloodstream specific chemical messengers called &lt;strong&gt;hormones &lt;/strong&gt;(from the Greek word&lt;em&gt; hormōn&lt;/em&gt;, meaning urging on) that regulate the many and varied functions of an organism. For example, one hormone stimulates the growth of bones, another causes the maturation of sex organs and reproductive cells, and another controls the metabolic rate (metabolism) within all the individual cells of the body. In addition, one powerful endocrine gland below the brain secretes a wide variety of different hormones that travel through the bloodstream and regulate the activities of other endocrine glands.&lt;/p&gt;&lt;p&gt;Hormones produce their effects by binding to &lt;strong&gt;receptors&lt;/strong&gt;, which are protein recognition sites in the various &lt;strong&gt;target tissues&lt;/strong&gt; on which the hormones act. The receptors initiate specific biologic effects when the hormones bind to them. Each hormone has its own receptor, and binding of a receptor by a hormone is much like the interaction of a key and a lock.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Endocrine glands&lt;/strong&gt;, no matter which hormones they produce, secrete their hormones directly into the bloodstream. &lt;strong&gt;Exocrine glands&lt;/strong&gt; send chemical substances (tears, sweat, milk, saliva) via ducts to the outside of the body. Examples of exocrine glands are sweat, mammary, mucous, salivary, and lacrimal (tear) glands.&lt;/p&gt;&lt;p&gt;The ductless, internally secreting &lt;strong&gt;endocrine glands &lt;/strong&gt;are listed as follows. Label these glands on Figure 18-1.&lt;/p&gt;&lt;p&gt;[1] thyroid gland&lt;br/&gt;[2] parathyroid glands (four glands)&lt;br/&gt;[3] adrenal glands (one pair)&lt;br/&gt;[4] pancreas (islets of Langerhans)&lt;br/&gt;[5] pituitary gland&lt;br/&gt;[6] ovaries in female (one pair)&lt;br/&gt;[7] testes in male (one pair)&lt;br/&gt;[8] pineal gland&lt;/p&gt;&lt;p&gt;The last gland on this list, the &lt;strong&gt;pineal gland, &lt;/strong&gt;is included as an endocrine gland because it is ductless, although less is known about its endocrine function. Located in the central portion of the brain, the pineal secretes melatonin. &lt;strong&gt;Melatonin &lt;/strong&gt;may be linked to the body’s “biologic clock” and is thought to induce sleep. The pineal gland has been linked to a mental condition, &lt;strong&gt;seasonal affective disorder (SAD)&lt;/strong&gt;, in which the person suffers from depression in winter months. Melatonin secretion increases with deprivation of light and is inhibited by sunlight. Calcification of the pineal gland can occur and can be an important radiologic landmark when x-rays of the brain are examined.&lt;/p&gt;&lt;p&gt;Hormones are also secreted by endocrine tissue in other organs apart from the major endocrine glands. Examples are &lt;strong&gt;erythropoietin &lt;/strong&gt;(kidney),&lt;strong&gt; human chorionic gonadotropin&lt;/strong&gt; (placenta), and &lt;strong&gt;cholecystokinin &lt;/strong&gt;(gallbladder). &lt;strong&gt;Prostaglandins &lt;/strong&gt;are hormone-like substances that affect the body in many ways. First found in semen (produced by the prostate gland) but now recognized in cells throughout the body, prostaglandins have three functions: (1) stimulate the contraction of the uterus; (2) regulate body temperature, platelet aggregation, and acid secretion in the stomach; and (3) have the ability to lower blood pressure.&lt;/p&gt;&lt;p&gt;Endocrine tissue (apart from the major glands) is reviewed in Table 18-1. Use it as a reference.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="17b0a0e9-60ae-4705-bf1e-24207c6d4b65">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00018_f018-001-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-1 &lt;/span&gt;The endocrine system.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[thyroid gland]&lt;/li&gt;&lt;li&gt;[parathyroid glands (four glands)]&lt;/li&gt;&lt;li&gt;[adrenal glands (one pair)]&lt;/li&gt;&lt;li&gt;[pancreas (islets of Langerhans)]&lt;/li&gt;&lt;li&gt;[pituitary gland]&lt;/li&gt;&lt;li&gt;[ovaries in female (one pair)]&lt;/li&gt;&lt;li&gt;[testes in male (one pair)]&lt;/li&gt;&lt;li&gt;[pineal gland]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="d5fe0d42-2c12-4a0b-9e9e-22264ef0d162">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 18-1&lt;/strong&gt; ENDOCRINE TISSUE (APART FROM MAJOR GLANDS): LOCATION, SECRETION, AND ACTION&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fc250d43-79b5-408b-97d8-42ea67cb122e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;LOCATION&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;SECRETION&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;ACTION&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Body cells&lt;/td&gt;&lt;td&gt;Prostaglandins&lt;/td&gt;&lt;td&gt;Aggregation of platelets&lt;br/&gt;Contract uterus&lt;br/&gt;Lower acid secretion in stomach&lt;br/&gt;Lower blood pressure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gastrointestinal tract&lt;/td&gt;&lt;td&gt;Cholecystokinin&lt;br/&gt;Gastrin&lt;br/&gt;Secretin&lt;/td&gt;&lt;td&gt;Contracts gallbladder&lt;br/&gt;Stimulates gastric secretion&lt;br/&gt;Stimulates pancreatic enzymes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kidney&lt;/td&gt;&lt;td&gt;Erythropoietin&lt;/td&gt;&lt;td&gt;Stimulates erythrocyte production&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Placenta&lt;/td&gt;&lt;td&gt;Human chorionic gonadotropin&lt;/td&gt;&lt;td&gt;Sustains pregnancy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Placenta&lt;/td&gt;&lt;td&gt;Vitamin D&lt;/td&gt;&lt;td&gt;Affects absorption of calcium&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a981fd76-ee3d-4c23-9496-3ea8ca02c051">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0fd61552-eb7d-46a2-a4b3-e12099871f19">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 9-2 as you study the following description of the anatomy of the male reproductive system.&lt;/p&gt;&lt;p&gt;Each male gonad is a &lt;strong&gt;testis &lt;/strong&gt;[1]. There are two &lt;strong&gt;testes &lt;/strong&gt;(plural) or &lt;strong&gt;testicles &lt;/strong&gt;that develop in the abdomen at about the level of the kidneys before descending during embryonic development into the &lt;strong&gt;scrotum &lt;/strong&gt;[2], a sac enclosing the testes on the outside of the body.&lt;/p&gt;&lt;p&gt;The scrotum, lying between the thighs, exposes the testes to a lower temperature than that of the rest of the body. This lower temperature is necessary for the adequate maturation and development of sperm &lt;strong&gt;(spermatogenesis)&lt;/strong&gt;. Located between the anus and the scrotum, at the floor of the pelvic cavity in the male, the &lt;strong&gt;perineum &lt;/strong&gt;[3] is analogous to the perineal region in the female.&lt;/p&gt;&lt;p&gt;The interior of a testis is composed of a large mass of narrow, coiled tubules called the &lt;strong&gt;seminiferous tubules&lt;/strong&gt; [4]. These tubules contain cells that manufacture spermatozoa. The seminiferous tubules are the &lt;strong&gt;parenchymal tissue&lt;/strong&gt; of the testis, which means that they perform the essential work of the organ (formation of sperm). Other cells in the testis, lying adjacent to seminiferous tubules, are&lt;strong&gt; interstitial cells&lt;/strong&gt;. They manufacture an important male hormone, &lt;strong&gt;testosterone&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;All body organs contain &lt;strong&gt;parenchyma&lt;/strong&gt;, which perform the essential functions of the organ. Organs also contain supportive, connective, and framework tissue, such as blood vessels, connective tissues, and sometimes muscle as well. This supportive tissue is called &lt;strong&gt;stroma (stromal tissue)&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b58e8c4c-c8dc-40b2-aac6-c44d3f9dd902">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig9-2.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-2&lt;/span&gt; &lt;/strong&gt;&lt;strong&gt;Male reproductive system, &lt;/strong&gt;sagittal view.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[testis]&lt;/li&gt;&lt;li&gt;[scrotum]&lt;/li&gt;&lt;li&gt;[perineum]&lt;/li&gt;&lt;li&gt;[seminiferous tubules]&lt;/li&gt;&lt;li&gt;[epididymis]&lt;/li&gt;&lt;li&gt;[vas deferens]&lt;/li&gt;&lt;li&gt;[seminal vesicles]&lt;/li&gt;&lt;li&gt;[ejaculatory duct]&lt;/li&gt;&lt;li&gt;[urethra]&lt;/li&gt;&lt;li&gt;[prostate gland]&lt;/li&gt;&lt;li&gt;[Bulbourethral glands]&lt;/li&gt;&lt;li&gt;[penis]&lt;/li&gt;&lt;li&gt;[glans penis]&lt;/li&gt;&lt;li&gt;[prepuce or foreskin]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="81b4585e-f3f0-4eaf-9cf5-0f924cb706ab">
+    <STATIC_text>
+  <text>&lt;p&gt;After formation, sperm cells move through the seminiferous tubules and collect in ducts that lead to a large tube, the &lt;strong&gt;epididymis &lt;/strong&gt;[5], at the upper part of each testis. The spermatozoa mature, become motile in the epididymis, and are temporarily stored there. An epididymis runs down the length of each testicle (the coiled tube is about 16 feet long) and then turns upward again and becomes a narrow, straight tube called the &lt;strong&gt;vas deferens&lt;/strong&gt; [6] or &lt;strong&gt;ductus deferens&lt;/strong&gt;. Figure 9-3 shows the internal structure of a testis and the epididymis. The vas deferens is about 2 feet long and carries the sperm up into the pelvic region, at the level of the urinary bladder, merging with ducts from the &lt;strong&gt;seminal vesicles&lt;/strong&gt; [7] to form the &lt;strong&gt;ejaculatory duct&lt;/strong&gt; [8] leading toward the urethra. During a &lt;strong&gt;vasectomy &lt;/strong&gt;or &lt;strong&gt;sterilization &lt;/strong&gt;procedure, the urologist cuts and ties off each vas deferens by making an incision in the scrotum.&lt;/p&gt;&lt;p&gt;The seminal vesicles, two glands (only one is shown in Figure 9-2) located at the base of the bladder, open into the ejaculatory duct as it joins the &lt;strong&gt;urethra &lt;/strong&gt;[9]. They secrete a thick, sugary, yellowish substance that nourishes the sperm cells and forms a portion of ejaculated semen. &lt;strong&gt;Semen&lt;/strong&gt;, a combination of fluid (seminal fluid) and spermatozoa (sperm cells account for less than 1% of the semen volume), is ejected from the body through the urethra. In the male, as opposed to that in the female, the genital orifice combines with the urinary (urethral) opening.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;prostate gland&lt;/strong&gt; [10] lies at the region where the vas deferens enters the urethra, almost encircling the upper end of the urethra. It secretes a milky white fluid that is a mixture of sugars, enzymes, and alkaline chemicals. As part of semen, this fluid is nutritious for sperm cells, and after ejaculation into the vagina, the alkaline chemicals promote the survival of sperm in the acidic environment of the vagina. Muscular tissue of the prostate aids in the expulsion of fluid during ejaculation. &lt;strong&gt;Bulbourethral glands&lt;/strong&gt; [11], lying below the prostate gland, also secrete fluid into the urethra during ejaculation.&lt;/p&gt;&lt;p&gt;The urethra passes through the &lt;strong&gt;penis &lt;/strong&gt;[12] to the outside of the body. The penis is composed of erectile tissue and at its tip expands to form a soft, sensitive region called the &lt;strong&gt;glans penis&lt;/strong&gt; [13]. Ordinarily, a fold of skin called the &lt;strong&gt;prepuce&lt;/strong&gt;, or &lt;strong&gt;foreskin &lt;/strong&gt;[14], covers the glans penis. The foreskin is attached to glans penis in uncircumcised babies. Between 2 and 10 years of age, the foreskin naturally detaches and can be pulled back from the head of the penis. If an infant is circumcised, the foreskin is removed, leaving the glans penis visible at all times.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Erectile dysfunction (impotence)&lt;/strong&gt; is the inability of the adult male to achieve an erection. Viagra (sildenafil), Cialis (tadalafil), and Stendra (avanafil) are drugs that increase blood flow to the penis, enhancing ability to have an erection. &lt;strong&gt;Male infertility&lt;/strong&gt; is any problem in a man that lowers the chances of his female partner getting pregnant.&lt;/p&gt;&lt;p&gt;The flow diagram in Figure 9-4 traces the path of spermatozoa from their formation in the seminiferous tubules of the testes to the outside of the body.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c07467f1-2656-4251-96fd-4d4c922f631f">
+    <STATIC_figure>
+  <image>fig9-3.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-3 &lt;/span&gt;Internal structure of a testis and the epididymis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="69551858-1a8c-4c7d-8ba2-5893768bc8b5">
+    <STATIC_figure>
+  <image>fig9-4.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-4 &lt;/span&gt;&lt;/strong&gt;&lt;span style="color:#3c3c3c;"&gt;The&lt;strong&gt; passage of sperm &lt;/strong&gt;from the seminiferous tubules in the testes to the outside of the body.&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

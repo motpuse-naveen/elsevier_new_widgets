@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a051768d-a18a-48f2-bc65-a494bc26fb85">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="05cd9e6a-ebc9-45ed-989f-1f1676edc256">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b6a63702-fd79-4946-8f55-0e8d2fcd42c1">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;adenoid/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;adenoids&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;adenoid&lt;/u&gt;ectomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;adenoid&lt;/u&gt;hypertrophy&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;alveol/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;alveolus, air sac&lt;/td&gt;&lt;td&gt;&lt;u&gt;alveol&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bronch/o bronchi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;bronchial tube, bronchus&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;bronch&lt;/u&gt;ospasm&lt;br/&gt;&lt;em&gt;This tightening of the bronchi and smaller bronchial tubes (bronchioles) is a chief characteristic of bronchitis.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;bronchi&lt;/u&gt;ectasis&lt;br/&gt;&lt;em&gt;Caused by weakening of the bronchial wall from infection.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;bronch&lt;/u&gt;odilator&lt;br/&gt;&lt;em&gt;This drug causes dilation, or enlargement, of the opening of a bronchus or bronchiole to improve ventilation to the lungs. An example is albuterol, delivered via an inhaler.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;bronch&lt;/u&gt;opleural&lt;br/&gt;&lt;em&gt;A &lt;strong&gt;bronchopleural fistula&lt;/strong&gt; is an abnormal connection between the bronchial tube and the pleural cavity (space). Occurring as a result of lung disease or surgical complication, this can cause an air leak into the pleural space.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bronchiol/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;bronchiole, small bronchus&lt;/td&gt;&lt;td&gt;&lt;u&gt;bronchiol&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;This is an acute viral infection occurring in infants younger than 18 months of age.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;capn/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;td&gt;hyper&lt;u&gt;capn&lt;/u&gt;ia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;coni/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;dust&lt;/td&gt;&lt;td&gt;pneumo&lt;u&gt;coni&lt;/u&gt;osis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cyan/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blue&lt;/td&gt;&lt;td&gt;&lt;u&gt;cyan&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Caused by deficient oxygen in the blood.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epiglott/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;epiglottis&lt;/td&gt;&lt;td&gt;&lt;u&gt;epiglott&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;Characterized by fever, sore throat, and an erythematous, swollen epiglottis.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;laryng/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;larynx, voice box&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;laryng&lt;/u&gt;eal&lt;/p&gt;&lt;p&gt;&lt;u&gt;laryng&lt;/u&gt;ospasm&lt;br/&gt;&lt;em&gt;Spasm of laryngeal muscles that closes the larynx.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;laryng&lt;/u&gt;itis&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lob/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lobe of the lung&lt;/td&gt;&lt;td&gt;&lt;u&gt;lob&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;Figure 12-6 shows four different types of pulmonary resections.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mediastin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;mediastinum&lt;/td&gt;&lt;td&gt;&lt;u&gt;mediastin&lt;/u&gt;oscopy&lt;br/&gt;&lt;em&gt;An endoscope is inserted through an incision in the chest.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="f600cb35-c2d2-4007-bf7f-657d9338cf9d">
+    <STATIC_figure>
+  <image>chp00012_f012-006-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-6 &lt;/span&gt;Pulmonary resections. A, Wedge resection&lt;/strong&gt; is the removal of a small, localized area of diseased tissue near the surface of the lung. Pulmonary function and structure are relatively unchanged after healing.&lt;strong&gt; B, Segmental resection&lt;/strong&gt; is the removal of a bronchiole and its alveoli (one or more lung segments). The remaining lung tissue expands to fillthe previously occupied space. &lt;strong&gt;C, Lobectomy&lt;/strong&gt; is the removal of an entire lobe of the lung. After lobectomy, the remaining lung increases in size to fillthe space in the thoracic cavity. &lt;strong&gt;D, Pneumonectomy &lt;/strong&gt;is the removal of an entire lung. Techniques such as removal of ribs and elevation of the diaphragm are used to reduce the size of the empty thoracic space.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="381a52c6-82b2-4ed3-9668-d5b92aa585b7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;COMBINING FORM&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLO&lt;/span&gt;GY&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nas/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;nose&lt;/td&gt;&lt;td&gt;&lt;p&gt;para&lt;u&gt;nas&lt;/u&gt;al sinuses&lt;br/&gt;&lt;em&gt;Para- means near in this term. See Figure 12-7.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;nas&lt;/u&gt;ogastric intubation&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;orth/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;straight, upright&lt;/td&gt;&lt;td&gt;&lt;u&gt;orth&lt;/u&gt;opnea&lt;br/&gt;&lt;em&gt;An abnormal condition in which breathing (-pnea) is easier in the upright position. A major cause of orthopnea is congestive heart failure. Physicians assess the degree of orthopnea by the number of pillows a patient requires to sleep comfortably (e.g., two-pillow orthopnea).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ox/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;oxygen&lt;/td&gt;&lt;td&gt;hyp&lt;u&gt;ox&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;Tissues have a decreased amount of oxygen, and cyanosis can result.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pector/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;chest&lt;/td&gt;&lt;td&gt;ex&lt;u&gt;pector&lt;/u&gt;ation&lt;br/&gt;&lt;em&gt;Clearing of secretions from the airway by coughing or spitting. This sputum can contain mucus, blood, cellular debris, pus, and microorganisms.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pharyng/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pharynx, throat&lt;/td&gt;&lt;td&gt;&lt;u&gt;pharyng&lt;/u&gt;eal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;phon/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;voice&lt;/td&gt;&lt;td&gt;dys&lt;u&gt;phon&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;Hoarseness or other voice impairment.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;phren/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;diaphragm&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;phren&lt;/u&gt;ic nerve&lt;br/&gt;&lt;em&gt;The motor nerve to the diaphragm.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pleur/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pleura&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;pleur&lt;/u&gt;odynia&lt;br/&gt;&lt;em&gt;The suffix -dynia means pain. The intercostal muscles or pleura are inflamed, causing pain during breathing.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;pleur&lt;/u&gt;al effusion&lt;br/&gt;&lt;em&gt;An &lt;strong&gt;effusion &lt;/strong&gt;is the escape of fluid from blood vessels or lymphatics into a cavity or into tissue spaces.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="85ed2dcd-5885-4d31-897e-f957f3f3e827">
+    <STATIC_figure>
+  <image>chp00012_f012-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-7 &lt;/span&gt;Paranasal sinuses. &lt;/strong&gt;These are 4-paired, air-filled spaced in the bones of the skull surrounding the nasal cavity. &lt;strong&gt;Sinusitis &lt;/strong&gt;is inflammation of the paranasal sinuses due to viral, bacterial, or fungal infections or allergic reactions.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ffcbdce1-d471-4a94-a122-912e5a9ddcc8">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pneum/o, pneumon/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;air, lung&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;pneum&lt;/u&gt;othorax&lt;br/&gt;&lt;em&gt;The suffix -thorax means chest. Because of a hole in the lung, air accumulates in the pleural cavity, between the layers of the pleura (Figure 12-8).&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;pneumon&lt;/u&gt;ectomy&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pulmon/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lung&lt;/td&gt;&lt;td&gt;&lt;u&gt;pulmon&lt;/u&gt;ary&lt;br/&gt;&lt;em&gt;The pulmonary circulation carries oxygen-poor (deoxygenated) blood from the heart to the lungs and then returns oxygenated blood back to the heart for transportation throughout the body.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rhin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;nose&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;rhin&lt;/u&gt;oplasty&lt;/p&gt;&lt;p&gt;&lt;u&gt;rhin&lt;/u&gt;orrhea&lt;br/&gt;&lt;em&gt;Commonly known as “runny nose.”&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sinus/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sinus, cavity&lt;/td&gt;&lt;td&gt;&lt;u&gt;sinus&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;spir/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;breathing&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;spir&lt;/u&gt;ometer&lt;/p&gt;&lt;p&gt;ex&lt;u&gt;pir&lt;/u&gt;ation&lt;br/&gt;&lt;em&gt;Note that the s is omitted (when it’s preceded by an x).&lt;/em&gt;&lt;/p&gt;&lt;p&gt;re&lt;u&gt;spir&lt;/u&gt;ation&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Cheyne-Stokes respirations&lt;/strong&gt; are marked by rhythmic changes in the depth of breathing (rapid breathing and then absence of breathing). The pattern occurs every 45 seconds to 3 minutes. The cause may be heart failure or brain damage, both of which affect the respiratory center in the brain.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ed3eeb8c-27e3-44a1-aca0-7688cc2e7c4f">
+    <STATIC_figure>
+  <image>chp00012_f012-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-8 &lt;/span&gt;Pneumothorax. &lt;/strong&gt;Air gathers in the pleural cavity, causing the lung to collapse. When this happens, the lung cannot fill up with air, breathing becomes more difficult, and the body gets less oxygen. Onset of pneumothorax is marked by sudden, sharp chest pain with difficulty breathing.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="919b4870-e367-45bd-9006-6c7e168c6d64">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tel/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;complete&lt;/td&gt;&lt;td&gt;a&lt;u&gt;tel&lt;/u&gt;ectasis&lt;br/&gt;&lt;em&gt;Collapsed lung; incomplete expansion (-ectasis) of a lung ( Figure 12-9 ). Atelectasis may occur after surgery when a patient experiences pain and does not take deep breaths, preventing full expansion of the lungs.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thorac/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;chest&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;thorac&lt;/u&gt;otomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;thorac&lt;/u&gt;ic&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tonsill/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tonsils&lt;/td&gt;&lt;td&gt;&lt;u&gt;tonsill&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;The oropharyngeal (palatine) tonsils are removed.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;trache/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;trachea, windpipe&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;trache&lt;/u&gt;otomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;trache&lt;/u&gt;al stenosis&lt;br/&gt;&lt;em&gt;Injury to the trachea from trauma, a burn, or serious infection can cause scarring and contraction that obstructs the flow of air. For example, having an endotracheal tube in place for a prolonged period may lead to tracheal injury or the formation of scar tissue.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e49276b4-2a2d-4acc-9a82-93ce4371a43d">
+    <STATIC_figure>
+  <image>chp00012_f012-009-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 12-9 &lt;/strong&gt;&lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;Two forms of atelectasis. A, Bronchial obstruction &lt;/strong&gt;prevents air from reaching distal airways, and alveoli collapse. The most frequent cause is blockage of a bronchus by a mucous or mucopurulent (pus-containing) plug, as might occur postoperatively.&lt;strong&gt; B, Accumulations of fluid, blood, or air within the pleural cavity collapse the lung.&lt;/strong&gt; This can occur with congestive heart failure (poor circulation leads to fluid buildup in the pleural cavity), pneumonia, trauma, or a pneumothorax.&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="731d33d5-e4f7-4ef3-9832-6e3a45c3bf9b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="609ea646-239d-48d1-adc7-86715e25a6f9">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;SUFFIX&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ema&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;condition&lt;/td&gt;&lt;td&gt;empy&lt;u&gt;ema&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Em- at the beginning of this term means in. Empyema (pyothorax) is a collection of pus in the pleural cavity.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-osmia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;smell&lt;/td&gt;&lt;td&gt;an&lt;u&gt;osmia&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-pnea&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;breathing&lt;/td&gt;&lt;td&gt;&lt;p&gt;a&lt;u&gt;pnea&lt;/u&gt;&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Sleep apnea &lt;/strong&gt;is sudden cessation of breathing during sleep. It can result in hypoxia, leading to cognitive impairment, hypertension, and arrhythmias.&lt;strong&gt; Obstructive sleep apnea (OSA)&lt;/strong&gt; involves narrowing or occlusion in the upper airway. &lt;strong&gt;Continuous positive airway pressure (CPAP)&lt;/strong&gt; is gentle ventilatory support used to keep the airways open (Figure 12-10).&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;dys&lt;u&gt;pnea&lt;/u&gt;&lt;br/&gt;Dys- means abnormal here and is associated with shortness of breath (SOB). &lt;strong&gt;Paroxysmal &lt;/strong&gt;(sudden) &lt;strong&gt;nocturnal &lt;/strong&gt;(at night) &lt;strong&gt;dyspnea &lt;/strong&gt;may be experienced by patients with congestive heart failure when they recline in bed. Patients often describe the sensation as “air hunger.”&lt;/em&gt;&lt;/p&gt;&lt;p&gt;hyper&lt;u&gt;pnea&lt;/u&gt;&lt;br/&gt;&lt;em&gt;An increase in the depth of breathing, occurring normally with exercise and abnormally with any condition in which the supply of oxygen is inadequate.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;tachy&lt;u&gt;pnea&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Tachy- means fast. Excessively rapid and shallow breathing; hyperventilation.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ptysis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;spitting&lt;/td&gt;&lt;td&gt;hemo&lt;u&gt;ptysis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Blood is coughed up from the bronchial tubes and lungs; occurs with bronchitis or pneumonia, but also with tuberculosis, cancer, bronchiectasis, and pulmonary embolism.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;-sphyxia &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;pulse&lt;/td&gt;&lt;td&gt;a&lt;u&gt;sphyxia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This condition, literally meaning lack of pulse, is severe hypoxia leading to hypoxemia, hypercapnia, loss of consciousness, and death.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-thorax&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pleural cavity, chest&lt;/td&gt;&lt;td&gt;&lt;p&gt;hemo&lt;u&gt;thorax&lt;/u&gt;&lt;/p&gt;&lt;p&gt;pyo&lt;u&gt;thorax&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Empyema of the chest.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="2baea16c-1c94-458f-882d-6f471e3bfab2">
+    <STATIC_figure>
+  <image>page_356_01.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-10&lt;/span&gt;&lt;/strong&gt; This man is sleeping with a nasal &lt;strong&gt;CPAP (continuous positive airway pressure) &lt;/strong&gt;mask in place. The pressure supplied by air coming from the compressor opens the oropharynx and nasopharynx.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="de53d8aa-98df-4521-a138-c1debef7cfb0">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;IMMUNE SYSTEM&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="585d2a78-8e24-4f2e-a42a-4463cb792e4a">
+    <STATIC_text>
+  <text>&lt;p&gt;The immune system is specialized to defend the body against &lt;strong&gt;antigens&lt;/strong&gt; (such as toxins, bacterial proteins, or foreign blood cells). This system includes &lt;strong&gt;leukocytes&lt;/strong&gt; such as &lt;strong&gt;neutrophils, monocytes,&lt;/strong&gt; and &lt;strong&gt;macrophages,&lt;/strong&gt; which are phagocytes found in blood and tissues throughout the body. In addition, &lt;strong&gt;lymphoid organs,&lt;/strong&gt; such as the lymph nodes, spleen, thymus gland, tonsils, and adenoids, produce &lt;strong&gt;lymphocytes&lt;/strong&gt; and &lt;strong&gt;antibodies.&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="74862a78-1061-4f0e-9122-143db9518562">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NATURAL AND ADAPTIVE IMMUNITY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2864706c-b409-41d6-8eca-282355d6a5fa">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Immunity&lt;/strong&gt; is the body’s ability to resist foreign organisms and toxins that damage tissues and organs. &lt;strong&gt;Natural immunity&lt;/strong&gt; is &lt;strong&gt;resistance present at birth&lt;/strong&gt;. It is not dependent on previous exposure to an antigen. With natural immunity, after an initial exposure to to an antigen, there is no memory of the initial encounter. An example of natural immunity is the body’s handling of a bacterial infection. White blood cells respond immediately to the intruding antigens. &lt;strong&gt;Neutrophils&lt;/strong&gt; travel to the infected area and ingest bacteria. Other white blood cells, such as &lt;strong&gt;monocytes, macrophages,&lt;/strong&gt; and &lt;strong&gt;lymphocytes&lt;/strong&gt; &lt;strong&gt;(NK &lt;/strong&gt;or&lt;strong&gt; natural killer cells)&lt;/strong&gt;, also participate in the body’s natural immunity against infection. Typically, there is no immunological memory (ability to remember antigens on pathogens) with natural immunity.&lt;/p&gt;&lt;p&gt;In addition to natural immunity, a healthy person can develop &lt;strong&gt;adaptive immunity&lt;/strong&gt;. This is the body’s ability to &lt;strong&gt;recognize&lt;/strong&gt; and &lt;strong&gt;remember&lt;/strong&gt; specific antigens in an immune response. &lt;strong&gt;Lymphocytes (T and B cells)&lt;/strong&gt; are part of adaptive immunity. &lt;strong&gt;T cells recognize&lt;/strong&gt; and &lt;strong&gt;remember&lt;/strong&gt; specific antigens and produce stronger attacks each time the antigen is encountered. &lt;strong&gt;B cells&lt;/strong&gt; secrete &lt;strong&gt;antibodies&lt;/strong&gt; against antigens. Think of what happens when you have a cold or the flu: You are exposed to a viral antigen. Your B cells secrete antibodies, which not only destroy the virus but remain in the blood so that when the virus reappears, at a later time, you have adaptive immunity to it! Another example of adaptive immunity is that achieved with &lt;strong&gt;vaccination&lt;/strong&gt;. You are given an injection of a killed virus or protein that doesn’t make you ill, but stimulates your B cells to secrete antibodies against that virus or protein. If you are exposed to the virus or protein at a later time, you will have a more rapid immunologic response because of the antibodies already made (adaptive immunity).&lt;/p&gt;&lt;p&gt;In certain instances, more immediate adaptive immunity is necessary. Poisons (toxins) that rapidly cause major damage (for example, snake venom) can be counteracted by giving ready-made antibodies, called &lt;strong&gt;antitoxins&lt;/strong&gt;, produced in another organism. Injections of other ready-made antibodies, such as &lt;strong&gt;immunoglobulins&lt;/strong&gt;, can boost your adaptive immunity before you travel to a foreign country. Infants acquire adaptive immunity when they receive &lt;strong&gt;maternal antibodies&lt;/strong&gt; through the placenta, before birth, or in breast milk. Figure 14-6 reviews the general differences between natural and adaptive immunity.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cc0c84dd-eeaa-47f9-805d-4720db416594">
+    <STATIC_figure>
+  <image>chp00014_f014-006-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-6&lt;/span&gt; &lt;strong&gt;Types of immunity&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="66fc70c6-1548-4aef-b9fa-c3e0817d25ec">
+    <STATIC_figure>
+  <image>chp00014_f014-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-7&lt;/span&gt; &lt;strong&gt;Humoral immunity: B cell, plasma cell, and immunoglobulins&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="8745a379-0df1-45ae-a3e7-8913c521ac56">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Adaptive immunity&lt;/strong&gt; has two components: &lt;strong&gt;humoral immunity&lt;/strong&gt; and &lt;strong&gt;cell-mediated immunity&lt;/strong&gt;. Humoral immunity involves &lt;strong&gt;B cells (B lymphocytes)&lt;/strong&gt;, whereas cell-mediated immunity involves &lt;strong&gt;T cells (T lymphocytes)&lt;/strong&gt;. In &lt;strong&gt;humoral immunity, B cells&lt;/strong&gt; produce &lt;strong&gt;antibodies&lt;/strong&gt; after exposure to specific antigens (viruses and bacteria). This is what happens: The B cell matures into another cell called a &lt;strong&gt;plasma cell&lt;/strong&gt;. It is the plasma cell that produces antibodies called &lt;strong&gt;immunoglobulins&lt;/strong&gt;, which block the effects of antigens. Examples of immunoglobulins &lt;strong&gt;(Ig = immunoglobulin)&lt;/strong&gt; are &lt;strong&gt;IgM, IgA, IgG, IgE,&lt;/strong&gt; and &lt;strong&gt;IgD.&lt;/strong&gt; One maternal immunoglobulin, &lt;strong&gt;IgG,&lt;/strong&gt; crosses the placenta to provide immunity for newborns. Another, &lt;strong&gt;IgE,&lt;/strong&gt; is important in allergic reactions and in fighting parasitic infections. Figure 14-7 reviews the relationship of a B cell, plasma cell, and immunoglobulins in humoral immunity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cell-mediated immunity&lt;/strong&gt; does not involve antibodies. Rather, it involves several types of &lt;strong&gt;T cells&lt;/strong&gt; with different functions. For example, &lt;strong&gt;cytotoxic T cells (CD8 + T cells)&lt;/strong&gt; attach to antigens and directly kill them. Cytotoxic cells also secrete &lt;strong&gt;cytokines (interferons and interleukins)&lt;/strong&gt;, which aid other cells in antigen destruction. &lt;strong&gt;Helper T cells (CD4 + T cells)&lt;/strong&gt; assist B cells in making antibodies and they stimulate T cells to attack antigens. &lt;strong&gt;Suppressor T cells&lt;/strong&gt; (also called regulatory T cells, or Tregs) inhibit both B and T cells and prevent them from attacking the body’s own good cells. Figure 14-8 reviews the types of T cells in cell-mediated immunity.&lt;/p&gt;&lt;p&gt;The adaptive immune system is helped by a number of other proteins and cells found in circulating blood. One of these is the &lt;strong&gt;complement system&lt;/strong&gt;, a group of proteins that helps antibodies kill their target. Another warrior is the &lt;strong&gt;dendritic cell&lt;/strong&gt;, which initiates adaptive immunity by presenting antigens to T and B cells, showing them precisely what they need to counteract. A number of cell types can present antigens to T cells, but dendritic cells are especially efficient at this task. Figure 14-9 reviews the roles of B cells, T cells, complement, and dendritic cells.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d33b3a46-2cec-44b9-ba8f-c17dded036d7">
+    <STATIC_figure>
+  <image>fig14.8.new.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-8 &lt;/span&gt;&lt;strong&gt;Cell-mediated immunity: Types of T cells.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="45c69574-9c2a-4a96-ac3c-06c8c10ce278">
+    <STATIC_figure>
+  <image>chp00014_f014-009-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-9 &lt;/span&gt;&lt;strong&gt;Functions of B cells, T cells, complement, and dendritic cells.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6939a93d-7df6-4e8a-adb9-358ce7c47955">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;IMMUNOTHERAPY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="06d7bbc9-a78c-4d3d-beb8-a9fac1d29ed6">
+    <STATIC_text>
+  <text>&lt;p&gt;Immunotherapy is the use of antibodies, B cells (producing antibodies), and T cells to treat disease such as cancer. Types of immunotherapy are:&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Monoclonal antibodies (MoAb)&lt;/strong&gt; —These are antibodies created in a laboratory by special reproductive (cloning) techniques. They are designed to attack specific cancer cells directly or to activate T cells to kill the tumor. An example of monoclonal antibody therapy is use of the drug rituximab (Rituxan), made to kill malignant lymphoma cells. The antibody may be chemically linked to various toxins or radioactive particles and delivered to tumor cells, to enhance the killing effect.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Vaccines&lt;/strong&gt; —These preparations contain antigens (proteins) from a patient’s tumor cells. When they are injected, they stimulate the patient’s own T cells to recognize and kill the cancerous cells. Vaccines may be injected or given orally or as a nasal spray.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Transfer of immune cells&lt;/strong&gt; —In bone marrow transplantation, T lymphocytes from a donor can replace a patient’s immune system with new cells that recognize tumor cells as foreign and kill them. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;p&gt;Monoclonal antibody therapy and transfer of immune cells are passive immunotherapy (immune agents that kill tumor cells directly are given to the patient), whereas vaccination is active immunotherapy (the patient’s own immune system is stimulated to do the work).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5464c67e-98fc-4a06-88a8-ea3c3ad0a617">
+    <STATIC_figure>
+  <image>chp00014_f014-010-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-10 &lt;/span&gt;&lt;strong&gt;CAR T-cells. &lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2c5d3c6d-86db-4677-9824-993ce6ee478d">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Activated T Cells: CAR-T cells&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is now possible to remove a patient’s own T cells and in the laboratory, introduce new molecules that produce receptors called &lt;strong&gt;CARS (chimeric antigen receptors)&lt;/strong&gt; on the surface of the T cells. The CARS on the T cells enable them to latch onto the patient’s tumor cells to destroy them. See Figure 14-10.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

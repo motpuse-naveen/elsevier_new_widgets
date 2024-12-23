@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="9c3890f5-396a-435c-b76a-30cf450a996b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;URINALYSIS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="86729730-d1a4-4a1d-8d4f-b9202cee1e12">
+    <STATIC_text>
+  <text>&lt;p&gt;Urinalysis is an examination of urine to determine the presence of abnormal elements that may indicate various pathologic conditions. It is an inexpensive, noninvasive test that provides valuable information not only about the contents of urine, but about diseases affecting the body as a whole. Urinalysis may be done in an office setting with almost instant results. See Figure 7-10.&lt;/p&gt;&lt;p&gt;The following are some of the tests included in a urinalysis:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Color &lt;/strong&gt;—Normal urine color is yellow (amber) or straw-colored. A colorless, pale urine indicates a large amount of water in the urine, whereas a smoky-red or brown color of urine indicates the presence of large amounts of blood. Foods such as beets and certain drugs also can produce a red coloration of urine.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Appearance &lt;/strong&gt;—Normally, urine should be clear. Cloudy or &lt;strong&gt;turbid &lt;/strong&gt;urine indicates a urinary tract infection with &lt;strong&gt;pus (pyuria)&lt;/strong&gt; and &lt;strong&gt;bacteria (bacteriuria)&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;pH &lt;/strong&gt;—Determination of pH reveals the chemical nature of urine. It indicates to what degree a solution is &lt;strong&gt;acid &lt;/strong&gt;or &lt;strong&gt;alkaline (basic)&lt;/strong&gt; (Figure 7-11). Normal urine has a slightly acidic pH of 6.5. However, in some infections of the bladder, the urine pH may be alkaline, owing to the actions of bacteria in the urine that break down urea and release ammonia (an alkaline substance).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Protein &lt;/strong&gt;—Small amounts of protein are normally found in the urine but not in sufficient quantity to produce a positive result by ordinary methods of testing. When urinary tests for protein become positive, &lt;strong&gt;albumin &lt;/strong&gt;is usually responsible. Albumin is the major protein in blood plasma. If it is detected in urine (&lt;strong&gt;albuminuria&lt;/strong&gt;), it may indicate a leak in the glomerular membrane, which allows albumin to enter the renal tubule and pass into the urine.&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="feea4664-19b5-4fd4-a1c5-48ed73c03c2a">
+    <STATIC_figure>
+  <image>fig7-10_1.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-10&lt;/span&gt; Dipstick testing and urinalysis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0f0671e0-dcff-46b9-8f94-ad99e6ab5281">
+    <STATIC_figure>
+  <image>fig7-11.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-11&lt;/span&gt; The pH scale.&lt;/strong&gt; Pure water has a neutral pH.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="eae7dbce-00d1-4f98-b5fc-d1f6c0c662f0">
+    <STATIC_text>
+  <text>&lt;p&gt;Through more sensitive testing, smaller abnormal amounts of albumin may be detected, revealing microalbuminuria, when ordinary tests are negative. &lt;strong&gt;Microalbuminuria &lt;/strong&gt;is recognized as the earliest sign of renal involvement in diabetes mellitus.&lt;/p&gt;&lt;ol start="5"&gt;&lt;li&gt;&lt;strong&gt;Glucose &lt;/strong&gt;—Sugar is not normally found in the urine. In most cases, when it does appear &lt;strong&gt;(glycosuria), &lt;/strong&gt;it indicates &lt;strong&gt;diabetes mellitus&lt;/strong&gt;. In diabetes mellitus, there is excess sugar in the bloodstream (hyperglycemia), which leads to the “spilling over” of sugar into the urine. The renal tubules cannot reabsorb all the sugar that filters out through the glomerular membrane.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Specific gravity &lt;/strong&gt;—The specific gravity of urine reflects the amounts of wastes, minerals, and solids in the urine. It is a comparison of the density of urine with that of water. The urine of patients with diabetes mellitus has a higher-than-normal specific gravity because of the presence of sugar.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ketone bodies&lt;/strong&gt; —Ketones (or&lt;strong&gt; acetones,&lt;/strong&gt; a type of ketone body) are formed when fatty acids are broken down in the liver. Ketones accumulate in blood and urine when the body breaks down fat, instead of sugar, for fuel. &lt;strong&gt;Ketonuria &lt;/strong&gt;occurs in diabetes mellitus when cells deprived of sugar must use up their available fat for energy. In starvation, when sugar is not available, ketonuria and ketosis (ketones in the blood) occur as fat is catabolized abnormally.&lt;br/&gt;Ketones in the blood are dangerous because they increase the acidity of the blood &lt;strong&gt;(ketoacidosis)&lt;/strong&gt;. If severe, this may lead to coma (unconsciousness) and death.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sediment and casts&lt;/strong&gt; —The presence of abnormal particles in the urine is a sign of a pathologic condition. Such particles, which may settle to the bottom of a urine sample as &lt;strong&gt;sediment&lt;/strong&gt;, may include cells (epithelial, white, or red blood cells), bacteria, crystals, and &lt;strong&gt;casts &lt;/strong&gt;(cylindrical structures of protein often containing cellular elements).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Phenylketonuria (PKU)&lt;/strong&gt; —This is a rare condition in which a baby is born unable to break down an amino acid, phenylalanine. Resulting high blood levels of phenylalanine (phenylketones are detected in urine) can lead to mental retardation. Although the PKU test originally was performed on urine specimens, now it is done by pricking the newborn’s heel to obtain a small blood sample. If phenylalanine is detected, the infant is fed a diet excluding phenylalanine. Affected children remain on this diet until adulthood.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bilirubin &lt;/strong&gt;—A small amount of this pigment substance is present in urine and gives its distinctive yellow color. Bilirubin is a product of red blood cell breakdown, and increased levels in urine (bilirubinuria) are present in patients with liver disease.&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

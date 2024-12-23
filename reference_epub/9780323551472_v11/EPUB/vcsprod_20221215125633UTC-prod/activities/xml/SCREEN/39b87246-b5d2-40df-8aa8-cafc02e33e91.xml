@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="4e041c1d-510f-4963-95f1-b5765ba02fed">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="779a245e-2eaf-4130-8d0a-e83f4b2a5b28">
+    <STATIC_text>
+  <text>&lt;p&gt;This section provides an opportunity for you to use your skill in understanding medical terms in this chapter and to increase your knowledge of new terms.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eb6ae5c0-3812-44f6-b57e-163da3dd0129">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SPECIALISTS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f2b831b6-0472-45e4-933b-83ffcad5d1c5">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. heart attack [cardiologist]&lt;br/&gt;2. ovarian cysts [gynecologist]&lt;br/&gt;3. bipolar (manic-depressive) disorder [psychiatrist]&lt;br/&gt;4. breast adenocarcinoma [oncologist]&lt;br/&gt;5. iron deficiency anemia [hematologist]&lt;br/&gt;6. retinopathy [ophthalmologist]&lt;br/&gt;7. cerebrovascular accident (stroke) [neurologist]&lt;br/&gt;8. renal failure [nephrologist]&lt;br/&gt;9. inflammatory bowel disease [gastroenterologist]&lt;br/&gt;10. prostatic adenocarcinoma [urologist]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;Correct Answers:&lt;br/&gt;&lt;br/&gt;1. &lt;strong&gt;D&lt;/strong&gt; - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in&lt;br/&gt;the diagnosis and treatment of heart disease.&lt;br/&gt;&lt;br/&gt;2. &lt;strong&gt;F&lt;/strong&gt; - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the&lt;br/&gt;female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).&lt;br/&gt;&lt;br/&gt;3. &lt;strong&gt;J&lt;/strong&gt; - A psychiatrist is a specialist in diagnosing and treating mental illness. In bipolar disorder (manic-depressive illness), the mood switches periodically from excessive mania (excitability) to deep depression (sadness, despair, and discouragement).&lt;br/&gt;&lt;br/&gt;4. &lt;strong&gt;E&lt;/strong&gt; - An oncologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical (drug) treatment of cancer.&lt;br/&gt;&lt;br/&gt;5. &lt;strong&gt;B&lt;/strong&gt; - A hematologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of blood disorders such as anemia and clotting diseases.&lt;br/&gt;&lt;br/&gt;6. &lt;strong&gt;H&lt;/strong&gt; - An ophthalmologist trains in both surgery and internal medicine in order to diagnose and treat disorders of the eye. The retina is a sensitive layer of light receptor cells in the back of the eye. Retinopathy can occur as a secondary complication of chronic diabetes (from hyperglycemia).&lt;br/&gt;&lt;br/&gt;7.&lt;strong&gt; I&lt;/strong&gt; - A neurologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of disorders of nervous tissue (brain, spinal cord, and nerves). A CVA causes damage to areas of the brain, resulting in loss of function.&lt;br/&gt;&lt;br/&gt;8. &lt;strong&gt;C&lt;/strong&gt; - A nephrologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical treatment of kidney disease. A nephrologist does not perform surgery on the urinary tract, but treats kidney disease with drugs.&lt;br/&gt;&lt;br/&gt;9. &lt;strong&gt;A&lt;/strong&gt; - A gastroenterologist is an internal medicine specialist who takes fellowship training in the&lt;br/&gt;diagnosis and treatment of disorders of the gastrointestinal tract. Examples of infl ammatory bowel disease are ulcerative colitis (inflammation of the large intestine) and Crohn disease (inflammation of the last part of the small intestine).&lt;br/&gt;&lt;br/&gt;10. &lt;strong&gt;G&lt;/strong&gt; - A urologist is a surgeon who operates on organs of the urinary tract and the male reproductive&lt;br/&gt;system (such as the prostate gland). Urologists also prescribe drugs for some conditions&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Match the &lt;strong&gt;abnormal condition &lt;/strong&gt;with the &lt;strong&gt;physician (specialist)&lt;/strong&gt; who treats it.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+</blocks>

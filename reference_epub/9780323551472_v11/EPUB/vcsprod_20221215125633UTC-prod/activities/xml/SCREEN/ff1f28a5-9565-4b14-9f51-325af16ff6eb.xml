@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="619d0cf9-7dc6-4676-be0e-d41aa2c7a24f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ERRORS OF REFRACTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9251aff7-356d-441c-808c-3cfc62fe1718">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;astigmatism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Defective curvature of the cornea or lens of the eye.&lt;/strong&gt;&lt;br/&gt;This problem results from one or more abnormal curvatures of the cornea or lens. This causes light rays to be unevenly and not sharply focused on the retina, so that the image is distorted. A cylindrical lens placed in the proper position in front of the eye (in glasses) corrects this problem (Figure 17-8A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hyperopia (hypermetropia)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Farsightedness&lt;/strong&gt;.&lt;br/&gt;As Figure 17-8B illustrates, the eyeball in this condition is too short (front to back) or the refractive power of the lens is too weak. Parallel rays of light tend to focus behind the retina, which results in a blurred image. A convex lens (thicker in the middle than at the sides) bends the rays inward before they reach the cornea, and thus the rays can be focused properly on the retina.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;myopia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Nearsightedness&lt;/strong&gt;.&lt;br/&gt;In myopia &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; the eyeball is too long (front to back) or the refractive power of the lens so strong that light rays do not properly focus on the retina. The image perceived is blurred because the light rays are focused in front of the retina. Concave glasses (thicker at the periphery than in the middle) correct this condition because the lenses spread the rays out before they reach the cornea, so that they can be properly focused directly on the retina (Figure 17-8C).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4b9b0190-86ec-4912-8bf2-bd5c0abe3e50">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Myopia/Miotic&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In myopia, my- comes from Greek &lt;em&gt;myein, &lt;/em&gt;meaning to shut, referring to the observation that myopic persons frequently peer through half-closed eyelids. Don’t confuse &lt;strong&gt;myopia&lt;/strong&gt; with &lt;strong&gt;miotic&lt;/strong&gt;, which is a drug that contracts the pupil of the eye.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="53bec749-9adc-4b26-b7f7-7d00fe35f174">
+    <STATIC_figure>
+  <image>chp00017_f017-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-8 &lt;/span&gt;&lt;strong&gt;Errors of refraction. A, Astigmatism&lt;/strong&gt; and its correction. &lt;strong&gt;B, Hyperopia&lt;/strong&gt; and its correction. &lt;strong&gt;C, Myopia&lt;/strong&gt; and its correction. &lt;em&gt;Dashed lines &lt;/em&gt;in &lt;strong&gt;B&lt;/strong&gt; and &lt;strong&gt;C&lt;/strong&gt; indicate the contour and size of the normal eye.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bfcbc738-fa9e-4a21-9bdd-5a4c3c39a7b8">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;presbyopia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Impairment of vision as a result of old age. &lt;/strong&gt;&lt;br/&gt;With increasing age, loss of elasticity of the ciliary body impairs its ability to adjust the lens for accommodation to near vision. The lens of the eye cannot thicken to bend the rays coming from near objects (less than 20 feet away). The light rays focus &lt;em&gt;behind&lt;/em&gt; the retina, as in hyperopia. Therefore, a convex lens is needed to refract the rays coming from objects closer than 20 feet.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

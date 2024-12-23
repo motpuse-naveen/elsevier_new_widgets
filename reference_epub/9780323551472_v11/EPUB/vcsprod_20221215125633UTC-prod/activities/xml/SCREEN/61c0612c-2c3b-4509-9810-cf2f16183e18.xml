@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c8e23b2f-53e3-4758-b39b-92f016c91e7c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a4ee886c-82fd-48e7-b640-0cfc6b460d3c">
+    <STATIC_text>
+  <text>&lt;p&gt;Concentrate on learning the meanings in &lt;strong&gt;bold &lt;/strong&gt;opposite the laboratory test or procedure. Additional information is provided to increase your understanding of terms.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f30b9be8-7677-4059-bfca-7ecf06936f4d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fe2072dd-5faf-4bf9-befb-bd5f9b528262">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;amylase and lipase tests&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Tests for the levels of amylase and lipase enzymes in the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Increased levels are associated with pancreatitis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;liver function tests (LFTs)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Tests for the presence of enzymes and bilirubin in blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;LFTs are performed on blood serum (clear fluid that remains after blood has clotted). Examples of LFTs are tests for &lt;strong&gt;ALT &lt;/strong&gt;(alanine transaminase) and &lt;strong&gt;AST &lt;/strong&gt;(aspartate transaminase). ALT and AST are enzymes present in many tissues. &lt;strong&gt;Levels are elevated in the serum of patients with liver disease.&lt;/strong&gt; High ALT and AST levels indicate damage to liver cells (as in hepatitis).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Alkaline phosphatase (alk phos)&lt;/strong&gt; is another enzyme that may be elevated in patients with liver, bone, and other diseases.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Serum bilirubin&lt;/strong&gt; levels are elevated in patients with liver disease and jaundice. A &lt;strong&gt;direct bilirubin&lt;/strong&gt; test measures conjugated bilirubin. High levels indicate liver disease or biliary obstruction. An &lt;strong&gt;indirect bilirubin test&lt;/strong&gt; measures unconjugated bilirubin. Increased levels suggest excessive hemolysis, as may occur in a newborn.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;stool culture&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test for microorganisms present in feces.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Feces are placed in a growth medium and examined microscopically. (Figure 6-2A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;stool guaiac test or Hemoccult test&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test to detect occult (hidden) blood in feces.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is an important screening test for colon cancer. &lt;strong&gt;Guaiac&lt;/strong&gt; (GWĪ-ăk) is a chemical from the wood of trees. When added to a stool sample, it reacts with any blood present in the feces. See Figure 6-2B.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="45065a6f-9685-4610-8712-a2d195d88d39">
+    <STATIC_figure>
+  <image>fig6-2.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-2&lt;/span&gt; A, Stool culture. B, Stool guaiac test.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bf572ae8-cb9c-437a-809d-7f3876449493">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fc207419-2950-4578-b272-6f2774c79cf0">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;X-Ray Tests&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f5f07228-e762-41c0-adfc-90dac798edd7">
+    <STATIC_text>
+  <text>&lt;p&gt;X-ray imaging is used in many ways to detect pathologic conditions. In dental practice, x-ray images are commonly used to locate cavities (caries). Many of the x-ray tests listed here use a contrast medium (substance that x-rays cannot penetrate) to visualize a specific area of the digestive system. The contrast, because of its increased density relative to body tissue, allows organs and parts to be distinguished from one another on the film or screen.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0fce4413-3bdb-4e8d-bac8-205fa3abef3a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;lower gastrointestinal series (barium enema)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray images of the colon and rectum obtained after injection of barium into the rectum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Radiologists inject barium (a contrast medium) by enema into the rectum. Figure 6-3A shows a barium enema study of a colon with diverticulosis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;upper gastrointestinal series&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray images of the esophagus, stomach, and small intestine obtained after administering barium by mouth. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Often performed immediately after an upper gastrointestinal series, a &lt;strong&gt;small bowel&lt;/strong&gt; &lt;strong&gt;follow-through&lt;/strong&gt; study shows sequential x-ray pictures of the small intestine as barium passes through (Figure 6-3B). A &lt;strong&gt;barium swallow&lt;/strong&gt; is a study of the esophagus.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cholangiography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray examination of the biliary system performed after injection of contrast into the bile ducts.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In&lt;strong&gt; percutaneous transhepatic cholangiography&lt;/strong&gt;, the contrast medium is injected using a needle placed through the abdominal wall into the biliary vessels of the liver. In &lt;strong&gt;endoscopic retrograde cholangiopancreatography (ERCP)&lt;/strong&gt; (Figure 6-4A), contrast medium is administered through an oral catheter (tube) and then passes through the esophagus, stomach, and duodenum and into bile ducts. This procedure helps diagnose problems involving the bile ducts, gallbladder, and pancreas.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;computed tomography (CT)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;A series of x-ray images are taken in multiple views (especially cross section).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;CT scan&lt;/strong&gt; uses a circular array of x-ray beams to produce the cross-sectional image based on differences in tissue densities. Use of contrast material allows visualization of organs and blood vessels and highlights differences in blood flow between normal and diseased tissues (Figure 6-4B and Figure 6-5A and B). &lt;strong&gt;Tomography &lt;/strong&gt;(tom/o means cutting) produces a series of x-ray pictures showing multiple views of an organ. An earlier name for a CT scan is “CAT scan” (computerized axial tomography scan).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="db4c1fa3-9078-4780-b99c-ef362105e2ff">
+    <STATIC_figure>
+  <image>fig6-3.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-3 &lt;/span&gt;A, Barium enema.&lt;/strong&gt; This x-ray image from a barium enema study demonstrates diverticulosis. The &lt;em&gt;arrowheads &lt;/em&gt;point to the diverticula throughout the colon. Most patients with diverticula are asymptomatic, but complications (diverticulitis, perforated diverticulum, obstruction, or hemorrhage) may occur. &lt;strong&gt;B,&lt;/strong&gt; An x-ray image of a &lt;strong&gt;small bowel follow-through&lt;/strong&gt; study demonstrating the normal appearance of the jejunum (J) in the upper left abdomen and of the ileum (I) in the right lower abdomen. Notice the contrast material within the stomach (S) and cecum (C).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="15a3af21-bba5-456b-8c4c-3df592748260">
+    <STATIC_figure>
+  <image>fig6-4.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 6-4&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt; A&lt;/span&gt;, Endoscopic retrograde cholangiopancreatography (ERCP) showing choledocholithiasis&lt;/strong&gt; in a patient with biliary colic (pain). Multiple stones are visible in the gallbladder and common bile duct. The stones (&lt;em&gt;arrows&lt;/em&gt;) are seen as filling defects in the contrast-opacified gallbladder and duct. This patient was treated with open (performed via laparotomy) cholecystectomy and choledocholithotomy. &lt;strong&gt;B, Computed tomography scan&lt;/strong&gt; with contrast showing large “porcelain stone” in the gallbladder. The patient was asymptomatic, but a therapeutic option with this type of stone is removal of the gallbladder (&lt;em&gt;using laparoscopy&lt;/em&gt;) to prevent any future problems (such as cholecystitis or carcinoma of the gallbladder). (&lt;em&gt;&lt;strong&gt;B,&lt;/strong&gt; Courtesy Radiology Department, Massachusetts General Hospital, Boston.&lt;/em&gt;)&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="63cba847-e896-4882-b65a-bb7cc3d73a1c">
+    <STATIC_figure>
+  <image>fig6-5.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-5&lt;/span&gt; Computed tomography (CT) images &lt;/strong&gt;of normal and diseased liver.&lt;strong&gt; A, Normal liver&lt;/strong&gt;. Contrast material has been injected intravenously, making blood vessels appear bright. The liver (L) and spleen (S) are the same density on this CT image. &lt;strong&gt;B, Fatty liver.&lt;/strong&gt; The radiodensity of the liver tissue is reduced because of the large volume of fat contained in the tissue, making it appear darker than normal. Excess fat can lead to inflammation of the liver and cirrhosis.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c644f118-0c3b-4224-be7a-f4bf16df6211">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Examinations&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a14c7629-ef33-4cad-9c22-aca556ea15d2">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;abdominal ultrasonography&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sound waves beamed into the abdomen produce an image of abdominal viscera.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultrasonography is especially useful for examination of fluid-filled structures such as the gallbladder.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;endoscopic ultrasonography (EUS)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Use of an endoscope combined with ultrasound to examine the organs of the gastrointestinal tract.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An endoscope is inserted through the mouth or rectum, and ultrasound images are obtained. This test is often used in assessing esophageal, pancreatic, and rectal cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="09809dc2-8484-4923-a1ec-928504c044c0">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Magnetic Resonance Imaging&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8366ef08-1335-4eff-969f-be19121be918">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;magnetic resonance imaging (MRI)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Magnetic waves produce images of organs and tissues in all three planes of the body.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This technique does not use x-rays. It detects subtle differences in tissue composition, water content, and blood vessel density and can show sites of trauma, infection, or cancer. See Figure 6-6, which shows an MRI study of a patient with rectosigmoid carcinoma and polyps in the rectum. CT scanning would not have shown these lesions as clearly.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b4c4d73e-1aab-4f0f-a1c7-12c43cbeffc4">
+    <STATIC_figure>
+  <image>fig6-6.jpg?cachebuster=1595395625753</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-6 &lt;/span&gt;Rectal (MRI).&lt;/strong&gt; A 68-year-old man presented with rectal bleeding. MRI demonstrates &lt;strong&gt;(A) colonic adenocarcinoma&lt;/strong&gt; in the rectosigmoid area as well as &lt;strong&gt;(B) villous adenoma&lt;/strong&gt; in the rectum.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="78c17ea6-1686-42a9-bf4d-6976a938d6b2">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Nuclear Medicine Test&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0a812188-38b3-46b0-a41f-6c9ed2676b12">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;HIDA scan&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radioactive imaging procedure that tracks the production and flow of bile from the liver and gallbladder to the intestine&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;HIDA stands for &lt;strong&gt;&lt;u&gt;h&lt;/u&gt;&lt;/strong&gt;epatobiliary &lt;strong&gt;&lt;u&gt;i&lt;/u&gt;&lt;/strong&gt;mino&lt;strong&gt;&lt;u&gt;d&lt;/u&gt;&lt;/strong&gt;iacetic &lt;u&gt;&lt;strong&gt;a&lt;/strong&gt;&lt;/u&gt;cid. &lt;strong&gt;Cholescintigraphy &lt;/strong&gt;is another name for this test, which determines if the gallbladder is functioning properly.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="07a31909-5ccf-4775-b74a-7d40345eed4e">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Other Procedures&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="94f5a6b0-e3d5-417c-a122-a72844c7721e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;fecal transplant&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Transfer of stool from a healthy donor into the gastrointestinal tract of a recipient.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Extensive antibiotic use can wipe out normal colonic bacteria and can lead to infection with &lt;strong&gt;C. difficile&lt;/strong&gt; (harmful bacteria that cause diarrhea and colitis). A fecal transplant restores normal stool bacteria via colonoscopy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bariatric surgery&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Procedures used to achieve weight loss in people with severe obesity.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One type of bariatric surgery is &lt;strong&gt;bariatric&lt;/strong&gt; (bar/o = weight, iatr/o = treatment) &lt;strong&gt;sleeve gastrectomy&lt;/strong&gt;, removal of a large portion of the stomach (Figure 6-7A). Another bariatric procedure is &lt;strong&gt;gastric bypass&lt;/strong&gt;. This surgery reduces the size of the stomach to a volume of 2 tablespoons and bypasses much of the small intestine (Figure 6-7B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;gastrointestinal endoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the gastrointestinal tract using an endoscope.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A physician places a flexible fiberoptic tube through the mouth or the anus to view parts of the gastrointestinal tract. Examples are &lt;strong&gt;esophagogastroduodenoscopy&lt;/strong&gt; (EGD) (Figure 6-8), &lt;strong&gt;colonoscopy &lt;/strong&gt;(Figures 6-9 and 6-10), &lt;strong&gt;sigmoidoscopy,&lt;/strong&gt; &lt;strong&gt;proctoscopy,&lt;/strong&gt; and &lt;strong&gt;anoscopy&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual colonoscopy&lt;/strong&gt; (CT colonography) combines CT scanning and computer technology to enable physicians to examine the entire length of the colon by x-ray imaging in just minutes. Patients with abnormal findings require conventional colonoscopy afterward for further assessment or treatment, such as with biopsy or polypectomy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="578dc8fa-0c85-4dd5-9f7a-5d6053ef3059">
+    <STATIC_figure>
+  <image>fig6-7.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-7 &lt;/span&gt;A. Sleeve gastrectomy. B. Gastric bypass.&lt;/strong&gt; First (&lt;strong&gt;a&lt;/strong&gt;) the stomach is stapled so that it is reduced in size to a small pouch. Next (&lt;strong&gt;b&lt;/strong&gt;) a shortened jejunum is brought up to connect with the smaller stomach. This diverts food so that it has a shorter travel time through the intestine and less food is absorbed into the bloodstream.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b9fc12ae-6048-4c4d-81ee-cd8bb13a4644">
+    <STATIC_figure>
+  <image>fig6-8.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-8&lt;/span&gt; A, Normal endoscopy of the esophagus. B, Esophagogastroduodenoscopy.&lt;/strong&gt; This endoscopic view shows severe&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b2d79122-dc0f-4a9c-b9d1-4e4e4e7abda5">
+    <STATIC_figure>
+  <image>fig6-9.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-9 &lt;/span&gt;Colonoscopy with polypectomy. &lt;/strong&gt;Before the procedure, the patient ingests agents to clean the bowel of feces. The patient is sedated, and the gastroenterologist advances the instrument in retrograde fashion, guided by images from a video camera on the tip of the colonoscope. When a polyp is located, a wire snare is passed through the endoscope and looped around the stalk. After the loop is gently tightened, an electrical current is applied to cut through the stalk. The polyp is removed (biopsy) for microscopic tissue examination.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="fb704029-0b83-4b6c-958a-174eb674486f">
+    <STATIC_figure>
+  <image>page_157_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-10 &lt;/span&gt;Colonoscopy case report.&lt;/strong&gt; A 60-year-old man with a history of multiple and prominent colon adenomas (with some areas of high-grade dysplasia) underwent colonoscopy. The endoscope was passed through the anus and advanced to the cecum. Two pedunculated polyps (&lt;em&gt;arrows&lt;/em&gt;) were found at the hepatic flexure. Polypectomy was performed using a hot snare. Resection and retrieval were complete.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f4e643e6-b4fc-45d0-a81d-9bd6430f3523">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;laparoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual (endoscopic) examination of the abdomen with a laparoscope inserted through small incisions in the abdomen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Laparoscopic cholecystectomy (see Figure 5-28, page 160) and laparoscopic appendectomy are performed by gastrointestinal and general surgeons. See the&lt;em&gt;&lt;strong&gt; In Person: Cholecystectomy&lt;/strong&gt;&lt;/em&gt; story of a woman who underwent laparoscopic cholecystectomy (see page 191).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;liver biopsy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of liver tissue for microscopic examination.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A physician inserts a needle through the skin to remove a small piece of tissue for microscopic examination. The average sample is less than 1 inch long. The procedure helps doctors diagnose cirrhosis, chronic hepatitis, and tumors of the liver.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;nasogastric intubation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Insertion of a tube through the nose into the stomach.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Physicians use a nasogastric (NG) tube to remove fluid from the stomach and intestines postoperatively (NG decompression). See Figure 6-11.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;paracentesis (abdominocentesis)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Puncture to remove fluid from the abdomen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure is necessary to drain fluid (accumulated in ascites) from the peritoneal (abdominal) cavity.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="87a99005-8114-4138-bcbd-e963abe50e06">
+    <STATIC_figure>
+  <image>page_157_03.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 6-11 &lt;/span&gt;Nasogastric intubation.&lt;/strong&gt; The nasogastric tube is suctioning secretions from the patient’s stomach and intestines. The patient had a twisted blocked intestine (ileus), and the suction relieved pressure so that the intestine unwound and decompressed without surgery.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

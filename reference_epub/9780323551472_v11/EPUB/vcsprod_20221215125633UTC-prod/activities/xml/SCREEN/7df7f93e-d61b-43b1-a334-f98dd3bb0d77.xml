@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="7aba840f-7972-4d8c-97e0-7bf3e22a77c7">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0c97128e-6fa7-4d15-a628-168d36d7067e">
+    <STATIC_text>
+  <text>&lt;p&gt;Any abnormal or pathologic condition of the blood generally is referred to as a blood &lt;strong&gt;dyscrasia&lt;/strong&gt; (disease). The blood dyscrasias discussed in this section are organized in the following order: diseases of red blood cells, disorders of blood clotting, diseases of white blood cells, and diseases of the bone marrow.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8c2ae1aa-b12b-4a43-b4a4-e67ae017103d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DISEASES OF RED BLOOD CELLS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b26bd33f-4936-443d-9529-2694745fd557">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;anemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Deficiency in erythrocytes or hemoglobin.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The most common type of anemia is &lt;strong&gt;iron deficiency anemia;&lt;/strong&gt; it is caused by a lack of iron, which is required for hemoglobin production (Figure 13-10).&lt;/p&gt;&lt;p&gt;Other types of anemia include:&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;1. aplastic anemia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Failure of blood cell production in the bone marrow.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cause of most cases of aplastic anemia is unknown (idiopathic), but some have been linked to benzene exposure and rarely to antibiotics such as chloramphenicol. &lt;strong&gt;Pancytopenia &lt;/strong&gt;occurs when stem cells fail to produce leukocytes, platelets, and erythrocytes. Blood transfusions prolong life, allowing the marrow time to resume its normal functioning, and antibiotics control infections. Bone marrow transplantation and regimens of drugs that inhibit the immune system are successful treatments in cases in which spontaneous recovery is unlikely.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="6771b99f-9f17-4eb6-87bc-a1f71d74d90c">
+    <STATIC_figure>
+  <image>chp00013_f013-010-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-10 &lt;/span&gt;Normal red blood cells and iron deficiency anemia. A, Normal red cells.&lt;/strong&gt; Erythrocytes are fairly uniform in size and shape. The red cells are normal in hemoglobin content (normochromic) and size (normocytic). &lt;strong&gt;B, Iron deficiency anemia&lt;/strong&gt;. Many erythrocytes are small &lt;strong&gt;(microcytic)&lt;/strong&gt; and have increased central pallor &lt;strong&gt;(hypochromic)&lt;/strong&gt;. Red cells in this slide show variation in size &lt;strong&gt;(anisocytosis) &lt;/strong&gt;and shape&lt;strong&gt; (poikilocytosis)&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="87f2a6e6-4d01-4d26-a363-82913945a5e1">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;2. hemolytic anemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Reduction in red cells due to excessive destruction.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One example of hemolytic anemia is &lt;strong&gt;congenital spherocytic anemia (hereditary spherocytosis).&lt;/strong&gt; Instead of their normal biconcave shape, erythrocytes become spheroidal. This rounded shape makes them fragile and easily destroyed (hemolysis). Shortened red cell survival results in increased reticulocytes in blood as the bone marrow compensates for hemolysis of mature erythrocytes. Because the spleen destroys red cells, removal of the spleen usually improves this anemia. Figure 13-11 shows the altered shape of erythrocytes in hereditary spherocytosis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;3. sickle cell anemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Hereditary disorder of abnormal hemoglobin producing sickle-shaped erythrocytes and hemolysis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The crescent, or sickle, shape of the erythrocyte (see Figure 13-11) is caused by an abnormal type of hemoglobin (hemoglobin S) in the red cell. Sickled red blood cells are sticky and form globs that block blood flow. Serious complications include clotting, stroke, and less flow of blood through the lungs with poor oxygenation. Signs and symptoms are arthralgias, acute attacks of abdominal pain, and ulcerations of the extremities. The genetic defect (presence of the hemoglobin S gene) is particularly prevalent among people of African or Hispanic ancestry and appears with different degrees of severity. Persons with the sickle cell trait inherit just one gene for the disorder and usually do not have symptoms.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Gene therapy for sickle cell anemia (correcting the mutation in hematopoietic stem and progenitor cells in bone marrow) is an exploratory treatment.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;4. thalassemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inherited disorder of abnormal hemoglobin production leading to hypochromia.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A defect in a gene affects production of &lt;strong&gt;globin&lt;/strong&gt;, the protein that is the major component of hemoglobin. This condition, usually occurring in persons of Mediterranean or Asian background, manifests in varying forms and degrees of severity and usually leads to hypochromic anemia with diminished hemoglobin content in red cells (see Figure 13-11). &lt;em&gt;Thalassa &lt;/em&gt;is a Greek word meaning sea.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;5. pernicious anemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Lack of mature erythrocytes caused by inability to absorb vitamin B12 into the bloodstream.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vitamin B12 is necessary for the proper development and maturation of erythrocytes. It is common in a variety of foods, but it cannot be absorbed into the bloodstream without the aid of a special substance called &lt;strong&gt;intrinsic factor,&lt;/strong&gt; normally found in gastric juice. People with pernicious anemia lack this factor, and the result is unsuccessful maturation of red blood cells, with an excess of large, immature, and poorly functioning cells in the bone marrow and large, often oval, red cells (macrocytes) in the circulation. Treatment is injection or oral administration of vitamin B12 for life. Figure 13-11 illustrates cells in pernicious anemia. Pernicious means harmful or dangerous. This type of anemia was named before we knew its cause and how to treat it. Then, it was nearly always fatal within 6 months.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hemochromatosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Excess iron deposits throughout the body.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Common signs and symptoms may include skin pigmentation, joint pain, and fatigue. Without timely treatment, serious problems such as cirrhosis, diabetes, and cardiac failure may occur. This condition can be hereditary or caused by frequent blood transfusions for a chronic blood condition.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;polycythemia vera&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;General increase in red blood cells (erythremia).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Blood consistency is viscous (thick) because of greatly increased numbers of erythrocytes. The bone marrow is hyperplastic, and leukocytosis and thrombocytosis commonly accompany the increase in red blood cells. Treatment consists of reduction of red cell volume to normal levels by phlebotomy (removal of blood from a vein) and by suppressing blood cell production with myelotoxic drugs.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="62ea068f-0fdb-494d-b99d-e6b096962dec">
+    <STATIC_figure>
+  <image>chp00013_f013-011-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-11 &lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;Normal red blood cells and the abnormal cells in several types of anemia.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="39119fbf-b84b-4ada-b4de-0cddfb1cb2c1">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Sickle Cell Trait and Malaria&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;People who have sickle cell trait (with one mutated gene) are more resistant to malaria than people without the trait. Thus resistance to malaria allows people with the sickle cell trait to live longer, reproduce, and pass the inherited sickle cell trait to future generations.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="73dd3f57-c8bb-4c5d-a470-00d360a69796">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DISORDERS OF BLOOD CLOTTING&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="edab6289-4c8a-4256-9285-18e0261276fc">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hemophilia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Excessive bleeding caused by hereditary lack of factors VIII or IX necessary for blood clotting.&lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;p&gt;Although the platelet count of a hemophiliac patient is normal, deficiency in clotting factors (factor VIII or IX) results in a prolonged coagulation time. Patients with clotting factor deficiencies often bleed into weight-bearing joints, especially ankles and knees. Treatment consists of administration of the deficient factors. Progress is being made in treating hemophilia with gene therapy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;purpura&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Multiple pinpoint hemorrhages and accumulation of blood under the skin.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hemorrhages into the skin and mucous membranes produce reddish or bluish discoloration of the skin. Lesions appear with increasing volume of bleeding. &lt;strong&gt;Petechiae &lt;/strong&gt;are small, pinpoint purple or red spots on the skin while &lt;strong&gt;ecchymoses &lt;/strong&gt;are larger, blue or purplish bruises. (See Figure 13-12). Purpura can result from a deficiency of platelets &lt;strong&gt;(thrombocytopenic purpura)&lt;/strong&gt;. The cause may be immunologic, meaning that the body produces an antiplatelet factor that harms its own platelets &lt;strong&gt;(autoimmune thrombocytopenic purpura).&lt;/strong&gt; Treatments are splenectomy (the spleen is the site of platelet destruction) and drug therapy to decrease the immune response.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9250be28-6a81-4aba-814d-915f1200cbc4">
+    <STATIC_figure>
+  <image>chp00013_f013-012-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-12 &lt;/span&gt;A, Petechiae &lt;/strong&gt;result from bleeding from capillaries or small arterioles. &lt;strong&gt;B, Ecchymoses &lt;/strong&gt;are larger and more extensive than petechiae.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7076fafc-77f8-41d5-9206-8c043f42ea5e">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Why Hemophilia Mainly Affects Males&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Because the genes for factors VIII and IX are on the X chromosome, hemophilia mainly affects males. Males only have one X chromosome. In females, hemophilia rarely occurs because typically one of their two X chromosomes is normal and it compensates for the defective gene if it is on the other X chromosome.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e86df484-637a-4aac-a370-6533dfde093b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DISEASES OF WHITE BLOOD CELLS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9bccfe03-fbfc-45d1-b037-1b1edd7d212d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;leukemia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Increase in malignant white blood cells (leukocytes).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Acute leukemias have common clinical characteristics: abrupt onset of signs and symptoms—fatigue, fever, bleeding, bone pain, lymphadenopathy, splenomegaly, and hepatomegaly. If the disease has spread to the spinal canal, headache and vomiting also may occur. In addition, because normal blood cells are crowded out, patients have little defense against infection.&lt;/p&gt;&lt;p&gt;Four types of leukemia are:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Acute myeloid (myelocytic) leukemia (AML). &lt;/strong&gt;Immature granulocytes (myeloblasts) predominate. Platelets and erythrocytes are diminished because of infiltration and replacement of the bone marrow by large numbers of myeloblasts (Figure 13-13A).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Acute lymphoid (lymphocytic) leukemia (ALL).&lt;/strong&gt; Immature lymphocytes (lymphoblasts) predominate. This form is seen most often in children and adolescents; onset is sudden (see Figure 13-13B).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Chronic myeloid (myelocytic) leukemia (CML).&lt;/strong&gt; Both mature and immature granulocytes are present in large numbers in the marrow and blood. This is a slowly progressive illness with which patients (often adults older than 55) may live for many years without encountering life-threatening problems. New therapies (such as the drug Gleevec) target abnormal proteins responsible for malignancy and produce long-term control.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Chronic lymphoid (lymphocytic) leukemia (CLL). &lt;/strong&gt;Abnormal numbers of relatively mature lymphocytes predominate in the marrow, lymph nodes, and spleen. This most common form of leukemia usually occurs in the elderly and follows a slowly progressive course. It often does not require immediate treatment.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;All forms of leukemia are treated with chemotherapy and targeted therapy. Drugs are used to selectively injure rapidly dividing cells and interfere with signaling pathways in cells. Effective treatment can lead to a &lt;strong&gt;remission &lt;/strong&gt;(disappearance of signs and symptoms of disease). &lt;strong&gt;Relapse &lt;/strong&gt;occurs when disease symptoms and signs reappear, necessitating further treatment.&lt;/p&gt;&lt;p&gt;Transplantation of normal bone marrow from donors of similar tissue type is successful in restoring normal bone marrow function in some patients with acute leukemia. This procedure is performed after high-dose chemotherapy, which is administered to eliminate the leukemic cells.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;granulocytosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal increase in granulocytes in the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An increase in neutrophils in the blood may occur in response to infection or inflammation of any type. &lt;strong&gt;Eosinophilia &lt;/strong&gt;is an increase in eosinophilic granulocytes, seen in certain allergic conditions, such as asthma, or in parasitic infections (tapeworm, pinworm). &lt;strong&gt;Basophilia &lt;/strong&gt;is an increase in basophilic granulocytes seen in certain types of leukemia.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;mononucleosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Infectious, viral disease marked by increased numbers of mononuclear leukocytes and enlarged cervical lymph nodes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This disease is transmitted by the &lt;strong&gt;Epstein-Barr virus (EBV)&lt;/strong&gt;. Lymphadenitis is present, with fever, fatigue, asthenia (weakness), and pharyngitis. Atypical lymphocytes are present in the blood, liver, and spleen (leading to hepatomegaly and splenomegaly).&lt;/p&gt;&lt;p&gt;Mononucleosis usually is transmitted by direct oral contact (salivary exchange during kissing) and affects primarily young adults. No treatment is necessary for EBV infections. Antibiotics are not effective for self-limited viral illnesses. Rest during the period of acute symptoms and slow return to normal activities are advised.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="679a5ccf-2930-45c9-ac20-5d5fdf06bb41">
+    <STATIC_figure>
+  <image>chp00013_f013-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-13 &lt;/span&gt;Acute leukemia. A, Acute myeloid leukemia (AML). &lt;/strong&gt;Myeloblasts (immature granulocytes) predominate. There are large cells with small granules in their cytoplasm. AML affects primarily adults. A majority of patients achieve remission with intensive chemotherapy, but relapse is common. Hematopoietic stem cell transplantation may be a curative therapy. &lt;strong&gt;B, Acute lymphoid leukemia (ALL).&lt;/strong&gt; Lymphoblasts (immature lymphocytes) predominate. ALL is a disease of children and young adults. Most children are cured with chemotherapy. &lt;em&gt;(Courtesy Dr. Robert W. McKenna, Department of Pathology, University of Texas Southwestern Medical School, Dallas.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b7befa12-5457-4497-b46c-1ee8d259aada">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DISEASE OF BONE MARROW CELLS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7a0bf176-7a48-4062-8d88-f516cb828a67">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;multiple myeloma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant neoplasm of bone marrow.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Malignant cells, lymphocytes called plasma cells, produce antibodies that destroy bone tissue and cause production of immunoglobulins, including &lt;strong&gt;Bence Jones protein&lt;/strong&gt;, an immunoglobulin fragment found in urine. The condition leads to osteolytic lesions, hypercalcemia, anemia, renal damage, and increased susceptibility to infection. Treatment is with analgesics, various doses of chemotherapy, and special orthopedic supports. Drugs are used as &lt;strong&gt;palliative &lt;/strong&gt;treatment (relieving symptoms) and to stop disease progression. &lt;strong&gt;Autologous bone marrow transplantation&lt;/strong&gt; (ABMT), in which the patient serves as his or her own donor for stem cells, may lead to prolonged remission. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

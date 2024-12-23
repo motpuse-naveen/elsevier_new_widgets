@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="4177249b-162a-431f-9f25-07d7e8c1f83c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8985527a-a152-46a7-ae6d-463c8c5ae73d">
+    <STATIC_text>
+  <text>&lt;p&gt;The bones of the skull, the vertebral column, and the meninges, containing CSF, provide a hard box with an interior cushion around the brain and spinal cord. In addition, glial cells surrounding neurons form a bloodbrain barrier that prevents many potentially harmful substances in the bloodstream from gaining access to neurons. However, these protective factors are counterbalanced by the extreme sensitivity of nerve cells to oxygen deficiency (brain cells die in a few minutes when deprived of oxygen).&lt;/p&gt;&lt;p&gt;Neurologic disorders may be classified in the following categories:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Congenital&lt;/li&gt;&lt;li&gt;Degenerative, movement, and seizure&lt;/li&gt;&lt;li&gt;Infectious (meningitis and encephalitis)&lt;/li&gt;&lt;li&gt;Neoplastic (tumors)&lt;/li&gt;&lt;li&gt;Traumatic&lt;/li&gt;&lt;li&gt;Vascular (stroke)&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c7307403-efc8-4b1e-9283-ef309e051708">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CONGENITAL DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8630f0e7-9c92-496c-b078-99d0e29e3ef4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hydrocephalus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal accumulation of fluid (CSF) in the brain.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If circulation of CSF in the brain or spinal cord is impaired, fluid accumulates under pressure in the ventricles of the brain. To relieve pressure on the brain, a catheter (shunt) can be placed from the ventricle of the brain into the peritoneal space (ventriculoperitoneal shunt) or right atrium of the heart so that the CSF is continuously drained from the brain.&lt;/p&gt;&lt;p&gt;Hydrocephalus also can occur in adults as a result of tumors and infections.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spina bifida&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Congenital defects in the lumbar spinal column caused by imperfect union of vertebral parts (neural tube defect).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;spina bifida occulta,&lt;/strong&gt; the vertebral defect is covered over with skin and evident only on x-ray or other imaging examination. &lt;strong&gt;Spina bifida cystica&lt;/strong&gt; is a more severe form, with cyst-like protrusions. In &lt;strong&gt;meningocele&lt;/strong&gt;, the meninges protrude to the outside of the body, and in &lt;strong&gt;myelomeningocele &lt;/strong&gt;(or meningomyelocele), both the spinal cord and meninges protrude (Figure 10-14A and B).&lt;/p&gt;&lt;p&gt;The etiology of neural tube defects is unknown. Defects originate in the early weeks of pregnancy as the spinal cord and vertebrae develop. Prenatal diagnosis is helped by imaging methods and testing maternal blood samples for alpha-fetoprotein.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="8555d65c-3265-473b-b6a6-80a0bf0aaea7">
+    <STATIC_figure>
+  <image>chp00010_f010-014-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-14 &lt;/span&gt;A, Spina bifida&lt;/strong&gt; (neural tube defects).&lt;strong&gt; B, Spina bifida cystica&lt;/strong&gt; with &lt;strong&gt;myelomeningocele&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3c7728e1-40ac-4f7a-9acb-e0610ac8084d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DEGENERATIVE, MOVEMENT, AND SEIZURE DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="75db5b40-b0e1-4446-93a1-a38bc3a05d76">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alzheimer disease (AD) (Alzheimer’s)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Brain disorder marked by gradual and progressive mental deterioration (dementia), personality changes, and impairment of daily functioning.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Characteristics of AD include confusion, memory failure, disorientation, restlessness, and speech disturbances. Anxiety, depression, and emotional disturbances can occur as well. The disease sometimes begins in middle life with slight defects in memory and behavior, but can worsen after the age of 70. On autopsy there is frequently atrophy of the cerebral cortex and widening of the cerebral sulci, especially in the frontal and temporal regions (Figure 10-15A and B). Microscopic examination shows &lt;strong&gt;senile plaques&lt;/strong&gt; resulting from degeneration of neurons and &lt;strong&gt;neurofibrillary tangles&lt;/strong&gt; (bundles of fibrils in the cytoplasm of a neuron) in the cerebral cortex. Deposits of &lt;strong&gt;amyloid&lt;/strong&gt; (a protein) occur in neurofibrillary tangles, senile plaques, and blood vessels. The cause of AD remains unknown, although genetic factors may play a role. A mutation on chromosome 14 has been linked to familial cases. There is as yet no effective treatment.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;amyotrophic lateral sclerosis (ALS)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Degenerative disorder of motor neurons in the spinal cord and brainstem.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ALS manifests in adulthood. Signs and symptoms are weakness and atrophy of muscles in the hands, forearms, and legs; difficulty in swallowing and talking and dyspnea develop as the throat and respiratory muscles become affected. Etiology (cause) and cure for ALS both are unknown.&lt;/p&gt;&lt;p&gt;A famous baseball player, Lou Gehrig, became a victim of this disease in the mid-1900s, so the condition became known as &lt;strong&gt;Lou Gehrig disease.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="54ae8adb-4490-4fb3-a4ed-a4057aade042">
+    <STATIC_figure>
+  <image>chp00010_f010-015-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-15 &lt;/span&gt;A, Alzheimer disease. &lt;/strong&gt;Generalized loss of brain parenchyma (neuronal tissue) results in narrowing of the cerebral gyri and widening of the sulci. &lt;strong&gt;B,&lt;/strong&gt; Cross-sectional comparison of a normal brain and a brain from a person with Alzheimer disease.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="cd79b467-c64b-4a56-8420-7e62f0c99f20">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epilepsy &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Chronic brain disorder characterized by recurrent seizure activity.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Seizures are abnormal, sudden discharges of electrical activity within the brain. Seizures often are symptoms of underlying brain pathologic conditions, such as brain tumors, meningitis, vascular disease, or scar tissue from a head injury. &lt;strong&gt;Tonic-clonic seizures (grand mal &lt;/strong&gt;or &lt;strong&gt;ictal events)&lt;/strong&gt; are characterized by a sudden loss of consciousness, falling down, and then tonic contractions (stiffening of muscles) followed by clonic contractions (twitching and jerking movements of the limbs). These convulsions often are preceded by an &lt;strong&gt;aura,&lt;/strong&gt; which is a peculiar sensation experienced by the affected person before onset of a seizure. Dizziness, numbness, and visual or olfactory (sense of smell) disturbances are examples of an aura. &lt;strong&gt;Absence seizures&lt;/strong&gt; are a form of seizure consisting of momentary clouding of consciousness and loss of awareness of the person’s surroundings. These include &lt;strong&gt;petit mal seizures&lt;/strong&gt; in children. Drug therapy (anticonvulsants) is used for control of epileptic seizures. After seizures, there may be neurologic symptoms such as weakness called &lt;strong&gt;postictal events.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;temporal lobe epilepsy,&lt;/strong&gt; seizures begin in the temporal lobe (on each side of the brain near the ears) of the brain. The most common type of seizure is a &lt;strong&gt;complex partial seizure.&lt;/strong&gt; Complex means impaired consciousness and partial indicates not generalized. Commonly these patients have seizures that cause them to pause in whatever they are doing, become confused, and have memory problems.&lt;/p&gt;&lt;p&gt;The term epilepsy comes from the Greek epilepsis, meaning a laying hold of. The Greeks thought a victim of a seizure was laid hold of by some mysterious force. The word ictal originates from the Latin ictus, meaning a blow or a stroke.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Huntington disease (Huntington’s)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Hereditary disorder marked by degenerative changes in the cerebrum leading to abrupt involuntary movements and mental deterioration. &lt;/strong&gt;In this genetic condition, symptoms typically begin in adulthood and include personality changes, along with choreic (meaning dance-like) movements (uncontrollable, irregular jerking movements of the arms and legs and facial grimacing). It is also known as &lt;strong&gt;Huntington chorea.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The genetic defect in patients with Huntington disease is located on chromosome 4. Patients can be tested for the gene; however, no cure exists, and management is symptomatic.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;multiple sclerosis (MS)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Destruction of the myelin sheath on neurons in the CNS and its replacement by plaques of sclerotic (hard) tissue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of the leading causes of neurologic disability in persons 20 to 40 years of age, MS is a chronic disease often marked by long periods of stability (remission) and worsening (relapse). &lt;strong&gt;Demyelination &lt;/strong&gt;(loss of myelin insulation) prevents the conduction of nerve impulses through the axon. See Figure 10-16A. Demyelination causes paresthesias, muscle weakness, unsteady &lt;strong&gt;gait&lt;/strong&gt; (manner of walking), and paralysis. There may be visual (blurred and double vision) and speech disturbances as well. Areas of scarred myelin (plaques) can be seen on MRI scans of the brain (Figure 10-16B). Etiology is unknown but probably involves an autoimmune disease of lymphocytes reacting against myelin. There are now many helpful disease-modifying drugs for treating MS. These drugs affect either the inflammation or the immunological abnormalities in the CNS associated with this illness.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="6e92679c-95c0-4ae0-ac5d-0462f180e151">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Epilepsy and Seizures&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Epilepsy is a brain disorder in which at least two or more seizures appear spontaneously and recurrently. Having a single seizure does not mean that the affected person has epilepsy.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f7437eb8-7339-4cb1-89f6-a1590158d0e4">
+    <STATIC_figure>
+  <image>chp00010_f010-016-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-16 &lt;/span&gt;Multiple sclerosis. A, Demyelination&lt;/strong&gt; of a nerve cell.&lt;strong&gt; B,&lt;/strong&gt; This MRI scan shows multiple abnormal white areas that correspond to MS plaques (&lt;em&gt;arrows&lt;/em&gt;). The plaques are scar tissue that forms when myelin sheaths are destroyed.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1683c366-8b73-4c90-8376-9cac3bc59e70">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;myasthenia gravis (MG)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Autoimmune neuromuscular disorder characterized by weakness of voluntary muscles.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;MG is a chronic autoimmune disorder. Antibodies block the ability of acetylcholine (neurotransmitter) to transmit the nervous impulse from nerve to muscle cell. Onset of symptoms usually is gradual. Brainstem signs are prominent and include ptosis of the upper eyelid, double vision (diplopia), and facial weakness. Respiratory paralysis is the main clinical concern. Therapy to reverse symptoms includes anticholinesterase drugs, which inhibit the enzyme that breaks down acetylcholine. Immunosuppressive therapy is used, including medications such as corticosteroids (prednisone) and other immunosuppressive drugs. &lt;strong&gt;Thymectomy &lt;/strong&gt;is also a method of treatment and is beneficial to many patients.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;palsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Paralysis (partial or complete loss of motor function).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cerebral palsy&lt;/strong&gt; is partial paralysis and lack of muscular coordination caused by loss of oxygen (hypoxia) or blood flow to the cerebrum during pregnancy or in the perinatal period. &lt;strong&gt;Bell palsy &lt;/strong&gt;(or Bell’s palsy) (Figure 10-17) is paralysis on one side of the face. The likely cause is a viral infection, and therapy is directed against the virus (antiviral drugs) and nerve swelling (corticosteriods).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b0cb0a39-37a8-4549-b425-2ba8f1b5ecac">
+    <STATIC_figure>
+  <image>chp00010_f010-017-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-17 &lt;/span&gt;A, Bell palsy. &lt;/strong&gt;Notice the paralysis on the left side of this man’s face: The eyelid does not close properly, the forehead is not wrinkled as would be expected, and there is clear paralysis of the lower face. &lt;strong&gt;B, &lt;/strong&gt;The palsy spontaneously resolved after 6 months.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bf7de560-6aa0-4d29-9a29-4fe0d44e4513">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Parkinson disease (Parkinson’s)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Degeneration of neurons in the basal ganglia, occurring in later life and leading to tremors, weakness of muscles, and slowness of movement.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This slowly progressive condition is caused by a deficiency of &lt;strong&gt;dopamine&lt;/strong&gt;, a neurotransmitter made by cells in the basal ganglia (see Figure 10-9). Motor disturbances include stooped posture, shuffling gait, and muscle stiffness (rigidity). Other signs are a typical “pill-rolling” tremor of hands and a characteristic masklike lack of facial expression. See Figure 10-18.&lt;/p&gt;&lt;p&gt;Therapy with drugs such as levodopa plus carbidopa (Sinemet) to increase dopamine levels in the brain is &lt;strong&gt;palliative &lt;/strong&gt;(relieving symptoms but not curative). Many patients may have clinical features of Parkinson’s (parkinsonism) and yet not have the disease itself. They would not benefit from antiparkinsonian medication. Some patients with Parkinson's may benefit from stimulation by electrodes placed surgically in the brain. Implantation of fetal brain tissue containing dopamineproducing cells is an experimental treatment but has produced uncertain results.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tourette syndrome (Tourette’s)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Involuntary spasmodic, twitching movements; uncontrollable vocal sounds; and inappropriate words. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These involuntary movements, usually beginning with twitching of the eyelid and muscles of the face accompanied by verbal outbursts, are called &lt;strong&gt;tics&lt;/strong&gt;. Although the cause of Tourette syndrome is not known, it is associated with either an excess of dopamine or a hypersensitivity to dopamine. Psychological problems do not cause Tourette syndrome, but physicians have had some success in treating it with the antipsychotic drug haloperidol (Haldol), antidepressants, and mood stabilizers.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="44755bcf-57ba-4c6c-9c4a-78c248029918">
+    <STATIC_figure>
+  <image>chp00010_f010-018-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-18 &lt;/span&gt;Primary symptoms of Parkinson disease&lt;/strong&gt; are tremors in hands, arms, legs, jaw, and face; rigidity or stiffness of limbs and trunk; bradykinesia (shuffling gait), stooped posture, and masklike facies.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3ee5d83b-b261-486d-8987-df9686a4d761">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;INFECTIOUS DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2af43aba-451a-4a7c-bc1e-801a46836862">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;herpes zoster (shingles)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Viral infection affecting peripheral nerves&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Blisters and pain spread along peripheral nerves (see Figure 10-19A) and are caused by inflammation due to a herpesvirus &lt;strong&gt;(herpes zoster), &lt;/strong&gt;the same virus that causes chickenpox (varicella). Reactivation of the chickenpox virus (herpes varicella-zoster), which remains in the body after the person had chickenpox, occurs. Painful blisters follow the underlying route of cranial or spinal nerves. Shingrix is a vaccine to prevent shingles. It is recommended for people 50 years of age and older.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;meningitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inflammation of the meninges; leptomeningitis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This condition can be caused by bacteria (pyogenic meningitis) or viruses (aseptic or viral meningitis). Signs and symptoms are fever and signs of meningeal irritation, such as headache, photophobia (sensitivity to light), and a stiff neck. Lumbar punctures are performed to examine CSF. Physicians use antibiotics to treat the more serious pyogenic form, and antivirals for the viral form.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;human immunodeficiency virus (HIV) encephalopathy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Brain disease and dementia occurring with AIDS&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Many patients with AIDS develop neurologic dysfunction. In addition to encephalitis and dementia (loss of mental functioning), some patients develop brain tumors and other infections.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7c50b19a-f599-4cb4-8ed8-32a5fbad7b43">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;NEOPLASTIC DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="18d57f42-960f-49ee-8087-f181f1b6695c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;brain tumor&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal growth of brain tissue and meninges.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Most primary brain tumors arise from glial cells &lt;strong&gt;(gliomas) &lt;/strong&gt;or the meninges &lt;strong&gt;(meningiomas). &lt;/strong&gt;Types of gliomas include &lt;strong&gt;astrocytoma &lt;/strong&gt;(Figure 10-19B), &lt;strong&gt;oligodendroglioma&lt;/strong&gt;, and &lt;strong&gt;ependymoma&lt;/strong&gt;. The most malignant form of astrocytoma is &lt;strong&gt;glioblastoma multiforme&lt;/strong&gt; (-blast means immature) (see Figure 10-19B). Tumors can cause swelling &lt;strong&gt;(cerebral edema)&lt;/strong&gt; and hydrocephalus. If CSF pressure is increased, swelling also may occur near the optic nerve (at the back of the eye). Other symptoms include severe headache and new seizures. Gliomas at times can be removed surgically. Brain tumors are also treated with chemotherapy and radiotherapy. Steroids are used to reduce cerebral edema.&lt;/p&gt;&lt;p&gt;Meningiomas usually are benign and surrounded by a capsule, but they may cause compression and distortion of the brain.&lt;/p&gt;&lt;p&gt;Tumors in the brain also may be single or multiple metastatic growths. Most arise from the lung, breast, skin (melanoma), kidney, and gastrointestinal tract and spread to the brain.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="96f482f2-cf55-47ba-ada8-ea5eb4ec6744">
+    <STATIC_figure>
+  <image>chp00010_f010-019-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-19 &lt;/span&gt;A, Herpes zoster (shingles)&lt;/strong&gt; in a typical location around the trunk of the body. Zoster in ancient Greek means belt or girdle. &lt;strong&gt;B, Glioblastoma&lt;/strong&gt; as seen on MRI.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="552bd51e-19b4-4d9f-894f-28e8f17565a9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TRAUMATIC DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b7227fe1-a57d-44d5-b334-e9fd4fef4058">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cerebral concussion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Type of traumatic brain injury caused by a blow to the head.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There is usually no evidence of structural damage to brain tissue, and loss of consciousness may not occur. Rest is very important after a concussion because it allows the brain to heal. Doctors commonly recommend avoiding demanding mental and physical activities until symptoms have fully resolved.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cerebral contusion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bruising of brain tissue resulting from direct trauma to the head.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A cerebral contusion may be associated with edema and an increase in intracranial pressure. A skull fracture may be present. Subdural and epidural hematomas occur (see Figure 10-12), leading to permanent brain injury with abnormalities such as altered memory or speech as well as development of epilepsy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4e88ba20-a63c-446a-bcda-6c961d396748">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;VASCULAR DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e217fc5d-127f-45e5-ab28-019234ce768f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cerebrovascular accident (CVA)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Disruption in the normal blood supply to the brain; stroke&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;This condition, also known as a cerebral infarction, is the result of impaired oxygen supply to the brain. There are three types of strokes (Figure 10-20):&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Thrombotic &lt;/strong&gt;—blood clot&lt;strong&gt; (thrombus)&lt;/strong&gt; in the arteries leading to the brain, resulting in occlusion (blocking) of the vessel. Atherosclerosis leads to this common type of stroke as blood vessels become blocked over time. Before total occlusion occurs, a patient may experience symptoms that point to the gradual occlusion of blood vessels. These short episodes of neurologic dysfunction are known as &lt;strong&gt;transient ischemic attacks (TIAs).&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Embolic &lt;/strong&gt;—an &lt;strong&gt;embolus &lt;/strong&gt;(a dislodged thrombus) travels to cerebral arteries and occludes a vessel. This type of stroke occurs very suddenly.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hemorrhagic &lt;/strong&gt;—a cerebral artery breaks and bleeding occurs. This type of stroke can be fatal and results from advancing age, atherosclerosis, or high blood pressure, all of which result in degeneration of cerebral blood vessels. With small hemorrhages, the body reabsorbs the blood and the patient makes good recovery with only slight disability. In a younger patient, cerebral hemorrhage usually is caused by mechanical injury associated with skull fracture or rupture of an arterial &lt;strong&gt;aneurysm&lt;/strong&gt; (weakened area in the vessel wall that balloons and may eventually burst). See Figure 10-21.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;The major risk factors for stroke are hypertension, diabetes, smoking, and heart disease. Other risk factors include obesity, substance abuse (cocaine), and elevated cholesterol levels.&lt;/p&gt;&lt;p&gt;Thrombotic strokes are treated with antiplatelet or anticoagulant (clotdissolving) therapy. &lt;strong&gt;Tissue plasminogen activator (tPA)&lt;/strong&gt; may be started shortly after the onset of a stroke. Surgical intervention with carotid endarterectomy (removal of the atherosclerotic plaque along with the inner lining of the affected carotid artery) also is possible.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;migraine&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Severe, recurring, unilateral, vascular headache.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A migraine may be associated with an aura (peculiar sensations that precede the onset of illness). Symptoms of aura are temporary visual and sensory disturbances, including flashes of light and zigzag lines. Sensitivity to sound (phonophobia) and light (photophobia) are associated with the migraine itself. The etiology of pain in migraines is not fully established, but there are clearly changes in cerebral blood vessels. Treatment to prevent a migraine attack includes medications such as sumatriptan succinate (Imitrex) that target serotonin receptors on blood vessels and nerves. Drugs of this type reduce inflammation and restrict dilation of blood vessels.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4c4aed3b-c46a-4a4a-a5b5-2b7c438b2676">
+    <STATIC_figure>
+  <image>chp00010_f010-020-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-20 &lt;/span&gt;Three types of strokes: embolic, hemorrhagic, and thrombotic.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="d590f4e8-acad-42c4-bbc5-ed06dc153d21">
+    <STATIC_figure>
+  <image>chp00010_f010-021-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-21 &lt;/span&gt;Cerebral aneurysm.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e8d87351-d664-4de7-97c8-fe67b44be4b1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="418933b4-e055-4b71-aec4-2d14f379b26b">
+    <STATIC_text>
+  <text>&lt;p&gt;The following list reviews the new terms used in the Pathology section. Practice spelling each term and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="40310660-bfc1-42a2-877b-208e0d06fe93">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;absence seizure&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Form of seizure consisting of momentary clouding of consciousness and loss of awareness of surroundings.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;aneurysm&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Enlarged, weakened area in an arterial wall, which may rupture, leading to hemorrhage and CVA (stroke).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;astrocytoma&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Malignant brain tumor of astrocytes (glial brain cells).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;aura&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Peculiar symptom or sensation occurring before the onset (prodromal) of an attack of migraine or an epileptic seizure.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dementia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mental decline and deterioration.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;demyelination&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Destruction of myelin on axons of neurons (as in multiple sclerosis).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dopamine&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;CNS neurotransmitter, deficient in patient with Parkinson disease.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;embolus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Clot of material that travels through the bloodstream and suddenly blocks a vessel.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gait&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Manner of walking.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ictal event&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pertaining to a sudden, acute onset, as with the convulsions of an epileptic seizure.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;occlusion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Blockage.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;palliative&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Relieving symptoms but not curing them.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thymectomy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Removal of the thymus gland (a lymphocyte-producing gland in the chest); used as treatment for myasthenia gravis.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;TIA&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Transient ischemic attack. TIAs can occur with all three types of strokes: thrombolytic, embolic, and even hemorrhagic (if minor.) They are characterized by a limited time course of neurologic deficits.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tic&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Involuntary movement of a small group of muscles, as of the face; characteristic of Tourette syndrome.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tonic-clonic seizure&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Major (grand mal) convulsive seizure marked by sudden loss of consciousness, stiffening of muscles, and twitching and jerking movements.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

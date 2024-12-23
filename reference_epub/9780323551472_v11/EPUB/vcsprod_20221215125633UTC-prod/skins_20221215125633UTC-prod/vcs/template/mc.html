@@ -1,0 +1,61 @@
+
+
+<script type="text/template" id="mc-page-template">
+
+	<div class="content">
+		<%
+		var doAutoNumber = autoNumberQuestions; // make available in _.each callback scope
+		var pid = pid; // screen wide unique id prefix
+		_.each(questions,function(question,i) {
+			var answerGroupTitleID = "answer-group-" + question.index;
+			var questionClasses = question.hasImageAnswers ? "image-answers" : "";
+			var noQuestionTxt = !question.text.trim().length;
+			if (!doAutoNumber) {
+				questionClasses += " no-autonumber";
+			}
+			if (noQuestionTxt) {
+				questionClasses += " no-question-text";
+			}
+		%>
+		<h3 class="visuallyhidden">Question <%=question.index + 1%></h3>
+		<div id="<%= question.qid %>" class="question <%=questionClasses%>">
+		<% if (!noQuestionTxt) { %>
+		<div class="question-txt js-review-focus" tabindex="-1"><span class="question-num"><%= doAutoNumber ? (question.index + 1) + "." : "" %></span><%=question.text%></div>
+		<% } %>
+			<div class="stimulus-after u-float--clearfix"/>
+					<div class="answers">
+			<%
+			var answers = question.answers;
+			_.each(answers,function(answer,j) {
+				var base = pid + "-answer-txt-" + question.index;
+				var id = base + "-" + j;
+				var inputType = question.multiSelect ? "checkbox" : "radio";
+				var inputName = base + "-input";
+			%>
+				<% if (question.hasImageAnswers) { %>
+				<label class="answer image-answer vcs-click" for="<%=id%>">
+					<input type="<%=inputType%>" class="visuallyhidden" name="<%=inputName%>" id="<%=id%>" value="<%= _.escape(answer.value) %>"/>
+					<span/>
+					<span class="image-holder"><img src="<%=answer.image%>" alt="<%=answer.imageAlt%>"/></span>
+				</label>
+				<% } else { %>
+					<label class="answer vcs-click vstdonthighlight" for="<%=id%>">
+						<input type="<%=inputType%>" class="visuallyhidden" name="<%=inputName%>" id="<%=id%>" value="<%= _.escape(answer.value) %>"/>
+						<span class="answer-txt"><%=options.stripMCAnswerPs ? itu.htmlPtoBr(answer.text) : answer.text%></span>
+					</label>
+
+				<% }
+				 }); %>
+			</div>
+			<div class="answers-feedback visuallyhidden">
+			<% _.each(question.answers,function(answer,j) { %>
+				<div class="status"></div>
+			<% }); %>
+			</div>
+		<% }); %>
+		</div>
+	</div>
+
+</script>
+
+`

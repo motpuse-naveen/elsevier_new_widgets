@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b233bddb-f171-4f32-af7b-d0a271e35ced">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY OF THE DIGESTIVE SYSTEM&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="54c6d514-b88f-41b3-8583-3066d0bd932a">
+    <STATIC_text>
+  <text>&lt;p&gt;This section presents medical terms that describe &lt;strong&gt;signs and symptoms&lt;/strong&gt; &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; (clinical indications of illness) and pathologic conditions of the gastrointestinal tract. Sentences following each defi nition describe the &lt;strong&gt;etiology&lt;/strong&gt; (eti/o = cause) of the illness and treatment. When the etiology (cause) is not understood, the condition is &lt;strong&gt;idiopathic&lt;/strong&gt; (idi/o = unknown). You can find a list of drugs prescribed to treat gastrointestinal signs and symptoms and conditions in Chapter 21, Pharmacology.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="9068f89f-d5ec-4a71-bc82-37fcc465ad24">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SIGNS AND SYMPTOMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="df50403a-8482-4777-bdc1-e2049c28a0e3">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;anorexia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Lack of appetite.&lt;/strong&gt;&lt;br/&gt;Anorexia (-orexia = appetite) often is a sign of malignancy or liver disease. &lt;strong&gt;Anorexia&lt;/strong&gt; &lt;strong&gt;nervosa&lt;/strong&gt; is loss of appetite associated with emotional problems such as anger, anxiety, and irrational fear of weight gain. It is an eating disorder and is discussed along with a similar eating disorder, bulimia nervosa, in Chapter 22.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ascites&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Abnormal accumulation of fluid in the abdomen&lt;/strong&gt; (Figure 5-18A and B).&lt;br/&gt;This condition occurs when fluid passes from the bloodstream and collects in the peritoneal cavity. It can be a sign of neoplasm or inflammatory disorders in the abdomen, venous hypertension (high blood pressure) caused by liver disease (cirrhosis), or heart failure. Treatment for ascites includes administration of diuretic drugs and paracentesis to remove abdominal fluid.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;borborygmi (&lt;em&gt;singular: &lt;/em&gt;borborygmus)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Rumbling or gurgling noises produced by the movement of gas, fluid, or both in the gastrointestinal tract.&lt;/strong&gt;&lt;br/&gt;Signs of hyperactive intestinal peristalsis, &lt;strong&gt;borborygmi (bowel sounds)&lt;/strong&gt; often are present in cases of gastroenteritis and diarrhea.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="fe34db73-74f5-486b-8f9a-27a93b48524c">
+    <STATIC_figure>
+  <image>Fig_5.18.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-18 &lt;/span&gt;&lt;strong&gt;A. Ascites&lt;/strong&gt;, or abnormal intraperitoneal fluid, can result from conditions such as liver disease, peritonitis, and ovarian cancer. &lt;strong&gt;B. Ascites in a male patient&lt;/strong&gt;. The photograph was taken after paracentesis (puncture to remove fluid from the abdomen) was performed. Notice the gynecomastia (condition of female-type breasts) in this patient due to an excess of estrogen, which can accompany cirrhosis, especially in persons with alcoholism.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="11d6269a-91f6-4f98-9fcd-e4bc018e745f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Signs and Symptoms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;sign&lt;/strong&gt; is an &lt;strong&gt;objective&lt;/strong&gt; finding—such as an increase in body temperature, a rash, or a sound heard on listening to the chest—indicating the presence of disease as &lt;strong&gt;perceived by an examiner&lt;/strong&gt;. By contrast, a &lt;strong&gt;symptom&lt;/strong&gt; is a &lt;strong&gt;subjective&lt;/strong&gt; sensation or change in health—such as itching, pain, fatigue, or nausea—as &lt;strong&gt;experienced by the patient&lt;/strong&gt;. Clearly, the same feature may be noticed by both doctor and patient, which makes it at once both a sign and a symptom!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a88514bd-b49d-4982-a1bc-1769bdd1d890">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;constipation&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Difﬁculty in passing stools (feces).&lt;/strong&gt;&lt;br/&gt;When peristalsis is slow, stools are dry and hard. A diet with plentiful fruits, vegetables, and water is helpful. &lt;strong&gt;Laxatives&lt;/strong&gt; and &lt;strong&gt;cathartics&lt;/strong&gt; are medications to promote movement of stools. &lt;strong&gt;Chronic idiopathic constipation (CIC)&lt;/strong&gt; is persistent constipation without an identiﬁable cause.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;diarrhea&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Frequent passage of loose, watery stools.&lt;/strong&gt;&lt;br/&gt;Abrupt onset of diarrhea immediately after eating suggests acute infection or toxin in the gastrointestinal tract. Untreated, severe diarrhea may lead to dehydration. Antidiarrheal drugs are helpful.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dysphagia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Difﬁculty in swallowing.&lt;/strong&gt;&lt;br/&gt;This sensation feels like a “lump in the throat” when a swallowed bolus fails to progress, either because of a physical obstruction (obstructive dysphagia) or because of a motor disorder in which esophageal peristalsis is not coordinated (motor dysphagia).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;eructation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Gas expelled from the stomach through the mouth.&lt;/strong&gt;&lt;br/&gt;Eructation produces a characteristic sound and also is called &lt;strong&gt;belching&lt;/strong&gt; (burping).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ﬂatus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Gas expelled through the anus.&lt;/strong&gt;&lt;br/&gt;Flatulence is the presence of excessive gas in the stomach and the intestines. One sign of a bowel obstruction is the inability to pass ﬂatus. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hematochezia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Passage of fresh, bright red blood from the rectum.&lt;/strong&gt;&lt;br/&gt;The cause of hematochezia is usually hemorrhoids, but can also be colitis, ulcers, polyps, or cancer. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;jaundice (icterus)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Yellow-orange coloration of the skin and whites of the eyes caused by high levels of bilirubin in the blood (hyperbilirubinemia)&lt;/strong&gt;. See Figure 5-19.&lt;br/&gt;Jaundice can occur when (1) excessive destruction of erythrocytes, as in &lt;strong&gt;hemolysis&lt;/strong&gt;, causes excess bilirubin in the blood; (2) malfunction of liver cells (hepatocytes) due to &lt;strong&gt;liver disease&lt;/strong&gt; prevents the liver from excreting bilirubin with bile; or (3) &lt;strong&gt;obstruction of bile ﬂow&lt;/strong&gt;, such as from choledocholithiasis or tumor, prevents bilirubin in bile from being excreted into the duodenum.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="25cadbda-5524-413c-9b5d-195e16fcc7ae">
+    <STATIC_figure>
+  <image>Fig_5.19.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-19&lt;/span&gt; Jaundice due to liver disease.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0191ca6c-c2bc-4918-8203-2772e8f5e828">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;melena&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Black, tarry stools; feces containing digested blood.&lt;/strong&gt;&lt;br/&gt;This clinical sign usually reﬂects a condition in which blood has had time to be digested (acted on by intestinal juices) and results from bleeding in the upper gastrointestinal tract (duodenal ulcer). A positive result on &lt;strong&gt;stool guaiac testing&lt;/strong&gt; (see page 183) indicates blood in the stool.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nausea&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Unpleasant sensation in the stomach with a tendency to vomit.&lt;/strong&gt;&lt;br/&gt;Common causes are motion sickness, early pregnancy, and viral gastroenteritis. Nausea and vomiting may be symptomatic of a perforation (hole in the wall) of an abdominal organ; obstruction of a bile duct, stomach, or intestine; or exposure to poisons.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;steatorrhea &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Fat in the feces.&lt;/strong&gt;&lt;br/&gt;Steatorrhea is production of frothy, foul-smelling fecal matter that often ﬂoats in the toilet. Improper digestion or absorption of fat causes fat to remain in the intestine. This may occur with disease of the pancreas (pancreatitis) when pancreatic enzymes are not excreted. It also is a sign of intestinal disease that involves malabsorption of fat.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c185f312-83b8-43f0-9345-a01da8a489fa">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGIC CONDITIONS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c7a40e8c-86b5-4d09-895a-1f03b9907629">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;ORAL CAVITY AND TEETH&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dc5add6d-8627-4101-bdf4-960b07ee5f9d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;aphthous stomatitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the mouth with small, painful ulcers.&lt;/strong&gt;&lt;br/&gt;The ulcers associated with this condition are commonly called canker (KANK-er) &lt;strong&gt;sores&lt;/strong&gt;; the cause is unknown (Figure 5-20B).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dental caries&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Tooth decay&lt;/strong&gt;.&lt;br/&gt;&lt;strong&gt;Dental plaque &lt;/strong&gt;results from the accumulation of foods, proteins from saliva, and necrotic debris on the tooth enamel. Bacteria grow in the plaque and cause production of acid that dissolves the tooth enamel, resulting in a cavity (area of decay) (Figure 5-20C). If the bacterial infection reaches the pulp of the tooth, root canal therapy may be necessary.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;herpetic stomatitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the mouth caused by infection with the herpesvirus.&lt;/strong&gt;&lt;br/&gt;Painful ﬂuid-ﬁlled blisters on the lips, palate, gums, and tongue, commonly called &lt;strong&gt;fever blisters&lt;/strong&gt; or &lt;strong&gt;cold sores&lt;/strong&gt; (Figure 5-20D). It is caused by herpes simplex virus type 1 (HSV1). Herpes genitalis (due to HSV2) involves the reproductive organs. Both conditions are highly contagious.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;oral leukoplakia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;White plaques or patches on the mucosa of the mouth&lt;/strong&gt;.&lt;br/&gt;This precancerous lesion (Figure 5-20E) can result from chronic tobacco use (pipe smoking or chewing tobacco). Malignant potential is assessed by microscopic study of biopsied tissue.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;periodontal disease&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation and degeneration of gums, teeth, and surrounding bone.&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;Gingivitis&lt;/strong&gt; (Figure 5-20F) occurs as a result of accumulation of &lt;strong&gt;dental plaque&lt;/strong&gt; and &lt;strong&gt;dental calculus&lt;/strong&gt; or &lt;strong&gt;tartar&lt;/strong&gt; (a yellow-brown calciﬁed deposit on teeth). In &lt;strong&gt;gingivectomy&lt;/strong&gt;, the periodontist uses a metal instrument to scrape away plaque and tartar from teeth; any pockets of pus (pyorrhea) are then drained and removed to allow new tissue to form. Localized infections are treated with systemic antibiotics.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ad800999-c3df-4e41-8633-4036364ee2e6">
+    <STATIC_figure>
+  <image>Fig_5.20.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-20&lt;/span&gt; &lt;strong&gt;Normal teeth and gums and pathologic conditions. A, Normal teeth and gums. B, Aphthous stomatitis. C, Dental caries. D, Herpetic stomatitis. E, Oral leukoplakia. F, Gingivitis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="99eb6967-ed71-4c3e-ac42-b67036eff425">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;UPPER GASTROINTESTINAL TRACT&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="68b2ea34-1e93-4762-bdba-765803271b68">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;achalasia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Failure of the lower esophagus sphincter (LES) muscle to relax.&lt;/strong&gt;&lt;br/&gt;A chalasia (-chalasia = relaxation) results from the loss of peristalsis so that food cannot pass easily through the esophagus. Both failure of the LES to relax and the loss of peristalsis cause dilatation (widening) of the esophagus above the constriction. Physicians recommend a bland diet low in bulk and mechanical stretching of the LES to relieve symptoms.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;esophageal cancer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Malignant tumor of the esophagus.&lt;/strong&gt;&lt;br/&gt;The most common symptom of esophageal cancer is difﬁculty swallowing (dysphagia). Smoking and chronic alcohol use are major risk factors. Long-term irritation of the esophagus caused by gastric reﬂux is a premalignant condition called &lt;strong&gt;Barrett esophagus&lt;/strong&gt;. Surgery, radiation therapy, and chemotherapy are treatment options.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;esophageal varices&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Swollen varicose veins at the lower end of the esophagus &lt;/strong&gt;(Figure 5-21).&lt;br/&gt;Liver disease (such as cirrhosis and chronic hepatitis) causes increased pressure in veins near and around the liver (&lt;strong&gt;portal hypertension&lt;/strong&gt;). This leads to enlarged, tortuous esophageal veins with danger of hemorrhage (bleeding). Treatment may include banding (tying off the swollen esophageal veins) or sclerotherapy (injecting veins with a solution that closes them). Drug therapy to lower portal hypertension can be used to decrease the risk of variceal bleeding.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gastric cancer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Malignant tumor of the stomach.&lt;/strong&gt;&lt;br/&gt;Smoking, alcohol use, and chronic gastritis associated with bacterial infection are major risk factors for gastric carcinoma. Gastric endoscopy and biopsy diagnose the condition. Cure depends on early detection and surgical removal.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gastroesophageal reﬂux disease (GERD)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Solids and ﬂuids return to the mouth from the stomach.&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;Heartburn&lt;/strong&gt; is a burning sensation caused by regurgitation of hydrochloric acid from the stomach to the esophagus. Chronic exposure of esophageal mucosa to gastric acid and pepsin (an enzyme that digests protein) leads to &lt;strong&gt;reﬂux esophagitis&lt;/strong&gt;. Drug treatment for GERD includes antacid (acid-suppressive) agents and medication to increase the tone of the LES.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5bf7853c-c1d4-41b7-a73e-fdfa1c612cde">
+    <STATIC_figure>
+  <image>Fig_5.21.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-21&lt;/span&gt; A, Esophageal varices. B, Endoscopic view of esophageal varices.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="933a4751-76f8-458a-9df5-6b4704e885e3">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hernia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Protrusion of an organ or part through the tissues and muscles normally containing it.&lt;/strong&gt;&lt;br/&gt;A &lt;strong&gt;hiatal hernia&lt;/strong&gt; occurs when the upper part of the stomach protrudes upward through the diaphragm (Figure 5-22A). This condition can lead to GERD. An &lt;strong&gt;inguinal hernia&lt;/strong&gt; occurs when a small loop of bowel protrudes through a weak lower abdominal wall tissue (fascia) surrounding muscles (Figure 5-22B). Surgical repair of inguinal hernias is known as herniorrhaphy (-rrhaphy means suture).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;peptic ulcer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Open sore in the lining of the stomach or duodenum.&lt;/strong&gt;&lt;br/&gt;A bacterium, &lt;em&gt;Helicobacter pylori (H. pylori)&lt;/em&gt;, is responsible for many cases of peptic ulcer disease. The combination of bacteria, hyperacidity, and gastric juice damages epithelial linings. Drug treatment includes antibiotics, antacids, and agents to protect the lining of the stomach and intestine. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="85da08e0-f5ac-4d0d-87ea-1071e67f49b7">
+    <STATIC_figure>
+  <image>Fig_5.22.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-22&lt;/span&gt; Hernias. A, Hiatal hernia. B, Inguinal hernias&lt;/strong&gt;. A &lt;strong&gt;direct inguinal hernia&lt;/strong&gt; occurs through the abdominal wall in an area of muscular weakness. An &lt;strong&gt;indirect inguinal hernia&lt;/strong&gt; occurs through the inguinal canal (passageway in the lower abdomen), where the herniated tissue/bowel descends into the scrotal sac.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e2376216-daca-470f-86db-83c88f9cedcf">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOWER GASTROINTESTINAL TRACT (SMALL AND LARGE INTESTINES)&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5474b4e5-239d-4613-a0d2-8fe6020ea42e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;anal ﬁstula&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Abnormal tube-like passageway near the anus.&lt;/strong&gt;&lt;br/&gt;The ﬁstula often results from a break or &lt;strong&gt;ﬁssure&lt;/strong&gt; in the wall of the anus or rectum, or from an abscess (infected area) there (Figure 5-23A).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;colonic polyps&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Polyps (benign growths) protrude from the mucous membrane of the colon&lt;/strong&gt;.&lt;br/&gt;Figure 5-23A illustrates two types of polyps: &lt;strong&gt;pedunculated&lt;/strong&gt; (attached to the membrane by a stalk) and &lt;strong&gt;sessile&lt;/strong&gt; (sitting directly on the mucous membrane). Figure 5-23B shows multiple polyps of the colon. Many polyps are premalignant (adenomatous polyps); these growths often are removed (polypectomy) as a preventative measure and for further examination (biopsy).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;colorectal cancer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Adenocarcinoma of the colon or rectum, or both.&lt;/strong&gt;&lt;br/&gt;Colorectal cancer (Figure 5-24) can arise from polyps in the colon or rectal region. Diagnosis is determined by detecting blood in stool and by colonoscopy. Prognosis depends on the stage (extent of spread) of the tumor, including size, depth of invasion, and involvement of lymph nodes. Surgical treatment may require excision of a major section of colon with rejoining of the cut ends (anastomosis). Chemotherapy and radiotherapy are administered as needed.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Crohn disease (“Crohn’s”)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Chronic inﬂammation of the intestinal tract.&lt;/strong&gt;&lt;br/&gt;Crohn’s can occur anywhere from mouth to anus but most commonly in the ileum (ileitis) and colon. Signs and symptoms include diarrhea, severe abdominal pain, fever, anorexia, weakness, and weight loss. Both Crohn disease and ulcerative colitis are forms of &lt;strong&gt;inﬂammatory bowel disease (IBD)&lt;/strong&gt;. Treatment is with drugs that control inﬂammation and other symptoms or by surgical removal of diseased portions of the intestine, with anastomosis of remaining parts. Read the &lt;em&gt;&lt;strong&gt;In Person: Living with Crohn’s&lt;/strong&gt;&lt;/em&gt; story on page 162.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="2209de7f-5270-4037-8658-6df2587ed034">
+    <STATIC_figure>
+  <image>Fig_5.23.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-23 &lt;/span&gt;&lt;strong&gt;An&lt;/strong&gt;al fistula and colonic polyps. A,&lt;/strong&gt; Anal fistula and two types of polyps. &lt;strong&gt;B&lt;/strong&gt;, Multiple polyps of the colon.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1952f97c-0d37-4e4a-9269-ee64338d3c47">
+    <STATIC_figure>
+  <image>page_136_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-24 &lt;/span&gt;&lt;strong&gt;Ad&lt;/strong&gt;enocarcinoma of the colon&lt;/strong&gt;. This tumor has “heaped-up” edges and an ulcerated central portion.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0880c20b-aca2-4a61-81e7-f5a5bb6f911d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;diverticulosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Abnormal outpouchings (diverticula) in the intestinal wall of the colon&lt;/strong&gt;. See Figure 5-25A.&lt;br/&gt;&lt;strong&gt;Diverticulitis&lt;/strong&gt; is a complication of diverticulosis. When fecal matter becomes trapped in diverticula, diverticulitis can occur. Pain and rectal bleeding are symptoms. Figure 5-25B and C shows diverticulitis in a section through the sigmoid colon. Initial treatment for an attack of diverticulitis includes a liquid diet and oral antibiotics. In severe cases, the patient may need hospitalization, intravenous antibiotics, and surgery to remove the affected area of the colon with anastomosis of the cut ends. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dysentery&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Painful inﬂammation of the intestines commonly caused by bacterial infection.&lt;/strong&gt;&lt;br/&gt;Often occurring in the colon, dysentery results from ingestion of food or water containing bacteria (salmonellae or shigellae), amebae (one-celled organisms), or viruses. Symptoms are bloody stools, abdominal pain, and sometimes fever. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hemorrhoids&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Swollen, twisted varicose veins in the rectal region.&lt;/strong&gt;&lt;br/&gt;Varicose veins can be internal (within the rectum) or external (outside the anal sphincter). Pregnancy and chronic constipation, which put pressure on anal veins, often cause hemorrhoids.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b1e13ca6-747a-40c6-b104-992a5cd9b276">
+    <STATIC_figure>
+  <image>FIG_5.25.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-25 &lt;/span&gt;&lt;strong&gt;A,&lt;/strong&gt; Diverticula&lt;/strong&gt; (resulting in &lt;strong&gt;diverticulosis&lt;/strong&gt;) form when the mucous membrane lining of the colon bulges through the weakened muscular wall. &lt;strong&gt;B&lt;/strong&gt; and &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;Diverticulitis&lt;/strong&gt; can result when fecal material lodges in diverticula. Avoidance of foods with seeds and nuts decreases the risk of this condition.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="db8522fe-7b99-46b5-b0d1-6fd2846e7f7b">
+    <STATIC_figure>
+  <image>Fig_5.26.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-26&lt;/span&gt; Intussusception and volvulus&lt;/strong&gt;. ileus&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="27f86146-63b0-41e9-ae86-80706f494299">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ileus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Loss of peristalsis with resulting obstruction of the intestines.&lt;/strong&gt;&lt;br/&gt;Surgery, trauma, or bacterial injury to the peritoneum can lead to a paralytic ileus (acute, transient loss of peristalsis).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;inﬂammatory bowel disease (IBD) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the colon and small intestine. See Crohn disease and ulcerative colitis.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;intussusception&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Telescoping of the intestines&lt;/strong&gt;.&lt;br/&gt;In this condition, one segment of the bowel collapses into the opening of another segment (Figure 5-26). It often occurs in children and at the ileocecal region. Intestinal obstruction with pain and vomiting can occur. A barium enema can diagnose and may successfully reduce the intussusception. Otherwise, surgery to remove the affected segment of bowel (followed by anastomosis) may be necessary.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;irritable bowel syndrome (IBS)&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;&lt;strong&gt;Group of GI symptoms (abdominal pain, bloating, diarrhea, constipation) without structural abnormalities in the intestines. &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;IBS may be associated with stress or occur after infection. Treatment includes a diet high in bran and ﬁber and laxatives plus antidiarrheals to establish regular bowel movements. Other names for IBS are &lt;strong&gt;irritable colon&lt;/strong&gt; and &lt;strong&gt;spastic colon&lt;/strong&gt;. IBS is a type of &lt;strong&gt;functional gastrointestinal disorder (FGID)&lt;/strong&gt;. These are disorders of how the gastrointestinal tract functions, but without structural or biochemical abnormalities. A diet low in FODMAPs (an acronym for carbohydrates that are poorly absorbed by the intestine) has been helpful in improving symptoms for many with IBS.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ulcerative colitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Chronic inﬂammation of the colon with presence of ulcers.&lt;/strong&gt;&lt;br/&gt;This idiopathic, chronic, recurrent diarrheal disease (an &lt;strong&gt;inﬂammatory bowel disease&lt;/strong&gt;) manifests with rectal bleeding and pain. Often beginning in the colon, the inﬂammation spreads proximally, involving the entire colon. Drug treatment and careful attention to diet are recommended. Resection of diseased bowel with ileostomy may be necessary. In some cases it is cured by total colectomy. Patients with ulcerative colitis are at a higher risk for developing colon cancer.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;volvulus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Twisting of the intestine on itself.&lt;/strong&gt;&lt;br/&gt;Volvulus causes intestinal obstruction. Severe pain, nausea and vomiting, and absence of bowel sounds are clinical features. Surgical correction is necessary to prevent necrosis of the affected segment of the bowel (see Figure 5-26).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="d6081d7b-65c9-44ca-a4d8-a628480c93a4">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Irritable Bowel Syndrome (IBS) and Inﬂammatory Bowel Disease (IBD)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While &lt;strong&gt;IBS&lt;/strong&gt; is a condition with no structural abnormalities of the intestines, &lt;strong&gt;IBD&lt;/strong&gt; (&lt;strong&gt;Crohn’s&lt;/strong&gt; and &lt;strong&gt;ulcerative colitis&lt;/strong&gt;) involves structural abnormalities.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b9cc4f60-4b10-4c38-a7ed-2421024b2c97">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LIVER, GALLBLADDER, AND PANCREAS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="06dffe0b-8441-42f6-beb8-78a148f01f47">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cholelithiasis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Gallstones in the gallbladder. &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;&lt;strong&gt;Calculi&lt;/strong&gt; (stones) prevent bile from leaving the gallbladder and bile ducts (Figure 5-27). Many patients remain asymptomatic and do not require treatment; symptoms related to gallbladder stones are either &lt;strong&gt;biliary colic&lt;/strong&gt; (pain from blocked ducts) or &lt;strong&gt;cholecystitis&lt;/strong&gt; (inﬂammation and infection of the gallbladder), both of which require treatment. Currently, &lt;strong&gt;laparoscopic&lt;/strong&gt; or &lt;strong&gt;minimally invasive surgery&lt;/strong&gt; &lt;strong&gt;(laparoscopic cholecystectomy)&lt;/strong&gt; can be performed to remove the gallbladder and stones (Figure 5-28A and B).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="953cccce-cec6-4319-a67c-2dec1b511d69">
+    <STATIC_figure>
+  <image>Fig_5.27.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-27&lt;/span&gt; Gallstone positions in the gallbladder and bile ducts&lt;/strong&gt;. &lt;strong&gt;A,&lt;/strong&gt; Stone in the gallbladder causing mild or no symptoms. &lt;strong&gt;B,&lt;/strong&gt; Stone obstructing the cystic duct, causing pain. &lt;strong&gt;C,&lt;/strong&gt; Stone obstructing the common bile duct, causing pain and jaundice. &lt;strong&gt;D,&lt;/strong&gt; Stone at the lower end of the common bile duct and pancreatic duct, causing pain, jaundice, and pancreatitis.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0a341a22-f619-4e27-b255-6e97cc078fcb">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; What’s “in” Gallstones?&lt;/strong&gt;&lt;br/&gt;Gallstones are composed of cholesterol, bilirubin (pigment in bile), and calcium salts. They can vary in size and shape— ranging from as small as a grain of sand to as large as a golf ball!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2b9f886f-e6dd-40a5-b52e-7d18ba5c5f75">
+    <STATIC_figure>
+  <image>Fig_5.28.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-28 &lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;A, Trocars in place for laparoscopic cholecystectomy.&lt;/span&gt;&lt;/strong&gt; Trocars are used to puncture and enter the abdomen. These devices are metal sleeves consisting of a hollow metal tube (cannula) into which fits an obturator (a solid, removable metal instrument with a sharp, three-cornered tip) used to puncture the wall. &lt;em&gt;Circled numbers &lt;/em&gt;show common positions for trocar insertion: &lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/span&gt; is an umbilical 10/11-mm trocar (the largest trocar diameter is 15). &lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/span&gt; is a 10/11-mm trocar at the midline. &lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/span&gt; and &lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/span&gt; are 5-mm trocars placed in the right upper quadrant of the abdomen. &lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;B, Gallstones&lt;/strong&gt;&lt;/span&gt;. Mechanical manipulation during laparoscopic cholecystectomy has caused fragmentation of several cholesterol gallstones, revealing interiors that are pigmented because of entrapped bile pigments. The gallbladder mucosa is reddened and irregular as a result.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="df0e60fc-3df0-4245-958e-99623f88230c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cirrhosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Chronic degenerative disease of the liver.&lt;/strong&gt;&lt;br/&gt;Cirrhosis is commonly the result of chronic alcoholism, viral hepatitis, iron overload, or other causes. Lobes of the liver become scarred with ﬁbrous tissue, hepatic cells degenerate, and the liver is inﬁltrated with fat. Cirrh/o means yellow-orange, which describes the liver’s color caused by fat accumulation. Figure 5-29 shows a normal liver and a liver with alcoholic cirrhosis.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7c531a92-f3a1-414c-a04c-3fe983f5d247">
+    <STATIC_figure>
+  <image>Fig_5.29.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-29&lt;/span&gt; &lt;strong&gt;A, Normal liver. B, Liver with alcoholic cirrhosis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c2eba01c-4661-48ee-a3da-f2940b5b0db7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hepatocellular carcinoma (HCC)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Liver cancer.&lt;/strong&gt;&lt;br/&gt;Cancer that starts in the liver is primary liver cancer (as opposed to secondary liver cancer, which starts in another organ and metastasizes to the liver). HCC is commonly associated with hepatitis B and C virus infections and cirrhosis due to chronic alcohol use. &lt;strong&gt;Nonalcoholic steatohepatitis (NASH)&lt;/strong&gt; is fatty inﬁltration of the liver, which may progress to cirrhosis and HCC.&lt;br/&gt;Surgery, radiation, and chemotherapy are therapeutic options. Hepatocellular carcinomas produce &lt;strong&gt;alpha-fetoprotein (AFP)&lt;/strong&gt;, a tumor marker that is often elevated in the blood in patients with this cancer. AFP is used as a screen for HCC in patients with cirrhosis.&lt;br/&gt;Liver cancers that begin in the bile ducts are called &lt;strong&gt;cholangiocarcinomas&lt;/strong&gt;. Bile duct cancers also can arise from the gallbladder.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pancreatic cancer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Malignant tumor of the pancreas&lt;/strong&gt;.&lt;br/&gt;It often occurs in the head of the pancreas (closer to the duodenum), where it can block ducts. Although the cause is unknown, pancreatic cancer is more common in smokers and people with diabetes and chronic pancreatitis. Symptoms and signs are abdominal or back pain, fatigue, jaundice, anorexia, diarrhea, and weight loss. The standard surgical treatment, if the tumor can be resected, is a &lt;strong&gt;pancreatoduodenectomy (Whipple procedure)&lt;/strong&gt;.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Chemotherapy and radiation may also be used.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pancreatitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the pancreas&lt;/strong&gt;.&lt;br/&gt;Digestive enzymes attack pancreatic tissue and damage the gland. Other etiologic factors include chronic alcoholism, drug toxicity, gallstone obstruction of the common bile duct, and viral infections. Treatment includes medications to relieve epigastric pain, intravenous ﬂuids, bowel rest, and subtotal pancreatectomy if necessary.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;viral hepatitis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the liver caused by a virus&lt;/strong&gt;.&lt;br/&gt;&lt;strong&gt;Hepatitis A&lt;/strong&gt; is viral hepatitis caused by the hepatitis A virus (&lt;strong&gt;HAV&lt;/strong&gt;). It is a disorder spread by contaminated food or water and characterized by slow onset of symptoms. &lt;br/&gt;&lt;strong&gt;Hepatitis B&lt;/strong&gt; is caused by the hepatitis B virus (&lt;strong&gt;HBV&lt;/strong&gt;) and is transmitted by sexual contact, blood transfusions, or the use of contaminated needles or may be acquired by maternal to fetal transmission. Severe infection can cause destruction of liver cells, cirrhosis, or death. A vaccine that provides immunity is available and recommended for persons at risk for exposure. &lt;strong&gt;Hepatitis C&lt;/strong&gt; is caused by the hepatitis C virus (&lt;strong&gt;HCV&lt;/strong&gt;) and is transmitted by blood transfusions or needle inoculation (such as among intravenous drug users sharing needles). The acute illness may progress to chronic hepatitis and hepatocellular carcinoma. Two drugs recently approved by the FDA for hepatitis C are Mavyret and Vosevi.&lt;br/&gt;In all types, liver enzyme levels may be elevated, indicating damage to liver cells. Signs and symptoms include malaise, anorexia, hepatomegaly, jaundice, and abdominal pain.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="de425b10-047c-4d7b-a10b-87cd458c7425">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Whipple Procedure for Pancreatic Cancer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This surgery consists of:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;removal of the distal half of the stomach (antrectomy)&lt;/li&gt;&lt;li&gt;removal of gallbladder and common bile duct (cholecystectomy and choledochectomy)&lt;/li&gt;&lt;li&gt;removal of part of the pancreas and duodenum (pancreatoduodenectomy)&lt;/li&gt;&lt;li&gt;reconstruction consists of pancreatojejunostomy, hepaticojejunostomy, and gastrojejunostomy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Steve Jobs, cofounder of Apple Inc., and Luciano Pavarotti, opera singer, had this surgery.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

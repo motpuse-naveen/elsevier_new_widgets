@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="01f401b2-5d05-4cfc-84c2-f86a4d39fa14">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a1b57b34-93b5-45cf-b8ea-81a97a9946fc">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;exophthalmometry&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Measurement of eyeball protrusion (as in Graves disease) with an exophthalmometer.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;computed tomography (CT) scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;X-ray imaging of endocrine glands in cross-section and other views, to assess size and infiltration by tumor.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;magnetic resonance imaging (MRI)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Magnetic waves produce images of the hypothalamus and pituitary gland to locate abnormalities.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thyroid scan&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Scanner detects radioactivity and visualizes the thyroid gland.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Administration of radioactivity is either intravenous (with radioactive technetium) or oral (with radioactive iodine). The latter is called &lt;strong&gt;RAIU (radioactive iodine uptake scan).&lt;/strong&gt; Thyroid function is assessed; nodules and tumors can be evaluated.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ultrasound examination&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sound waves show images of endocrine organs.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thyroid ultrasound is the best method to evaluate thyroid structures and abnormalities (nodules).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

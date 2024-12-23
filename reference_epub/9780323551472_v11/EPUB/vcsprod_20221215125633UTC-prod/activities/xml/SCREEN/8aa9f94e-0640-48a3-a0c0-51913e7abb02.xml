@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="985e0c59-7437-4da1-a397-285c00905738">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="305a3f1a-d6b6-4f20-a094-bc54ad42c181">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a2b1d909-1a91-41d3-8995-8f60ce52b8bc">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;COMBINING FORM&lt;/th&gt;&lt;th scope="col"&gt;MEANING&lt;/th&gt;&lt;th scope="col"&gt;TERMINOLOGY&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;immun/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;protection&lt;/td&gt;&lt;td&gt;auto&lt;u&gt;immun&lt;/u&gt;e disease&lt;br/&gt;&lt;em&gt;Examples are rheumatoid arthritis and systemic lupus erythematosus. These are chronic, disabling diseases caused by the abnormal production of antibodies against normal body tissues. Signs and symptoms are inﬂammation of joints, skin rash, and fever. Glucocorticoid drugs (prednisone) and other immunosuppressants (azathioprine, methotrexate) are effective as treatment but make patients susceptible to infection.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;immun&lt;/u&gt;oglobulin&lt;br/&gt;&lt;br/&gt;&lt;u&gt;immun&lt;/u&gt;osuppression&lt;br/&gt;&lt;em&gt;This may occur because of exposure to drugs (corticosteroids) or as the result of disease (AIDS and cancer). Immunosuppressed patients are susceptible to infection with fungi, Pneumocystis bacteria, and other pathogens. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lymph/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lymph&lt;/td&gt;&lt;td&gt;&lt;u&gt;lymph&lt;/u&gt;opoiesis&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lymph&lt;/u&gt;edema&lt;br/&gt;&lt;em&gt;Interstitial ﬂuid collects within the spaces between cells as a result of obstruction of lymphatic vessels and nodes. Radiation therapy may destroy lymphatics and produce lymphedema, as in breast cancer treatment (Figure 14-11).&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lymph&lt;/u&gt;ocytopenia&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lymph&lt;/u&gt;ocytosis&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lymph&lt;/u&gt;oid&lt;br/&gt;&lt;em&gt;The sufﬁx-oid means resembling or derived from. Lymphoid organs include lymph nodes, spleen, and thymus gland.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="f18e3775-4bb1-4911-bf4d-e8007a71c874">
+    <STATIC_figure>
+  <image>page_422_100.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-11 &lt;/span&gt;&lt;strong&gt;Lymphedema&lt;/strong&gt; of right arm secondary to mastectomy, lymphadenectomy, and radiotherapy.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="99c81dbd-fd14-433a-b8b8-c6e7dc84c613">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;COMBINING FORM&lt;/th&gt;&lt;th scope="col"&gt;MEANING&lt;/th&gt;&lt;th scope="col"&gt;TERMINOLOGY&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lymphaden/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lymph node (gland)&lt;/td&gt;&lt;td&gt;&lt;u&gt;lymphaden&lt;/u&gt;opathy&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lymphaden&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;splen/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;spleen&lt;/td&gt;&lt;td&gt;&lt;u&gt;splen&lt;/u&gt;omegaly&lt;br/&gt;&lt;em&gt;Note that the combining form for spleen contains only one e.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;splen&lt;/u&gt;ectomy&lt;br/&gt;&lt;br/&gt;a&lt;u&gt;splen&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;The condition may be congenital or result from surgical removal.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;hyper&lt;u&gt;splen&lt;/u&gt;ism&lt;br/&gt;&lt;em&gt;Syndrome marked by splenomegaly and often associated with blood cell destruction, anemia, leukopenia, and thrombocytopenia.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thym/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;thymus gland&lt;/td&gt;&lt;td&gt;&lt;u&gt;thym&lt;/u&gt;ectomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tox/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;poison&lt;/td&gt;&lt;td&gt;&lt;u&gt;tox&lt;/u&gt;ic&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7c6f4577-9240-4978-8bbd-3839435f874a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;PREFIXES &lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="30749f55-acca-420d-8889-22b490cc656b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;PREFIX &lt;/th&gt;&lt;th scope="col"&gt;MEANING&lt;/th&gt;&lt;th scope="col"&gt;TERMINOLOGY&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ana-&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;again, anew&lt;/td&gt;&lt;td&gt;&lt;u&gt;ana&lt;/u&gt;phylaxis&lt;br/&gt;&lt;em&gt;The sufﬁx -phylaxis means protection. This is an unusual hypersensitivity to previously encountered foreign proteins or other antigens. Vasodilation and a decrease in blood pressure can be life-threatening.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;inter-&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;between&lt;/td&gt;&lt;td&gt;&lt;u&gt;inter&lt;/u&gt;stitial ﬂuid&lt;br/&gt;&lt;em&gt;The sufﬁx -stitial means pertaining to standing or positioned&lt;/em&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

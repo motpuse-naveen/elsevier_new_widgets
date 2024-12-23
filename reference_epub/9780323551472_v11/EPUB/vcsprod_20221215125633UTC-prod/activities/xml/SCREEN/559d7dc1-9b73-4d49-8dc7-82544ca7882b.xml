@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="9b51b1a3-03d6-4ef1-81d4-5a14442f1df3">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="754b8fb6-73da-427d-b348-4db1630b9954">
+    <STATIC_heading>
+  <headingLevel value="subheadingc"/>
+  <text>&lt;span style="color:#425BA1;"&gt;&lt;strong&gt;CASE STUDY: TARGETED THERAPY FOR LUNG CANCER&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d552855e-cf74-4208-ac9c-d38fe407aeae">
+    <STATIC_text-figure>
+  <image>chp00012_u012-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;In 2008, Sarah Broom was a 35-year-old literature instructor and poet living in New Zealand. Married with two young sons, she was pregnant with her third child when she noticed shortness of breath accompanied by a persistent cough. An x-ray of her lungs during her 7th month of pregnancy showed a large mass in one lung. After a cesarean section (her daughter was born safely), she had a biopsy and other tests, which revealed NSCLC-advanced lung cancer. Sarah was a nonsmoker.&lt;/p&gt;&lt;p&gt;The doctors in New Zealand told her that her care would be palliative and that she had only a few months to live.&lt;/p&gt;&lt;p&gt;Sarah was desperate to explore every option, and through a personal connection, she sent her biopsy slides to the MGH Cancer Center in Boston. The slides were analyzed using cutting edge technology, and her tumor was found to have a mutation called EML4-ALK, which occurs in only 5% of lung cancers. The doctors at MGH knew of a new drug called crizotinib that was being evaluated to treat lung cancers with this specific mutation. Finding a specific mutation in a tumor and targeting that mutation with particular drug is a cutting edge approach to cancer treatment.&lt;/p&gt;&lt;p&gt;Sarah was given the new drug—and her tumors shrunk! She was in remission for over 2 years. In 2010, the tumors returned, and Sarah traveled back to Boston for further drug treatment, which was not successful. She developed brain metastases.&lt;/p&gt;&lt;p&gt;Her doctors in Boston knew of one more targeted therapy drug called ceritinib that was still in clinical trials and therefore would not be available for patients. However, through coordinated and persistent efforts, the pharmaceutical company (Novartis) allowed her advance, compassionate access to the drug, and it worked for 2 years! Because it was seen that this drug was effective against lung cancer in patients with relapsed disease, the FDA has now given the drug rapid approval.&lt;/p&gt;&lt;p&gt;In April 2013, Sarah lost her battle with lung cancer. But her case serves as an example of the importance of exploring all options and remaining open to new cancer treatments, such as targeted therapy.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="4cec6c7d-3d53-4215-b4c9-33a158a4647d">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;strong&gt;&lt;span style="color:#425BA1;"&gt;CASE REPORT&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f31c3073-4555-4abb-87c6-5342a4747d7d">
+    <STATIC_text>
+  <text>&lt;p&gt;A 22-year-old man who was a known heroin abuser was admitted to an emergency department comatose, with shallow respirations. Routine laboratory studies and chest x-ray studies were done after the patient was aroused. He was then transferred to the ICU. He complained of left-sided chest pain. Examination of the chest film showed three fractured ribs on the right and a large right pleural effusion. Further questioning of a friend revealed that he had fallen and struck the corner of a table after injecting heroin.&lt;/p&gt;&lt;p&gt;The diagnosis was traumatic hemothorax secondary to rib fractures, and a chest tube was inserted into the right pleural space. No blood could be obtained despite maneuvering of the tube. Another chest x-ray showed that the tube was correctly placed in the right pleural space, but the fractured ribs and pleural effusion were on the left. The radiologist then realized that he had reversed the first film. A second tube was inserted into the left pleural space, and 1500 mL [6 to 7 cups] of blood was evacuated.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="26946272-c860-4a53-8e05-c68410bcc56e">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;strong&gt;&lt;span style="color:#425BA1;"&gt;X-RAY AND BRONCHOSCOPY REPORTS&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="89a724a7-2212-4122-bd99-53911d9cd726">
+    <STATIC_text>
+  <text>&lt;ol&gt;&lt;li&gt;&lt;em&gt;CXR&lt;/em&gt; : Complete opacification of left hemithorax with deviation of mediastinal structures of right side. Massive pleural effusion.&lt;/li&gt;&lt;li&gt;&lt;em&gt;Chest tomograms &lt;/em&gt;: Mass most compatible with LUL bronchogenic carcinoma. Possible left paratracheal adenopathy or direct involvement of mediastinum.&lt;/li&gt;&lt;li&gt;&lt;em&gt;Bronchoscopy&lt;/em&gt; : Larynx, trachea, &lt;strong&gt;carina &lt;/strong&gt;[area of bifurcation or forking of the trachea], and left lung all within normal limits. On the right side there was irregularity and roughening of the bronchial mucosa on the lateral aspect of the bronchial wall. This irregularity extended into the RUL, and the apical and posterior segments [divisions of lobes of the lung] each contained inflamed irregular mucosa. Conclusion: Suspicious for infiltrating tumor, but may be nonspecific inflammation. Bronchial washings, brushings, and bxs [biopsies] taken. Bronchial biopsy diagnosis: squamous cell carcinoma. Washings and brushings showed no malignant cells.&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

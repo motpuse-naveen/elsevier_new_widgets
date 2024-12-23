@@ -1,0 +1,108 @@
+<script type="text/template" id="screeneditor-template">
+	<div id="<%=id%>" xmlns:epub="http://www.idpf.org/2007/ops"
+	<% if (isScoredScreen) { %> data-activityId="<%=id%>" epub:type="assessment" <% } %> class="screen">
+		<div class="screengrid">
+			<header class="screen__margin screen__header u-hide-element vstdonthighlight">
+				<% if (showScreenHeader) { %>
+					<div class="screen__heading u-float--clearfix">
+						<div class="screen__icon u-float--left"></div>
+						<h2 class="screen__title" tabindex="-1"></h2>
+					</div>
+				<% } %>
+
+				<div class="screen__instructions"></div>
+			</header>
+		</div>
+		<% if (!isPrerendering) { %>
+			<div class="editor-layout">
+		<% } %>
+			<div class="screen__content">
+				<% if (!isPrerendering) { %>
+					<div class="u-hidden split-screen-icon" />
+					<div class="u-hidden insert-add-icon" />
+					<div class="drag-proxy">
+						Drag to move Block
+					</div>
+					<div class="add-block-btn"<%=itu.dirltr()%>>
+						<span class="add-block-icon"></span>Add Block
+					</div>
+					<button class="goto-top-btn" tabindex="-1" title="Go to top of Block"></button>
+					<div class="block-toolbar">
+						<div class="toolbar">
+							<button class="move-btn" title="Drag the Block to a new location"></button>
+							<span class="block-label" title="Block type"></span>
+							<button class="edit-btn" title="Edit the Block content">Edit</button>
+							<button class="done-btn hidden" title="Back to content view">Done</button>
+							<button class="duplicate-block-btn" title="Duplicate this Block"></button>
+							<% if (flagsEnabled) { %>
+								<button class="flags-btn" title="View flags for this Block"></button>
+							<% } %>
+							<button class="delete-btn" title="Delete this Block"></button>
+						</div>
+					</div>
+					<div class="flags-holder" />
+				<% } %>
+			</div>
+		<% if (!isPrerendering) { %>
+			</div>
+		<% } %>
+		<div class="screengrid">
+			<footer class="screen__margin screen__footer u-hide-element vstdonthighlight">
+				<div class="feedback">
+					<div class="feedback__content js-feedback-focus" tabindex="-1"></div>
+				</div>
+				<div class="control-btns"></div>
+			</footer>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="screen-insert-toolbar-template">
+	<div class="insert-container">
+		<div class="insert-indicator">
+			<div class="insert-line">
+				<button class="split-screen-btn" title="Insert Screen Break"><span class="split-screen-icon"></span></button>
+				<button class="insert-block-text insert-line-text"><span class="insert-add-icon" /><span class="insert-add-text">Add Block</span></button>
+				<div class="split-screen-text insert-line-text">Insert Screen Break</div>
+			</div>
+		</div>
+		<div class="move-indicator">
+			<div class="move-box"></div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="screen-block-edit-template">
+	<%
+		var blockClasses = "block";
+		if (!info.editable && !isPrerendering) {
+			blockClasses += " not-editable";
+		}
+	%>
+	<div class="<%=blockClasses%>">
+		<div id="<%= id %>" class="block-content"></div>
+		<% if (!isPrerendering) { %>
+			<div class="flag-indicator"></div>
+			<div class="spinner-container"><div class="spinner"/></div>
+		<% } %>
+	</div>
+</script>
+
+
+<script type="text/template" id="screen-block-gap-template">
+	<div class = "gap">
+	</div>
+</script>
+
+<script type="text/template" id="screen-block-editor-template">
+	<div class="editor-holder"></div>
+</script>
+
+
+<script type="text/template" id="screen-text-confirm-block-delete">
+	<p>Delete this Block?</p>
+</script>
+
+<script type="text/template" id="screen-text-confirm-split-template">
+	<p>The content below the break will be moved to a new screen.</p>
+</script>

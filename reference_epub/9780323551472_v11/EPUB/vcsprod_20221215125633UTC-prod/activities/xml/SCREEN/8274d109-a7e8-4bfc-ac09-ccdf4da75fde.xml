@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="f18c8d81-c44a-44e7-96f1-a3321d535460">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY OF THE SKIN&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5d93d3f6-337f-4b5a-9618-7d7d06073d45">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 16-1A shows three layers of the skin. Label them from the outer surface inward:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Epidermis&lt;/strong&gt; [1]—a thin, cellular membrane layer; containing keratin&lt;br/&gt;&lt;strong&gt;Dermis&lt;/strong&gt; [2]—dense, fibrous, connective tissue layer; containing collagen&lt;br/&gt;&lt;strong&gt;Subcutaneous layer&lt;/strong&gt; [3]—thick, fat-containing tissue&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b5880683-e5c9-4892-9042-e27185a3e984">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00016_f016-001-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-1 &lt;/span&gt;Skin. A, Three layers of the skin. B, Epidermis&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[epidermis]&lt;/li&gt;&lt;li&gt;[dermis]&lt;/li&gt;&lt;li&gt;[subcutaneous layer]&lt;/li&gt;&lt;li&gt;[basal layer]&lt;/li&gt;&lt;li&gt;[stratum corneum]&lt;/li&gt;&lt;li&gt;[melanocytes]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="7be8b5e8-a648-4de7-b55b-77e3872cdf9c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;EPIDERMIS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e72a769a-3afc-4f1b-a149-94e561ae409a">
+    <STATIC_text>
+  <text>&lt;p&gt;The epidermis is the outermost totally cellular layer of the skin. It is composed of &lt;strong&gt;squamous epithelium&lt;/strong&gt;. Epithelium is the covering of both the internal and the external surfaces of the body. Squamous epithelial cells are flat and scale-like. In the outer layer of the skin, these cells are arranged in several layers &lt;strong&gt;(strata)&lt;/strong&gt; to form &lt;strong&gt;stratified squamous epithelium&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;The epidermis lacks blood vessels, lymphatic vessels, and connective tissue (elastic fibers, cartilage, fat) and is therefore dependent on the deeper dermis layer and its rich network of capillaries for nourishment. In fact, oxygen and nutrients seep out of the capillaries in the dermis, pass through tissue fluid, and supply nourishment to the lower layers of the epidermis.&lt;/p&gt;&lt;p&gt;Figure 16-1B illustrates the multilayered cells of the epidermis. The deepest layer is called the &lt;strong&gt;basal layer&lt;/strong&gt; [4]. The cells in the basal layer are constantly growing and multiplying and are the source of all the other cells in the epidermis. As the basal layer cells divide, they are pushed upward and away from the blood supply of the dermal layer by a steady stream of younger cells. In their movement toward the most superficial layer of the epidermis, called the &lt;strong&gt;stratum corneum&lt;/strong&gt; [5], the cells flatten, shrink, lose their nuclei, and die, becoming filled with a hard protein material called &lt;strong&gt;keratin&lt;/strong&gt;. The cells are then called keratinocytes, reflecting their composition of keratin. Finally, within 3 to 4 weeks after beginning as a basal cell in the deepest part of the epidermis, the keratinized cell is sloughed off from the surface of the skin. The epidermis is thus constantly renewing itself, with cells dying at the same rate at which they are replaced. This process slows with age.&lt;/p&gt;&lt;p&gt;The basal layer of the epidermis contains special cells called &lt;strong&gt;melanocytes&lt;/strong&gt; [6]. Melanocytes contain a pigment called &lt;strong&gt;melanin&lt;/strong&gt; that is transferred to other epidermal cells and gives color to the skin.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; The number of melanocytes in all human races is the same, but the amount of melanin within each cell accounts for the color differences among the races. Individuals with darker skin possess more melanin within the melanocytes, not a greater number of melanocytes. Individuals who are incapable of forming melanin have a condition called &lt;strong&gt;albinism&lt;/strong&gt;. Skin and hair are white. In albinism, eye color varies, ranging from red to blue to brown, depending on the amount of melanin present in the iris (pigmented portion of the eye). Occulocutaneous albinism affects eyes, skin, and hair, whereas ocular albinism affects the eyes only.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f0f2af54-675e-43a5-b09c-cfa6988f39aa">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Types of Melanin : Eumelanin and Pheomelanin&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eumelanin&lt;/strong&gt; (eu- = true) is more common and is a brown-black pigment. &lt;strong&gt;Pheomelanin&lt;/strong&gt; (pheo- = dusky) is a red-yellow pigment. People with darker skin have more eumelanin, whereas people with lighter skin have more pheomelanin. Pheomelanin doesn’t protect the skin from damaging ultraviolet rays and makes lighter-skinned people, and especially redheads, more susceptible to skin cancer.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="91140190-7aa6-4133-bf4b-ade0f8455f10">
+    <STATIC_text>
+  <text>&lt;p&gt;Melanin production increases with exposure to strong ultraviolet light, and this creates a suntan, which is a protective response. When the melanin cannot absorb all of the ultraviolet rays, the skin becomes sunburned and inflamed (redness, swelling, and pain). Over a period of years, excessive exposure to sun tends to cause wrinkles, permanent pigmentary changes, and even cancer of the skin. Because dark-skinned people have more melanin, they acquire fewer wrinkles and they are less likely to develop the types of skin cancer that are associated with ultraviolet light exposure.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b87a7440-06eb-4f88-8fdb-6300980902e9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;DERMIS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a3fc5423-acf0-46c8-917b-374697cd68b8">
+    <STATIC_text>
+  <text>&lt;p&gt;The dermis, directly below the epidermis, is composed of blood vessels and lymph and nerve fibers, as well as the accessory organs of the skin, which are the hair follicles, sweat glands, and sebaceous glands. To support the elaborate system of nerves, vessels, and glands, the dermis contains connective tissue cells and fibers that account for the extensibility and elasticity of the skin.&lt;/p&gt;&lt;p&gt;The dermis is composed of interwoven &lt;strong&gt;elastin&lt;/strong&gt; (protein that is elastic and helps skin to return to its original position when pinched or poked) and &lt;strong&gt;collagen&lt;/strong&gt; fibers. Collagen (&lt;strong&gt;colla&lt;/strong&gt; = glue) is a fibrous protein material found in bone, cartilage, tendons, and ligaments, as well as in the skin. It is tough and resistant but also flexible. In the infant, collagen is loose and delicate; it becomes harder as the body ages. During pregnancy, overstretching of the skin with weight gain may break the elastin fibers, resulting in linear markings called &lt;strong&gt;striae&lt;/strong&gt; (“stretch marks”) on the woman’s abdomen and elsewhere. Collagen fibers support and protect the blood and nerve networks that pass through the dermis. Collagen diseases affect connective tissues of the body. An example of a connective tissue collagen disorder is scleroderma.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="72aedb6e-1be0-40e1-8589-8b3bd83e4d64">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUBCUTANEOUS LAYER&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="425e4487-a5e3-4495-85a7-0d64adb9ae55">
+    <STATIC_text>
+  <text>&lt;p&gt;The subcutaneous layer (epidermis and dermis are the cutaneous layers) specializes in the formation of fat. &lt;strong&gt;Adipocytes&lt;/strong&gt; (fat cells) are predominant in the subcutaneous layer, and they manufacture and store large quantities of fat. Fat deposition varies in different areas of the body and among individual people. Functionally, this layer of the skin is important in protection of the deeper tissues of the body, as a heat insulator, and for energy storage.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

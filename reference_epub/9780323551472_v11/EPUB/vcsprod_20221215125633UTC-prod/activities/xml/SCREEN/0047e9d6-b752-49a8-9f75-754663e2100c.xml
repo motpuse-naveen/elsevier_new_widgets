@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c241b22a-06bb-49f1-8434-ff75d4148a7e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;JOINTS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="033737cf-ed97-45fd-9436-d3b128bbc64c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TYPES OF JOINTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2587e589-b830-4f22-a256-5e60889ba2f6">
+    <STATIC_text>
+  <text>&lt;p&gt;A &lt;strong&gt;joint (articulation)&lt;/strong&gt; is a coming together of two or more bones. Some joints are immovable, such as the &lt;strong&gt;suture joints&lt;/strong&gt; between the skull bones. Other joints, such as those between the vertebrae, are partially movable. Most joints, however, allow considerable movement. These freely movable joints are called&lt;strong&gt; synovial joints&lt;/strong&gt;. Examples of synovial joints are the balland- socket type (the hip and shoulder joints) and the hinge type (elbow, knee, and ankle joints). Label the structures in Figure 15-19 as you read about a synovial joint.&lt;/p&gt;&lt;p&gt;The bones in a synovial joint are surrounded by a&lt;strong&gt; joint capsule&lt;/strong&gt; [1] composed of fibrous tissue. &lt;strong&gt;Ligaments &lt;/strong&gt;(thickened fibrous bands of connective tissue) anchor one bone to another and thereby add considerable strength to the joint capsule in critical areas. Bones at the joint are covered with a smooth, glistening white tissue called the &lt;strong&gt;articular cartilage&lt;/strong&gt; [2]. The &lt;strong&gt;synovial membrane&lt;/strong&gt; [3] lies under the joint capsule and lines the &lt;strong&gt;synovial cavity &lt;/strong&gt;[4] between the bones. The synovial cavity is filled with a special lubricating fluid produced by the synovial membrane. This &lt;strong&gt;synovial fluid&lt;/strong&gt; contains water and nutrients that nourish articular cartilage so that friction is minimal, allowing joints to move smoothly.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;meniscus &lt;/strong&gt;is a crescent-shaped fibrocartilaginous structure that partly divides a joint cavity and acts as a protective cushion. It helps to evenly transfer weight from one bone to another. Menisci are present in a few joints in the body, but the most well known are in the knee (see Figure 15-20).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f506517c-2957-431d-be18-f879e5e6845d">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00015_f015-019-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="1-2-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-19&lt;/span&gt; Structure of a synovial joint.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[joint capsule]&lt;/li&gt;&lt;li&gt;[articular cartilage]&lt;/li&gt;&lt;li&gt;[synovial membrane]&lt;/li&gt;&lt;li&gt;[synovial cavity]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="1e571b28-434e-4794-b82f-85086daa3cc3">
+    <STATIC_figure>
+  <image>chp00015_f015-020-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 15-20&lt;/strong&gt; &lt;/span&gt;&lt;strong&gt;A, Sagittal (lateral) section of the knee showing the medial meniscus&lt;/strong&gt; (plural menisci), and bursae. A “torn cartilage” in the knee is a damaged meniscus and is frequently treated with arthroscopic surgery. &lt;strong&gt;B, Frontal section of the knee. &lt;/strong&gt;Notice the &lt;strong&gt;anterior cruciate ligament (ACL),&lt;/strong&gt; which may be damaged (“torn ligament”) with knee injury. Reconstruction of the ACL can require extensive surgery, and months of physical therapy may be required before return of normal function. See the case study on page 590.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2af5e77d-5219-4c23-bb07-230bac3d5588">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;BURSAE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9f2966d8-0777-42ed-9795-efea4dfbd07e">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Bursae &lt;/strong&gt;(singular: &lt;strong&gt;bursa&lt;/strong&gt;) are closed sacs of synovial fluid lined with a synovial membrane and are located near but not within a joint. Bursae are present wherever two types of tissue need to slide past one another with as little friction as possible. Bursae serve as layers of lubrication between tissues. Common sites are between &lt;strong&gt;tendons &lt;/strong&gt;and bones, between &lt;strong&gt;ligaments&lt;/strong&gt; and bones, and between skin and bones in areas where bony anatomy is prominent.&lt;/p&gt;&lt;p&gt;Some common locations of bursae are at the elbow joint (olecranon bursa), knee joint (prepatellar bursa), and shoulder joint (subacromial bursa). Figure 15-20A shows a lateral view of the knee joint with bursae. Figure 15-20B is a frontal (anterior/posterior) view of the knee showing ligaments that provide stability for the joint.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="8fbddbe7-12db-4646-91b3-467a2190c7c4">
+    <STATIC_text>
+  <text>&lt;p&gt;THE LANGUAGE OF MEDICINE, TWELFTH EDITION&lt;br/&gt;&lt;span style="font-family:source code pro,monospace;"&gt;ISBN: 978-0-323-55147-2&lt;/span&gt;&lt;br/&gt;&lt;strong&gt;Copyright © 2021, Elsevier Inc. All rights reserved.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage and retrieval system, without permission in writing from the publisher. Details on how to seek permission, further information about the Publisher’s permissions policies and our arrangements with organizations such as the Copyright Clearance Center and the Copyright Licensing Agency, can be found at our website: &lt;a href="www.elsevier.com/permissions"&gt;www.elsevier.com/permissions&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This book and the individual contributions contained in it are protected under copyright by the Publisher (other than as may be noted herein).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d100c61e-6848-4e8f-949a-9dde2823d62b">
+    <STATIC_container>
+  <text>&lt;p style="text-align: center;"&gt;&lt;strong&gt;Notice&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Practitioners and researchers must always rely on their own experience and knowledge in evaluating and using any information, methods, compounds or experiments described herein. Because of rapid advances in the medical sciences, in particular, independent verification of diagnoses and drug dosages should be made. To the fullest extent of the law, no responsibility is assumed by Elsevier, authors, editors or contributors for any injury and/or damage to persons or property as a matter of products liability, negligence or otherwise, or from any use or operation of any methods, products, instructions, or ideas contained in the material herein.&lt;/p&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+  <block refid="ce71cfbb-38a6-487a-b179-5fe7aff7df0f">
+    <STATIC_text>
+  <text>&lt;p&gt;Previous editions copyrighted 2017, 2014, 2011, 2007, 2004, 2001, 1996, 1991, 1985, 1981, and 1976.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Library of Congress Control Number: 2020932476&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="db75521c-f2a3-4f85-9b77-903f44271f19">
+    <STATIC_text-figure>
+  <image>page_002_01.png</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;em&gt;Senior Content Strategist: &lt;/em&gt;Linda Woodard &lt;br/&gt;&lt;em&gt;Senior Content Development Manager: &lt;/em&gt;Luke Held &lt;br/&gt;&lt;em&gt;Publishing Services Manager: &lt;/em&gt;Julie Eddy &lt;br/&gt;&lt;em&gt;Senior Project Manager: &lt;/em&gt;Abigail Bradberry &lt;br/&gt;&lt;em&gt;Design Direction: &lt;/em&gt;Amy Buxton&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+</blocks>

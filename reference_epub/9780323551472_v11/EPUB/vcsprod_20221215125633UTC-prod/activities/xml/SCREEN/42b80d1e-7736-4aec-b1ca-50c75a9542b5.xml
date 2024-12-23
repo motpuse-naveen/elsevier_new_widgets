@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b150a469-ef59-4e40-bdeb-d2cd5caf7c3a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;GRADING AND STAGING SYSTEMS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fd0f795f-675d-48a8-ad5d-758b6fd75779">
+    <STATIC_text>
+  <text>&lt;p&gt;In grading and staging systems, doctors classify tumors on the basis of &lt;strong&gt;microscopic appearance (grade) &lt;/strong&gt;and the &lt;strong&gt;extent of spread (stage)&lt;/strong&gt;. These two properties influence the diagnosis, treatment, and prognosis for cancer patients.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8673ce92-184b-44ec-9968-361ee61d18f6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;GRADING&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9273d191-8190-4f87-af84-b88a0a9d7d9f">
+    <STATIC_text>
+  <text>&lt;p&gt;When &lt;strong&gt;grading&lt;/strong&gt; a tumor, the pathologist is concerned with the microscopic appearance of the tumor cells, specifically with their degree of maturity and differentiation. Often, three or four grades are used. &lt;strong&gt;Grade I&lt;/strong&gt; tumors are very well differentiated, so that they closely resemble normal cells. &lt;strong&gt;Grade IV&lt;/strong&gt; tumors are so undifferentiated or anaplastic that even recognition of the tumor’s tissue of origin may be difficult. &lt;strong&gt;Grades II &lt;/strong&gt;and&lt;strong&gt; III&lt;/strong&gt; are intermediate in appearance, moderately or poorly differentiated, as opposed to well differentiated (grade I) and undifferentiated (grade IV).&lt;/p&gt;&lt;p&gt;Grading often is of value in determining the prognosis for certain types of cancers, such as cancer of the urinary bladder, prostate gland, and ovary and brain tumors. Patients with grade I tumors have a high survival rate, and patients with grade II, III, and IV tumors have an increasingly poorer survival rate. Grading also is used in evaluating cells obtained from body fluids in preventive screening tests, such as &lt;strong&gt;Papanicolaou (Pap) smears&lt;/strong&gt; of the uterine cervix.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6de59839-fafe-4a20-bc9c-cbba817a595c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;STAGING&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="575a5e5b-ec70-4818-b302-114078c59d25">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;staging &lt;/strong&gt;of cancerous tumors is based on the extent of spread of the tumor. It relies on careful definition of the size and possible metastatic spread of the tumor, using computed tomography (CT), combination positron emission tomography (PET-CT), and magnetic resonance imaging (MRI) scans and radionuclide (radioactive) bone scans. See Figure 19-14, page 774, for a PET-CT scan showing lymph node metastases. An example of a staging system is the &lt;strong&gt;tumor-node-metastasis (TNM) International Staging System.&lt;/strong&gt; It has been applied to malignancies such as lung and breast cancer, as well as to many other tumors.&lt;/p&gt;&lt;p&gt;Notations in a staging system are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;T = tumor&lt;/strong&gt; (size and degree of local extension)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;N = nodes&lt;/strong&gt; (number of regional lymph nodes invaded by tumor cells)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;M = metastases &lt;/strong&gt;(spread of tumor cells to distant sites)&lt;/p&gt;&lt;p&gt;Stage groupings I-IV indicate tumor progression. Thus a stage II group may be designated as T2, N1, M0. Stage IV group indicates any T, any N, and distant metastases.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

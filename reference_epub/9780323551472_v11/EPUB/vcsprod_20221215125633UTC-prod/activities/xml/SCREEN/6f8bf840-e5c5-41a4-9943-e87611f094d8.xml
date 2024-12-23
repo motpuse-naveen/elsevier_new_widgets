@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e67eecfa-2cc5-4233-bc12-1fa7351c180d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL PROCEDURES—THE EAR&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d08a2830-0c4e-4662-8057-8ce740d0fcce">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;audiometry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Testing the sense of hearing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;audiometer &lt;/strong&gt;is an electrical device that delivers acoustic stimuli of specific frequencies and decibels (loudness) to determine a patient’s hearing level for each frequency (Figure 17-26A). Results are shown on a chart or &lt;strong&gt;audiogram &lt;/strong&gt;(Figure 17-26B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cochlear implant procedure&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical insertion of a device that allows sensorineural hearing–impaired persons to understand speech.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Electrical signals are sent directly into the auditory nerve by means of multiple electrodes inserted into the cochlea. An external microphone and speech processor pick up sound signals and convert them to electrical impulses (Figure 17-27A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ear thermometry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of the temperature of the tympanic membrane by detection of infrared radiation from the eardrum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A device is inserted into the auditory canal, and results, which reflect the body’s temperature, are obtained within 2 seconds.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;otoscopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Visual examination of the ear canal with an otoscope &lt;/strong&gt;(see Figure 17-27B).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;tuning fork test&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test of ear conduction using a vibration source (tuning fork).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;To perform the &lt;strong&gt;Rinne test&lt;/strong&gt;, the examiner places the base of the vibrating fork against the patient’s mastoid bone (bone conduction) and in front of the auditory meatus (air conduction). In the &lt;strong&gt;Weber test&lt;/strong&gt;, the tuning fork is placed on the center of the forehead. The perceived loudness of sound is the same in both ears if hearing is normal.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="124fb211-e335-465b-b052-ed3afa70de15">
+    <STATIC_figure>
+  <image>chp00017_f017-026-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-26 &lt;/span&gt;A, Pure-tone audiometer. B, Audiogram&lt;/strong&gt; for a person with normal hearing in the left ear only for low frequencies (pitch). Notice the &lt;em&gt;blue line &lt;/em&gt;sloping downward, showing severe high-frequency hearing loss in the left ear. There is moderate to severe hearing loss in the right ear. The decibel (dB) level of the softest sound you are able to hear is called your threshold. Thresholds of 0 to 25 dB ( &lt;em&gt;yellow area &lt;/em&gt;) are considered normal (for adults). &lt;em&gt;( &lt;strong&gt;A&lt;/strong&gt;, Courtesy Maico, Inc., Minneapolis, Minnesota. In Ignatavicius DD, Workman ML: Medical-Surgical Nursing: Critical Thinking for Collaborative Care, 5th ed., Philadelphia, Saunders, 2005, p. 1120.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="31b8f429-af97-429a-8b42-0647c98b2e1a">
+    <STATIC_figure>
+  <image>chp00017_f017-027-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-27 &lt;/span&gt;A, Cochlear implant.&lt;/strong&gt; (1). Microphone receives sound. (2). Speech processor converts sounds into digital signals. (3). Signals are sent to a transmitter that relays them to an implant, where they are converted to electrical impulses. (4). Impulses are sent to electrodes that stimulate nerve cells in the cochlea, which sends them to the auditory nerve and brain. &lt;strong&gt;B, Otoscopic examination&lt;/strong&gt;. The auricle is pulled up and back. The examiner’s hand holding the otoscope is braced against the patient’s face for stabilization.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

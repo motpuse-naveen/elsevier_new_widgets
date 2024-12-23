@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d0d0c058-bef0-4748-9fc0-3229c0776ac8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;WORD ANALYSIS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d3607f8a-1a6c-4dd5-bbd0-9580b2054a33">
+    <STATIC_text>
+  <text>&lt;p&gt;Studying medical terminology is very similar to learning a new language. At first, the words seem strange and complicated, although they may stand for commonly known disorders and terms. For example, &lt;strong&gt;cephalgia&lt;/strong&gt; means “headache,” and an &lt;strong&gt;ophthalmologist&lt;/strong&gt; is an “eye doctor.”&lt;/p&gt;&lt;p&gt;Your first job in learning the language of medicine is to understand how to divide words into their component parts. Logically, most terms, whether complex or simple, can be broken down into basic parts and then understood. For example, consider the following term, which is divided into three parts:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b2280e22-c31c-4071-b6dd-3bac29097e6f">
+    <STATIC_figure>
+  <image>chp00001_u001-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ca65c850-cef4-4397-8b58-3a08904442be">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;root&lt;/strong&gt; is the &lt;em&gt;foundation of the word &lt;/em&gt;. All medical terms have one or more roots. For example, the root &lt;strong&gt;hemat&lt;/strong&gt; means &lt;strong&gt;blood&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;suffix&lt;/strong&gt; is the &lt;em&gt;word ending &lt;/em&gt;. All medical terms have a suffix. The suffix &lt;strong&gt;-logy&lt;/strong&gt; means &lt;strong&gt;process of study.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;combining vowel&lt;/strong&gt;—usually &lt;strong&gt;o&lt;/strong&gt;, as in this term—&lt;em&gt;links the root to the suffix or the root to another root. &lt;/em&gt;A combining vowel has no meaning of its own; it joins one word part to another.&lt;/p&gt;&lt;p&gt;It is useful to read the meaning of medical terms &lt;em&gt;starting from the suffix and then going back to the beginning of the term. &lt;/em&gt;Thus, the term &lt;strong&gt;hematology&lt;/strong&gt; means &lt;strong&gt;process of study of blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Here is another familiar medical term:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="81ec7e66-6d96-42ff-849d-c1b8e136c2c2">
+    <STATIC_figure>
+  <image>chp00001_u001-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="dcbeccef-0957-43c0-8b67-45ecf29316ac">
+    <STATIC_text>
+  <text>&lt;p&gt;Electrocardiogram, reading from the suffix back to the beginning of the term, means &lt;strong&gt;record of the electricity in the heart.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Notice that there are two combining vowels—both &lt;strong&gt;o&lt;/strong&gt; —in this term. The first o links the two roots &lt;strong&gt;electr&lt;/strong&gt; and &lt;strong&gt;cardi&lt;/strong&gt;; the second o links the root &lt;strong&gt;cardi&lt;/strong&gt; and the suffix &lt;strong&gt;-gram.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Try another term:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="42e80cc7-5c86-44f8-9da6-81e016939b0d">
+    <STATIC_figure>
+  <image>chp00001_u001-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3d0d1cd0-6d06-47f9-b0a3-41b2e59d7a24">
+    <STATIC_text>
+  <text>&lt;p&gt;Gastritis, reading from the end of the term (suffix) to the beginning, means &lt;strong&gt;inflammation of the stomach.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Notice that the combining vowel, o, is missing in this term. This is because the suffix, &lt;strong&gt;-itis,&lt;/strong&gt; begins with a vowel. The combining vowel is dropped before a suffix that begins with a vowel. It is retained, however, between two roots, even if the second root begins with a vowel.&lt;/p&gt;&lt;p&gt;Consider the following term:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f2316272-c602-4977-9c8e-c4a747e15bd5">
+    <STATIC_figure>
+  <image>chp00001_u001-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="777288ab-766a-4353-bd63-36f79bcdee42">
+    <STATIC_text>
+  <text>&lt;p&gt;The entire term means &lt;strong&gt;process of study of the stomach and intestines.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Notice that the combining vowel is retained between &lt;strong&gt;gastr&lt;/strong&gt; and &lt;strong&gt;enter&lt;/strong&gt;, even though the second root, &lt;strong&gt;enter&lt;/strong&gt;, begins with a vowel. When a term contains two or more roots related to parts of the body, anatomic position often determines which root goes before the other. For example, the stomach receives food first, before the small intestine—so the word is formed as &lt;strong&gt;gastroenterology,&lt;/strong&gt; not “enterogastrology.”&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="be2661b0-f8fa-4206-b8d3-255b569c4021">
+    <STATIC_container>
+  <text>&lt;p&gt;In summary, remember &lt;strong&gt;three general rules: &lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;READ&lt;/strong&gt; the meaning of medical terms from the suffix back to the beginning of the term and across.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;DROP&lt;/strong&gt; the combining vowel (usually o) before a suffix beginning with a vowel: &lt;strong&gt;gastritis&lt;/strong&gt;, &lt;em&gt;not &lt;/em&gt;“gastroitis.”&lt;/li&gt;&lt;li&gt;&lt;strong&gt;KEEP&lt;/strong&gt; the combining vowel between two roots: &lt;strong&gt;gastroenterology&lt;/strong&gt;, &lt;em&gt;not &lt;/em&gt;“gastrenterology.”&lt;/li&gt;&lt;/ol&gt;</text>
+  <bgColor value="e6f4f7"/>
+</STATIC_container>
+  </block>
+  <block refid="36b20292-d0c3-48ed-8d80-b04687248d4f">
+    <STATIC_text>
+  <text>&lt;p&gt;In addition to the root, suffix, and combining vowel, two other word parts are commonly found in medical terms. These are the &lt;strong&gt;combining form&lt;/strong&gt; and the &lt;strong&gt;prefix&lt;/strong&gt;. The combining form is simply the root plus the combining vowel. For example, you already are familiar with the following combining forms and their meanings:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="41ae4cce-8b2f-48f3-9140-0b2b81522ed3">
+    <STATIC_figure>
+  <image>chp00001_u001-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="22195e32-cc7a-4439-9d7f-6f9d758d736e">
+    <STATIC_text>
+  <text>&lt;p&gt;Combining forms are used with many different suffixes. Remembering the meaning of a combining form will help you understand unfamiliar medical terms.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;prefix&lt;/strong&gt; is a small part attached to the &lt;em&gt;beginning &lt;/em&gt;of a term. Not all medical terms contain prefixes, but the prefix can have an important influence on the meaning. Consider the following examples:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="236caf87-f293-49af-975b-58bdad8adaed">
+    <STATIC_figure>
+  <image>chp00001_u001-006-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="off"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="beb048d5-1226-4478-9098-7d31d883eb8a">
+    <STATIC_container>
+  <text>&lt;p&gt;In summary, the &lt;strong&gt;important elements of medical terms&lt;/strong&gt; are the following:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;ROOT:&lt;/strong&gt; foundation of the term&lt;/li&gt;&lt;li&gt;&lt;strong&gt;SUFFIX:&lt;/strong&gt; word ending&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PREFIX:&lt;/strong&gt; word beginning&lt;/li&gt;&lt;li&gt;&lt;strong&gt;COMBINING VOWEL:&lt;/strong&gt; vowel (usually o) that links the root to the suffix or the root to another root&lt;/li&gt;&lt;li&gt;&lt;strong&gt;COMBINING FORM:&lt;/strong&gt; combination of the root and the combining vowel&lt;/li&gt;&lt;/ol&gt;</text>
+  <bgColor value="e6f4f7"/>
+</STATIC_container>
+  </block>
+</blocks>

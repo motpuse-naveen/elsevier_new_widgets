@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="8c22607c-86d0-4515-b1b3-f4b8d426c837">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="329fa4b2-5972-40bc-8801-2a11fb8f4304">
+    <STATIC_text>
+  <text>&lt;p&gt;We usually think of &lt;strong&gt;respiration &lt;/strong&gt;as the mechanical process of breathing, the exchange of air between the lungs and the external environment. This exchange of air at the lungs is called &lt;strong&gt;external respiration&lt;/strong&gt;. During &lt;strong&gt;inhalation&lt;/strong&gt;, oxygen passes from the environment (inhaled air contains about 21%) into the lung air sacs and blood capillaries of lungs. Simultaneously, during &lt;strong&gt;exhalation&lt;/strong&gt; carbon dioxide, a gas waste product produced when oxygen and food combine in cells, passes from the capillary blood vessels into the air sacs of the lungs to be exhaled.&lt;/p&gt;&lt;p&gt;Whereas external respiration occurs between the outside environment and the capillary blood of the lungs, another form of respiration occurs between the individual body cells and the tiny capillary blood vessels that surround them. This is &lt;strong&gt;internal (cellular) respiration&lt;/strong&gt;, which involves an exchange of gases at the level of the cells within all organs of the body. Here, oxygen passes out of the tissue capillaries into body cells. At the same time, carbon dioxide passes from body cells into the tissue capillaries to travel to the lungs for exhalation. See Figure 12-1.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f1124e85-d038-4c5a-b47d-5872fffc520c">
+    <STATIC_figure>
+  <image>chp00012_f012-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-1&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

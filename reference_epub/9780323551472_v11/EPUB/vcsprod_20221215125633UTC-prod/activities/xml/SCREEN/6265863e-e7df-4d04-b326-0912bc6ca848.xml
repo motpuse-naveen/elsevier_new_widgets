@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a2f9f898-a9b9-4078-8acf-e9eaddca7a7d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLASSIFICATION OF CANCEROUS TUMORS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e48857bc-e2c5-4b2b-91e1-c8fda684e518">
+    <STATIC_text>
+  <text>&lt;p&gt;Almost one half of all cancer deaths are caused by malignancies that originate in lung, breast, or colon; however, in all there are more than 100 distinct types of cancer, each having a unique set of symptoms and requiring a specific type of therapy. It is possible to divide these types of cancer into three broad groups on the basis of &lt;strong&gt;histogenesis &lt;/strong&gt;—that is, by identifying the particular type of tissue &lt;strong&gt;(hist/o)&lt;/strong&gt; from which the tumor cells arise &lt;strong&gt;(- genesis)&lt;/strong&gt;. These major groups are &lt;strong&gt;carcinomas, sarcomas, &lt;/strong&gt;and&lt;strong&gt; mixed-tissue tumors.&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c82cc71c-0db2-40eb-888c-fd15994e3d74">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CARCINOMAS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c3470b6f-1087-41d4-804d-008e5fceaae6">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Carcinomas&lt;/strong&gt;, the largest group, are solid tumors that are derived from epithelial tissue that lines external and internal body surfaces, including skin, glands, and digestive, urinary, and reproductive organs. Approximately 90% of all malignancies are carcinomas.&lt;/p&gt;&lt;p&gt;Table 19-3 gives examples of specific carcinomas and the epithelial tissue from which they derive. Benign tumors of epithelial origin are usually designated by the term &lt;strong&gt;adenoma&lt;/strong&gt;, which indicates that the tumor is of epithelial or glandular &lt;strong&gt;(aden/o)&lt;/strong&gt; origin. For example, a gastric adenoma is a benign tumor of the glandular epithelial cells lining the stomach. Malignant tumors of epithelial origin are named by using the term &lt;strong&gt;carcinoma &lt;/strong&gt;and adding the type of tissue in which the tumor occurs. Thus, a &lt;strong&gt;gastric adenocarcinoma&lt;/strong&gt; is a cancerous tumor arising from glandular cells lining the stomach.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a73d2323-202c-46fc-aa70-fd738d4fcef6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 19-3&lt;/strong&gt; CARCINOMAS AND THE EPITHELIAL TISSUES FROM WHICH THEY DERIVE&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3e0789aa-746a-4745-8739-a78345c00492">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;TYPE OF EPITHELIAL TISSUE&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;MALIGNANT TUMOR (CARCINOMAS)&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;strong&gt;Gastrointestinal tract&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Colon&lt;/td&gt;&lt;td&gt;Adeno&lt;strong&gt;carcinoma&lt;/strong&gt; of the colon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Esophagus&lt;/td&gt;&lt;td&gt;Esophageal &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Liver&lt;/td&gt;&lt;td&gt;Hepatocellular &lt;strong&gt;carcinoma &lt;/strong&gt;(hepatoma)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Stomach&lt;/td&gt;&lt;td&gt;Gastric adeno&lt;strong&gt;carcinoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Glandular tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Adrenal glands&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Carcinoma &lt;/strong&gt;of the adrenals (adrenocortical &lt;strong&gt;carcinoma&lt;/strong&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Breast&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Carcinoma &lt;/strong&gt;of the breast&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Pancreas&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Carcinoma &lt;/strong&gt;of the pancreas (pancreatic adeno&lt;strong&gt;carcinoma&lt;/strong&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Prostate&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Carcinoma &lt;/strong&gt;of the prostate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Salivary glands&lt;/td&gt;&lt;td&gt;Adenoid cystic &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Thyroid&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Carcinoma &lt;/strong&gt;of the thyroid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;strong&gt;Kidney and bladder&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;Renal cell &lt;strong&gt;carcinoma &lt;/strong&gt;(hypernephroma)&lt;br/&gt;Transitional cell &lt;strong&gt;carcinoma &lt;/strong&gt;of the bladder&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;strong&gt;Lung&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;Adeno&lt;strong&gt;carcinoma &lt;/strong&gt;(bronchioloalveolar)&lt;br/&gt;Large cell &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;br/&gt;Small cell &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;br/&gt;Squamous cell &lt;strong&gt;carcinoma &lt;/strong&gt;(epidermoid)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;strong&gt;Reproductive organs&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;Adeno&lt;strong&gt;carcinoma &lt;/strong&gt;of the uterus&lt;br/&gt;Squamous cell &lt;strong&gt;carcinoma &lt;/strong&gt;of the penis&lt;br/&gt;Chorio&lt;strong&gt;carcinoma &lt;/strong&gt;of the uterus or testes&lt;br/&gt;Cystadeno&lt;strong&gt;carcinoma &lt;/strong&gt;(mucinous or serous) of the ovaries&lt;br/&gt;Seminoma and embryonal cell &lt;strong&gt;carcinoma &lt;/strong&gt;(testes)&lt;br/&gt;Squamous cell (epidermoid) &lt;strong&gt;carcinoma &lt;/strong&gt;of the vagina or cervix&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;strong&gt;Skin&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Basal cell layer&lt;/td&gt;&lt;td&gt;Basal cell &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Melanocyte&lt;/td&gt;&lt;td&gt;Malignant melanoma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Squamous cell layer&lt;/td&gt;&lt;td&gt;Squamous cell &lt;strong&gt;carcinoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="1fcb3f0a-9b28-4a8e-8072-ac9d7837a3ed">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SARCOMAS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f4a97727-14c2-4523-8764-b1ce0187238f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Sarcomas &lt;/strong&gt;also are malignant tumors but are less common than carcinomas. They derive from connective tissues in the body, such as bone, fat, muscle, cartilage, and bone marrow and from cells of the lymphatic system. Often, the term &lt;strong&gt;mesenchymal tissue&lt;/strong&gt; is used to describe embryonic connective tissue from which sarcomas are derived. The middle, or mesodermal, layer of the embryo gives rise to the connective tissues of the body as well as to blood and lymphatic vessels.&lt;/p&gt;&lt;p&gt;Table 19-4 gives examples of specific types of sarcomas and the connective tissues from which they derive. Benign tumors of connective tissue origin are named by adding the suffix &lt;strong&gt;-oma &lt;/strong&gt;to the type of tissue in which the tumor occurs. For example, a benign tumor of bone is called an &lt;strong&gt;osteoma&lt;/strong&gt;. Malignant tumors of connective tissue origin are frequently named using the term &lt;strong&gt;sarcoma &lt;/strong&gt;(&lt;strong&gt;sarc/o &lt;/strong&gt;= flesh). For example, an &lt;strong&gt;osteosarcoma &lt;/strong&gt;is a malignant tumor of bone.&lt;/p&gt;&lt;p&gt;In addition to the solid tumors of connective tissue origin, sarcomas include tumors arising from blood-forming tissue. &lt;strong&gt;Leukemias &lt;/strong&gt;and&lt;strong&gt; multiple myeloma&lt;/strong&gt; are tumors derived from bone marrow. &lt;strong&gt;Lymphomas&lt;/strong&gt;, such as Hodgkin, Burkitt, and follicular types, are derived from immune cells of the lymphatic system. Glial cells within the brain and other cells of the nervous system give rise to malignancies such as &lt;strong&gt;gliomas &lt;/strong&gt;and &lt;strong&gt;neuroblastomas&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cad7cd78-245d-44ce-9960-a1d01bd39162">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 19-4&lt;/strong&gt; SARCOMAS AND THE CONNECTIVE TISSUES FROM WHICH THEY DERIVE&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c40c6cf7-e76a-452b-89bf-907b0f332592">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;TYPE OF CONNECTIVE TISSUE&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;MALIGNANT TUMOR (SARCOMA)&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Bone&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Osteo&lt;strong&gt;sarcoma &lt;/strong&gt;(osteogenic sarcoma)&lt;br/&gt;Ewing &lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Muscle&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Smooth (visceral) muscle&lt;/td&gt;&lt;td&gt;Leiomyo&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Striated (skeletal) muscle&lt;/td&gt;&lt;td&gt;Rhabdomyo&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cartilage&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Chondro&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Fat&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lipo&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Fibrous tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fibro&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Blood vessel tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Angio&lt;strong&gt;sarcoma&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Blood-forming tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     All leukocytes&lt;/td&gt;&lt;td&gt;Leukemias&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;     Lymphocytes&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Lymphomas&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;Hodgkin Lymphoma&lt;br/&gt;Non-Hodgkin lymphomas&lt;/p&gt;&lt;ol&gt;&lt;li&gt;follicular&lt;/li&gt;&lt;li&gt;diffuse large cell&lt;/li&gt;&lt;li&gt;Burkitt&lt;/li&gt;&lt;li&gt;anaplastic large cell&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Plasma cells (bone marrow)&lt;/td&gt;&lt;td&gt;Multiple myeloma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nerve tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Embryonic nerve tissue&lt;/td&gt;&lt;td&gt;Neuroblastoma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Glial tissue&lt;/td&gt;&lt;td&gt;Astrocytoma (tumor of glial cells called astrocytes) Glioblastoma multiforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;     Nerve cells of the gastrointestinal tract&lt;/td&gt;&lt;td&gt;Gastrointestinal stromal tumor (GIST)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9d3d5506-abbe-4bce-bb98-773e29773985">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;MIXED-TISSUE TUMORS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d71c11df-a0b9-4cb9-bb75-9acc0a8174dc">
+    <STATIC_text>
+  <text>&lt;p&gt;Mixed-tissue tumors are derived from tissue that is capable of differentiating into both epithelial and connective tissue. These uncommon tumors are thus composed of several different types of cells. Examples of mixed-tissue tumors (Table 19-5) are found in the kidney, ovaries, and testes.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="23191205-6bc4-4da3-8ab4-2899a58a3ffa">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 19-5 &lt;/strong&gt;MIXED-TISSUE TUMORS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9c22a1e7-e56c-45f5-86e8-0cf9f6e3caba">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;TYPE OF TISSUE&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;MALIGNANT TUMOR&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kidney&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Wilms tumor (embryonal adenosarcoma)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ovaries and testes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Teratoma (tumor composed of bone, muscle, skin, gland cells, cartilage, etc.)&lt;/p&gt;&lt;p&gt;Germ cell tumor&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="6a326040-37de-434d-aa22-03ad5707db97">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CARCINOGENESIS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="873caad3-f430-44d2-b6fd-2676f73a3026">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;WHAT CAUSES CANCER?&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="09a8211b-b4f2-43af-9514-4d2ab14f4f9c">
+    <STATIC_text>
+  <text>&lt;p&gt;The causes of transformation from a normal cell to a cancerous one &lt;strong&gt;(carcinogenesis)&lt;/strong&gt; are only partly understood. What is clear is that malignant transformation results from damage to the genetic material, or &lt;strong&gt;DNA (deoxyribonucleic acid)&lt;/strong&gt;, of the cell. Strands of DNA in the cell nucleus form &lt;strong&gt;chromosomes&lt;/strong&gt;, which become readily visible under a microscope when a cell is preparing to divide into two (daughter) cells. In order to understand what causes cancer, it is necessary to learn more about DNA and its functions in a normal cell.&lt;/p&gt;&lt;p&gt;DNA has two main functions in a normal cell. First, DNA controls the production of new cells (cell division). When a cell divides, the DNA material in each chromosome copies itself so that exactly the same DNA is passed to the two new daughter cells that are formed. This process of cell division is called &lt;strong&gt;mitosis &lt;/strong&gt;(Figure 19-4A).&lt;/p&gt;&lt;p&gt;Second, DNA controls the production of new proteins &lt;strong&gt;(protein synthesis)&lt;/strong&gt; in the cell. Each DNA piece, or &lt;strong&gt;gene&lt;/strong&gt;, contains the code for making a single protein. That protein carries out an important specific function in the cell. There are 20,000 to 25,000 human protein-coding genes. Genes are composed of an arrangement of units called &lt;strong&gt;nucleotides &lt;/strong&gt;(containing a sugar, phosphate, and a base, such as adenine, guanine, thymine, or cytosine). DNA (as a string of coded nucleotides) sends a molecular message outside the nucleus to the cytoplasm of the cell, directing the synthesis of specific proteins (such as hormones and enzymes) essential for normal cell function and growth. This message is transmitted in the following way: In the nucleus, the coded message with instructions for making a specific protein is copied from DNA onto another molecule called &lt;strong&gt;RNA (ribonucleic acid)&lt;/strong&gt;. Then RNA travels from the nucleus to the cytoplasm of the cell, carrying the coded message that directs the formation of specific proteins (Figure 19-4B).&lt;/p&gt;&lt;p&gt;When a cell becomes malignant, however, the processes of mitosis and protein synthesis are disturbed. Cancer cells reproduce almost continuously, and abnormal proteins are made. Malignant cells are &lt;strong&gt;anaplastic&lt;/strong&gt;; that is, their DNA stops making normal codes that allow the cells to carry on the function of differentiating mature cells. Instead, new signals lead to malignant growth and spread of tumor cells.&lt;/p&gt;&lt;p&gt;Various kinds of damage to DNA result in malignancy. DNA damage may be caused by toxic chemicals, sunlight, tobacco smoke, and viruses. The specific damage usually involves changes in the cell’s DNA codes, creating abnormal genes with changes called &lt;strong&gt;mutations&lt;/strong&gt;. Mutations interfere with the accurate synthesis of new proteins and can be passed on to new cells during cell division.&lt;/p&gt;&lt;p&gt;Although most DNA changes, or mutations, lead to higher-than-normal rates of growth, some mutations found in cancer cells actually prevent the cells from dying. In recent years, scientists have recognized that in some types of cancers, the normal blueprints that direct aging or damaged cells to die are missing. Normal cells undergo spontaneous disintegration by a process known as &lt;strong&gt;apoptosis&lt;/strong&gt;, or programmed cell death. Some cancer cells have lost elements of this program and thus can live indefinitely.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="936875f0-1c51-4365-a0fe-c9936ec8e4cf">
+    <STATIC_figure>
+  <image>chp00019_f019-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-4 &lt;/span&gt;Two functions controlled by DNA. A, Mitosis&lt;/strong&gt; (the process of cell division). &lt;strong&gt;B, Protein synthesis&lt;/strong&gt; (creating new proteins for cellular growth).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6de0a5f6-314a-4549-9404-0fb7346272c3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ENVIRONMENTAL AGENTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="024f7950-2b63-4a5c-a53d-5285c1864d65">
+    <STATIC_text>
+  <text>&lt;p&gt;Agents from the environment, such as chemicals, drugs, tobacco smoke, radiation, and viruses, can cause damage to DNA and thus produce cancer. These environmental agents are called &lt;strong&gt;carcinogens&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chemical carcinogens &lt;/strong&gt;are found in a variety of products and drugs, including &lt;strong&gt;hydrocarbons &lt;/strong&gt;—in cigarette, cigar, and pipe smoke and automobile exhaust—insecticides, dyes, industrial chemicals, asbestos as in insulation, and hormones. Hormones such as estrogens can cause cancer by stimulating growth of cells in the lining of the uterus or in milk glands of the breast.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Radiation&lt;/strong&gt;, whatever its source—sunlight, x-rays, radioactive substances—consists of waves of energy. This energy causes DNA damage and mutations that lead to cancer. Leukemia used to be an occupational hazard of radiologists, who were routinely exposed to x-rays. There is a high incidence of leukemia and other cancers among survivors of atomic bomb explosions, as at Hiroshima and Nagasaki. Ultraviolet radiation in sunlight can cause skin cancer, especially in persons with lightly pigmented, or fair, skin.&lt;/p&gt;&lt;p&gt;Some &lt;strong&gt;viruses &lt;/strong&gt;are carcinogenic. For example, the human T cell leukemia virus (HTLV1) causes a form of leukemia in adults. Kaposi sarcoma is caused by another virus, herpesvirus type 8. Other viruses are known to cause cervical cancer (human papillomavirus or HPV) and liver cancer (hepatitis B and C viruses). See Table 19-1.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="aed0d6b5-a2af-4e1b-a997-320d77da2a4d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 19-1&lt;/strong&gt; ENVIRONMENTAL CARCINOGENS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4c11fce2-95a1-4a11-baa4-c625aafe7d08">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Chemicals&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;asbestos in insulation&lt;/li&gt;&lt;li&gt;dyes and industrial chemicals&lt;/li&gt;&lt;li&gt;hormones&lt;/li&gt;&lt;li&gt;hydrocarbons&lt;/li&gt;&lt;li&gt;insecticides&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radiation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;sunlight (ultraviolet rays)&lt;/li&gt;&lt;li&gt;x-rays&lt;/li&gt;&lt;li&gt;radioactive substances&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Viruses&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;human T cell leukemia virus (HTLV1)&lt;/li&gt;&lt;li&gt;human papillomavirus (HPV)&lt;/li&gt;&lt;li&gt;hepatitis B and C viruses&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="db215f37-2068-45f1-8b05-49559365c8ac">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ONCOGENES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6f8b9464-24e6-405b-a384-bd4099e20fd7">
+    <STATIC_text>
+  <text>&lt;p&gt;Oncogenes are pieces of normal DNA that, when activated by a mutation, can convert a normal cell to a cancerous cell. Some examples of oncogenes are &lt;strong&gt;&lt;em&gt;ras &lt;/em&gt;&lt;/strong&gt;(colon cancer), &lt;strong&gt;&lt;em&gt;myc &lt;/em&gt;&lt;/strong&gt;(lymphoma), and &lt;strong&gt;&lt;em&gt;abl &lt;/em&gt;&lt;/strong&gt;(chronic myeloid leukemia or CML).&lt;/p&gt;&lt;p&gt;In chronic myeloid leukemia, the gene &lt;em&gt;abl &lt;/em&gt;is activated to become an oncogene when two different chromosomes switch locations. This mutation is called a &lt;strong&gt;translocation&lt;/strong&gt;. What happens is that the gene &lt;em&gt;abl &lt;/em&gt;on chromosome 9 moves to a new location next to a gene called &lt;em&gt;bcr &lt;/em&gt;on chromosome 22, (see Figure 19-5). When &lt;strong&gt;bcr &lt;/strong&gt;(&lt;strong&gt;b&lt;/strong&gt;reakpoint &lt;strong&gt;c&lt;/strong&gt;luster &lt;strong&gt;r&lt;/strong&gt;egion) and &lt;strong&gt;abl &lt;/strong&gt;are near each other, they cause the production of an abnormal protein that makes the leukocyte divide and causes a malignancy (chronic myeloid leukemia). The new chromosome formed from the translocation is called the &lt;strong&gt;Philadelphia chromosome &lt;/strong&gt;(it was discovered in 1970 in Philadelphia).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fe408335-6b42-4a06-a4f0-b9b63417fbc7">
+    <STATIC_figure>
+  <image>chp00019_f019-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-5 &lt;/span&gt;Oncogene translocation resulting in the Philadelphia chromosome. &lt;/strong&gt;Notice the translocation of the &lt;em&gt;abl &lt;/em&gt;gene from the long arm of chromosome 9 to the long arm of chromosome 22 (next to the &lt;em&gt;bcr &lt;/em&gt;gene). This results in a combination &lt;strong&gt;&lt;em&gt;bcr-abl &lt;/em&gt;oncogene&lt;/strong&gt;, which produces an abnormal protein leading to chronic myeloid leukemia.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2be0d340-94c6-4670-958b-05f210de3f8a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;HEREDITY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="68a590c7-02ee-4d2d-8ed6-d1bc5d07e602">
+    <STATIC_text>
+  <text>&lt;p&gt;Cancer also may be caused by transmission of DNA mutations that are associated with cancer susceptibility. These mutations are found in the DNA of the parents egg or sperm cells and are passed from generation to generation. Although most cancers result from chance mutations in body cells during a person’s lifetime, examples of known inherited cancers are &lt;strong&gt;retinoblastoma &lt;/strong&gt;(tumor of the retina of the eye), &lt;strong&gt;adenomatous polyposis coli syndrome&lt;/strong&gt; (premalignant polyps that grow in the colon and rectum), and certain forms of colon, breast, and kidney cancer.&lt;/p&gt;&lt;p&gt;In many cases, it is believed that these tumors arise because of inherited or acquired abnormalities in certain genes called &lt;strong&gt;suppressor genes&lt;/strong&gt;. In normal persons, these suppressor genes regulate growth, promote differentiation, and suppress oncogenes from causing cancer. Loss of a normal suppressor gene takes the brake off the process of cell division and leads to cancer. Examples of suppressor genes are the &lt;strong&gt;retinoblastoma (Rb) type 1 gene &lt;em&gt;(RB1)&lt;/em&gt; and the &lt;em&gt;TP53 &lt;/em&gt;&lt;/strong&gt;gene, which leads to brain tumors or breast cancer.&lt;/p&gt;&lt;p&gt;Because inherited changes can be detected by analyzing DNA in any tissue of the body, not simply cancerous cells, blood cells from a cancer patient or family members tested to determine whether a person has inherited the cancer-causing gene. This is known as &lt;strong&gt;genetic screening&lt;/strong&gt;. Affected patients and family members may be watched carefully to detect tumors at an early stage or elect to have prophylactic removal of organs or tissue that may become cancerous. Table 19-2 lists several hereditary cancers and the name of the responsible gene.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fa722606-f126-4351-a83b-69c31e1ce997">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 19-2 &lt;/strong&gt;EXAMPLES OF GENES IMPLICATED IN HEREDITARY CANCERS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2a371449-a048-445d-8810-1dec42a3c55b">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;CANCER&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;GENE&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;CHROMOSOMAL LOCATION *&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Breast; ovarian&lt;/td&gt;&lt;td&gt;&lt;em&gt;BRCA1&lt;/em&gt;&lt;/td&gt;&lt;td&gt;17q21&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Breast; ovarian&lt;/td&gt;&lt;td&gt;&lt;em&gt;BRCA2&lt;/em&gt;&lt;/td&gt;&lt;td&gt;3q12-13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Li-Fraumeni syndrome (multiple cancers)&lt;/td&gt;&lt;td&gt;&lt;em&gt;TP53&lt;/em&gt;&lt;/td&gt;&lt;td&gt;17p13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Polyposis coli syndrome&lt;/td&gt;&lt;td&gt;&lt;em&gt;APC&lt;/em&gt;&lt;/td&gt;&lt;td&gt;5q21&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Renal cell carcinoma&lt;/td&gt;&lt;td&gt;&lt;em&gt;VHL&lt;/em&gt;&lt;/td&gt;&lt;td&gt;3p21-26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Retinoblastoma&lt;/td&gt;&lt;td&gt;&lt;em&gt;RB1&lt;/em&gt;&lt;/td&gt;&lt;td&gt;13q14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wilms tumor&lt;/td&gt;&lt;td&gt;&lt;em&gt;WT1&lt;/em&gt;&lt;/td&gt;&lt;td&gt;11p13&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;* The first number is the chromosome; p is the short arm of the chromosome, and q is the long arm of the chromosome. The second number is the region (band) of the chromosome.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b735b60e-ebb0-47c1-8edf-7dd42a2fee43">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8d3d076b-c13c-4447-8506-609848076b3b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;OPERATING ROOM SCHEDULE: GENERAL HOSPITAL&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="20988a8b-a8b4-4bb2-802d-0d521ba1fd8d">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. coronary artery bypass grafting [Disabling angina and extensive coronary atherosclerosis despite medical therapy]&lt;br/&gt;2. left carotid endarterectomy [Atherosclerotic occlusion of a main artery leading to the head]&lt;br/&gt;3. sclerosing injections and laser treatment [Varicose veins]&lt;br/&gt;4. LV aneurysmectomy [Protrusion of the wall of a lower heart chamber]&lt;br/&gt;5. atrial septal defect repair [Congenital hole in the wall of the upper chamber of the heart]&lt;br/&gt;6. left ventricular assist device [Congestive heart failure]&lt;br/&gt;7. pericardiocentesis [Cardiac tamponade (ﬂuid in the space surrounding the heart)]&lt;br/&gt;8. aortic valve replacement [Aortic stenosis]&lt;br/&gt;9. pacemaker implantation [Heart block]&lt;br/&gt;10. femoral-popliteal bypass grafting [Peripheral vascular disease]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions>&lt;p&gt;Match the operative treatment in Column I with the appropriate surgical indication (diagnosis) in Column II.&lt;/p&gt;</instructions>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="f41204df-aed7-48d7-b263-54f933621638">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;NEW AND IMPORTANT CARDIOVASCULAR DRUGS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="cc46140b-e97e-4d66-8b88-0423efd417ad">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Antiplatelet agents:&lt;/strong&gt; These drugs are used after stent placement or after ACS (acute coronary syndromes).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;clopidrogrel (Plavix)&lt;/li&gt;&lt;li&gt;prasugrel (Efﬁent)&lt;/li&gt;&lt;li&gt;ticagrelor (Brilinta)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;DOACs (direct oral anticoagulant agents):&lt;/strong&gt; These drugs are used to prevent strokes related to atrial ﬁbrillation and clot formation.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;pixaban (Eliquis)&lt;/li&gt;&lt;li&gt;dabidatran (Pradaxa)&lt;/li&gt;&lt;li&gt;edoxaban (Savaysa)&lt;/li&gt;&lt;li&gt;rivaroxaban (Xarelto)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Entresto&lt;/strong&gt;: Exciting new combination drug to treat heart failure. It has outperformed traditional angiotensin-converting enzyme (ACE) inhibitors in a major clinical trial and has been shown to reduce mortality due to heart failure.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;valsartan/sacubitril&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="59f3ad6d-ae2e-43c1-8ade-0ae16795ddbf">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CLINICAL CASES: WHAT’S YOUR DIAGNOSIS?&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f31c4413-ac74-4d32-a34c-dda458bf5bed">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;strong&gt;Case 1:&lt;/strong&gt;  A 24-year-old woman with a history of palpitations [heartbeat is unusually strong, rapid, or irregular, so that patient is aware of it] and vague chest pains enters the hospital. With the patient supine, you hear a midsystolic click that is followed by a grade 3/6 [moderately loud—6/6 is loud and 1/6 is quiet] honking murmur.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt; 1.     Your diagnosis is:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Tetralogy of Fallot</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Mitral valve prolapse </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>Raynaud disease </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Congestive heart failure </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText/>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="8a83fb86-b88e-4a3a-a921-d22b55d2f701">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;strong&gt;Case 2:&lt;/strong&gt; Mr. Smith is brought urgently to the Emergency Room for prolonged chest pain. His ECG showed ST segment elevation in the anterior leads and he was then transferred to the cardiac cath lab. An angiogram reveals 100% blockage of the left anterior descending (LAD) coronary artery. PCI with stent is recommended.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. What did the ECG reveal?&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText> NSTEMI and unstable angina </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Aortic aneurysm </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>CHF </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>STEMI </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;2. Your diagnosis for this patient is:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Heart attack </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>Rheumatic heart disease </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Unstable angina </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Patent ductus arteriosus </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;3. What treatment is recommended? &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Coronary artery bypass grafting </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Catheterization with drug-eluting stent placement </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>Deﬁbrillation and cardioversion</answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Thrombolytic drugs </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+  <block refid="ce61517d-3949-4bee-8753-b2cd511be119">
+    <MC>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;&lt;strong&gt;Case 3:&lt;/strong&gt; A 42-year-old female runner recovering from an upper respiratory infection comes to the ED complaining of chest pain that is sharp and constant, worse when she is lying down and decreased with sitting up and leaning forward. Serum troponin levels rule out an acute MI. The ED physician auscultates a pericardial friction rub.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. What’s your diagnosis for this patient? &lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Myocardial ischemia </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Unstable angina and NSTEMI </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Endocarditis </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Pericarditis </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;2. The danger of this condition is the risk for progression to:&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <answerContent>
+          <answers>
+            <answer>
+              <answerText>Cardiac tamponade </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="yes"/>
+            </answer>
+            <answer>
+              <answerText>Aneurysm </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Pulmonary embolism </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+            <answer>
+              <answerText>Claudication </answerText>
+              <answerImage/>
+              <answerImageAltText/>
+              <isCorrect value="no"/>
+            </answer>
+          </answers>
+        </answerContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+        <randomAnswers value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</MC>
+  </block>
+</blocks>

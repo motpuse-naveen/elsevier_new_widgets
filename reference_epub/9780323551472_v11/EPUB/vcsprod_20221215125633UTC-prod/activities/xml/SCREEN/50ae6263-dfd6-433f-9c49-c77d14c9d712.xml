@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b8100948-33d2-4548-aee5-1d134d4c686b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3ffbebde-db6d-42db-9ec0-94277b0b7947">
+    <STATIC_text>
+  <text>&lt;p&gt;The lymphatic system and the immune system are considered together in this chapter because aspects of their functions in the body are very closely related.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lymph&lt;/strong&gt; is a clear, watery fluid that surrounds body cells and flows in a system of thin-walled lymph vessels (the lymphatic system) that extends throughout the body.&lt;/p&gt;&lt;p&gt;Lymph differs from blood, but it has a close relationship to the blood system. Lymph fluid does not contain erythrocytes or platelets, but it is rich in two types of white blood cells (leukocytes): &lt;strong&gt;lymphocytes&lt;/strong&gt; and &lt;strong&gt;monocytes&lt;/strong&gt;. The liquid part of lymph is similar to blood plasma in that it contains water, salts, sugar, and wastes of metabolism such as urea and creatinine, but it differs in that it contains less protein. Lymph actually originates from the blood. It is the same fluid that filters out of tiny blood capillaries into the spaces between cells. This fluid that surrounds body cells is called &lt;strong&gt;interstitial fluid&lt;/strong&gt;. Interstitial fluid passes continuously into specialized thin-walled vessels called &lt;strong&gt;lymph capillaries&lt;/strong&gt;, which are found coursing through tissue spaces (Figure 14-1). The fluid in the lymph capillaries, now called &lt;strong&gt;lymph&lt;/strong&gt; instead of interstitial fluid, passes through larger lymphatic vessels and through clusters of lymph tissues (&lt;strong&gt;lymph nodes&lt;/strong&gt;), finally reaching large lymphatic vessels in the upper chest. Lymph enters these large lymphatic vessels, which then empty into the bloodstream. Figure 14-2 illustrates schematically the relationship between the blood and the lymphatic systems. Table 14-1 reviews the differences between lymph and blood.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="071bea56-b1e3-4b2d-a162-915e6a4480f3">
+    <STATIC_figure>
+  <image>chp00014_f014-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-1 &lt;/span&gt;&lt;strong&gt;Interstitial fluid and lymph capillaries&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3d86d2de-74c1-4c8a-ac8f-62ab60d13875">
+    <STATIC_figure>
+  <image>chp00014_f014-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-2 &lt;/span&gt;&lt;strong&gt;Relationship between the circulatory systems of blood and lymph&lt;/strong&gt;. Start at tissue cells (1) and follow the green arrows which show the flow of lymph into the bloodstream via veins (5).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f3e76976-805b-4106-94c6-be9081ce3d57">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 14-1 LYMPH AND BLOOD&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a79af817-5b94-423d-8fea-561e7e5e2392">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;LYMPH (colorless)&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt; BLOOD (red)&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;NO PUMP&lt;/strong&gt;&lt;br/&gt;Fluid moved along by muscle movement and valves&lt;/td&gt;&lt;td&gt;&lt;strong&gt;PUMP&lt;/strong&gt;&lt;br/&gt;Heart pumps blood through blood vessels&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;WHITE BLOOD CELLS &lt;/strong&gt;&lt;br/&gt;Lymphocytes &lt;br/&gt;Monocytes&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ALL BLOOD CELLS &lt;/strong&gt;&lt;br/&gt;Erythrocytes (give blood its red color) &lt;br/&gt;Leukocytes &lt;br/&gt;Platelets&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;INTERSTITIAL FLUID &lt;/strong&gt;&lt;br/&gt;Water &lt;br/&gt;Less protein and other plasma components &lt;br/&gt;Lipids (fats) from small intestine&lt;/td&gt;&lt;td&gt;&lt;strong&gt;PLASMA&lt;/strong&gt;&lt;br/&gt;Water &lt;br/&gt;Proteins &lt;br/&gt;Salts, nutrients, lipids, and wastes&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="13cb6086-1a61-4893-b79c-509fa9532d6f">
+    <STATIC_text>
+  <text>&lt;p&gt;The lymphatic system has several functions. First, it is a drainage system to transport needed proteins and fluid that have leaked out of the blood capillaries (and into the interstitial fluid) back to the bloodstream via the veins. Second, the lymphatic vessels in the intestines absorb lipids (fats) from the small intestine and transport them to the bloodstream.&lt;/p&gt;&lt;p&gt;A third function of the lymphatic system relates to the &lt;strong&gt;immune system&lt;/strong&gt;: the defense of the body against foreign organisms such as bacteria and viruses. Lymphocytes and monocytes, originating in bone marrow, lymph nodes, and organs such as the spleen and thymus gland, protect the body by producing antibodies and by mounting a cellular attack on foreign cells and organisms.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

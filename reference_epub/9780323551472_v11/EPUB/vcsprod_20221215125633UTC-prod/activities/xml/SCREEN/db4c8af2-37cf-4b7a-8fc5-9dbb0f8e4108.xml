@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d78dcd24-7482-480a-8ebe-b60fc49fec87">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_VOCABULARY.jpg" data-handler-handled="true"/&gt; &lt;/span&gt;&lt;span style="color:#684182;"&gt;VOCABULARY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d4b55e4c-fe8f-4f9a-b5c1-fde0190ce5e5">
+    <STATIC_text>
+  <text>&lt;p&gt;This list reviews new terms introduced in the text. Short definitions reinforce your understanding.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fbfe6de6-9a6e-46d2-b26a-d15cf5583621">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bulbourethral glands&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pair of exocrine glands near the male urethra. They secrete fluid into the urethra. Also called &lt;strong&gt;Cowper glands.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;circumcision&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Removal of the prepuce (foreskin). It is a common elective procedure performed shortly after birth.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ejaculation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ejection of sperm and fluid from the male urethra.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ejaculatory duct&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Tube through which semen enters the male urethra.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epididymis (&lt;/strong&gt;&lt;em&gt;plural&lt;/em&gt;&lt;strong&gt;: epididymides)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;One of a pair of long, tightly coiled tubes above each testis. It stores and carries sperm from seminiferous tubules to the vas deferens.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;erectile dysfunction&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Inability of an adult male to achieve an erection; impotence.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;flagellum&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Hair-like projection on a sperm cell that makes it motile (able to move).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;foreskin&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fold of skin covering the head of the penis; prepuce.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;fraternal twins&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Two infants resulting from fertilization of two separate ova by two separate sperm cells (Figure 9-5).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="63571fe2-3b31-44f0-9230-277aa1d668d8">
+    <STATIC_figure>
+  <image>fig9-5.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-5 &lt;/span&gt;Fraternal twins. A,&lt;/strong&gt; Notice the 6-week-old embryos in two separate amniotic sacs.&lt;strong&gt; B,&lt;/strong&gt; Twins Marcos and Matheus Do Carmo are 16 years old. &lt;em&gt;(Courtesy Juliana Do Carmo.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f94528c3-85e7-4a1c-b161-291431376e84">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;glans penis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sensitive tip of the penis; comparable to the clitoris in the female.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;identical twins&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Two infants resulting from division of one fertilized egg. Conjoined (“Siamese”) twins are incompletely separated identical twins.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;infertility&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;In a man, any problem that lowers the chances of his female partner getting pregnant.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;interstitial cells of the testes&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Specialized cells that lie adjacent to the seminiferous tubules in the testes. These cells produce testosterone and are also called &lt;strong&gt;Leydig cells.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;parenchymal tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Essential distinctive cells of an organ. In the testis, the seminiferous tubules that produce sperm are parenchymal.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;penis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Male external organ of reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;perineum &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;td&gt;External region between the anus and scrotum in the male.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;prepuce&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Foreskin; fold of skin covering the tip of the penis.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;prostate gland&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Exocrine gland at the base of the male urinary bladder. The prostate secretes fluid that contributes to semen during ejaculation.&lt;strong&gt; &lt;span style="color:#CA500F;"&gt;*&lt;/span&gt; HINT&lt;/strong&gt;: Don’t confuse &lt;em&gt;prostate &lt;/em&gt;with &lt;em&gt;prostrate&lt;/em&gt;, which means lying down.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;scrotum&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;External sac that contains the testes.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;semen &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;td&gt;Spermatozoa (sperm cells) and seminal fluid (prostatic and seminal vesicle secretions), discharged from the urethra during ejaculation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;seminal vesicles&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Paired sac-like exocrine glands that secrete fluid (a major component of semen) into the vas deferens.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;seminiferous tubules&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Narrow, coiled tubules that produce sperm in the testes.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spermatozoon (&lt;/strong&gt;&lt;em&gt;plural&lt;/em&gt;&lt;strong&gt;: spermatozoa)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sperm cell.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sterilization &lt;/strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;td&gt;Procedure that removes a person’s ability to produce or release reproductive cells; removal of testicles, vasectomy, and oophorectomy are sterilization procedures.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;stromal tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Supportive, connective tissue of an organ, as distinguished from its parenchyma. Also called &lt;strong&gt;stroma.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;testis (&lt;em&gt;plural &lt;/em&gt;: testes)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Male gonad &lt;strong&gt;(testicle)&lt;/strong&gt; that produces spermatozoa and testosterone.&lt;br/&gt;&lt;em&gt;Remember &lt;/em&gt;: Testis means one testicle, and testes are two testicles.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;testosterone&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Hormone secreted by the interstitial tissue of the testes; responsible for male sex characteristics.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vas deferens&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Narrow tube (one on each side) carrying sperm from the epididymis toward the urethra. Also called &lt;strong&gt;ductus deferens.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="1d2a9ac0-34fa-42f4-8390-b8543361cca7">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Perineum/Peritoneum&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;strong&gt;perineum&lt;/strong&gt;, which is the area between the anus and scrotum in the male and the anus and vagina in females, with the &lt;strong&gt;peritoneum, &lt;/strong&gt;which is the membrane surrounding the abdominal cavity!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="26086a93-df58-4103-b6c5-2eeea5c71871">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Semen/Sperm&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;em&gt;semen &lt;/em&gt;with &lt;em&gt;sperm&lt;/em&gt;. &lt;em&gt;Semen&lt;/em&gt; is the thick, whitish secretion discharged from the urethra during ejaculation.&lt;strong&gt; Sperm (spermatozoa)&lt;/strong&gt; are cells that develop in the testes. Semen contains sperm.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="28c12b2f-5ec9-4f5d-b335-f0f466e12f39">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Sterilization/Impotence&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;strong&gt;sterilization&lt;/strong&gt;, which can be performed in men and women, with &lt;strong&gt;impotence&lt;/strong&gt;, which is the inability of a male to sustain an erection or achieve ejaculation.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

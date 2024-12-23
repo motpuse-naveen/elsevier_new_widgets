@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="3df5db39-38a2-4444-9555-6151b85e692c">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e0662ece-bd2b-49c9-b06e-348b4ff6c3c9">
+    <STATIC_text>
+  <text>&lt;p&gt;This section contains an x-ray report, an orthopedic operating room schedule, a case report with findings presented in SOAP format, and a short clinical case. Explanations of more difficult or unfamiliar terms are given in brackets. &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2c1efae5-e905-482b-bb34-c2e5180845fb">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;MEDICAL REPORT: RESULTS OF CHEST X-RAY EXAMINATION&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bf01d514-63b7-4a57-b2b1-0e90810fd36e">
+    <STATIC_text>
+  <text>&lt;p&gt;PA [posteroanterior] and lateral chest: The heart is enlarged in its transverse diameter. The lungs are fully expanded and free of active disease.&lt;/p&gt;&lt;p&gt;Thoracic spine shows a scoliosis of the upper thoracic spine convex to the left. There is 50% wedge compression fracture of T6 and slight wedge compression fracture of T5. There is also anterior wedge compression fracture of T12.&lt;/p&gt;&lt;p&gt;Lumbar spine shows 90% compression fractures of L1 and L3 with 30% compression fractures of L2 and L5. All bones are markedly osteoporotic. There is calcification within the aortic arch. There are gallstones in the right upper quadrant. The findings in the spine are most compatible with osteoporotic compression fractures. During the procedure, the patient had a “sickable” [syncopal (means fainting)—this word was incorrectly transcribed!] episode and fell, striking her head. A skull series, done at no cost to the patient, shows no evidence of bony fracture. The pineal gland is calcified and has a midline location. The sella turcica is normal.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b2e7890b-41a8-44f6-86a6-75397fd9759a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;OPERATING ROOM SCHEDULE&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="37d949c3-3ab1-4585-8405-df43a0e49cae">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;Match the operation in Column I with an accompanying diagnosis or indication for surgery from Column II.&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;&lt;strong&gt;COLUMN I&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Excision, osteochondroma, R calcaneus [Exostosis on heel bone]&lt;/li&gt;&lt;li&gt;TMJ arthroscopy with probable arthrotomy [Pain and malocclusion of jaw joint]&lt;/li&gt;&lt;li&gt;L4–5 laminectomy and discectomy [Lower back pain radiating down one leg]&lt;/li&gt;&lt;li&gt;Arthroscopy, left knee [ACL rupture]&lt;/li&gt;&lt;li&gt;Open reduction, malleolar fracture [Fracture of the ankle]&lt;/li&gt;&lt;li&gt;R occipital craniotomy with tumor resection [Neoplastic lesion in brain]&lt;/li&gt;&lt;li&gt;Excision, distal end right clavicle, with probable acromioplasty [Pain in shoulder joint with bone spur (exostosis) evident on x-ray]&lt;/li&gt;&lt;li&gt;Open reduction and internal fixation of the acetabulum [Pelvic fracture]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="4d7f047b-3b68-42e1-84b9-05616415784d">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CASE REPORT—SOAP FORMAT: ACL INJURY&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fb13e681-8009-49c3-b530-36366e64c104">
+    <STATIC_text>
+  <text>&lt;p&gt;[&lt;em&gt;Note&lt;/em&gt; : &lt;strong&gt;SOAP&lt;/strong&gt; stands for &lt;strong&gt;S&lt;/strong&gt;ubjective, &lt;strong&gt;O&lt;/strong&gt;bjective, &lt;strong&gt;A&lt;/strong&gt;ssessment, and &lt;strong&gt;P&lt;/strong&gt;lan. It is the format for most medical notes.]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;S:&lt;/strong&gt; Patient reports that she fell and twisted her right knee while skiing last month. She notes that she felt a “pop” and experienced immediate pain and swelling of the knee. X-ray was negative for fracture, but MRI revealed a torn ACL [anterior cruciate ligament]. Patient underwent an ACL reconstruction using a patellar tendon autograft 1 week ago. Pain is 3/10 at rest and 6/10 during weight-bearing [on a scale of 0 to 10]. Her goals are to decrease pain, walk normally, and return to prior level of functioning, including skiing and soccer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;O: &lt;/strong&gt;&lt;em&gt;Gait &lt;/em&gt;: Ambulates with bilateral axillary crutches.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e06e7d35-2c60-4466-89fa-67487f18211c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt; &lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;Left&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;Right&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;&lt;em&gt;Range of Motion:&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Extension&lt;/td&gt;&lt;td&gt;0°&lt;/td&gt;&lt;td&gt;0°&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Flexion&lt;/td&gt;&lt;td&gt;140°&lt;/td&gt;&lt;td&gt;90°&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;&lt;em&gt;Strength:&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Quadriceps&lt;/td&gt;&lt;td&gt;5/5&lt;/td&gt;&lt;td&gt;3+/5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Hamstrings&lt;/td&gt;&lt;td&gt;5/5&lt;/td&gt;&lt;td&gt;4−/5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Gluteus medius&lt;/td&gt;&lt;td&gt;5/5&lt;/td&gt;&lt;td&gt;4−/5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Gluteus maximus&lt;/td&gt;&lt;td&gt;5/5&lt;/td&gt;&lt;td&gt;4−/5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;   Gastroc/soleus&lt;/td&gt;&lt;td&gt;5/5&lt;/td&gt;&lt;td&gt;4−/5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;&lt;em&gt;Girth:&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mid-patella&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="84594b0f-f0ba-4eaf-8325-49a418ce4fb6">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;em&gt;Radiographs&lt;/em&gt;: AP and lateral x-ray views, weight bearing, of the right knee demonstrate reasonable position of femoral and tibial surgical tunnels with expected location of orthopedic hardware (screws). Bony harvest sites of patellar tendon graft harvest are evident and demonstrate no evidence of fracture.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Patient is a 20-year-old female presenting with signs and symptoms consistent with status post-ACL reconstruction. Impairments include gait disturbance, edema, pain, and decreased range of motion, strength, and functional activities.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Treatment will include manual therapy, therapeutic exercise modalities per protocol, patient education, and gait training. Follow up for re-evaluation in 6 weeks. Repeat radiographs not necessary.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b9f6cbf8-523e-4473-92c9-8046f9984d54">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SHORT CLINICAL CASE: OA OF THE KNEE&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c4648a46-d06e-4506-8deb-bbda83438322">
+    <STATIC_text>
+  <text>&lt;p&gt;A 65-year-old woman has been suffering from right knee joint stiffness, aching pain, and limited movement that is worse when she rises in the morning or after inactivity. She has been taking acetaminophen (Tylenol) and other NSAIDs (Motrin or Advil) to cope with the pain.&lt;/p&gt;&lt;p&gt;An x-ray of her knees laterally shows valgus deformity. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Figure 15-39A shows deterioration of articular cartilage in the right knee with narrowing of the joint space. See left knee for comparison. Surgery is recommended for TKR and is performed (see Figure 15-39B and C). Follow-up x-ray (Figure 15-39D) shows the prosthesis in place and correction of the alignment deformity of the limb. After successful healing of the incision and removal of surgical clips, the patient had several weeks of PT and is walking normally without pain.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e413cbb1-1831-4ecf-842e-dad8fed3819f">
+    <STATIC_figure>
+  <image>chp00015_f015-039-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-39&lt;/span&gt; A,&lt;/strong&gt; X-ray image of knees showing osteoarthritis in right knee. &lt;strong&gt;B, &lt;/strong&gt;Patient undergoing &lt;strong&gt;total knee replacement (TKR). C, Prosthetic device&lt;/strong&gt; in place. &lt;strong&gt;D, &lt;/strong&gt;X-ray image of knees after TKR. (&lt;em&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; &lt;/strong&gt;to&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;D,&lt;/strong&gt; &lt;em&gt;Courtesy Dr. Sidra Ezrahi and Dr. Dennis Burke, Massachusetts General Hospital, Boston.&lt;/em&gt;)&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9e079778-6c5a-4445-80e8-ca743b28c2e8">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Valgus and Varis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These terms are often used and confused in orthopedics. A &lt;strong&gt;valgus deformity&lt;/strong&gt; of the knee means the tibia (below the knee joint) is &lt;em&gt;deviated outward&lt;/em&gt; in relation to the femur resulting in a knock-kneed appearance. A &lt;strong&gt;varis deformity&lt;/strong&gt; at the knee means the tibia is &lt;em&gt;deviated inward&lt;/em&gt; in relation to the femur resulting in a bow-legged appearance.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

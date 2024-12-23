@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="fdb555ba-c0b0-4d96-b32e-03b3d8134119">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_inperson.jpg" data-handler-handled="true"/&gt; IN PERSON: ROTATOR CUFF TEAR&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5f6963fe-f3ad-467f-9fd1-14433418431e">
+    <STATIC_text-figure>
+  <image>chp00015_u015-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;When I took the enormous swing for my drive on the 10th hole and instead of hitting the ball, I hit the ground, I immediately knew that I had done severe damage to my left shoulder. The club flew out of my hands and I felt excruciating pain.&lt;/p&gt;&lt;p&gt;Over the next few weeks, I iced the shoulder and took NSAIDs, but the pain and inability to move my shoulder persisted. After several weeks of physical therapy that didn’t  improve my mobility or pain, I went to an orthopedic surgeon who specialized in shoulders. He suspected a torn rotator cuff. The rotator cuff is a group of muscles and tendons that stabilize, move, and provide strength to the shoulder joint. [See Figure 15-38A for a diagram of the anatomy of shoulder and rotator cuff tendons and muscles.] An MRI of my shoulder made the diagnosis. [See Figure 15-38B for an MRI scan.]&lt;/p&gt;&lt;p&gt;I was told that rotator cuff tears rarely repair themselves, but some people gradually get used to the limited mobility, strength, and diminished pain. The other alternative is arthroscopic surgery [see Figure 15-38C] to repair the torn tendons. I decided to have the surgery, which consisted of drilling into the head of the humerus and pulling the tendon (with surgical sutures) to the bone [humerus] to reinsert it in place. [See Figure 15-38D.]&lt;/p&gt;&lt;p&gt;After surgery, I found myself strapped into an elaborate sling to protect my shoulder for over six weeks. The rehabilitation was tough and consisted of physical therapy and slow return to activity, but it was worth it as I can now get back on the golf course!&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;em&gt;Davi-Ellen Chabner.&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="6c2c58de-986e-4d10-8b21-f20b194a6086">
+    <STATIC_figure>
+  <image>chp00015_f015-038-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-38 &lt;/span&gt;A,&lt;/strong&gt; Anterior view of anatomy of shoulder and &lt;strong&gt;rotator cuff tendon and muscles. B, MRI showing rotator cuff tear&lt;/strong&gt; in tendon of supraspinatus muscle. &lt;strong&gt;C, Arthroscopic surgery &lt;/strong&gt;to repair torn tendons. &lt;strong&gt;D,&lt;/strong&gt; Arthroscopic view of procedure. B &amp;amp; D Courtesy of Dr. Thomas Holovacs, Massachusets General Hospital, Boston, MA.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="406510bb-a92d-45c9-bd8e-0de26c8b9cab">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_review_sheet.png" data-handler-handled="true"/&gt; &lt;/span&gt;&lt;span style="color:#D81E5D;"&gt;REVIEW SHEET&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b097bcd7-4e0d-40c9-8d36-b310f7182dd4">
+    <STATIC_text>
+  <text>&lt;p&gt;Write the meanings of the combining forms in the spaces provided, and test yourself. Check your answers with the information in the text or in the &lt;em&gt;&lt;a href="000302293190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;&lt;strong&gt;Glossary (Medical Word Parts—English)&lt;/strong&gt;&lt;/a&gt; &lt;/em&gt;at the end of the book.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="9d0b1b8c-3f1b-4d2c-95b9-d68b3cc107b9">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Combining Forms</text>
+</STATIC_heading>
+  </block>
+  <block refid="752a818f-e99a-4639-906b-6d5c7b149322">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;: Click or tap on the &lt;em&gt;plus&lt;/em&gt; sign to reveal the opposite side of the card.  &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="49110f55-8521-4307-a7a9-0f0d029096d7">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;ion/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;ion; to wander&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="7f3694ff-0c4e-4e1d-9dd6-2f8c5b448fe6">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;is/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;same; equal&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="f26e7349-4c63-4a45-8e13-2bcd7c3abf80">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;myel/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;spinal cord; bone marrow&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="1da05193-5c6d-4812-8ae1-24974820041f">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;pharmaceut/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;drug&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5e6ca7b8-b437-4c7a-beab-34b1a316bf41">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;radi/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;x-rays; radioactivity; radius (lateral lower arm bone)&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="73325ff7-d86c-46bf-a3d5-7dd282f0f82f">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;son/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;sound&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="b5e85cbf-aa9d-45ea-a6d4-11ae3605ff8d">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;therapeut/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;treatment&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e165a962-df3a-4891-8695-29530a597ec1">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;vitr/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;vitreous body (of the eye); glass&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="e977673e-cdb5-4acf-8300-2a01405ca4ab">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;viv/o</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;life&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="2056d9c1-5837-431e-8ba5-9011b281bd21">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Suffixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="eac490bd-e81a-4f79-a8f2-781d413ad2fc">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;-gram</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;record&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="92200eb5-9609-4357-b97e-fbbda711cd76">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;-graphy</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;process of recording&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="68743f96-79bf-42a5-8eba-040b80599b9b">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;-lucent</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;to shine&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="3669d0d3-df4d-4ae6-9b05-a11bbac5639d">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;-opaque</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;obscure&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="daf6db0b-b331-40ea-84fe-b01c4d03f01b">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>Prefixes</text>
+</STATIC_heading>
+  </block>
+  <block refid="3020ccc8-ca46-41ec-acb9-d936cb7022f3">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;echo-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;reflected sound&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="a7251ef4-b99c-482a-9d78-72e48a3b99d1">
+    <HIDESHOW>
+  <header>
+    <title>&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;ultra-</title>
+  </header>
+  <stimulus>
+    <imagePart>
+      <image/>
+      <imageControls>
+        <imageScale value="full-screen"/>
+        <imageAlignment value="center"/>
+        <enableBorder value="off"/>
+        <enableZoom value="on"/>
+        <searchableImage value="on"/>
+        <legacyErrorLabel/>
+      </imageControls>
+      <imageCaption/>
+      <imageAltText/>
+    </imagePart>
+    <audioPart>
+      <audio/>
+      <audioTranscript/>
+    </audioPart>
+    <readingPart>
+      <reading>&lt;p&gt;&lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;beyond; excess&lt;/p&gt;</reading>
+    </readingPart>
+    <videoPart>
+      <embeddedVideo/>
+      <errorLabel/>
+      <video/>
+      <videoPoster/>
+      <videoInfo/>
+      <a11yFeatures>
+        <videoCaption/>
+        <videoUseVTT value="yes"/>
+        <videoTranscript/>
+      </a11yFeatures>
+    </videoPart>
+  </stimulus>
+</HIDESHOW>
+  </block>
+  <block refid="5502318a-51f5-4c09-abac-58046e1f79e4">
+    <STATIC_hr-divider/>
+  </block>
+  <block refid="7d185a4e-41f6-4013-8197-7ee79af71498">
+    <STATIC_text>
+  <text>&lt;p&gt;Please visit the Evolve website for additional exercises, games, and images related to this chapter.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

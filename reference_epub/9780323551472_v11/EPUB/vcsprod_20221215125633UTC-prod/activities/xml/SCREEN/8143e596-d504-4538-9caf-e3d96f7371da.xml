@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="138359c6-4331-4ffe-90d3-934b6dcb4513">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0a2b76f2-a218-4aa2-af3d-109dc4c130f2">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CUTANEOUS LESIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="08e6b8de-1858-42a6-b890-25c063b25475">
+    <STATIC_text>
+  <text>&lt;p&gt;A &lt;strong&gt;lesion&lt;/strong&gt; is an area of abnormal tissue anywhere on or in the body. It may be caused by disease or trauma (external forces). The following terms describe common skin lesions, which are illustrated in Figure 16-8A-K.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0c9f16de-f3cc-4663-bc17-699790298efe">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;A. crust&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Collection of dried serum and cellular debris. &lt;/strong&gt;&lt;br/&gt;A scab is a crust. It forms from the drying of a body exudate, as in eczema, impetigo, and seborrhea. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;B. cyst&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Thick-walled, closed sac or pouch containing ﬂuid or semisolid material. &lt;/strong&gt;&lt;br/&gt;Examples of cysts are the &lt;strong&gt;pilonidal cyst&lt;/strong&gt;, which is found over the sacral area of the back in the midline and contains hairs (&lt;strong&gt;pil/o&lt;/strong&gt; = hair, &lt;strong&gt;nid/o&lt;/strong&gt; = nest); and a &lt;strong&gt;epidermoid cyst&lt;/strong&gt;, a collection of yellowish, cheesy sebum commonly found on the scalp, vulva, and scrotum.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;C. erosion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Wearing away or loss of epidermis.&lt;/strong&gt;&lt;br/&gt;Erosions do not penetrate below the dermoepidermal junction. They occur as a result of inﬂammation or injury and heal without scarring.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;D. ﬁssure&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Groove or crack-like sore. &lt;/strong&gt;&lt;br/&gt;An anal ﬁssure is a break in the skin lining of the anal canal.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;E. macule&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Flat, pigmented lesion measuring less than 1 cm in diameter. &lt;/strong&gt;&lt;br/&gt;Freckles, tattoo marks, and ﬂat moles are examples. A &lt;strong&gt;patch&lt;/strong&gt; is a large macule, greater than 1 cm in diameter. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;F. nodule&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Solid, round or oval elevated lesion 1 cm or more in diameter. &lt;/strong&gt;&lt;br/&gt;An enlarged lymph node and solid growths are examples.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;G. papule&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Small (less than 1 cm in diameter), solid elevation of the skin. &lt;br/&gt;Skin tags&lt;/strong&gt; are small benign growths usually attached to the skin via a stalk (&lt;strong&gt;pedunculated&lt;/strong&gt;). &lt;strong&gt;Pimples&lt;/strong&gt; (as in acne) are also examples. Papules may become conﬂuent (run together) and form &lt;strong&gt;plaques&lt;/strong&gt;, which are elevated ﬂat lesions.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="white-space: nowrap;"&gt;&lt;strong&gt;H. pustule&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Papule containing pus&lt;/strong&gt;.&lt;br/&gt;A  pustule is a small &lt;strong&gt;abscess&lt;/strong&gt; (collection of pus) on the skin. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;I. ulcer&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Open sore on the skin or mucous membranes (deeper erosion).&lt;/strong&gt; &lt;br/&gt;&lt;strong&gt;Decubitus ulcers&lt;/strong&gt; (bedsores) are caused by pressure that results from lying in one position (Latin &lt;em&gt;decubitus&lt;/em&gt; means lying down). Pressure ulcers usually involve loss of tissue substance and pus or exudate formation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;J. vesicle&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Small collection of clear ﬂuid (serum); blister. &lt;/strong&gt;&lt;br/&gt;Vesicles form in skin after burns and may be seen with allergies and dermatitis. A &lt;strong&gt;bulla&lt;/strong&gt; (&lt;em&gt;plural&lt;/em&gt;: bullae) is a large vesicle.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;K. wheal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Smooth, edematous (swollen) papule or plaque that is centrally redder than the surrounding skin. &lt;/strong&gt;&lt;br/&gt;Wheals may be papular, as in a mosquito bite, or may involve a wide area, as in some allergic reactions. Wheals often are accompanied by itching and are seen in hives (urticaria), anaphylaxis, and insect bites.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ab4dd475-a43f-4405-9fa4-ad83b91a9825">
+    <STATIC_figure>
+  <image>chp00016_f016-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-8 &lt;/span&gt;&lt;strong&gt;Cutaneous lesions. A, Crust&lt;/strong&gt;—scab. &lt;strong&gt;B, Cyst&lt;/strong&gt;—pilonidal cyst. &lt;strong&gt;C, Erosion&lt;/strong&gt;—2nd degree burn. &lt;strong&gt;D, Fissures. E, Macule&lt;/strong&gt;—freckles. &lt;strong&gt;F, Nodules. G, Papules&lt;/strong&gt;—skin tag. &lt;strong&gt;H, Pustules&lt;/strong&gt;—acne. &lt;strong&gt;I, Ulcer&lt;/strong&gt;—decubitus ulcer. &lt;strong&gt;J, Vesicles&lt;/strong&gt;—Herpes zoster (shingles). &lt;strong&gt;K, Wheal&lt;/strong&gt;—urticaria (hives). &lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9e2ac392-49a9-4e96-ad35-92bd6794862d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SIGNS AND SYMPTOMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="74ea3854-9905-44b5-a6ad-6d3af093beeb">
+    <STATIC_text-figure>
+  <image>chp00016_f016-009a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-9A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;alopecia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Absence of hair from areas where it normally grows.&lt;/strong&gt;&lt;br/&gt;Alopecia, or baldness, may be hereditary (usual progressive loss of scalp hair in men) or it may be caused by disease, injury, or treatment (chemotherapy) or may occur with old age. &lt;strong&gt;Alopecia areata&lt;/strong&gt; is an autoimmune disease in which hair falls out in round patches without scarring or inflammation as shown in Figure 16-9A.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="f955ea1b-245c-4d38-8a6b-6ead93e47fa5">
+    <STATIC_text-figure>
+  <image>chp00016_f016-009b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-9B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;ecchymosis (&lt;/strong&gt;&lt;em&gt;pl.&lt;/em&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;ecchymoses)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bluish-purplish mark (bruise) on the skin.&lt;/strong&gt;&lt;br/&gt;Ecchymoses (&lt;strong&gt;ec&lt;/strong&gt;- = out, &lt;strong&gt;chym/o&lt;/strong&gt; = pour) are caused by hemorrhages into the skin from injury or spontaneous leaking of blood from vessels. Figure 16-9B shows high-grade tear at the myotendinous junction in the right pectoralis major muscle.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="2c9bca25-79ab-4924-9dd0-9997631553e6">
+    <STATIC_text-figure>
+  <image>chp00016_f016-009c-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-9C&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;petechia (&lt;/strong&gt;&lt;em&gt;plural:&lt;/em&gt;&lt;strong&gt; petechiae)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Small, pinpoint hemorrhage. &lt;br/&gt; &lt;/strong&gt;&lt;br/&gt; Petechiae (peh-TE-ke-i) are smaller versions of ecchymoses (Figure 16-9C). Both ecchymoses and petechiae are forms of &lt;strong&gt;purpura&lt;/strong&gt; (bleeding into the skin).&lt;br/&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="ca1e6b5f-e778-4581-be8c-126b7e638630">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;pruritus &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Itching.&lt;/strong&gt;&lt;br/&gt;Pruritus is a symptom associated with most forms of dermatitis and with other conditions as well. It arises as a result of stimulation of nerves in the skin by substances released in allergic reactions or by irritation caused by substances in the blood or by foreign bodies.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="539184fb-9fd0-401d-85c2-d58a8ca9f788">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; pruritus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pruritus Be sure to spell &lt;strong&gt;pruritus&lt;/strong&gt; correctly. It is a condition, not an inflammation (-itis)&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4e1e9919-4dbe-423b-a48b-cf325909c62a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ABNORMAL CONDITIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7de89939-18c9-4431-b346-b81ae49e0a03">
+    <STATIC_text-figure>
+  <image>Fig_16.10.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-10&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;acne&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chronic papular and pustular eruption of the skin with increased production of sebum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Acne vulgaris&lt;/strong&gt; (Latin &lt;em&gt;vulgaris &lt;/em&gt;means ordinary) is caused by the buildup of sebum and keratin in the pores of the skin. See Figure 16-10A. A &lt;strong&gt;blackhead&lt;/strong&gt; is called an open &lt;strong&gt;comedo&lt;/strong&gt; or &lt;strong&gt;comedone&lt;/strong&gt; (plural &lt;strong&gt;comedones&lt;/strong&gt;.)&lt;/p&gt;&lt;p&gt;It is a sebum plug that partially blocks the pore (Figure 16-10B). If the pore becomes completely blocked, a &lt;strong&gt;whitehead&lt;/strong&gt; (closed comedone) forms. Bacteria in the skin break down the sebum, producing inflammation in the surrounding tissue. Papules, pustules, and cysts can thus form. Treatment can include antibiotic use and medications to decrease inflammation in the skin. Benzoyl peroxide and tretinoin (Retin-A) are topical medications used to prevent comedone formation; isotretinoin (Accutane) is an oral retinoid used in severe cystic or treatmentresistant acne.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="94b2386d-5d16-4e87-a73e-5fa4677928d8">
+    <STATIC_text-figure>
+  <image>chp00016_f016-011-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-11&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;burns&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Injury to tissues caused by heat contact.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Burns may be caused by dry heat (fire), moist heat (steam or liquid), chemicals, lightning, electricity, or radiation. Burns usually are classified as follows:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;first-degree burns&lt;/strong&gt; —superficial epidermal lesions, erythema, hyperesthesia, and no blisters.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;second-degree burns (partial-thickness burn injury)&lt;/strong&gt; —epidermal and dermal lesions, erythema, blisters, and hyperesthesia. Wound is painful and very sensitive to touch and air currents. See Figure 16-11.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;third-degree burns (full-thickness burn injury)&lt;/strong&gt; —epidermis and dermis are destroyed (necrosis of skin), and subcutaneous layer is damaged, leaving charred, white tissue. The wound itself is insensate (patient does not respond to pinprick). See Figure 16-11.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="dd471db1-c5cd-4807-914a-e1f11c7ae4d1">
+    <STATIC_text-figure>
+  <image>chp00016_f016-012a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-12A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;cellulitis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Diffuse, acute infection of the skin marked by local heat, redness, pain, and swelling.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abscess formation and tissue destruction can occur if appropriate antibiotic therapy is not given. Areas of poor lymphatic drainage are susceptible to this skin infection. A 63-year old man traveling on a safari in Botswana, noticed swelling, redness, and pain in his upper leg. After a local physician prescribed oral antibiotics, he was advised to interrupt his trip to get intravenous antibiotics at a major hospital. His cellulitis eventually cleared. See Figure 16-12A.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="158ba89b-302b-4b77-8e43-bcf11ca4e9eb">
+    <STATIC_text-figure>
+  <image>chp00016_f016-012b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-12B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;eczema (atopic dermatitis)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Inflammatory skin disease with erythematous, papulovesicular, or papulosquamous lesions.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a chronic or acute &lt;strong&gt;atopic dermatitis&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;/strong&gt; (rash often begins on face, hands, and at the elbow crease, or back of the knee crease). It is accompanied by intense pruritus and tends to occur in patients with a family history of allergic conditions. Treatment depends on the cause but usually includes the use of corticosteroids and moisturizers. If one parent has atopic dermatitis, asthma, or hay fever, there’s about a 50% chance that a child will have at least one of these conditions. See Figure 16-12B.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="7638a6b4-4a6e-4760-a251-28a823c6e569">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Atopic Dermatitis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Atopic means pertaining to &lt;strong&gt;atopy&lt;/strong&gt;, which means out of place or unusual (a = no, top = place). It is an inflammatory condition that may be hereditary, but environmental factors can also be a trigger.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="19df18b4-be81-4ed5-90c2-eeebfae505d5">
+    <STATIC_text-figure>
+  <image>chp00016_f016-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-13&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;exanthematous viral diseases&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rash (exanthem) of the skin due to a viral infection. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Examples are &lt;strong&gt;rubella&lt;/strong&gt; (German measles), &lt;strong&gt;rubeola&lt;/strong&gt; (measles), and &lt;strong&gt;varicella&lt;/strong&gt; (chickenpox). These conditions are no longer as common in children because of vaccination programs. However, &lt;strong&gt;erythema infectiosum&lt;/strong&gt; (fifth disease) is a common exanthematous viral disease. It is marked by fever and an erythematous rash that has a “slapped cheek” appearance on the face and later involving the arms, buttocks, and trunk. It is caused by a parvovirus. &lt;strong&gt;Hand-foot-and-mouth disease&lt;/strong&gt; is another common viral illness in children and is caused by an enterovirus. See Figure 16-13.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="e5b98c4f-d591-44f3-8373-9b4c309117a8">
+    <STATIC_text-figure>
+  <image>chp00016_f016-014a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-14A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;gangrene&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Death of tissue associated with loss of blood supply.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this condition, ischemia resulting from injury, inflammation, frostbite, diseases such as diabetes, or arteriosclerosis can lead to necrosis of tissue followed by bacterial invasion and putrefaction (proteins are decomposed by bacteria). See Figure 16-14A.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="c59e07f9-0e10-4a7b-bd63-bd2f7f4a1757">
+    <STATIC_text-figure>
+  <image>chp00016_f016-014b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-14B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;impetigo&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bacterial inflammatory skin disease characterized by vesicles, pustules, and crusted-over lesions.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a contagious pyoderma (&lt;strong&gt;py/o&lt;/strong&gt; = pus) and usually is caused by staphylococci or streptococci. Systemic use of antibiotics combined with proper cleansing of lesions is effective treatment. See Figure 16-14B.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="bd8662c3-6ab8-4052-81b6-8c7a4535f1a2">
+    <STATIC_text-figure>
+  <image>chp00016_f016-015a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-15A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;Psoriasis &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chronic, recurrent dermatosis marked by itchy, scaly, red plaques covered by silvery gray scales.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Psoriasis commonly involves the forearms, knees, legs, and scalp. See Figure 16-15A. It is neither infectious nor contagious but is caused by an increased rate of growth of the basal layer of the epidermis. It is an autoinflammatory disease that can run in families. Treatment is &lt;strong&gt;palliative&lt;/strong&gt; (relieving but not curing) and includes topical lubricants, keratolytics, and steroids. Systemic treatments include psoralen–ultraviolet A (PUVA) light therapy and immunomodulators.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="bce445c0-81e2-4bf1-bf40-ad7c50abc4dc">
+    <STATIC_text-figure>
+  <image>chp00016_f016-015b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-15B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;scabies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contagious, parasitic infection of the skin with intense pruritus (&lt;/strong&gt;Figure 16-15B&lt;strong&gt;).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Scabies (from Latin &lt;em&gt;scabere&lt;/em&gt;, to scratch) commonly affects areas such as the groin, nipples, and skin between the fingers. Treatment is with topical medicated cream to destroy the scabies mites (tiny parasites).&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="11ea049d-c7c8-4c45-85de-8c29ee65f8ab">
+    <STATIC_text-figure>
+  <image>chp00016_f016-016a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-16A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;scleroderma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chronic progressive disease of the skin and internal organs with hardening and shrinking of connective tissue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fibrous scar-like tissue forms in the skin, and the heart, lungs, kidneys, and esophagus may be affected as well. Skin is thick, hard, and rigid, with areas of both depigmentation and hyperpigmentation. See Figure 16-16A. It is an autoimmune disease for which palliative treatment consists of immunosuppressive and anti-inflammatory agents, antifibrotics, and physical therapy.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="d3449913-0223-4ae5-b189-a16c74196cef">
+    <STATIC_text-figure>
+  <image>chp00016_f016-016b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-16B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;systemic lupus erythematosus (SLE)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chronic autoimmune inflammatory disease of collagen in skin, joints, and internal organs.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lupus, meaning wolf-like (the shape and color of the erosive skin lesions and tissue loss resembling a wolf attack), produces a characteristic “butterfly” pattern of redness over the cheeks and nose. See Figure 16-16B. In more severe cases, the extent of erythema increases, and all exposed areas of the skin may be involved. Primarily a disease of females, lupus is an autoimmune disorder. High levels of certain autoantibodies are found in the patient’s blood. Corticosteroids and immunosuppressive drugs are used to control symptoms.&lt;/p&gt;&lt;p&gt;SLE should be differentiated from chronic &lt;strong&gt;discoid lupus erythematosus (DLE),&lt;/strong&gt; which is a photosensitive, scaling, plaque-like eruption of the skin confined to the face, scalp, ears, chest, arms, and back, which heals with scarring. SLE should also be differentiated from &lt;strong&gt;lupus vulgaris&lt;/strong&gt;, which refers to a cutaneous form of tuberculosis.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="978dbe33-7f46-40be-8d3f-7f20ef60ba03">
+    <STATIC_text-figure>
+  <image>chp00016_f016-017-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-17&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;tinea&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Infection of the skin caused by a fungus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tinea corporis&lt;/strong&gt;, or ringworm, so called because the infection is in a ring-like pattern (Figure 16-17A), is highly contagious and causes severe pruritus. Other examples are &lt;strong&gt;tinea pedis&lt;/strong&gt; (athlete’s foot, which affects the skin between the toes), &lt;strong&gt;tinea capitis &lt;/strong&gt;(on the scalp), &lt;strong&gt;tinea barbae&lt;/strong&gt; (affecting the skin under a beard), and &lt;strong&gt;tinea unguium&lt;/strong&gt; (affecting the nails). Figure 16-17B shows fungal infection of the nail (onychomycosis) causes the distal nail plate to turn yellow or white. Hyperkeratotic debris accumulates, causing the nail to separate from the nail bed (&lt;strong&gt;onycholysis&lt;/strong&gt;). Treatment for tinea is with antifungal agents. (Latin &lt;em&gt;tinea &lt;/em&gt;means worm or moth—apparently the Romans thought that skin affected with tinea looked “moth-eaten.”)&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="656b11d2-c622-4925-b3e2-1ad6d6be6f49">
+    <STATIC_text-figure>
+  <image>chp00016_f016-018a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-18A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;urticaria (hives)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Acute allergic reaction in which red, round wheals develop on the skin.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hives often are a reaction to foods (shellfish, nuts, eggs) or to medication. Histamine is released into the bloodstream, causing &lt;strong&gt;pruritus&lt;/strong&gt; and &lt;strong&gt;edema&lt;/strong&gt; (swelling). &lt;strong&gt;Angioedema&lt;/strong&gt; is swelling around the face. Other substances and events that can trigger hives are animal dander, insect bites and stings, and pollen. Notice the erythematous, edematous, often circular plaques as illustrated in Figure 16-18A.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="64b820da-cbf1-4561-8d96-7e37df3f5810">
+    <STATIC_text-figure>
+  <image>chp00016_f016-018b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-18B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;vitiligo&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Loss of pigment (depigmentation) in areas of the skin (milk-white patches).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a form of &lt;strong&gt;leukoderma&lt;/strong&gt;. The skin changes result from an autoimmune process, and there is an increased association of vitiligo with autoimmune disorders such as thyroiditis, hyperthyroidism, and diabetes mellitus. Figure 16-18B shows &lt;strong&gt;vitiligo&lt;/strong&gt; (from Latin &lt;em&gt;vitium, &lt;/em&gt;blemish) on the hand. Epidermal melanocytes are completely lost in depigmented areas through an autoimmune process.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="b94cf0a5-a4fb-429d-a39a-05bca240ee58">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SKIN NEOPLASMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d717b8c5-d3a1-4744-a1eb-e2ae7f76ed80">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Benign Neoplasms&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="229d1a98-ee74-4a99-a2a6-65dc99a1e450">
+    <STATIC_text-figure>
+  <image>chp00016_f016-019a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-19A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;callus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Increased growth of cells in the keratin layer of the epidermis caused by pressure or friction.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The feet and the hands are common sites for callus formation. A corn (clavis) is a type of callus that develops a hard core (a whitish, cone-shaped central kernel). Figure 16-19A shows a callus on the sole of the foot.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="03aa86be-9bf1-4230-b028-64bd115df840">
+    <STATIC_text-figure>
+  <image>chp00016_f016-019b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-19B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;keloid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Excess hypertrophied, thickened scar developing after trauma or surgical incision.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Keloids (Figure 16-19B) result from excessive collagen formation in the skin during connective tissue repair. Keloids extend beyond the boundaries of the original injury. See Figure 16-19B showing keloid formation behind the ear. The term comes from the Greek &lt;em&gt;kelis&lt;/em&gt;, meaning blemish. Surgical excision often is combined with intralesional steroid injections or ablative laser treatments.&lt;/p&gt;&lt;p&gt;A normal scar left by a healed wound is called a &lt;strong&gt;cicatrix&lt;/strong&gt; (SIK-ah-trix).&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="09b051b5-13bc-4b9d-96a5-70a78f0c5c91">
+    <STATIC_text-figure>
+  <image>chp00016_f016-020a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-20A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;keratosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Thickened and rough lesion of the epidermis; associated with aging or skin damage. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Actinic keratosis&lt;/strong&gt; is caused by long-term ultraviolet light exposure and is a precancerous lesion that can evolve into squamous cell carcinoma (Figure 16-20A).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Seborrheic keratosis&lt;/strong&gt; is a benign lesion that results from overgrowth of the upper epidermis and is dark in color.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="0d648d76-69b5-47b8-95c4-b3344fd854ac">
+    <STATIC_text-figure>
+  <image>chp00016_f016-020b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-20B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;leukoplakia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;White, thickened patches on mucous membrane tissue of the tongue or cheek (evolves to squamous cell carcinoma).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One type is a precancerous lesion that is common in smokers and may be caused by chronic inflammation. See Figure 16-20B.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="0822def4-57c5-4789-9dbe-dcbb50c55105">
+    <STATIC_text-figure>
+  <image>chp00016_f016-020c-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-20C&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;nevus (&lt;/strong&gt;&lt;em&gt;plural&lt;/em&gt;&lt;strong&gt;&lt;em&gt;: &lt;/em&gt;nevi)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pigmented lesion of the skin&lt;/strong&gt; (See Figure 20-C).&lt;/p&gt;&lt;p&gt;Nevi are commonly known as moles. Many are present at birth, but some are acquired.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Dysplastic nevi&lt;/strong&gt; are moles that have atypical cells and may progress to form a type of skin cancer called melanoma (see &lt;strong&gt;malignant melanoma&lt;/strong&gt;).&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="65e63b98-1b7e-4503-a488-2e01c30288a7">
+    <STATIC_text-figure>
+  <image>chp00016_f016-020d-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-20D&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;verruca (&lt;/strong&gt;&lt;em&gt;plural: &lt;/em&gt;&lt;strong&gt;verrucae)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Epidermal growth (wart) caused by a virus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verruca vulgaris&lt;/strong&gt; (common wart) is the most frequent type of wart (Figure 16-20D). &lt;strong&gt;Plantar warts&lt;/strong&gt; occur on the soles of the feet, juvenile warts occur on the hands and face of children, and venereal warts occur on the genitals and around the anus. Warts are removed with acids, or freezing with liquid nitrogen (cryosurgery), or immune therapy. If the virus remains in the skin, the wart frequently regrows.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="117ce2a9-2464-4db9-b2cb-def744584e34">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Cancerous Lesions&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a9fb8cb1-87e9-44f8-b085-9771a16a9013">
+    <STATIC_text-figure>
+  <image>chp00016_f016-021a-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-21A&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;basal cell carcinoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the basal cell layer of the epidermis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is the most common cancer in humans and the most common skin cancer. It is a slow-growing tumor that usually occurs on chronically sun-exposed skin, especially near or on the nose (Figure 16-21A). It almost never metastasizes.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="6d18db49-cbe0-4d97-904f-d8607c7dd68b">
+    <STATIC_text-figure>
+  <image>chp00016_f016-021b-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-21B&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;squamous cell carcinoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the squamous epithelial cells in the epidermis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This tumor may grow in places other than the skin, wherever squamous epithelium is found (mouth, larynx, bladder, esophagus, lungs). &lt;strong&gt;Actinic&lt;/strong&gt; (sun-related) &lt;strong&gt;keratoses&lt;/strong&gt; are premalignant (precursor) lesions in people with sun-damaged skin. Progression to squamous cell carcinoma may occur if lesions are not removed. Advanced lesions often are nodular and ulcerated. See Figure 16-21B. Treatment is removal by surgical excision, cryotherapy, electrodesiccation and curettage, or radiotherapy.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="47d0c6d7-f898-4e35-843a-5a7f9628c115">
+    <STATIC_text-figure>
+  <image>chp00016_f016-022-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 16-22&lt;/strong&gt; &lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;The ABCDEs of melanoma:&lt;br/&gt;A&lt;/strong&gt;symmetry: one half unlike the other half&lt;/span&gt;&lt;br/&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;B&lt;/strong&gt;order: irregular or poorly circumscribed border&lt;/span&gt;&lt;br/&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;C&lt;/strong&gt;olor: varies from one area to another; shades of tan and brown, black, and sometimes white, red, or blue&lt;/span&gt;&lt;br/&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;D&lt;/strong&gt;iameter: usually larger than 6 mm (diameter of a pencil eraser)&lt;br/&gt;&lt;strong&gt;E&lt;/strong&gt;volution: change in the lesion over time&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;malignant melanoma &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cancerous growth composed of melanocytes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This malignancy usually occurs after prolonged exposure to sunlight in darkly tanned or sunburned areas of skin. Melanoma usually begins as a mottled, light brown to black macule with irregular borders (Figure 16-22). The lesion may turn shades of red, blue, and white and may crust on the surface and bleed. Melanomas may arise in preexisting moles (dysplastic nevi) and frequently appear on the upper back, lower legs, arms, head, and neck.&lt;/p&gt;&lt;p&gt;Biopsy is required to confirm the diagnosis of melanoma, and prognosis is best determined by tumor thickness and by the presence of spread to lymph nodes.&lt;/p&gt;&lt;p&gt;Melanomas often metastasize to the lung, liver, bone, and brain. Treatment of initial lesions consists of excision of tumors and regional lymphadenectomy. For metastatic disease, patients receive drugs that target B-RAF mutations or immunotherapy. &lt;strong&gt;&lt;em&gt;In Person: Metastatic Melanoma&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="f20f7966-754c-49b4-8ad7-e99747bcbf0c">
+    <STATIC_text-figure>
+  <image>chp00016_f016-023-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 16-23&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;strong&gt;Kaposi sarcoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Malignant, vascular, neoplastic growth characterized by cutaneous nodules.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Frequently arising on arms and legs, nodules range in color from deep pink to dark blue and purple. One form of this condition is associated with acquired immunodeficiency syndrome (AIDS). See Figure 16-23.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+</blocks>

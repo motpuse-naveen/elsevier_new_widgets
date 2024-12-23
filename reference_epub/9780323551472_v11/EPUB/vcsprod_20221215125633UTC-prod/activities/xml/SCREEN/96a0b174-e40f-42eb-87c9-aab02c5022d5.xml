@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="5b40c081-3ad3-4799-8129-2adb2cf8b233">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fb87ada4-efbd-40b9-84a7-e2b7f96ac0c6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4b28717e-5073-49cb-a4e4-8b74cb04bf46">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cerebrospinal fluid analysis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Samples of CSF are examined.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;CSF analysis measures protein, glucose, and red (RBC) and white (WBC) blood cells as well as other chemical contents of the CSF. CSF analysis also can detect tumor cells (by cytology), bacteria, and viruses. These studies are used to diagnose infection, tumors, or multiple sclerosis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3223c1ac-7607-4076-9b1a-c781ecd62112">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dbe16da2-713a-4951-b699-7be4f98c9b3f">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;X-Ray Tests&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5bd8e8e0-3876-45c6-a227-d8d6c72c40eb">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cerebral angiography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging of the arterial blood vessels in the brain after injection of contrast material.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Contrast is injected into the femoral artery (in the thigh), and x-ray motion pictures are taken. These images diagnose vascular disease (aneurysm, occlusion, hemorrhage) in the brain.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;computed tomography (CT) of the brain&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Computerized x-ray technique that generates multiple images of the brain and spinal cord.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Contrast material may be injected intravenously to highlight abnormalities. The contrast leaks through the &lt;strong&gt;blood-brain barrier &lt;/strong&gt;from blood vessels into the brain tissue and shows tumors, aneurysms, bleeding, brain injury, skull fractures, and blood clots. Operations are performed using the CT scan as a local road map. CT scans also are particularly useful for visualizing blood and bone.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="bb782630-1dac-4d50-adab-decc096f978d">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Magnetic Resonance Techniques&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="42e6ee48-1497-4035-a616-84507868ef6a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;magnetic resonance imaging (MRI)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Magnetic field and pulses of radiowave energy create images of the brain and spinal cord.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;MRI is better than CT at evaluation of brain parenchyma. It is excellent for viewing brain damage related to infection, inflammation or tumors. It also is used to look for causes of headaches, to help diagnose a stroke, and to detect bleeding problems and head injury. Contrast material may be used to enhance images. &lt;strong&gt;Magnetic resonance angiography (MRA) &lt;/strong&gt;produces images of blood vessels using magnetic resonance techniques.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="98afd5fa-667d-4488-8694-f5c64de807f4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Radionuclide Studies&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3a3096ba-5964-4257-8d30-b07597420c4f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;positron emission tomography (PET) scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radioactive glucose is injected and then detected in the brain to image the metabolic activity of cells.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;PET scans provide valuable information about the function of brain tissue in patients, to detect malignancy and to evaluate brain abnormalities in Alzheimer disease, stroke, schizophrenia, and epilepsy (Figure 10-22). Combined &lt;strong&gt;PET-CT scanners&lt;/strong&gt; provide images that pinpoint the location of abnormal metabolic activity within the brain.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="10b9153c-c95c-426c-8377-4a8e804f0bdc">
+    <STATIC_figure>
+  <image>chp00010_f010-022-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-22 &lt;/span&gt;PET scans. A, Normal brain. B, Brain affected by Alzheimer disease. &lt;/strong&gt;&lt;em&gt;Red &lt;/em&gt;and &lt;em&gt;yellow areas &lt;/em&gt;indicate high neural activity. &lt;em&gt;Blue &lt;/em&gt;and &lt;em&gt;purple &lt;/em&gt;indicate low neural activity.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="8399af0c-3b7f-4e70-b037-966496067ae4">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Examination&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0efcaadb-b22a-45cc-be3a-959601fe1284">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Doppler ultrasound studies&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sound waves detect blood flow in the carotid and intracranial arteries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The carotid artery carries blood to the brain. These studies detect occlusion in blood vessels.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="268692ce-21a2-4621-991e-2c2c3090e457">
+    <STATIC_figure>
+  <image>chp00010_f010-023-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-23 &lt;/span&gt;Lumbar puncture.&lt;/strong&gt; The patient lies laterally, with the knees drawn up to the abdomen and the chin brought down to the chest. This position increases the spaces between the vertebrae. The lumbar puncture needle is inserted between the third and fourth (or the fourth and fifth) lumbar vertebrae and then is advanced to enter the subarachnoid space.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f204a5ee-f456-43e6-9231-c7dc87c73f07">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Other Procedures&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="980fd4af-5dbb-4569-87f4-1ba83dc40274">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;electroencephalography (EEG)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Recording of the electrical activity of the brain. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;EEG demonstrates seizure activity resulting from brain tumors, other diseases, and injury to the brain. It can also help define diffuse cortical dysfunction (encephalopathies).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lumbar puncture (LP)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;CSF is withdrawn from between two lumbar vertebrae for analysis (Figure 10-23).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A device to measure the pressure of CSF may be attached to the end of the needle after it has been inserted. Injection of intrathecal medicines may be administered as well. Some patients experience headache after LP. An informal name for this procedure is “spinal tap.”&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;stereotactic radiosurgery&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Use of a specialized instrument to locate and treat targets in the brain.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The stereotactic instrument is fixed onto the skull and guides the insertion of a needle by three-dimensional measurement. A &lt;strong&gt;Gamma Knife &lt;/strong&gt;(high-energy radiation beam) is used to treat deep and often inaccessible intracranial brain tumors and abnormal blood vessel masses &lt;strong&gt;(arteriovenous malformations) &lt;/strong&gt;without surgical incision. &lt;strong&gt;Proton stereotactic radiosurgery (PSRS) &lt;/strong&gt;delivers a uniform dose of proton radiation to a target and spares surrounding normal tissue (Figure 10-24 A and B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="abe0dc21-58aa-4b81-844c-1817e8dc004a">
+    <STATIC_figure>
+  <image>chp00010_f010-024-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-24 &lt;/span&gt;A,&lt;/strong&gt; Patient in position on&lt;strong&gt; stereotactic proton unit, ready to take an alignment x-ray. B, Stereotactic frame&lt;/strong&gt; holds the patient’s head in place for treatment with proton beam radiosurgery. &lt;em&gt;(Courtesy Department of Radiation Therapy, Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

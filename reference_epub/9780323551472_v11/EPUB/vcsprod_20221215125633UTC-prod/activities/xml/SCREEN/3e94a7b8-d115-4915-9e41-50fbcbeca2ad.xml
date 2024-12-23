@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e925a89c-8fc1-4a3f-8df2-af4a8ed2515c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;BLOOD CLOTTING&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c6b4faa9-510f-41fd-9fbd-6f3071e368d7">
+    <STATIC_text>
+  <text>&lt;p&gt;Blood clotting, or &lt;strong&gt;coagulation&lt;/strong&gt;, is a complicated process involving many different substances and chemical reactions. The final result (usually taking less than 15 minutes) is the formation of a &lt;strong&gt;fibrin clot&lt;/strong&gt; from the plasma protein &lt;strong&gt;fibrinogen&lt;/strong&gt;. The suffix -gen means giving rise to. Platelets are important in beginning the process following injury to tissues or blood vessels. The platelets become sticky and collect, or aggregate, at the site of injury. Then, in combination with tissue and protein clotting factors, plus calcium, vitamin K, prothrombin, and thrombin, fibrinogen is converted to fibrin to form a clot (Figure 13-8). One of the important clotting factors is factor VIII. It is missing in some people who are born with hemophilia. Other hemophiliacs are missing factor IX.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c627dbb3-6d96-4e24-9a9b-b987d6f8bb7e">
+    <STATIC_figure>
+  <image>chp00013_f013-008-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-8 &lt;/span&gt;The sequence of events in blood clotting.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="7727bfef-0eb0-4870-bfb3-3d9b3ca2c1bc">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;The fibrin threads form the clot by trapping red blood cells (Figure 13-9 shows a red blood cell trapped by fibrin threads). Then the clot retracts into a tight ball, leaving behind a clear fluid called &lt;strong&gt;serum&lt;/strong&gt;. Serum is related to plasma. It is plasma after the clotting factors have been removed. Normally, clots (thrombi) do not form in blood vessels unless the vessel is damaged or the flow of blood is impeded. &lt;strong&gt;Anticoagulant substances&lt;/strong&gt; in the blood inhibit blood clotting, so clots do not form. &lt;strong&gt;Heparin&lt;/strong&gt;, produced by tissue cells (especially in the liver), is an example of an anticoagulant. Other drugs such as &lt;strong&gt;warfarin&lt;/strong&gt; (Coumadin) are given to patients with thromboembolic diseases to prevent the formation of clots. &lt;strong&gt;Direct oral anticoagulants (DOACs)&lt;/strong&gt; work by inhibiting blood clotting factors such as thrombin.&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5c5e9ed1-e449-494e-9e0d-5087e8f64c66">
+    <STATIC_figure>
+  <image>page_389_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-9 &lt;/span&gt;A red blood cell enmeshed in threads of fibrin.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

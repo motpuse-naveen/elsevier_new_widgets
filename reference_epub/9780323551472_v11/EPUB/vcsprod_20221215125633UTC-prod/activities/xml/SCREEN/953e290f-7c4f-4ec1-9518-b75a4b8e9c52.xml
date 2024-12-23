@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="52b63dff-4dfc-4220-90c2-72486b368b29">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY: THE HEART AND BLOOD VESSELS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e1b9eb1c-2912-49b7-9044-8a6cca35d0bb">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;HEART&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ea9b5555-7989-47ab-99d5-dc7cda56c022">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;arrhythmias&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Abnormal heart rhythms (dysrhythmias)&lt;/strong&gt;.&lt;br/&gt;Arrhythmias are problems with the conduction or electrical system of the heart. More than 4 million Americans have recurrent cardiac arrhythmias.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="d54f4f61-701f-474f-910e-07a67c3bf689">
+    <STATIC_text>
+  <text>&lt;p&gt;Examples of cardiac arrhythmias are:&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="cdada1fe-f65f-4acb-8634-9f7422567b11">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;1. bradycardia and heart block (atrioventricular block)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Failure of proper conduction of impulses from the SA node through the AV node to the atrioventricular bundle (bundle of His)&lt;/strong&gt;.&lt;br/&gt;Damage to the SA node may cause its impulses to be too weak to activate the AV node and impulses fail to reach the ventricles. The heart beats slowly and bradycardia results. If the failure occurs only occasionally, the heart misses a beat in a rhythm at regular intervals (partial heart block). If no impulses reach the AV node from the SA node, the ventricles contract slower than the atria and are not coordinated. This is complete heart block.&lt;br/&gt;Right and left bundle branch block (&lt;strong&gt;RBBB&lt;/strong&gt; and &lt;strong&gt;LBBB&lt;/strong&gt;) are common types of heart block. They involve delay or failure of impulses traveling through the right and left bundle branches to the ventricles.&lt;p&gt;Implantation of an artificial &lt;strong&gt;cardiac pacemaker &lt;/strong&gt;overcomes arrhythmias and keeps the heart beating at the proper rate. The pacemaker power source is a generator that contains a computer and lithium battery. It is implanted under the skin just below the collarbone, with leads (wires) to both chambers or one chamber, on the right side of the heart.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; A newer type of pacemaker, called a &lt;strong&gt;biventricular pacemaker&lt;/strong&gt;, treats delays and abnormalities in ventricular contractions (dysynergy) and also can relieve symptoms and improve quality of life in patients with congestive heart failure. It reduces exacerbations of heart failure that require hospital admission (Figure 11-13C).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a16972b3-1e78-4e98-ba19-987170b58339">
+    <STATIC_figure>
+  <image>chp00011_f011-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-13 &lt;/span&gt;&lt;strong&gt;A, A dual-chamber, rate-responsive pacemaker&lt;/strong&gt; (&lt;em&gt;actual size shown&lt;/em&gt;) is designed to detect body movement and automatically increase or decrease paced heart rates based on levels of physical activity. &lt;strong&gt;B, Cardiac pacemaker&lt;/strong&gt; with leads in the right atrium and right ventricle enable it to sense and pace in both heart chambers. &lt;strong&gt;C, Biventricular pacemaker&lt;/strong&gt; with leads in the right atrium and the right and left ventricles to synchronize ventricular contractions.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e19cc236-fc46-474f-a8f4-517b4e3504e4">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; How Does a Pacemaker Work?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The pacemaker leads (wires) detect the heart’s own electrical activity and transmit that information to the generator (computer). The computer analyzes the heart’s signals and decides when and where to pace. If the rate is slow, the generator emits a signal to stimulate contraction and increase the rate. Pacemakers with multiple leads can pace the atrium and ventricle in proper sequence. Rate-responsive pacemakers have sensors that detect body movement and breathing to then determine the best heart rate.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ca9d2681-7781-4c15-959d-71fd48f29ca4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;2. ﬂutter&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Rapid but regular contractions, usually of the atria. &lt;/strong&gt;&lt;br/&gt;Heart rate may reach up to 300 beats per minute. Atrial ﬂutter often is symptomatic of heart disease and frequently requires treatment such as medication, electrical cardioversion, or catheter ablation (see below under ﬁbrillation).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;3. ﬁbrillation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Very rapid, random, inefﬁcient, and irregular contractions of the heart (350 beats or more per minute)&lt;/strong&gt;.&lt;br/&gt;&lt;strong&gt;Atrial ﬁbrillation (AF)&lt;/strong&gt; is the most common type of cardiac arrhythmia, affecting 5% to 10% of 70- to 80-year-old people and greater than 15% of individuals in their 80s. Electrical impulses move randomly throughout the atria, causing the atria to quiver instead of contracting in a coordinated rhythm. Common symptoms are palpitations &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; (uncomfortable sensations in the chest from missed heartbeats), fatigue, and shortness of breath. Patients with &lt;strong&gt;paroxysmal AF&lt;/strong&gt; (irregular heartbeats occur periodically and episodically) and &lt;strong&gt;permanent&lt;/strong&gt; or &lt;strong&gt;persistent AF&lt;/strong&gt; (irregular heartbeats continue indeﬁnitely) are at a much greater risk for stroke. This is because ineffective atrial contractions can lead to the formation of blood clots in the left atrial appendage (the area where clots form) that may travel to the brain. Also, sometimes AF can make the heart beat very fast for long periods of time, leading to weakening of the heart muscle.&lt;/p&gt;&lt;p&gt;The risk for stroke with AF can be reduced by 80% with the use of anticoagulants (blood thinners such as warfarin) and anticoagulants called DOACs (direct oral anticoagulants). Examples of DOACs are apixaban (Eliquis), dabiatran (Pradaxa), and rivaroxaban (Xarelto). Other medications are used to reset the rhythm of the heart or control its rate.&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;ventricular ﬁbrillation (VF)&lt;/strong&gt;, electrical impulses move randomly throughout the ventricles. This life-threatening situation may result in sudden cardiac death or &lt;strong&gt;cardiac arrest &lt;/strong&gt;(sudden stoppage of heart movement) unless help is provided immediately. If treatment is immediate, VF can be interrupted with &lt;strong&gt;deﬁbrillation&lt;/strong&gt; (application of an electrical shock). Deﬁbrillation stops electrical activity in the heart for a brief moment so that normal rhythm takes over.&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;implantable cardioverter-deﬁbrillator (ICD)&lt;/strong&gt; is a small electrical device that is implanted inside the chest (near the collarbone) to sense arrhythmias and terminate them with an electric shock. Candidates for ICDs are people who have had or are at high risk for having ventricular tachycardia, ventricular ﬁbrillation, and cardiac arrest. &lt;strong&gt;Automatic external deﬁbrillators (AEDs)&lt;/strong&gt; may be found in workplaces, airports, and other public places and are used in an emergency situation to reverse ventricular ﬁbrillation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Catheter ablation&lt;/strong&gt; is a minimally invasive treatment to treat cardiac arrhythmias. The technique, using radiofrequency energy delivered from the tip of a catheter inserted through a blood vessel and into the heart, destroys tissue that causes arrhythmias. Supraventricular tachycardia (SVT), atrial ﬂutter, atrial ﬁbrillation, and ventricular tachycardia (VT) may be treated with ablation when clinically indicated. This procedure may provide a permanent cure in many clinical situations.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="17b5fed6-6224-4123-83e2-18220c1656aa">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Palpitation/Palpation &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;strong&gt;palpitation&lt;/strong&gt; with &lt;strong&gt;palpation&lt;/strong&gt;, which means to touch, feel, or examine with the hands and fingers.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4ff37554-1a71-4d5e-b0af-16c4c124a45d">
+    <STATIC_text>
+  <text>&lt;p&gt;The following conditions are congenital anomalies resulting from some failure in the development of the fetal heart.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6f38578a-8469-42c6-8b3b-d960268fb4a5">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;1. coarctation of the aorta (CoA)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Narrowing (coarctation) of the aorta&lt;/strong&gt;.&lt;br/&gt;Figure 11-14A shows coarctation of the aorta. Surgical treatment consists of removal of the constricted region and end-to-end anastomosis of the aortic segments.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;2. patent ductus arteriosus (PDA)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Passageway (ductus arteriosus) between the aorta and the pulmonary artery remains open (patent) after birth&lt;/strong&gt;. The ductus arteriosus normally closes after birth, but in this congenital condition it remains open (see Figure 11-14B), resulting in the ﬂow of oxygenated blood from the aorta into the pulmonary artery. PDA occurs in premature infants, causing cyanosis, fatigue, and rapid breathing. Although the defect often closes on its own within months after birth, treatment may be necessary if patency continues. Treatments include use of a drug (indomethacin) to promote closure; surgery via catheterization (with coil embolization to “plug” the ductus); and ligation (tying off) performed through a small incision between the ribs.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a3ced518-b1dd-4744-9d0b-d72ba4d9ac15">
+    <STATIC_figure>
+  <image>chp00011_f011-014-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-14 &lt;/span&gt;&lt;strong&gt;A, Coarctation of the aorta&lt;/strong&gt;. Localized narrowing of the aorta reduces the supply of blood to the lower part of the body. &lt;strong&gt;B, Patent ductus arteriosus&lt;/strong&gt;. The ductus arteriosus fails to close after birth, and blood from the aorta flows through it into the pulmonary artery.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="59f9ed89-47fc-4acf-b3d2-e7c6adcfea48">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;3. septal defects&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Small holes in the wall between the atria (atrial septal defects) or the ventricles (ventricular septal defects)&lt;/strong&gt;. Figure 11-15A shows a ventricular septal defect.&lt;/p&gt;&lt;p&gt;Although many septal defects close spontaneously, others require open heart surgery to close the hole between heart chambers, or they may be repaired through minimally invasive surgery, using a catheter inserted through a blood vessel leading to the heart. A heart-lung machine is connected to the patient’s circulatory system during open heart surgery to relieve the heart and lungs of pumping and oxygenation functions during surgery.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;4. tetralogy of Fallot &lt;/strong&gt;(fah-LO)&lt;strong&gt; &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Congenital malformation involving four (tetra-) distinct heart defects&lt;/strong&gt;.&lt;br/&gt;The condition, named for Étienne-Louis Fallot, the French physician who described it in 1888, is illustrated in Figure 11-15B. The four defects are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pulmonary artery stenosis&lt;/strong&gt;. Pulmonary artery is narrow or obstructed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ventricular septal defect&lt;/strong&gt;. Large hole between two ventricles lets venous blood pass from the right to the left ventricle and out to the aorta without oxygenation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Shift of the aorta to the right&lt;/strong&gt;. Aorta overrides the interventricular septum. Oxygen-poor blood passes from the right ventricle to the aorta.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hypertrophy of the right ventricle&lt;/strong&gt;. Myocardium works harder to pump blood through a narrowed pulmonary artery.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;An infant with this condition is described as a “blue baby” because of the extreme degree of &lt;strong&gt;cyanosis&lt;/strong&gt; present at birth. Surgery for tetralogy of Fallot includes a patch closure of the ventricular septal defect and removing obstruction to the outﬂow at the pulmonary artery.&lt;br/&gt;Other congenital conditions such as &lt;strong&gt;transposition of the great arteries (TGA)&lt;/strong&gt; (pulmonary artery arises from the left ventricle and the aorta from the right ventricle) cause cyanosis and hypoxia as well. Surgical correction of TGA involves an arterial switch procedure (pulmonary artery and aorta are reconnected in their proper positions).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="8c44d335-d6fe-4144-a640-b5ce9403ecd8">
+    <STATIC_figure>
+  <image>chp00011_f011-015-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-15 &lt;/span&gt;&lt;strong&gt;A, Ventricular septal defect.&lt;/strong&gt; A hole in the ventricular septum causes blood to flow from the left ventricle to the right and into the lungs via the pulmonary artery. &lt;strong&gt;B, Tetralogy of Fallot&lt;/strong&gt; showing the four defects. The flow of blood is indicated by the &lt;em&gt;arrows.&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b1864a6b-fc72-4ca3-970b-9edc97672615">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;congestive heart failure (CHF&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Heart is unable to pump its required amount of blood.&lt;/strong&gt;&lt;br/&gt;There are two types of congestive heart failure: systolic and diastolic. In &lt;strong&gt;systolic CHF,&lt;/strong&gt; there is a reduced &lt;strong&gt;ejection fraction&lt;/strong&gt; (the amount of blood that leaves the left ventricle). Less blood is pumped from the heart. In &lt;strong&gt;diastolic CHF,&lt;/strong&gt; fluid backs up in the lungs and other parts of the body.&lt;br/&gt;Symptoms of CHF include shortness of breath, exercise intolerance, and fluid retention. &lt;strong&gt;Pulmonary edema&lt;/strong&gt; (fluid accumulation in the lungs) and swelling or edema in the legs, feet, and ankles are common. Treatment includes lowering dietary intake of sodium and the use of diuretics to promote fluid loss.&lt;br/&gt;For patients with CHF with a reduced ejection fraction and heart bundle branch block, cardiac resynchronization therapy (CRT) devices may be used. These implanted devices consist of a pulse generator and thin, insulated wires and function like a normal pacemaker and defibrillation devices.&lt;br/&gt;If drug therapy and lifestyle changes fail to control congestive heart failure, heart transplantation may be the only treatment option. While waiting for a transplant, patients may need a device to assist the heart’s pumping. A &lt;strong&gt;left ventricular assist device (LVAD)&lt;/strong&gt; is a booster pump implanted in the abdomen, with a cannula (tube) inserted into the left ventricle. It pumps blood out of the heart to all parts of the body. LVAD may be used either as a “bridge to transplant” or as a “destination” therapy when heart transplantation is not possible. Because of the severe shortage of donor hearts, research efforts are directed at developing total artificial hearts.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;coronary artery disease (CAD) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Disease of the arteries surrounding the heart.&lt;/strong&gt;&lt;br/&gt;The coronary arteries are a pair of blood vessels that arise from the aorta and supply oxygenated blood to the heart. After blood leaves the heart via the aorta, a portion is at once led back over the surface of the heart through the coronary arteries.&lt;br/&gt;CAD usually is the result of &lt;strong&gt;atherosclerosis&lt;/strong&gt;. This is the deposition of fatty compounds on the inner lining of the coronary arteries (any other artery can be similarly affected). The ordinarily smooth lining of the artery becomes roughened as the atherosclerotic plaque collects in the artery.&lt;br/&gt;The plaque first causes plugging of the coronary artery. Next, the roughened lining of the artery may rupture or cause abnormal clotting of blood, leading to &lt;strong&gt;thrombotic occlusion&lt;/strong&gt; (blocking of the coronary artery by a clot). Blood flow is decreased (&lt;strong&gt;ischemia&lt;/strong&gt;) or stopped entirely, leading to death (&lt;strong&gt;necrosis&lt;/strong&gt;) of a part of the myocardium. This sequence of events constitutes a &lt;strong&gt;myocardial infarction&lt;/strong&gt;, or heart attack, and the area of dead myocardial tissue is known as an infarct. The infarcted area is eventually replaced by scar tissue. Figure 11-16 shows coronary arteries branching from the aorta and illustrates coronary artery occlusion leading to ischemia and infarction of heart muscle. Figure 11-17 is a photograph of myocardium after an acute myocardial infarction.&lt;br/&gt;&lt;strong&gt;Acute coronary syndromes (ACSs)&lt;/strong&gt; are conditions caused by myocardial ischemia. These conditions are &lt;strong&gt;unstable angina&lt;/strong&gt; (chest pain at rest or chest pain of increasing frequency) and &lt;strong&gt;myocardial infarction&lt;/strong&gt; (Figure 11-18).&lt;br/&gt;Patients with ACSs benefit from early angiography (x-ray imaging of coronary arteries) and PCI (percutaneous coronary intervention with a balloon catheter and stents) or CABG (coronary artery bypass grafting) to improve blood flow to the heart muscle (revascularization). Drugs used to treat ACSs are anticoagulants and antiplatelet agents such as aspirin and clopidogrel (Plavix), prasugrel (Effient), and ticagrelor (Brilinta).&lt;br/&gt;For acute attacks of angina, &lt;strong&gt;nitroglycerin&lt;/strong&gt; is given sublingually (under the tongue). This drug, one of several called &lt;strong&gt;nitrates&lt;/strong&gt;, is a vasodilator that increases coronary blood flow and lowers blood pressure. Nitrates also produce venodilation to reduce venous return and decrease myocardial oxygen consumption, both of which help decrease the work of the heart.&lt;br/&gt;Physicians advise patients to avoid risk factors such as smoking, obesity, and lack of exercise, and they prescribe effective drugs to prevent CAD and ACSs. These drugs include &lt;strong&gt;aspirin&lt;/strong&gt; (to prevent clumping of platelets), &lt;strong&gt;beta blockers&lt;/strong&gt; (to reduce the force and speed of the heartbeat and to lower blood pressure), &lt;strong&gt;ACE inhibitors&lt;/strong&gt; (to reduce high blood pressure and the risk of future heart attack even if the patient is not hypertensive), &lt;strong&gt;calcium channel blockers&lt;/strong&gt; (to relax muscles in blood vessels), and &lt;strong&gt;statins&lt;/strong&gt; (to lower cholesterol levels).&lt;br/&gt;Cardiac surgeons perform an open heart operation called &lt;strong&gt;coronary artery bypass grafting (CABG)&lt;/strong&gt; to treat CAD by replacing clogged vessels. Interventional cardiologists perform &lt;strong&gt;percutaneous coronary intervention (PCI),&lt;/strong&gt; in which catheterization with balloons and stents opens clogged coronary arteries.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="07ad2c9d-faa1-40b8-8c05-39829f324731">
+    <STATIC_figure>
+  <image>chp00011_f011-016-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-16 &lt;/span&gt;&lt;strong&gt;A, Ischemia&lt;/strong&gt; and &lt;strong&gt;infarction&lt;/strong&gt; produced by coronary artery occlusion. &lt;strong&gt;B,&lt;/strong&gt; Internal view of the heart showing an area damaged by myocardial infarction.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="72ec6faf-35fe-41e1-be21-21462b647d03">
+    <STATIC_figure>
+  <image>chp00011_f011-017-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-17 &lt;/span&gt;&lt;strong&gt;Acute myocardial infarction (MI),&lt;/strong&gt; 5 to 7 days old. The infarct is visible as a well-demarcated, pale yellow lesion in the posterolateral region of the left ventricle. The border of the infarct is surrounded by a dark red zone of acute inflammation.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1c72acfb-97c0-4276-bbb7-097ec59ce1a1">
+    <STATIC_figure>
+  <image>chp00011_f011-018-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-18 &lt;/span&gt;&lt;strong&gt;Acute coronary syndromes&lt;/strong&gt;: sequence of pathologic changes leading to cardiac event. &lt;strong&gt;A, Atherosclerotic plaque&lt;/strong&gt; forms from lipid collection. &lt;strong&gt;B, Plaque rupture,&lt;/strong&gt; causing platelet aggregation on the plaque. &lt;strong&gt;C, Nonocclusive thrombus&lt;/strong&gt; forms, causing &lt;strong&gt;unstable angina&lt;/strong&gt; or &lt;strong&gt;NSTEMI&lt;/strong&gt; (non–ST elevation myocardial infarction). &lt;strong&gt;D,&lt;/strong&gt; Alternatively, formation of an &lt;strong&gt;occlusive thrombus&lt;/strong&gt; leads to a &lt;strong&gt;myocardial infarction&lt;/strong&gt; or &lt;strong&gt;STEMI&lt;/strong&gt; (ST elevation myocardial infarction).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="37ebc2c2-a1a4-4f83-81a5-4ecb154363ca">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;endocarditis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Inﬂammation of the inner lining of the heart.&lt;br/&gt;Damage to the heart valves from infection (&lt;strong&gt;bacterial endocarditis&lt;/strong&gt;) produces lesions called &lt;strong&gt;vegetations&lt;/strong&gt; (resembling cauliﬂower) that break off into the bloodstream as &lt;strong&gt;emboli&lt;/strong&gt; (material that travels through the blood). The emboli can lodge in other vessels, leading to a &lt;strong&gt;transient ischemic attack (TIA)&lt;/strong&gt;, or a stroke, or in small vessels of the skin, where multiple pinpoint hemorrhages known as &lt;strong&gt;petechiae&lt;/strong&gt; (from the Italian &lt;em&gt;petechio&lt;/em&gt;, a ﬂea bite) form. Antibiotics can cure bacterial endocarditis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hypertensive heart disease&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;High blood pressure affecting the heart.&lt;/strong&gt;&lt;br/&gt;This condition results from narrowing of arterioles, which leads to increased pressure in arteries. The heart is affected (left ventricular hypertrophy) because it pumps more vigorously to overcome the increased resistance in the arteries.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mitral valve prolapse (MVP)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Improper closure of the mitral valve&lt;/strong&gt;.&lt;br/&gt;This condition occurs because the mitral valve enlarges and prolapses into the left atrium during systole. The physician hears a midsystolic click on &lt;strong&gt;auscultation&lt;/strong&gt; (listening with a stethoscope) and occasionally &lt;strong&gt;mitral regurgitation&lt;/strong&gt; (backﬂow of blood into the left atrium). Most people with MVP live normal lives, but severely prolapsed valves can be associated with severe mitral regurgitation and on rare occasions may become infected (endocarditis).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;murmur&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Extra heart sound, heard between normal beats&lt;/strong&gt;.&lt;br/&gt;Murmurs are heard with the aid of a stethoscope and usually are caused by a valvular defect or disease that disrupts the smooth ﬂow of blood in the heart. They also are heard in cases of interseptal defects, in which blood ﬂows abnormally between chambers through holes in the septa. Functional murmurs are not caused by valve or septal defects and do not seriously endanger a person’s health.&lt;br/&gt;A &lt;strong&gt;bruit&lt;/strong&gt; (BRU-e) is a murmur heard on auscultation. It is the turbulent ﬂow of blood through a vessel. A &lt;strong&gt;thrill&lt;/strong&gt;, which is a vibration felt on palpation of the chest, often accompanies a murmur.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pericarditis &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Inﬂammation of the membrane (pericardium) surrounding the heart&lt;/strong&gt;.&lt;br/&gt;In most instances, pericarditis results from a viral illness or the etiology may be idiopathic. Bacteria and viruses cause the condition, or the etiology may be idiopathic. Malaise, fever, and chest pain occur, and auscultation often reveals a &lt;strong&gt;pericardial friction rub&lt;/strong&gt; (heard as a scraping or grating sound). Compression of the heart caused by collection of ﬂuid in the pericardial cavity is &lt;strong&gt;cardiac tamponade&lt;/strong&gt; (tăm-pō-NŎD). Treatment includes anti-inﬂammatory drugs and other agents to manage pain. If the pericarditis is infective, antibiotics or antifungals are prescribed, depending on the microorganisms detected in specimens obtained by pericardiocentesis or using blood tests.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b7b796c9-6910-4195-9d61-51046fc68b6d">
+    <STATIC_figure>
+  <image>chp00011_f011-019-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-19 &lt;/span&gt;&lt;strong&gt;A,&lt;/strong&gt; Acute rheumatic &lt;strong&gt;mitral valvulitis&lt;/strong&gt; with chronic rheumatic heart disease. Small vegetations are visible along the line of closure of the mitral valve leaflet (&lt;em&gt;arrows&lt;/em&gt;). Previous episodes of rheumatic valvulitis have caused fibrous thickening and fusion of the chordae tendineae of the valves. &lt;strong&gt;B, Artificial heart valve. C, Porcine xenograft&lt;/strong&gt; valve. A xenograft valve (Greek &lt;em&gt;xen/o &lt;/em&gt;means stranger) is tissue that is transferred from an animal of one species (pig) to one of another species (human).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b83be54f-e539-45c9-bc05-001089b6847d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rheumatic heart disease &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Heart disease caused by rheumatic fever.&lt;/strong&gt;&lt;br/&gt;Rheumatic fever is a childhood disease that follows a streptococcal infection with sore throat (pharyngitis). The heart valves can be damaged by inflammation and scarred with &lt;strong&gt;vegetations&lt;/strong&gt; so that they do not open and close normally (Figure 11-19A). Repeat streptococcal infection is thought to be required to produce heart disease, so children with a history of rheumatic fever are treated with monthly penicillin injections given intramuscularly until the age of 21.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Mitral stenosis&lt;/strong&gt;, atrial fibrillation, and congestive heart failure, caused by weakening of the myocardium, also can result from rheumatic heart disease. Treatment consists of reduced activity, drugs to control arrhythmia, surgery to repair a damaged valve, and anticoagulant therapy to prevent emboli from forming. Artificial and porcine (pig) valve implants can replace deteriorated heart valves (Figure 11-19B and C).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="27f06613-85c2-41fb-8b40-ea1d41142e62">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;BLOOD VESSELS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4c02451d-31f2-4947-b06f-2eebcbcdb534">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;aneurysm&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Local widening (dilation) of an arterial wall.&lt;/strong&gt;&lt;br/&gt;An aneurysm (Greek &lt;em&gt;aneurysma&lt;/em&gt;, widening) usually is caused by atherosclerosis and hypertension or a congenital weakness in the vessel wall. Aneurysms are common in the aorta &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; but may occur in peripheral vessels as well. The danger of an aneurysm is rupture and hemorrhage. Treatment depends on the vessel involved, the site, and the health of the patient. In aneurysms of small vessels in the brain, treatment is occlusion of the vessel with small clips. For larger arteries, such as the aorta, a stent graft may be sewn within the affected vessel. Figure 11-20A shows an abdominal aortic aneurysm (called “ &lt;strong&gt;AAA&lt;/strong&gt;”), and Figure 11-20B illustrates a stent graft in place. Note that the graft is anastomosed to the normal portion of the aorta, and the aneurysm sac is closed around the graft to prevent ﬁstula formation from graft to bowel.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c550d283-2a03-49f0-b50f-6845289dc6f9">
+    <STATIC_figure>
+  <image>chp00011_f011-020-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-20 &lt;/span&gt;&lt;strong&gt;A, Abdominal aortic aneurysm (AAA)&lt;/strong&gt;. A &lt;strong&gt;dissecting aortic aneurysm&lt;/strong&gt; is a splitting or dissection of the wall of the aorta by blood entering a tear or hemorrhage within the walls of the vessel. &lt;strong&gt;B, Stent graft in place&lt;/strong&gt;. This stent graft procedure is an &lt;strong&gt;endovascular aneurysm repair or EVAR&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e2485d69-f330-481a-b517-19e9b7e4a946">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Aortic Aneurysms and Marfan Syndrome&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aortic aneurysms&lt;/strong&gt; are often associated with &lt;strong&gt;Marfan syndrome,&lt;/strong&gt; a genetic disorder marked by long, thin ﬁngers, great arm span, ocular lens dislocation, and loose joints. Abraham Lincoln is thought to have had Marfan syndrome, and the syndrome also has been diagnosed in basketball and volleyball players who have died suddenly as a result of ruptured aortic aneurysms.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c34ad59c-2f03-47fe-94a8-90f94e4294b7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;deep vein thrombosis (DVT)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Blood clot (thrombus) forms in a large vein, usually in a lower limb.&lt;/strong&gt;&lt;br/&gt;This condition may result in a &lt;strong&gt;pulmonary embolism&lt;/strong&gt; (clot travels to the lung) if not treated effectively. Examples of anticoagulants (blood-thinning drugs) are warfarin (Coumadin) and direct oral anticoagulants (DOACs). They are used to prevent DVTs and pulmonary emboli (PEs) &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hypertension (HTN)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;High blood pressure&lt;/strong&gt;.&lt;br/&gt;Most high blood pressure is &lt;strong&gt;essential hypertension,&lt;/strong&gt; with no identiﬁable cause. Categories of blood pressure readings are shown in Table 11-1. Diuretics, ACE inhibitors, calcium channel blockers, and beta-blockers are used to treat essential hypertension. Losing weight, limiting sodium (salt) intake, stopping smoking, and reducing fat in the diet also can reduce blood pressure.&lt;br/&gt;In &lt;strong&gt;secondary hypertension&lt;/strong&gt;, the increase in pressure is caused by another associated lesion, such as glomerulonephritis, pyelonephritis, or vascular disease, or disease of the adrenal glands.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;peripheral arterial disease (PAD)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Blockage of arteries carrying blood to the legs, arms, kidneys, and other organs&lt;/strong&gt;.&lt;br/&gt;Any artery can be affected, such as the &lt;strong&gt;carotid&lt;/strong&gt; (neck), &lt;strong&gt;femoral&lt;/strong&gt; (thigh), or &lt;strong&gt;popliteal&lt;/strong&gt; (back of the knee). A sign of PAD in the lower extremities is &lt;strong&gt;intermittent&lt;/strong&gt; &lt;strong&gt;claudication &lt;/strong&gt;(absence of pain or discomfort in a leg at rest, but pain, tension, and weakness after walking has begun). Treatment is exercise, avoidance of nicotine (which causes vessel constriction), and control of risk factors such as hypertension, hyperlipidemia, and diabetes. Surgical treatment includes endarterectomy and bypass grafting (from the normal proximal vessel around the diseased area to a normal vessel distally).&lt;/p&gt;&lt;p&gt;Percutaneous treatments include balloon angioplasty, atherectomy, and stenting. &lt;strong&gt;Embolic protection devices&lt;/strong&gt; are parachute-like ﬁlters used to capture embolic debris during stenting.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="35708996-1267-4f6d-8d4d-49307bda409a">
+    <STATIC_figure>
+  <image>chp00011_t011-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p style="text-align: center;"&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;TABLE 11-1&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="db46faa7-481d-4d0f-b94d-33066bf2add2">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Warfarin (Coumadin) and DOACs &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While the oral anticoagulant &lt;strong&gt;warfarin&lt;/strong&gt; is used to prevent or treat thromboembolic diseases, treatment with warfarin requires careful monitoring and is complicated by drug-drug or drug-food interactions. &lt;strong&gt;Direct oral anticoagulants (DOACs)&lt;/strong&gt; such as apixaban (Eliquis), edoxaban (Savaysa), dabigatran (Pradaxa), and rivaroxaban (Xarelto) address these limitations and have been approved by the Food and Drug Administration (FDA) for anticoagulation in non-valvular atrial ﬁbrillation and for the prevention and treatment of DVTs and PEs. &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e3458530-d24c-4351-b0e4-3355a13b75ba">
+    <STATIC_figure>
+  <image>page_326_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-21&lt;/span&gt; &lt;strong&gt;Raynaud disease&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a9e77712-5abc-4d95-a001-81ec14c42be7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Raynaud (&lt;/strong&gt;ra-NO&lt;strong&gt;) disease (Raynaud’s) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Recurrent episodes of pallor and cyanosis primarily in ﬁngers and toes.&lt;/strong&gt;&lt;br/&gt;This is a rare disorder of unknown cause that affects blood ﬂow in arteries. Raynaud’s is sometimes called a disease, phenomenon, or syndrome. It is marked by brief episodes of intense constriction and vasospasm of arterioles in young, otherwise healthy women. See Figure 11-21. Episodes can be triggered by cold temperatures, emotional stress, or cigarette smoking and caffeine. Raynaud’s can be controlled by protecting the body from cold and avoiding other triggers. Medications that increase blood ﬂow to the hands and feet may relieve symptoms.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;varicose veins&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Abnormally swollen and twisted veins, usually occurring in the legs&lt;/strong&gt;.&lt;br/&gt;This condition is caused by damaged valves that fail to prevent the backﬂow of blood (Figure 11-22A to C). The blood then collects in the veins, which distend to many times their normal size. Because of the slow ﬂow of blood in the varicose veins and frequent injury to the vein, thrombosis may occur as well. &lt;strong&gt;Hemorrhoids&lt;/strong&gt; (piles) are varicose veins near the anus.&lt;br/&gt;Physicians now treat varicose veins with sclerotherapy (injections with sclerosing solution) or laser and pulsed-light treatments to seal off veins. Surgical interventions such as vein stripping and ligation are used less frequently.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="8f233836-840c-42aa-bfee-e5688c5d8466">
+    <STATIC_figure>
+  <image>chp00011_f011-022-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-22 &lt;/span&gt;&lt;strong&gt;A, Valve function in normal vein and varicose vein. B, Varicose veins. C,&lt;/strong&gt; The slow flow in veins increases susceptibility to &lt;strong&gt;thrombophlebitis&lt;/strong&gt; (clot formation), &lt;strong&gt;edema&lt;/strong&gt;, and &lt;strong&gt;pigmented skin&lt;/strong&gt; (blood pools in the lower parts of the leg and fluid leaks from distended small capillaries). If a thrombus becomes loosened from its place in the vein, it can travel to the lungs &lt;strong&gt;(pulmonary embolism)&lt;/strong&gt; and block a blood vessel there.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b6edf65e-bcf7-4fe5-a366-6334b8c953c7">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 52px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dd2111ab-5934-4c26-9635-8709897799e3">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8c81e9a5-5259-4d32-880d-334cb2c133f6">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;acute coronary syndromes (ACSs)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Unstable angina and myocardial infarction (heart attack), which are consequences of plaque rupture in coronary arteries.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;angina (pectoris)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Chest pain resulting from myocardial ischemia. Stable angina occurs predictably with exertion; unstable angina is chest pain that occurs more often and with less exertion. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;angiotensinconverting enzyme (ACE) inhibitor &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Antihypertensive drug that blocks the conversion of angiotensin I to angiotensin II, causing blood vessels to dilate. It prevents heart attacks, CHF, stroke, and death. See Table 21-7 on page 835 for names of ACE inhibitors and other cardiovascular drugs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;auscultation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Listening for sounds in blood vessels or other body structures, typically using a stethoscope. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;beta blocker &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drug used to treat angina, hypertension, and arrhythmias. It blocks the action of epinephrine (adrenaline) at receptor sites on cells, slowing the heartbeat and reducing the workload on the heart. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;biventricular pacemaker&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Device enabling ventricles to beat together (in synchrony) so that more blood is pumped out of the heart. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bruit &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Abnormal blowing or swishing sound heard during auscultation of an artery or organ.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;calcium channel blocker &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drug used to treat angina and hypertension. It dilates blood vessels by blocking the inﬂux of calcium into muscle cells lining vessels.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cardiac arrest &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sudden, unexpected stoppage of heart action, often leading to sudden cardiac death. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cardiac tamponade &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pressure on the heart caused by ﬂuid in the pericardial space. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;claudication &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pain, tension, and weakness in a leg after walking has begun, but absence of pain at rest. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;digoxin &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drug that treats arrhythmias and strengthens the heartbeat. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;embolus (&lt;/strong&gt;&lt;em&gt;plural&lt;/em&gt;&lt;strong&gt;: emboli)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Clot or other substance that travels to a distant location and suddenly blocks a blood vessel. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;infarction &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Area of dead tissue. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nitrates &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drugs used in the treatment of angina. They dilate blood vessels, increasing blood ﬂow and oxygen to myocardial tissue.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nitroglycerin &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Nitrate drug used in the treatment of angina&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;occlusion &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Closure of a blood vessel due to blockage. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;palpitations &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Uncomfortable sensations in the chest related to cardiac arrhythmias, such as premature ventricular contractions (PVCs).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;patent &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Open&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pericardial friction rub &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Scraping or grating noise heard on auscultation of the heart; suggestive of pericarditis. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;petechiae &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Small, pinpoint hemorrhages. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;statins &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Drugs used to lower cholesterol in the bloodstream. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thrill &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vibration felt over an area of turmoil in blood ﬂow (as a blocked artery).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vegetations &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Clumps of platelets, clotting proteins, microorganisms, and red blood cells on diseased heart valves.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

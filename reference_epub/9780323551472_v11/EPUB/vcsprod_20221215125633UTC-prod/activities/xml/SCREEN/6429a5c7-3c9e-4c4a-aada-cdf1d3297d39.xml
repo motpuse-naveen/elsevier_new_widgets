@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e0ee4c69-eeaf-4c98-8a93-9295550c9120">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY AND PHYSIOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="857dbbde-e459-44cf-8f29-cbf29d526914">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;ORAL CAVITY&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d7715923-cbdb-45dd-85df-f4e2326087a5">
+    <STATIC_text>
+  <text>&lt;p&gt;The gastrointestinal tract begins with the &lt;strong&gt;oral cavity&lt;/strong&gt;. Oral means pertaining to the mouth (or/o). Label Figure 5-1 as you learn the major parts of the oral cavity.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;cheeks&lt;/strong&gt; [1] form the walls of the oval-shaped oral cavity, and the &lt;strong&gt;lips&lt;/strong&gt; [2] surround the opening to the cavity.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;hard palate&lt;/strong&gt; [3] forms the anterior portion of the roof of the mouth, and the muscular &lt;strong&gt;soft palate&lt;/strong&gt; [4] lies posterior to it. &lt;strong&gt;Rugae&lt;/strong&gt; are irregular ridges in the mucous membrane covering the anterior portion of the hard palate. The &lt;strong&gt;uvula&lt;/strong&gt; [5], a small soft tissue projection, hangs from the soft palate. It aids production of sounds and speech.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;tongue&lt;/strong&gt; [6] extends across the floor of the oral cavity, and muscles attach it to the lower jawbone. It moves food around during &lt;strong&gt;mastication&lt;/strong&gt; (chewing) and &lt;strong&gt;deglutition&lt;/strong&gt; (swallowing). &lt;strong&gt;Papillae&lt;/strong&gt;, small raised areas on the tongue, contain taste buds that are sensitive to the chemical nature of foods and allow discrimination of different tastes as food moves across the tongue.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c217ba28-828c-4333-9084-952572d458cd">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_5.1.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-1&lt;/span&gt; Oral cavity.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[cheeks]&lt;/li&gt;&lt;li&gt;[lips]&lt;/li&gt;&lt;li&gt;[hard palate]&lt;/li&gt;&lt;li&gt;[soft palate]&lt;/li&gt;&lt;li&gt;[uvula]&lt;/li&gt;&lt;li&gt;[tongue]&lt;/li&gt;&lt;li&gt;[tonsils]&lt;/li&gt;&lt;li&gt;[gums]&lt;/li&gt;&lt;li&gt;[teeth]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="d022c1bb-24c8-484d-bbc3-34973d7f3bae">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;tonsils&lt;/strong&gt; [7], masses of lymphatic tissue located in depressions of the mucous membranes, lie on both sides of the oropharynx (part of the throat near the mouth). They are filters to protect the body from the invasion of microorganisms and produce lymphocytes, disease-fighting white blood cells.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;gums&lt;/strong&gt; [8] are the fleshy tissue surrounding the sockets of the &lt;strong&gt;teeth&lt;/strong&gt; [9]. Figure 5-2 shows a dental arch with 16 permanent teeth (there are 32 permanent teeth in the entire oral cavity). The names of the teeth are labeled in Figure 5-2.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="26e84f8a-0c36-4a4a-9670-8c5002613033">
+    <STATIC_figure>
+  <image>Fig_5.2.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-2&lt;/span&gt; Upper permanent teeth within the dental arch&lt;/strong&gt;. The &lt;strong&gt;buccal&lt;/strong&gt; surface faces the cheek, whereas the &lt;strong&gt;lingual&lt;/strong&gt; surface faces the tongue. The &lt;strong&gt;labial&lt;/strong&gt; surface faces the lips. Dentists refer to the labial and buccal surfaces as the &lt;strong&gt;facial&lt;/strong&gt; (faci/o = face) surface.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="02774b0c-a2d8-4f55-b928-5d8b353651f4">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_5.3.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-3 &lt;/span&gt;Anatomy of a tooth.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[crown]&lt;/li&gt;&lt;li&gt;[root]&lt;/li&gt;&lt;li&gt;[enamel]&lt;/li&gt;&lt;li&gt;[dentin]&lt;/li&gt;&lt;li&gt;[pulp]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="9141832a-566e-4ded-9a51-1529435e3f95">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 5-3 shows the inner anatomy of a tooth. Label it as you read the following description:&lt;/p&gt;&lt;p&gt;A tooth consists of a &lt;strong&gt;crown&lt;/strong&gt; [1], which shows above the gum line, and a &lt;strong&gt;root&lt;/strong&gt; [2], which lies within the bony tooth socket. The outermost layer of the crown, the &lt;strong&gt;enamel&lt;/strong&gt; [3], protects the tooth. It is the hardest tissue in the human body. &lt;strong&gt;Dentin&lt;/strong&gt; [4], the main substance of the tooth, lies beneath the enamel and extends throughout the crown. Dentin ’ s color ranges from creamy white to yellow, and it affects the color of teeth because enamel is translucent. The &lt;strong&gt;cementum&lt;/strong&gt; covers, protects, and supports the dentin in the root. A &lt;strong&gt;periodontal membrane&lt;/strong&gt; surrounds the cementum and holds the tooth in place in the tooth socket.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;pulp&lt;/strong&gt; [5] lies underneath the dentin. This soft and delicate tissue fills the center of the tooth. Blood vessels, nerve endings, connective tissue, and lymphatic vessels are within the pulp canal (also called the &lt;strong&gt;root canal&lt;/strong&gt;). Root canal therapy often is necessary when disease or abscess (pus collection) occurs in the pulp canal. A dentist opens the tooth from above and cleans the canal of infected tissue, nerves, and blood vessels. The canal is then disinfected and filled with material to prevent the entrance of microorganisms that could cause decay.&lt;/p&gt;&lt;p&gt;Three pairs of &lt;strong&gt;salivary glands&lt;/strong&gt; (Figure 5-4) surround and empty into the oral cavity. These exocrine glands produce &lt;strong&gt;saliva&lt;/strong&gt;, which lubricates the mouth. Saliva contains important digestive &lt;strong&gt;enzymes&lt;/strong&gt; as well as healing growth factors such as cytokines. Saliva is released from a &lt;strong&gt;parotid gland&lt;/strong&gt; [1], &lt;strong&gt;submandibular gland&lt;/strong&gt; [2], and &lt;strong&gt;sublingual gland&lt;/strong&gt; [3] on both sides of the mouth. Narrow ducts carry saliva into the oral cavity. The glands produce about 1.5 liters of saliva daily.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b95e3f19-aade-4a95-9fa9-59f14ceb895c">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_5.4.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-4&lt;/span&gt; Salivary glands.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[parotid gland]&lt;/li&gt;&lt;li&gt;[submandibular gland]&lt;/li&gt;&lt;li&gt;[sublingual gland]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="beb22e4a-4b48-4a77-ae5d-5172bd481919">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PHARYNX&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="afe5101f-40b9-4364-a6e2-43eb18ef51fa">
+    <STATIC_text>
+  <text>&lt;p&gt;Refer to Figure 5-5. The &lt;strong&gt;pharynx&lt;/strong&gt; or &lt;strong&gt;throat&lt;/strong&gt; is a muscular tube, about 5 inches long, lined with a mucous membrane. It serves as a passageway both for air traveling from the nose (nasal cavity) to the windpipe (trachea) and for food traveling from the oral cavity to the &lt;strong&gt;esophagus&lt;/strong&gt;. When swallowing (&lt;strong&gt;deglutition&lt;/strong&gt;) occurs, a cartilaginous flap of tissue, the &lt;strong&gt;epiglottis&lt;/strong&gt;, covers the trachea so that food cannot enter and become lodged there. See Figure 5-5A and B. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="aec1de87-1a82-4344-85d7-1584678efd55">
+    <STATIC_figure>
+  <image>Fig_5.5.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-5 &lt;/span&gt;Deglutition (swallowing). A, Epiglottis closes&lt;/strong&gt; over the trachea as the bolus of food passes down the pharynx toward the esophagus. &lt;strong&gt;B, Epiglottis opens&lt;/strong&gt; as the bolus moves down the esophagus.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c41e12c2-6212-4eea-ae77-13d192c984bd">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Your Mother Was Right! Don’t Talk While You’re Eating!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Talking while eating causes the epiglottis to open, so food can accidentally enter the trachea, causing you to choke.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d608b065-a7fe-41c4-8981-f05f07cafedd">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_5.6.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-6&lt;/span&gt; The gastrointestinal tract.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[esophagus]&lt;/li&gt;&lt;li&gt;[stomach]&lt;/li&gt;&lt;li&gt;[duodenum]&lt;/li&gt;&lt;li&gt;[liver]&lt;/li&gt;&lt;li&gt;[gallbladder]&lt;/li&gt;&lt;li&gt;[pancreas]&lt;/li&gt;&lt;li&gt;[jejunum]&lt;/li&gt;&lt;li&gt;[ileum]&lt;/li&gt;&lt;li&gt;[cecum]&lt;/li&gt;&lt;li&gt;[appendix]&lt;/li&gt;&lt;li&gt;[ascending colon]&lt;/li&gt;&lt;li&gt;[transverse colon]&lt;/li&gt;&lt;li&gt;[descending colon]&lt;/li&gt;&lt;li&gt;[sigmoid colon]&lt;/li&gt;&lt;li&gt;[rectum]&lt;/li&gt;&lt;li&gt;[anus]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="f198c954-e003-459f-98e0-8f8a574ec4f5">
+    <STATIC_text>
+  <text>&lt;p&gt;Figure 5-6 shows the passageway for food as it travels from the esophagus through the gastrointestinal tract. Label it as you read the following paragraphs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e9331d36-77de-4bc4-8855-04740717da3c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ESOPHAGUS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6a158e2a-669b-4dc7-82dc-2d56ddd3f942">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;esophagus&lt;/strong&gt; [1] is a 9- to 10-inch fibromuscular tube extending from the pharynx to the stomach. &lt;strong&gt;Peristalsis&lt;/strong&gt; is the involuntary, progressive, rhythmic contraction of muscles in the wall of the esophagus (and other gastrointestinal organs), propelling a &lt;strong&gt;bolus&lt;/strong&gt; (mass of food) down toward the stomach. The process is like squeezing a marble through a rubber tube.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="110a2656-1011-4a46-b7c3-44145dc9690f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;STOMACH&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="eb61a06f-523b-4150-b4a5-839b2227ce0f">
+    <STATIC_text>
+  <text>&lt;p&gt;Food passes from the esophagus into the &lt;strong&gt;stomach&lt;/strong&gt; [2]. The stomach (Figure 5-7) has three main parts: &lt;strong&gt;fundus&lt;/strong&gt; (upper portion), &lt;strong&gt;body&lt;/strong&gt; (middle section), and &lt;strong&gt;antrum&lt;/strong&gt; (lower portion). Rings of muscle called &lt;strong&gt;sphincters&lt;/strong&gt; control the openings into and leading out of the stomach. They prevent food from regurgitating (flowing backward from the normal direction). The &lt;strong&gt;lower esophageal sphincter (LES)&lt;/strong&gt; relaxes and contracts to move food from the esophagus into the stomach. The &lt;strong&gt;pyloric sphincter&lt;/strong&gt; allows food to leave the stomach and enter the small intestine when it is ready. Folds in the mucous membrane (mucosa) lining the stomach are called &lt;strong&gt;rugae&lt;/strong&gt;. The rugae increase surface area for digestion and contain glands that produce the enzyme &lt;strong&gt;pepsin&lt;/strong&gt; to begin digestion of proteins. &lt;strong&gt;Hydrochloric acid&lt;/strong&gt; also is secreted to digest protein and kill any bacteria remaining in food. The stomach prepares food for the small intestine, where further digestion and absorption into the bloodstream take place. Food leaves the stomach in 1 to 4 hours or longer, depending on the amount and type of food eaten.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="16f80716-8f13-46b1-87de-2966c50e598f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SMALL INTESTINE (SMALL BOWEL)&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="898daac6-fd4f-4c31-8ef5-e554b1b4d3b8">
+    <STATIC_text>
+  <text>&lt;p&gt;(Continue labeling Figure 5-6)&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;small intestine (small bowel)&lt;/strong&gt; extends for 20 feet from the pyloric sphincter to the first part of the large intestine. It has three parts. The first section, the &lt;strong&gt;duodenum&lt;/strong&gt; [3], is only 1 foot long. It receives food from the stomach as well as &lt;strong&gt;bile&lt;/strong&gt; from the &lt;strong&gt;liver&lt;/strong&gt; [4] and &lt;strong&gt;gallbladder&lt;/strong&gt; [5] and pancreatic juices from the &lt;strong&gt;pancreas&lt;/strong&gt; [6]. Enzymes and bile help digest food before it passes into the second part of the small intestine, the &lt;strong&gt;jejunum&lt;/strong&gt; [7], about 8 feet long. The jejunum connects with the third section, the &lt;strong&gt;ileum&lt;/strong&gt; [8], about 11 feet long. The ileum attaches to the first part of the large intestine.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f23c96ff-a068-4d72-93bf-655881ea832e">
+    <STATIC_figure>
+  <image>Fig_5.7.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-7 &lt;/span&gt;&lt;strong&gt;Parts&lt;/strong&gt; of the stomach&lt;/strong&gt;. The &lt;strong&gt;fundus&lt;/strong&gt; and &lt;strong&gt;body&lt;/strong&gt; (often referred to collectively as the fundus) are a reservoir for ingested food and an area for action by acid and pepsin (gastric enzyme). The &lt;strong&gt;antrum&lt;/strong&gt; is a muscular grinding chamber that breaks up food and feeds it gradually into the duodenum.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6d5c02be-36a1-48b2-b576-7f45f878db11">
+    <STATIC_figure>
+  <image>Fig_5.8.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-8 &lt;/span&gt;&lt;strong&gt;Villi&lt;/strong&gt; in the lining of the small intestine&lt;/strong&gt;. Villi increase the surface area for absorption of nutrients.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="43f18414-5c7f-4add-84d1-4a2823486f21">
+    <STATIC_text>
+  <text>&lt;p&gt;Millions of tiny, microscopic projections called &lt;strong&gt;villi&lt;/strong&gt; line the walls of the small intestine. The tiny capillaries (microscopic blood vessels) in the villi absorb the digested nutrients into the bloodstream and lymph vessels. Figure 5-8 shows several different views of villi in the lining of the small intestine.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3278958a-530c-413a-b48f-8f9482bd9432">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LARGE INTESTINE (LARGE BOWEL)&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2ce3c06a-a727-44e6-a072-602483434aa7">
+    <STATIC_text>
+  <text>&lt;p&gt;(Continue labeling Figure 5-6.)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The large intestine&lt;/strong&gt; extends from the end of the ileum to the anus. It has three main components: the cecum, the colon, and the rectum. The &lt;strong&gt;cecum&lt;/strong&gt; [9] is a pouch on the right side that connects to the ileum at the ileocecal valve (sphincter). The &lt;strong&gt;appendix&lt;/strong&gt; [10] hangs from the cecum. The appendix has no clear function and can become inflamed and infected when clogged or blocked. The &lt;strong&gt;colon&lt;/strong&gt;, about 5 feet long, has four named segments: ascending, descending, transverse, and sigmoid. The &lt;strong&gt;ascending colon&lt;/strong&gt; [11] extends from the cecum to the undersurface of the liver, where it turns to the left (hepatic flexure) to become the &lt;strong&gt;transverse colon&lt;/strong&gt; [12]. The transverse colon passes horizontally to the left toward the spleen and then turns downward (splenic flexure) into the &lt;strong&gt;descending colon&lt;/strong&gt; [13]. The &lt;strong&gt;sigmoid colon&lt;/strong&gt; [14], shaped like an S (sigmoid means resembling the Greek letter sigma, which curves like the letter S), begins at the distal end of the descending colon and leads into the &lt;strong&gt;rectum&lt;/strong&gt; [15]. The rectum terminates in the lower opening of the gastrointestinal tract, the &lt;strong&gt;anus&lt;/strong&gt; [16].&lt;/p&gt;&lt;p&gt;The large intestine receives the fluid waste products of digestion (the material unable to pass into the bloodstream) and stores these wastes until they can be released from the body. Because the large intestine absorbs most of the water within the waste material, the body can expel solid &lt;strong&gt;feces&lt;/strong&gt; (stools). &lt;strong&gt;Defecation&lt;/strong&gt; is the expulsion or passage of feces from the body through the anus. Diarrhea, or passage of watery stools, results from reduced water absorption into the bloodstream through the walls of the large intestine. &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8647a0db-71b9-42e0-b9b0-c04e7b19c463">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LIVER, GALLBLADDER, AND PANCREAS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a5196dd1-ad45-4a09-9492-63da46587a39">
+    <STATIC_text>
+  <text>&lt;p&gt;Three important additional organs of the digestive system—the liver, gallbladder, and pancreas—play crucial roles in the proper digestion and absorption of nutrients. Label Figure 5-9 as you study the following:&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;liver&lt;/strong&gt; [1], located in the right upper quadrant (RUQ) of the abdomen, manufactures a thick, orange-black, sometimes greenish, fluid called &lt;strong&gt;bile&lt;/strong&gt;. Bile contains cholesterol (a fatty substance), bile acids, and several bile pigments. One of these pigments, &lt;strong&gt;bilirubin&lt;/strong&gt;, is produced from the breakdown of hemoglobin during normal red blood cell destruction. Bilirubin travels via the bloodstream to the liver, where it is conjugated or converted into a water-soluble form. Conjugated bilirubin is then added to bile and enters the intestine (duodenum). Bacteria in the colon degrade bilirubin into a variety of pigments that give feces a brownish color. Bilirubin and bile leave the body in feces.&lt;/p&gt;&lt;p&gt;If the bile duct is blocked or the liver damaged and unable to excrete bilirubin into bile, the bilirubin remains in the bloodstream, causing &lt;strong&gt;jaundice (hyperbilirubinemia)&lt;/strong&gt;—yellow discoloration of the skin, whites of the eyes, and mucous membranes. In addition, stools may turn lighter in color because of less bilirubin and bile excreted into the gastrointestinal tract. Figure 5-10 reviews the path of bilirubin from red blood cell destruction (hemolysis) to elimination with bile in the feces.&lt;/p&gt;&lt;p&gt;(Continue labeling Figure 5-9.)&lt;br/&gt;The liver continuously releases bile, which then travels through the &lt;strong&gt;hepatic duct&lt;/strong&gt; and meets the &lt;strong&gt;cystic duct&lt;/strong&gt;. The cystic duct leads to the &lt;strong&gt;gallbladder&lt;/strong&gt; [2], a pear-shaped sac under the liver, which stores and concentrates the bile for later use. After meals, in response to the presence of food in the stomach and duodenum, the gallbladder contracts, forcing the bile out the cystic duct into the &lt;strong&gt;common bile duct&lt;/strong&gt; [3]. Meanwhile, the &lt;strong&gt;pancreas&lt;/strong&gt; [4] secretes pancreatic juices (enzymes) that are released into the &lt;strong&gt;pancreatic duct&lt;/strong&gt;, which joins with the common bile duct just as it enters the &lt;strong&gt;duodenum&lt;/strong&gt; [5]. The duodenum thus receives a mixture of bile and pancreatic juices.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8d69b0ca-83a4-411b-8dcf-0e8d6f21edc3">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>Fig_5.9.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-9&lt;/span&gt; Liver, gallbladder, and pancreas&lt;/strong&gt;. The &lt;strong&gt;ampulla of Vater&lt;/strong&gt; is at the junction of the pancreatic duct and common bile duct entering the duodenum.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[liver]&lt;/li&gt;&lt;li&gt;[gallbladder]&lt;/li&gt;&lt;li&gt;[common bile duct]&lt;/li&gt;&lt;li&gt;[pancreas]&lt;/li&gt;&lt;li&gt;[duodenum]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="0937f877-5713-448a-950e-11d7c3e76a4f">
+    <STATIC_figure>
+  <image>Fig_5.10.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-10&lt;/span&gt; Bilirubin pathway from bloodstream to elimination in feces&lt;/strong&gt;. Increased blood levels of unconjugated bilirubin indicate ongoing hemolysis (red blood cell destruction). Increased blood levels of conjugated bilirubin indicate obstruction of bile ducts. Both types of bilirubin are elevated in the blood of patients with liver disease.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9617bcdb-403f-47ef-b751-7654abb9ef7e">
+    <STATIC_text>
+  <text>&lt;p&gt;Bile has a detergent-like effect on fats in the duodenum. In the process of &lt;strong&gt;emulsification&lt;/strong&gt;, bile breaks apart large fat globules, creating more surface area so that enzymes from the pancreas can digest the fats. Without bile, most of the fat taken into the body remains undigested, and stools may appear fatty.&lt;/p&gt;&lt;p&gt;Besides producing bile, the liver has several other vital and important functions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Maintaining normal blood &lt;strong&gt;glucose&lt;/strong&gt; (sugar) levels. The liver removes excess glucose from the bloodstream and stores it as &lt;strong&gt;glycogen&lt;/strong&gt; (starch) in liver cells. When the blood sugar level becomes dangerously low, the liver converts stored glycogen back into glucose via a process called &lt;strong&gt;glycogenolysis&lt;/strong&gt;. In addition, when the body needs sugar, the liver can convert proteins and fats into glucose, by a process called &lt;strong&gt;gluconeogenesis&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Manufacturing blood proteins, such as albumin and those necessary for blood clotting&lt;/li&gt;&lt;li&gt;Releasing bilirubin, a pigment in bile&lt;/li&gt;&lt;li&gt;Clearing drugs and poisons (toxins) from the blood&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="dafaf125-9f30-4fb5-957f-0f9116ef9739">
+    <STATIC_figure>
+  <image>Fig_5.11.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-11&lt;/span&gt; The pancreas and its functions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5c1732e9-065d-4d6b-8eb2-cd77189fa98b">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;portal vein&lt;/strong&gt; brings blood to the liver from the intestines. Nutrients from digested foods pass into the portal vein directly after being absorbed into the capillaries of the small intestine, thus giving the liver the first chance to use the nutrients.&lt;/p&gt;&lt;p&gt;The pancreas (Figure 5-11) is both an &lt;strong&gt;exocrine&lt;/strong&gt; and an &lt;strong&gt;endocrine&lt;/strong&gt; organ. As an exocrine gland, it produces enzymes to digest starch, such as &lt;strong&gt;amylase&lt;/strong&gt; (amyl/o = starch, -ase = enzyme); to digest fat, such as &lt;strong&gt;lipase&lt;/strong&gt; (lip/o = fat); and to digest proteins, such as &lt;strong&gt;protease&lt;/strong&gt; (prote/o = protein). These pass into the duodenum through the pancreatic duct.&lt;/p&gt;&lt;p&gt;As an endocrine gland (secreting into the bloodstream), the pancreas secretes &lt;strong&gt;insulin&lt;/strong&gt;. This hormone, needed to help release sugar from the blood, acts as a carrier to bring glucose into cells of the body to be used for energy.&lt;/p&gt;&lt;p&gt;Figure 5-12 is a flow chart that traces the pathway of food through the gastrointestinal tract.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e5b0ebe1-e548-4d4a-826a-1c8cb6ab9af6">
+    <STATIC_figure>
+  <image>Fig_5.12.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-12&lt;/span&gt; Pathway of food through the gastrointestinal tract.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

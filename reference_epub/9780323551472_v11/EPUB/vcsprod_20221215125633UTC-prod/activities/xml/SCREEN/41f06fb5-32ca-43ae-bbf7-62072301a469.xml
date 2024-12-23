@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b7f2f1bb-36e5-4ad1-b562-5b38f5059b2d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PANCREAS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f0a9da59-9c82-4049-87cf-2641aab64868">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOCATION AND STRUCTURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="eeedb1cb-400a-441b-9201-1f140cc5e34b">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 18-8.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;pancreas &lt;/strong&gt;[1] is located near and partly behind the &lt;strong&gt;stomach &lt;/strong&gt;[2] at the level of the first and second lumbar vertebrae. The endocrine tissue within the pancreas consists of specialized hormone-producing cells called the &lt;strong&gt;islets of Langerhans &lt;/strong&gt;[3] or &lt;strong&gt;islet cells.&lt;/strong&gt; More than 98% of the pancreas consists of exocrine cells (glands and ducts). These cells secrete digestive enzymes into the gastrointestinal tract but not into the bloodstream.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="79fb2a46-e4af-49cc-a961-242f3d3be461">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00018_f018-008-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="1-2-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-8&lt;/span&gt; &lt;/strong&gt;The &lt;strong&gt;pancreas&lt;/strong&gt; and surrounding organs.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[pancreas]&lt;/li&gt;&lt;li&gt;[stomach]&lt;/li&gt;&lt;li&gt;[islets of Langerhans or islet cells]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="a3f5cff4-4da7-4f13-a724-f86d45886a97">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;FUNCTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="71f9f65c-744e-424e-8fa8-f473bb0fa0e8">
+    <STATIC_text>
+  <text>&lt;p&gt;The islets of Langerhans produce &lt;strong&gt;insulin &lt;/strong&gt;(produced by beta cells) and &lt;strong&gt;glucagon &lt;/strong&gt;(produced by alpha cells). Both play a role regulating blood &lt;strong&gt;glucose &lt;/strong&gt;(sugar) levels. When blood glucose rises, insulin lowers blood sugar by helping it enter body cells. Insulin also lowers blood sugar by causing conversion of &lt;strong&gt;glucose &lt;/strong&gt;to &lt;strong&gt;glycogen &lt;/strong&gt;(a starch storage form of sugar) in the liver. If blood glucose levels fall too low, glucagon raises blood sugar by acting on liver cells to promote conversion of glycogen back to glucose. Thus, the endocrine function of the pancreas is another example of &lt;strong&gt;homeostasis&lt;/strong&gt;, the body’s ability to regulate its inner environment to maintain stability.&lt;/p&gt;&lt;p&gt;Figure 18-9 reviews the secretions of the islet cells and their actions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="0bba1c7f-6077-4d50-8d0e-d60844dd24d9">
+    <STATIC_figure>
+  <image>chp00018_f018-009-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-9 &lt;/span&gt;The pancreas (islet cells): its hormones and actions. &lt;/strong&gt;Insulin is the only hormone that lowers blood sugar levels.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

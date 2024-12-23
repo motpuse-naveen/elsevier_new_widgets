@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="21369690-458c-414c-8d04-3ff644528eed">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;BLOOD PRESSURE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="342bfd2c-7b64-4c84-ac80-c810f9e086c6">
+    <STATIC_text>
+  <text>&lt;p&gt;Blood pressure is the force that the blood exerts on the arterial walls. This pressure is measured with a &lt;strong&gt;sphygmomanometer&lt;/strong&gt; (Figure 11-11).&lt;/p&gt;&lt;p&gt;The sphygmomanometer consists of a rubber bag inside a cloth cuff that is wrapped around the upper arm, just above the elbow. The rubber bag is inflated with air using a handbulb pump. As the bag is pumped up, the pressure within it increases and is measured on a recording device attached to the cuff.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eb91c9a9-9524-450f-85d3-19ad58ceeb31">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00011_f011-009-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-9 &lt;/span&gt;&lt;strong&gt;Conduction system of the heart&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[sinoatrial node (SA node) or pacemaker]&lt;/li&gt;&lt;li&gt;[atrioventricular node (AV node)]&lt;/li&gt;&lt;li&gt;[atrioventricular bundle or bundle of His]&lt;/li&gt;&lt;li&gt;[left bundle branch]&lt;/li&gt;&lt;li&gt;[right bundle branch]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="2f606744-ec99-4490-8324-f3764a98b293">
+    <STATIC_figure>
+  <image>chp00011_f011-010-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-10 &lt;/span&gt;&lt;strong&gt;Electrocardiogram. P wave&lt;/strong&gt; = spread of excitation wave over the atria just before contraction; &lt;strong&gt;QRS wave&lt;/strong&gt; = spread of excitation wave over the ventricles as the ventricles contract; &lt;strong&gt;T wave&lt;/strong&gt; = electrical recovery and relaxation of ventricles. A heart attack or myocardial infarction (MI) can be recognized by an elevation in the &lt;strong&gt;ST segment&lt;/strong&gt; of the electrocardiographic tracing. Thus, one type of MI is an STelevation MI &lt;strong&gt;(STEMI)&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0958d345-a432-497c-8071-e5b192d8ffb6">
+    <STATIC_text>
+  <text>&lt;p&gt;The brachial artery in the upper arm is compressed by the air pressure in the bag. When there is sufficient air pressure in the bag to stop the flow of blood, the pulse in the lower arm (where the observer is listening with a stethoscope) drops.&lt;/p&gt;&lt;p&gt;Air is then allowed to escape from the bag and the pressure is lowered slowly, allowing the blood to begin to make its way through the gradually opening artery. At the point when the person listening with the stethoscope first hears the sounds of the pulse beats, the reading on the device attached to the cuff shows the higher, systolic blood pressure (pressure in the artery when the left ventricle is contracting to force the blood into the aorta and other arteries).&lt;/p&gt;&lt;p&gt;As air continues to escape, the sounds become progressively louder. Finally, when a change in sound from loud to soft occurs, the observer makes note of the pressure on the recording device. This is the diastolic pressure (pressure in the artery when the ventricles relax and the heart fills, receiving blood from the venae cavae and pulmonary veins).&lt;/p&gt;&lt;p&gt;Blood pressure is expressed as a fraction—for example, 120/80 mm Hg, in which the upper number (120) is the systolic pressure and the lower number (80) is the diastolic pressure. A new guideline lowers the target for hypertension (high blood pressure) treatment to 130/80. Both the systolic and diastolic components of hypertension are associated with increased risk of heart attack and stroke.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fca4b730-d8b3-40ff-9ae1-a54ffbff2a36">
+    <STATIC_figure>
+  <image>chp00011_f011-011-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-11&lt;/span&gt; &lt;strong&gt;Measurement of blood pressure with a sphygmomanometer and stethoscope&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

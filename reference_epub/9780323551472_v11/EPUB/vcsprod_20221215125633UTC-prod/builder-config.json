@@ -1,0 +1,17 @@
+{
+  "paths": {
+    "basePath": "./",
+    "skinsPath": "./skins",
+    "dataPath": "./activities/xml/${eid}",
+    "configFile": "./engines/data/config.json",
+    "indexFile": "./index.xhtml",
+    "cssFile": "${paths.skinsPath}/${skin}/css/${skin}.css",
+    "prerenderFile": "./prerender/prerender-screen.js"
+  },
+  "skin": "vcs",
+  "prerender": {
+    "canWriteCssFile": true,
+    "hasInlineConfig": true
+  },
+  "eid": "SCREEN"
+}

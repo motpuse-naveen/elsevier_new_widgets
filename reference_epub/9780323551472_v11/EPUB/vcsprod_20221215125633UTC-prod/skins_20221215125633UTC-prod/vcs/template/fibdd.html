@@ -1,0 +1,44 @@
+<script type="text/template" id="fibdd-page-template">
+	<div class="content">
+		<div class="question">
+		<%
+		var doAutoNumber = autoNumberQuestions; // make available in _.each callback scope
+		var questionNumber = index;
+		var questionClasses = !doAutoNumber ? "no-autonumber" : "";
+		var topMarginRequired = !stacked && (stimulus.isEmpty || !isStimulusAboveQuestion())
+		if (topMarginRequired) {
+			questionClasses += " no-stimulus-margin";
+		}
+		_.each(questions,function(question,i) {
+		%>
+		<div class="word-bank">
+			<%
+				_.each(question.shuffledAnswers, function(answer, i) {
+			%>
+			<span class="word-bank-answer"><%-answer%></span>
+			<% }) %>
+		</div>
+		<h3 id="<%= question.qid %>" class="visuallyhidden">Question <%=questionNumber+1%></h3>
+		<div class="dragable-container">
+		<%
+		_.each(question.shuffledAnswers,function(answer,i) {
+		%>
+		<div class="dragable-element-container">
+			<div class="dragable-element" style="top: 0px;left: 0px;"><%-answer.length ? answer:"&nbsp;"%></div>
+		</div>
+
+		<% }); %>
+		</div>
+
+		<div class="question <%=questionClasses%>" >
+			<div class="question-txt js-review-focus" tabindex="-1"><span class="question-num"><%= doAutoNumber ? (question.index + 1) + "." : "" %></span><%=question.transformedText.length ? question.transformedText:"&nbsp;"%></div>
+		</div>
+		<div class="stimulus-after u-float--clearfix"></div>
+		</div>
+		<% }); %>
+	</div>
+
+</script>
+
+
+

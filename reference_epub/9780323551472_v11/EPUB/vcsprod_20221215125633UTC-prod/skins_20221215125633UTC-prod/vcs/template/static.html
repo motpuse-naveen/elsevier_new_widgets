@@ -1,0 +1,158 @@
+<!--
+  enter any templates for static (aka content) blocks here
+-->
+
+<script type="text/template" id="static-pagebreak-template">
+	<div epub:type="pagebreak" id="pagebreak_<%= id %>" class="hidden-pagebreak" title="<%= page %>" xmlns:epub="http://www.idpf.org/2007/ops" />
+</script>
+
+<script type="text/template" id="static-heading-template">
+	<div class="static">
+		<div class="screen__margin">
+			<%
+				// default level should be 2
+				var type = headingLevel._value;
+				var level = ["heading", "subheadinga", "subheadingb", "subheadingc", "subheadingd"].indexOf(type);
+				level = level === -1 ? 2 : level + 2;
+			%>
+			<h<%= level %> class="heading heading--<%= type %>"><%= itu.htmlPtoBr(text) %></h<%= level %>>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-table-template">
+	<div class="static">
+		<div class="screen__margin vst-draggable">
+			<%= text %>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-container-template">
+	<div class="static">
+		<div class="screen__margin">
+			<%
+			var style= "";
+			if (typeof(bgColor) !== "undefined" && typeof(bgColor._value) !== "undefined" &&
+				bgColor._value !== "ececec" ) {
+				// note ececec implies theme default
+				style = "style='background-color: #" + bgColor._value + "'";
+			}
+			%>
+			<div class="container" <%=style%>>
+			<div class="static__text">
+				<%= text %>
+			</div>
+		</div>
+	</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-text-template">
+	<div class="static">
+		<div class="screen__margin">
+			<div class="static__text--indent">
+				<%= text %>
+			</div>
+
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-figure-template">
+	<%
+	if (obj.image) {
+		var data = {
+			image: obj.mediaPath + obj.image,
+			imageAlt: obj.imageAlt,
+			imageCaption: obj.imageCaption,
+			imageControls: obj.imageControls
+		}
+		var margin = itu.isLegacyImg(data) ? "" : " screen__margin";
+	}
+	%>
+	<div class="static u-float--clearfix<%=margin%>">
+		<%= itu.createImg(data) %>
+	</div>
+</script>
+
+<script type="text/template" id="static-text-figure-template">
+	<div class="static u-float--clearfix">
+		<%
+		if (obj.image) {
+			var data = {
+				image: obj.mediaPath + obj.image,
+				imageAlt: obj.imageAlt,
+				imageCaption: obj.imageCaption,
+				imageControls: obj.imageControls,
+				isFloating : true
+			}
+			var margin = "screen__margin" + (itu.isLegacyImg(data) ? "--desktop" : "");
+		}
+		%>
+		<div class="screen__margin">
+			<div class="static__text--indent" >
+				<div class="<%=margin%>">
+					<%= itu.createImg(data) %>
+					<%= text %>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-hr-divider-template">
+	<div class="static">
+		<div class="screen__margin">
+			<hr class="divider--hr" />
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-divider-template">
+	<div class="static">
+		<div class="screen__margin">
+			<div class="divider"></div>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-quote-template">
+	<div class="static">
+		<div class="screen__margin">
+			<blockquote class="quote">
+				<%= quote %>
+				<footer><cite class="quote--cite"><%= itu.htmlPtoBr(citation) %></cite></footer>
+			</blockquote>
+		</div>
+	</div>
+</script>
+
+
+<script type="text/template" id="utility-empty-template">
+	<div class="empty-indicator empty-<%=blockType%> screen__margin"<%=itu.dirltr()%>><span aria-hidden="true" class="<%=blockType%>-icon"/><span>Click to add <%=blockLabel%></span></div>
+</script>
+
+<script type="text/template" id="utility-empty-epub-template">
+	<div class="empty-indicator empty-<%=blockType%> screen__margin"<%=itu.dirltr()%>><span aria-hidden="true" class="<%=blockType%>-icon"/><span>This block is empty</span></div>
+</script>
+
+
+<script type="text/template" id="static-html-embed-block-template">
+	<div class="static">
+		<div class="screen__margin">
+			<%= text %>
+		</div>
+	</div>
+</script>
+
+<script type="text/template" id="static-html-zip-template">
+	<div class="static">
+		<div class="screen__margin">
+			<iframe src="<%=imagePath%><%= image %>" style="width: 100%;overflow: auto;height: 500px;">
+
+			</iframe>
+
+		</div>
+	</div>
+</script>

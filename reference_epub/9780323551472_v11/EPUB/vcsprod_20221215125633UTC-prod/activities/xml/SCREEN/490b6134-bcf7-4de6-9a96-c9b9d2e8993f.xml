@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a555f0a0-b103-4cac-bb88-ff0a324f31e3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;BLOOD TYPES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="61e5b766-d218-4f78-b652-321d7d5a24ab">
+    <STATIC_text>
+  <text>&lt;p&gt;Transfusions of whole blood (cells and plasma) are used to replace blood lost after injury, during surgery, or in severe shock. A patient who is severely anemic and needs only red blood cells will receive a transfusion of &lt;strong&gt;packed red cells &lt;/strong&gt;(whole blood with most of the plasma removed). Human blood falls into four main types: A, B, AB, and O. These types are based on the antigens on red blood cells and the antibodies found in each person ’ s serum (Table 13-2).&lt;/p&gt;&lt;p&gt;There are harmful effects of transfusing blood from a donor of one blood type into a recipient who has blood of another blood type. Therefore, before blood is transfused, both the blood donor and the blood recipient are tested, to make sure that the transfused blood will be compatible with the recipient’s blood type. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; During transfusion, if blood is not compatible, then &lt;strong&gt;hemolysis &lt;/strong&gt;(breakdown of red blood cells) occurs. This may be followed by excessive clotting in blood vessels (&lt;strong&gt;disseminated intravascular coagulation, &lt;/strong&gt;or &lt;strong&gt;DIC&lt;/strong&gt;), which is a life-threatening condition.&lt;/p&gt;&lt;p&gt;Besides A and B antigens, many other antigens are located on the surface of red blood cells. One of these is called the &lt;strong&gt;Rh factor&lt;/strong&gt; (named because it was first found in the blood of a rhesus monkey). The term Rh positive (Rh+) refers to a person who is born with the Rh antigen on his or her red blood cells. An Rh negative (Rh−) person does not have the Rh antigen. See Chapter 4 , page 114 , for more information about the Rh factor. In clinical practice, blood types are named to indicate both Rh and ABO antigen status. If a woman has an A+ (A positive) blood type, for example, this means that she was born with both A antigen and Rh antigen on her red blood cells. If a man has a B− (B negative) blood type, this means he was born with the B antigen on his red blood cells but not Rh antigen.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="dc907ddc-c733-4d29-b068-d00781cb4fa4">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Why is Type O the “Universal Donor” Blood Type?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Type O blood does not contain A or B red cell antigens and therefore will not react with antibodies in any recipient’s bloodstream. Anti-A and anti-B antibodies present in type O blood become diluted in the recipient ’ s bloodstream and do not cause an adverse reaction.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d8515d97-6a9f-401a-a4cb-ffcb27ac8e71">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TABLE 13-2 BLOOD TYPES&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f9732fa5-214d-4b7f-918d-8929074fe3ac">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;TYPE&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;PERCENTAGE IN POPULATION&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;RED CELL ANTIGENS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;SERUM ANTIBODIES&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;41&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Yes (anti-B)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Yes (anti-A)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;AB&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;A and B&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;No (anti-A or anti-B)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;O&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;45&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;No A and B&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Yes (anti-A and anti-B)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

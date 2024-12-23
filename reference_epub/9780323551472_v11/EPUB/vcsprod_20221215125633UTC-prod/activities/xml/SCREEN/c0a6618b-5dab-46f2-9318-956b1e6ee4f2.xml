@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e70b1601-77a5-452e-9c66-3f47119d8782">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#4F7E87;"&gt;PREFACE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="74e69385-ca38-4ec5-b3ec-7b1580464a54">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;WELCOME TO THE 12TH EDITION OF THE LANGUAGE OF MEDICINE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="aad7ed02-c292-401b-b052-dfecef11b3e3">
+    <STATIC_text-figure>
+  <image>page_005_04.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;The continuing focus of this new edition is its cutting-edge relevance to real-life medical practice. Drawing on the newest technology, state-of-the-art medical procedures, and treatments, The Language of Medicine brings medical terminology to life. The newly-drawn dynamic images and up-to-date photography plus compelling patient stories further illustrate medical terminology in action.&lt;/p&gt;&lt;p&gt;I am honored that this text continues to be the book instructors return to, year after year, because their students tell them that it works! As a student, you will find that &lt;em&gt;The Language of Medicine &lt;/em&gt;speaks to you no matter what your background or level of education. It is written in simple, non-technical language that creates an exceptionally accessible pathway to learning. Since it is a workbook-text combination, you engage and interact on practically every page through writing and reviewing terms, labeling diagrams, and answering questions. Terminology is explained so that you understand medical terms in their proper context, which is the structure and function of the human body in health and disease.&lt;/p&gt;&lt;p&gt;Throughout the process of writing this text over its 12 editions, I have listened to hundreds of students and instructors and incorporated their insightful suggestions. Expert medical reviewers have once again helped me to ensure that the terminology included reflects cutting edge clinical practice. New information and illustrations throughout are the result of recommendations from all those who have so generously provided feedback. My continuing goal in writing &lt;em&gt;The Language of Medicine &lt;/em&gt;is to help you not only learn medical terminology but also to enjoy learning! You will find that medical terminology comes alive and stays with you when you use my interactive, logical, and easy-to-follow method. Undeniably, the study of this language requires commitment and hard work, but the benefits are great. Knowledge of medical terminology will give you a strong start in your career.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="8708e410-155c-4b14-a3aa-420940b4cf3f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;NEW TO THE 12TH EDITION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ba1199db-8a46-4297-8ab5-e80226272797">
+    <STATIC_text>
+  <text>&lt;p&gt;The biggest bonus for students and instructors is the brand new MINI-DICTIONARY at the end of the book. This is a complete list of all medical terms in the text with easy to understand explanations. My thought was to provide an immediate, convenient way for finding definitions, seeing pronunciations, and checking answers to all terminology sections. It also will be a useful reference, not only during your coursework, but as you begin your new medical career!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="deae3f17-436b-4602-aff9-4db0c2a36f65">
+    <STATIC_figure>
+  <image>Mini_Dictionary.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="46da6d38-2dff-4759-8e13-10ecb33986d5">
+    <STATIC_text>
+  <text>&lt;p&gt;While the essential elements of The Language of Medicine remain in place, the new 12th edition is even more relevant to real-life medical situations.&lt;/p&gt;&lt;p&gt;The 12th edition includes helpful hints to point out important facts and make things clear. There are also new, first-hand stories of medical conditions and procedures. These personal accounts make medical terminology more understandable and relevant.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="1c9354d3-ef95-465f-886a-94d1cbbb2fc2">
+    <STATIC_figure>
+  <image>IN_PERSON_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1e97164b-e034-4e47-b2b9-292428db714f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;HINTS&lt;/strong&gt; make things clear and point out important facts.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2ffe99fa-6b0c-4f5b-9185-71fbf1b322b5">
+    <STATIC_text>
+  <text>&lt;p&gt;Clinical photographs and drawings dynamically illustrate new medical terminology, abnormal conditions, and treatments&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="63dff7a2-a057-49d2-822e-59c6f5b3f8cf">
+    <STATIC_figure>
+  <image>Fig_1_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="27607642-532b-4b63-8b27-d922ba18e655">
+    <STATIC_figure>
+  <image>Fig_2_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0ac75828-4395-4ec7-a415-eecd3f153f22">
+    <STATIC_figure>
+  <image>Fig_3Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f2b6a969-a1ac-4175-80fe-5a12c066bf91">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;HOW TO USE THE BOOK&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ba1c57a0-fa5d-41b8-8733-30393e86f11b">
+    <STATIC_text>
+  <text>&lt;p&gt;The Language of Medicine makes learning easy. The book guides and coaches you step by step through the learning experience. Don’t get overwhelmed! Approach learning systematically, step by step. I’ve helped you study each chapter by organizing the information in small pieces. Icons are provided to help you navigate the sections of the text.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5961fbf4-507c-4f59-be82-8a85c3f4880a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 53px;" src="../media/icon_VOCABULARY.jpg" data-handler-handled="true"/&gt; After basic material in the chapter is introduced, the key terms you need to learn are presented in Vocabulary lists. These lists help you study and stay focused.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ada0887c-90ed-4a39-8fa1-5111b05fbf61">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; You cannot get lost using &lt;em&gt;The Language of Medicine&lt;/em&gt;. You learn and engage in small incremental steps. In Terminology sections, terms are explained with information that comes from my own classroom teaching experience.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e83f5be7-0aeb-4b03-b6cf-4db3f306f047">
+    <STATIC_figure>
+  <image>Fig_4_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a826b685-a89e-4bb5-a6af-f9b46c58fae0">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 49px;" src="../media/icons.png" data-handler-handled="true"/&gt; Throughout the text, Spotlights enhance the relevance of medical terms.&lt;br/&gt; &lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4320b906-e4db-4737-a496-613d8d0ba4e4">
+    <STATIC_figure>
+  <image>xi.new.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="178c982c-aa2d-40bd-8225-487899d532ac">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; In Practical Applications sections throughout the book, medical terminology  is also connected to real life through case studies and practical clinical information.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a83d7396-7b6e-4acf-94eb-51c245b974d3">
+    <STATIC_figure>
+  <image>Fig_6_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="8f6007b1-7753-4c25-8dbe-50f29636e032">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 52px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; Study sections organize information and help you learn.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3e4a4762-af9b-42b8-82ad-b76618a9a568">
+    <STATIC_figure>
+  <image>Fig_7_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1a9ccfae-542f-4614-b336-dcff17897781">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 49px;" src="../media/Icon_Preface.jpg" data-handler-handled="true"/&gt; As you study with &lt;em&gt;The Language of Medicine&lt;/em&gt;, you are engaged in each step of the learning process. On nearly every page, you are actively involved in labeling diagrams, dividing words into component parts, writing meanings  to terms, testing, reviewing, and evaluating your learning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="97fd71f5-64d0-40a8-8b93-0bae5b6c560c">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 48px;" src="../media/icon_ABBREVIATIONS.jpg" data-handler-handled="true"/&gt; Abbreviations are listed and explained in each body system chapter.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2e24f374-9f9f-41e0-b3c0-a79e31eb2824">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_review_sheet.png" data-handler-handled="true"/&gt; A Review Sheet at the end of each chapter helps you organize and test yourself on what you have learned!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4344d358-1e74-4276-b063-1ff6b6ffc749">
+    <STATIC_figure>
+  <image>Fig_8_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9026766c-6106-400f-b1ac-fdfc79df7912">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/icon_pronunciation_of_terms.png" data-handler-handled="true"/&gt; The Pronunciation of Terms section shows you how to pronounce each new term in the chapter. You can also hear these terms pronounced on the companion Evolve website. Meanings  of all terms are included in the new &lt;strong&gt;MINI-DICTIONARY&lt;/strong&gt; at the end  of book.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="b6b85350-9c5f-437c-beeb-3320cf7fcbb4">
+    <STATIC_figure>
+  <image>Fig_9_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f8f79dfe-6086-418d-bb9b-9a4b511543ef">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#684182;"&gt;&lt;strong&gt;ALSO AVAILABLE&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a1f6ddf9-d34c-45e9-8a32-f5e1f91dd8a7">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 85px; height: 22px;" src="../media/icon_evolve.png" data-handler-handled="true"/&gt; &lt;span style="color:#425BA1;"&gt;Student Evolve Resources&lt;/span&gt;&lt;/strong&gt;&lt;span style="color:#425BA1;"&gt; (complimentary access included with purchase of this text)&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="cce27110-fedc-403e-b2ad-63bfc968e90f">
+    <STATIC_text-figure>
+  <image>Fig_10_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="left"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;The student website accompanying this new edition is packed with activities, games, additional information, and video clips to expand your understanding and test your knowledge. Additionally, on the website, you can hear the terms corresponding to the Pronunciation of Terms section in each chapter (more than 3,000 terms in all). Access your resources at:  &lt;a href="http://evolve.elsevier.com/Chabner/language"&gt;http://evolve.elsevier.com/Chabner/language&lt;/a&gt;.&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="c1a89903-8e56-47aa-bd77-6f170688fff1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#425BA1;"&gt;&lt;strong&gt;MEDICAL LANGUAGE INSTANT TRANSLATOR&lt;/strong&gt; (for sale separately) &lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ac211a96-6463-4776-93af-81f3a0ef0fdc">
+    <STATIC_text-figure>
+  <image>Fig_11_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;The Medical Language Instant Translator is a uniquely useful resource for all allied health professionals and students of medical terminology. It is a pocket-sized medical terminology reference with convenient information at your ﬁngertips!&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="9c8a776c-b655-4aa9-af6b-17fae8546d83">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;INSTRUCTOR’S RESOURCE MANUAL&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8908a597-7a46-4d3b-83bc-6bbf2c9a9a16">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;em&gt;The Language of Medicine Instructor’s Resource Manual &lt;/em&gt;(includes instructor’s manual, ExamView test bank, PowerPoints, and an image collection) is available with even more new quizzes, teaching suggestions, crossword puzzles, medical reports, and reference material. The image collection contains all figures and photos from the 12th edition. The instructor materials plus a test bank can be accessed online at &lt;a href="http://evolve.elsevier.com/Chabner/language"&gt;http://evolve.elsevier.com/Chabner/language&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The fundamental features you have come to trust in learning and teaching medical terminology remain strong in this new edition. These are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Simple, nontechnical explanations of medical terms.&lt;/li&gt;&lt;li&gt;Workbook format with ample space to write answers.&lt;/li&gt;&lt;li&gt;Explanations of clinical procedures, laboratory tests, and abbreviations related to each body system.&lt;/li&gt;&lt;li&gt;Pronunciation of Terms sections with phonetic spellings and spaces to write meanings of terms.&lt;/li&gt;&lt;li&gt;Practical Applications sections with case reports, operative and diagnostic tests, and laboratory and x-ray reports.&lt;/li&gt;&lt;li&gt;Exercises that test your understanding of terminology as you work through the text step by step (answers are included).&lt;/li&gt;&lt;li&gt;Review Sheets that pull together terminology to help you study.&lt;/li&gt;&lt;li&gt;Comprehensive glossaries and appendices for reference in class and on the job.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Each student and teacher who selects &lt;em&gt;The Language of Medicine &lt;/em&gt;becomes my partner in the exciting adventure of learning medical terms. Continuity is crucial. Continue to communicate with me through email (&lt;a href="daviellenchabner@gmail.com"&gt;daviellenchabner@gmail.com&lt;/a&gt;) with your suggestions and comments so that future printings and editions may benefit. A website connected to &lt;em&gt;The Language of Medicine &lt;/em&gt;and dedicated to helping students and teachers is located at &lt;a href="http://evolve.elsevier.com/Chabner/language"&gt;http://evolve.elsevier.com/Chabner/language&lt;/a&gt;. I hope you will tell me about additional resources you would like to see on that website so that we can make it an even more useful part of the learning process. You should know that I still experience the thrill and joy of teaching new students. I love being in a classroom and feel privileged to continue to write this text. I hope that my enthusiasm and passion for the medical language are transmitted to you through these pages.&lt;/p&gt;&lt;p style="text-align: center;"&gt; Work hard, but have fun with &lt;br/&gt; &lt;em&gt;The Language of Medicine!&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3f8c9150-7dda-4abd-9022-ac155330f20c">
+    <STATIC_figure>
+  <image>Fig_12_Preface.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p style="text-align: center;"&gt;&lt;strong&gt; DAVI-ELLEN CHABNER&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

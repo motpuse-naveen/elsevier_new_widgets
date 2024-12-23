@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="f8bba169-582c-4475-b0e5-2b82a59bcbc3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;GENERAL STRUCTURE OF THE NERVOUS SYSTEM&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0261f8ad-e0ce-4ae8-93b9-1ab3fbcdcfb8">
+    <STATIC_text>
+  <text>&lt;p&gt;The nervous system is classified into two major divisions: the &lt;strong&gt;central nervous system (CNS)&lt;/strong&gt; and the &lt;strong&gt;peripheral nervous system (PNS)&lt;/strong&gt;. The central nervous system consists of the &lt;strong&gt;brain &lt;/strong&gt;and &lt;strong&gt;spinal cord&lt;/strong&gt;. The peripheral nervous system consists of&lt;strong&gt; cranial nerves&lt;/strong&gt; and &lt;strong&gt;spinal nerves, plexuses, &lt;/strong&gt;and &lt;strong&gt;peripheral nerves&lt;/strong&gt; throughout the body (Figure 10-1). Cranial nerves carry impulses between the brain and the head and neck. The one exception is the tenth cranial nerve, called the &lt;strong&gt;vagus nerve&lt;/strong&gt;. It carries messages to and from the neck, chest, and abdomen. Figure 10-2 shows cranial nerves, their functions, and the parts of the body that they carry messages to and from. Spinal nerves carry messages between the spinal cord and the chest, abdomen, and extremities.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;plexus &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;/strong&gt;is a large network of nerves in the peripheral nervous system. The cervical, brachial (brachi/o means arm), and lumbosacral plexuses are examples that include cervical, lumbar, and sacral nerves. Figure 10-1 illustrates the relationship of the brain and spinal cord to the spinal nerves and plexuses.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="eb1ca603-629d-4d2d-ba51-9e8c18b15931">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Plexus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There are other &lt;strong&gt;plexuses&lt;/strong&gt; in the body—networks of intersecting blood vessels (vascular) and lymphatic vessels.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lymphatic plexus is an interconnecting network of lymph vessels.&lt;/li&gt;&lt;li&gt;Rectal plexus is a plexus of veins in the rectal region.&lt;/li&gt;&lt;li&gt;Vertebral plexus is a plexus of veins related to the backbone.&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="9f28376a-fb6f-4063-8325-7f9d7f5bdedf">
+    <STATIC_figure>
+  <image>fig10-1.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-1 &lt;/span&gt;The brain and the spinal cord, spinal nerves, and spinal plexuses. &lt;/strong&gt;The &lt;strong&gt;femoral nerve&lt;/strong&gt; is a lumbar nerve leading to and from the thigh region (the femur is the thigh bone). The&lt;strong&gt; sciatic nerve&lt;/strong&gt; is a nerve beginning in a region of the hip. The &lt;strong&gt;cauda equina&lt;/strong&gt; (Latin for “horse’s tail”) is a bundle of spinal nerves below the end of the spinal cord.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bebd4edf-d35c-454c-be89-708635f0434b">
+    <STATIC_figure>
+  <image>fig10-2.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-2 &lt;/span&gt;Cranial nerves &lt;/strong&gt;(I to XII) leading from the base of the brain and showing the parts of the body they affect. &lt;strong&gt;Sensory &lt;/strong&gt;or &lt;strong&gt;afferent&lt;/strong&gt; nerves are colored &lt;em&gt;blue &lt;/em&gt;and carry messages &lt;em&gt;toward &lt;/em&gt;the brain. &lt;strong&gt;Motor &lt;/strong&gt;or&lt;strong&gt; efferent&lt;/strong&gt; nerves are colored &lt;em&gt;red &lt;/em&gt;and carry messages &lt;em&gt;from &lt;/em&gt;the brain to muscles and organs. Some nerves (mixed) carry both sensory and motor fibers. Don’t try to memorize this figure! Just get the big picture: Cranial nerves carry messages to and from the brain to all parts of head and neck and also (in the case of the vagus nerve) to other parts of the body.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bf792e13-f696-4c2c-a8f5-cf3bf00c77ee">
+    <STATIC_text>
+  <text>&lt;p&gt;The spinal and cranial nerves are composed of nerves that help the body respond to changes in the outside world. They include sense &lt;strong&gt;receptors&lt;/strong&gt; for sight (eye), hearing and balance (ear), smell (olfactory), and touch (skin sensation) and &lt;strong&gt;sensory (afferent)&lt;/strong&gt; &lt;strong&gt;nerves &lt;/strong&gt;that carry messages related to changes in the environment &lt;em&gt;toward &lt;/em&gt;the spinal cord and brain. In addition, &lt;strong&gt;motor (efferent) nerves&lt;/strong&gt; travel &lt;em&gt;from &lt;/em&gt;the spinal cord and brain to muscles of the body, telling them how to respond. For example, when you touch a hot stove, temperature and pain receptors in the skin stimulate afferent nerves, which carry messages toward the spinal cord and brain. Instantaneously, the message is conveyed to efferent nerve cells in the spinal cord, which then activate voluntary muscles to pull your hand away from the stove.&lt;/p&gt;&lt;p&gt;In addition to the spinal and cranial nerves (whose functions are mainly voluntary and involved with sensations of smell, taste, sight, hearing, and muscle movements), the peripheral nervous system also contains a large group of nerves that function involuntarily or automatically, without conscious control. These peripheral nerves belong to the &lt;strong&gt;autonomic nervous system.&lt;/strong&gt; This system of nerve fibers carries impulses to glands, heart, blood vessels, involuntary muscles found in the walls of tubes like the intestines, and hollow organs like the stomach and urinary bladder.&lt;/p&gt;&lt;p&gt;Some autonomic nerves are &lt;strong&gt;sympathetic &lt;/strong&gt;nerves and others are &lt;strong&gt;parasympathetic &lt;/strong&gt;nerves. The sympathetic nerves stimulate the body in times of stress and crisis. They increase heart rate and forcefulness, dilate (relax) airways so more oxygen can enter, and increase blood pressure. In addition, sympathetic neurons stimulate the adrenal glands to secrete epinephrine (adrenaline), while also inhibiting intestinal contractions to slow digestion. The parasympathetic nerves normally act as a balance for the sympathetic nerves.&lt;/p&gt;&lt;p&gt;Parasympathetic nerves slow down heart rate, lower blood pressure, and stimulate intestinal contractions to clear the rectum. Figure 10-3 shows the differences in actions between the sympathetic and parasympathetic nerves.&lt;/p&gt;&lt;p&gt;Figure 10-4 summarizes the divisions of the central and peripheral nervous systems.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="48265937-14c2-4860-b74c-4fe4336c5be4">
+    <STATIC_figure>
+  <image>fig10-3.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-3 &lt;/span&gt;Actions of parasympathetic and sympathetic nerves.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="49ede0e7-f1fe-47d7-ab3c-2e82068ba127">
+    <STATIC_figure>
+  <image>fig10-4.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-4 &lt;/span&gt;Divisions of the central nervous system (CNS) and peripheral nervous system (PNS).&lt;/strong&gt; The autonomic nervous system is a part of the peripheral nervous system.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

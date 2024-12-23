@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c6eecd56-5d48-46a8-a82a-84b29cbc5f16">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_inperson.jpg" data-handler-handled="true"/&gt; IN PERSON: DIABETES INSIPIDUS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b58804c2-916e-4173-9394-d2e1e20f1403">
+    <STATIC_text-figure>
+  <image>chp00018_u018-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;Prior a diagnosis of diabetes insipidus, I was drinking what seemed like gallons of water a day. I first thought it was great to always want water because I was aware the daily recommendations. But it quickly became apparent that I couldn’t go for more than 30 minutes without drinking at least 8 ounces or more. If I didn’t have water every 20-30 minutes, I would produce a foam-like substance in my mouth feel the urge urinate. In fact, as I was drinking so much water I was also producing clear urine very frequently. I was unable to sleep throughout the night awoke with my heart racing, feeling extremely thirsty.&lt;/p&gt;&lt;p&gt;When I went to my physician, she drew blood and the results showed low levels of a hormone called vasopressin or antidiuretic hormone. I was diagnosed with diabetes insipidus and started taking a medication called desmopressin (commonly known as DDVSP) to replace the hormone from pituitary gland. An MRI showed that I had a pituitary adenoma, which was the cause of the decrease in hormone secretion. Three months later I had the transsphenoidal surgery to remove growth on my pituitary gland. Remnants of the tumor were removed through my nasal passages. Now my symptoms have improved, but I continue to take desmopressin as needed.&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;em&gt;Kemisha White is a Boston native and beach lover! She loves exploring and experiencing life.&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+</blocks>

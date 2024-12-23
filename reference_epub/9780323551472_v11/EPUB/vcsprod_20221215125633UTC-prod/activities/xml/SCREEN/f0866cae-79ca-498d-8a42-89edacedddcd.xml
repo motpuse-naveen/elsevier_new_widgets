@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="7bd5ea3e-edbf-49cb-b8cd-3f347f244895">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_inperson.jpg" data-handler-handled="true"/&gt; IN PERSON: MY CUSHING’S JOURNEY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bde30e82-114e-4ffb-8ca5-6da0874de8a3">
+    <STATIC_text-figure>
+  <image>chp00018_u018-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;em&gt;This first-person account was written by a young woman about her experience with Cushing syndrome.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I’ve always been a bit of a “skinny-Minnie” and had no major health issues. But in 1997 I started having irregular periods. Not only that, but I started gaining weight—6 to 9 pounds every month. I knew something was wrong.&lt;/p&gt;&lt;p&gt;This began my year-long journey with Cushing syndrome. Initially, I saw two general practitioners, had blood work done, and was told I was fine. As I gained more weight, Cushing’s symptoms became more apparent. I developed striae (purplish marks on my thighs *), a big round “moon face,” and a humpback.&lt;sup&gt;†&lt;/sup&gt; I also became extremely fatigued when performing simple tasks. At the time, however, I had no idea or clue of what was happening.&lt;/p&gt;&lt;p&gt;Next, I saw my gynecologist. Again, more blood work, and I was told I’m fine. This process continued on with three other doctors. I pressed on from feeling misunderstood, depressed, and utterly tired and found an endocrinologist. After 3 months of testing, he located the problem: a tumor on my right adrenal gland. A month later I had a right adrenalectomy. Thankfully, my left adrenal works great, and I don’t have to take any hormone pills. I was also thrilled that the 72 pounds I gained over the year melted away in a few months.&lt;/p&gt;&lt;p&gt;I’ll never forget this experience. Having an unknown medical condition is very stressful. In some ways, I think I was even more stressed and depressed because my doctors seemed to dismiss my symptoms. I didn’t own a computer at the time, and I asked a friend to do some online research for me. I really felt I had to educate myself. I still don’t know what caused the adrenal gland tumor or if I could have prevented it. But I am pretty much back to normal, and my Cushing’s journey taught me to be a better advocate for myself.&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;em&gt;Tanzie Johnson is a professional photographer living in New York City.&lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+  <block refid="b74ab586-b36a-44c5-9365-7d03d212a6bf">
+    <STATIC_text>
+  <text>&lt;p&gt;* The weight gain in Cushing syndrome stretches the skin, which becomes thin and weakened, allowing small hemorrhages to occur in the thinned-out tissue.&lt;br/&gt;&lt;sup&gt;†&lt;/sup&gt;Fat pads accumulate along the collarbone and on the back of the neck (“buffalo hump”).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: The diagnosis of Cushing syndrome can take months to years, because its symptoms can be confused with those of many other conditions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d11a163e-eee4-4fd3-b4a4-d035c938827b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;STRUCTURAL ORGANIZATION OF THE BODY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="242ae7a4-701e-4b96-b30d-4b9c0bf73e0c">
+    <STATIC_text>
+  <text>&lt;p&gt;This chapter provides you with an orientation to the body as a whole—cells, tissues, organs, and systems—along with terminology describing positions and directions within the body. We begin with the smallest living unit, the &lt;strong&gt;cell&lt;/strong&gt;, and build to an understanding of complex body systems. In order to know how organs function in both health and disease, it is important to appreciate the workings of their individual cellular units.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="92e3541a-70ed-42ce-baf1-f4980405b170">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CELLS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d7c2a0c4-4452-4221-98d1-fd41370fcd20">
+    <STATIC_text>
+  <text>&lt;p&gt;The cell is the fundamental unit of all living things (animal or plant). Cells are everywhere in the human body—every tissue, every organ is made up of these individual units.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="9a64f9cc-5553-4e60-8e62-707a9b30ff10">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Similarity in Cells&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b436b499-041c-4eea-ba19-ddbad1a68890">
+    <STATIC_text>
+  <text>&lt;p&gt;All cells are similar in that they contain a gelatinous substance composed of water, protein, sugar, acids, fats, and various minerals. Several parts of a cell, described next, are pictured in Figure 2-1 as they might look when photographed with an electron microscope. Label the structures on Figure 2-1. Throughout the book, numbers or letters in brackets indicate that the boldface term preceding it is to be used in labeling.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;cell membrane [1] &lt;/strong&gt;not only surrounds and protects the cell but also regulates what passes into and out of the cell.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;nucleus [2]&lt;/strong&gt; controls the operations of the cell. It directs cell division and determines the structure and function of the cell.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chromosomes [3] &lt;/strong&gt;are rod-like structures within the nucleus. All human body cells— except for the sex cells, the egg and the sperm (short for spermatozoon)—contain 23 pairs of chromosomes. Each sperm and each egg cell have only 23 unpaired chromosomes. After an egg and a sperm cell unite to form the embryo, each cell of the embryo then has 46 chromosomes (23 pairs) (Figure 2-2).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f2a0e3ed-3c9b-4316-85aa-933adeadde81">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-1.png</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 2-1&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Major parts of a cell.&lt;/strong&gt; Ribosomes (RI-bo-sohmz) are small granules that help the cell make proteins.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. [cell membrane]&lt;br/&gt;2. [nucleus]&lt;br/&gt;3. [chromosomes]&lt;br/&gt;4. [cytoplasm]&lt;br/&gt;a. [mitochondria]&lt;br/&gt;b. [endoplasmic reticulum]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="18ddf573-1ef5-454d-a04c-03f38045edd1">
+    <STATIC_figure>
+  <image>fig2-2.png</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 2-2 &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;Egg and sperm cells,&lt;/strong&gt; each containing 23 chromosomes.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a121848c-b137-45b6-bbf3-d62b73865b1a">
+    <STATIC_text>
+  <text>&lt;p&gt;Chromosomes contain regions called &lt;strong&gt;genes&lt;/strong&gt;. There are several thousand genes, in an orderly sequence, on every chromosome. Each gene contains a chemical called &lt;strong&gt;DNA &lt;/strong&gt;(deoxyribonucleic acid). DNA regulates the activities of the cell according to its sequence (arrangement into genes) on each chromosome. The DNA sequence resembles a series of recipes in code. This code, when passed out of the nucleus to the rest of the cell, directs the activities of the cell, such as cell division and synthesis of proteins.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;karyotype &lt;/strong&gt;is a photograph of an individual’s chromosomes, arranged by size, shape, and number (Figure 2-3). Karyotyping can determine whether chromosomes are normal.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8fc6cee6-3b59-43ce-9335-c92487a669c0">
+    <STATIC_figure>
+  <image>page_038_02.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 2-3&lt;/strong&gt; &lt;/span&gt;&lt;strong&gt;Karyotype of a normal male.&lt;/strong&gt; Twenty-three pairs of chromosomes are shown. The 23rd pair is the XY pair present in normal males. In normal females, the 23rd pair is XX. For this karyotype, the chromosomes were treated with chemicals so that bands of light and dark areas are seen.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bc699f0e-02f7-4dcf-83e6-cb427e1f8289">
+    <STATIC_text>
+  <text>&lt;p&gt;For example, an obstetrician may recommend amniocentesis (puncture of the sac around the fetus for removal of fluid and cells) for a pregnant woman so that the karyotype of the baby can be examined.&lt;/p&gt;&lt;p&gt;If a baby is born with a chromosomal abnormality, serious problems can result. In Down syndrome, the karyotype shows 47 chromosomes instead of the normal number, 46 (Figure 2-4). The extra chromosome 21 results in the development of a child with Down syndrome (also called trisomy 21 syndrome). Its incidence is about 1 in every 750 live births, but as the mother’s age increases, the presence of the chromosomal abnormality increases.&lt;/p&gt;&lt;p&gt;Continue labeling Figure 2-1.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;cytoplasm &lt;/strong&gt;[4] (cyt/o = cell, -plasm = formation) includes all of the material outside the nucleus and enclosed by the cell membrane. It carries on the work of the cell (e.g., in a muscle cell, it does the contracting; in a nerve cell, it transmits impulses). The cytoplasm contains specialized apparatus to supply the chemical needs of the cell.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mitochondria &lt;/strong&gt;[a] are small sausage-shaped bodies that provide the principal source of energy for the cell. They use nutrients and oxygen to release energy that is stored in food. During the chemical process called &lt;strong&gt;catabolism&lt;/strong&gt;, complex foods such as sugar and fat are broken down (cata- means down) into simpler substances and energy is released by the mitochondria. Thus, catabolism provides the energy for cells to do the work of the body.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;endoplasmic reticulum&lt;/strong&gt; [b] is a network (reticulum) of canals within the cell. These canals are cellular tunnel systems that manufacture proteins for the cell. Attached to the endoplasmic reticulum are &lt;strong&gt;ribosomes&lt;/strong&gt;, which build long chains of proteins. &lt;strong&gt;Anabolism&lt;/strong&gt;, occurring on the endoplasmic reticulum, is the process of building up (ana- means up) large proteins from small protein pieces called amino acids. Examples of important proteins for cell growth are hormones and enzymes.&lt;/p&gt;&lt;p&gt;Together, these two processes— &lt;strong&gt;anabolism &lt;/strong&gt;and &lt;strong&gt;catabolism &lt;/strong&gt;—make up the cell’s metabolism. &lt;strong&gt;Metabolism&lt;/strong&gt;, then, is the total of the chemical processes occurring in a cell. If a person has a “fast metabolism,” foods such as sugar and fat are used up very quickly, and energy is released. If a person has a “slow metabolism,” foods are burned slowly, and fat accumulates in cells.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a9076e2a-17e7-43aa-95b2-3f91540bd41f">
+    <STATIC_figure>
+  <image>fig2-4.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 2-4&lt;/strong&gt;&lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt; A, Karyotype of a Down syndrome female &lt;/strong&gt;patient showing trisomy 21. There is an extra copy of chromosome 21, in addition to the usual pair, for a total of three (tri-).&lt;strong&gt; B&lt;/strong&gt;, Photograph of a child with the typical facial appearance in Down syndrome. Features include a small, somewhat flat nose and upward slant of the eyes. Other characteristics of patients with Down syndrome are mental deficiency and heart defects.&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="aca8f440-b0e7-49aa-899f-b18dabc27096">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; STUDY SECTION 1&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1785bf78-a311-49d2-8544-42e028aeec38">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term, and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="77d266a2-19a5-4cb4-9510-2469c1c3c2e2">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;anabolism&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Process of building up large proteins from small protein pieces called amino acids. Ana- means up, bol means to cast, and -ism is a process.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;catabolism&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Process whereby complex nutrients are broken down to simpler substances and energy is released. Cata- means down, bol means to cast, and -ism is a process.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cell membrane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Structure surrounding and protecting the cell. It determines what enters and leaves the cell.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;chromosomes&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Rod-shaped structures in the nucleus that contain regions of DNA called genes. There are 46 chromosomes (23 pairs) in every cell except for the egg and sperm cells, which contain only 23 individual, unpaired chromosomes.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cytoplasm&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;All of the material that is outside the nucleus and yet contained within the cell membrane.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;DNA&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Chemical found within each chromosome. Arranged like a sequence of recipes in code, it directs the activities of the cell.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;endoplasmic reticulum&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Network of canals within the cytoplasm of the cell. Here, large proteins are made from smaller protein pieces.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;genes&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Regions of DNA within each chromosome.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;karyotype&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Picture (classification) of chromosomes in the nucleus of a cell. The chromosomes are arranged in numerical order to determine their number and structure.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;metabolism&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Total of the chemical processes in a cell. It includes catabolism and anabolism. Meta- means change, bol means to cast, and -ism means a process.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mitochondria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Rod-shaped structures in the cytoplasm that provide the principal source of energy (miniature “power plants”) for the cell. &lt;strong&gt;Catabolism &lt;/strong&gt;is the process that occurs in mitochondria. (From the Greek &lt;em&gt;mitos&lt;/em&gt; meaning thread and &lt;em&gt;chondrion&lt;/em&gt; meaning granule.) &lt;strong&gt;&lt;span style="color:#CA500F;"&gt;*&lt;/span&gt;&lt;/strong&gt; &lt;strong&gt;HINT&lt;/strong&gt;: Think of “mighty” mitochondria!&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nucleus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Control center of the cell. It contains chromosomes and directs the activities of the cell.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ed4cca6c-e103-488c-ac18-110707d4fb90">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Anabolic Steroids&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These drugs are similar to &lt;strong&gt;androgens &lt;/strong&gt;(male hormones) in their effects on the body. They build up protein within cells.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="39bd9497-4334-447e-9a05-51925180210f">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Metabolism and the Thyroid Gland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The thyroid gland secretes thyroid hormone (thyroxine, or T4), which stimulates metabolism in cells. Increased levels of hormone speed up metabolism (increased energy and weight loss) and decreased levels of hormone slow down metabolism (sluggishness and weight gain).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5b3ab2cc-ca9c-4f7d-9911-ba86977080cb">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Differences in Cells&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d951eae5-552c-4211-bd3b-2b8f65a1ff86">
+    <STATIC_text>
+  <text>&lt;p&gt;While we have just seen how cells contain similar structures, as they develop in the embryo, cells change to form many different types. Cells are different, or specialized, throughout the body to carry out their individual functions. For example, a &lt;strong&gt;muscle cell&lt;/strong&gt; is long and slender and contains fibers that aid in contracting and relaxing; an &lt;strong&gt;epithelial cell&lt;/strong&gt; (a lining and skin cell) may be square and flat to provide protection; a &lt;strong&gt;nerve cell&lt;/strong&gt; may be long and have various fibrous extensions that aid in its job of carrying impulses; a &lt;strong&gt;fat cell&lt;/strong&gt; contains large, empty spaces for fat storage. These are only a few of the many types of cells in the body. Figure 2-5 illustrates the different sizes and shapes of muscle, epithelial, nerve, and fat cells. The term that describes this change in cells as they mature and specialize is &lt;strong&gt;differentiation&lt;/strong&gt;. &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="98fb425e-135c-4f10-8e70-971d0a649557">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-5.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 2-5 &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;Types of cells. &lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;A. [muscle cell]&lt;br/&gt;B. [epithelial cell]&lt;br/&gt;C. [nerve cell]&lt;br/&gt;D. [fat cell]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="fff10969-8f8a-438d-92bc-c5a9e97c5532">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Differentiation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It's still a scientific mystery why cells with the same DNA change or specialize into different types of cells in the developing embryo. Factors are thought to influence genes (DNA), leading to differentiation of cells. If we can figure out what causes differentiation as they mature, we may be closer to understanding what happens to cells when they revert to a more primitive, unspecialized form, as in cancer cells.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ce2916d2-2699-4830-813b-bd5039ad021a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TISSUES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ed08fdd5-95e0-43db-ab72-060b0accb6f3">
+    <STATIC_text>
+  <text>&lt;p&gt;A tissue is a group of similar cells working together to do a specific job. A &lt;strong&gt;histologist &lt;/strong&gt;(hist/o = tissue) is a scientist who specializes in the study of tissues. Several different types of tissue are recognized. Tissues of the same type may be located in various regions of the body. Figure 2-6 illustrates four types of tissues.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="74a52e5d-6e53-46e3-ae69-721b4d46f2ed">
+    <STATIC_figure>
+  <image>fig2-6.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-6&lt;/span&gt; Types of tissues. A, Epithelial. B, Muscle. C, Connective tissue (Fat). D, Nerve.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="dda0a689-7afb-46d5-912c-809e78416495">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Epithelial Tissue&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f1ce9792-0a23-4d9f-95b3-c9830200ccad">
+    <STATIC_text>
+  <text>&lt;p&gt;Epithelial tissue, located all over the body, forms the linings of internal organs, and the outer surface of the skin covering the body. It also lines exocrine and endocrine glands and is responsible for the secretions that the glands produce. The term &lt;strong&gt;epithelial &lt;/strong&gt;originally referred to the tissue on (epi-) the breast nipple (thel/o). Now it describes all tissue that covers the outside of the body and lines the inner surface of internal organs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="435f47cb-1278-4e24-a2ea-5169a3955bea">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Muscle Tissue&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8a7caf7c-155a-4211-97f4-1221de73b9b0">
+    <STATIC_text>
+  <text>&lt;p&gt;Voluntary muscle is found in arms and legs and parts of the body where movement is under conscious control. Involuntary muscle, found in the heart and digestive system, as well as other organs, allows movement that is not under conscious control. Cardiac muscle is a specialized type of muscle found only in the heart. Contractions of this muscle type can be seen as a beating heart in an ultrasound scan of a 6-week-old fetus.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fbce12d2-8a20-45c2-9c5c-352f307cdeff">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Connective Tissue&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4eb6c5f6-a2b8-412f-80f5-5cfc7c51500a">
+    <STATIC_text>
+  <text>&lt;p&gt;Examples are &lt;strong&gt;adipose&lt;/strong&gt; (fat) tissue, &lt;strong&gt;cartilage &lt;/strong&gt;(elastic, fibrous tissue attached to bones), bone, and blood.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3acb98c7-8d66-4ef6-80e1-5a3d3d70b89c">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Nerve Tissue&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f940f0d1-9f7e-451d-aa40-8ecf675de84f">
+    <STATIC_text>
+  <text>&lt;p&gt;Nerve tissue conducts impulses all over the body.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ee539641-717c-4b3e-940f-91421727b653">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ORGANS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7d2a5409-933b-4904-a530-bde14bb2102d">
+    <STATIC_text>
+  <text>&lt;p&gt;Different types of tissue combine to form an organ. For example, an organ such as the stomach is composed of muscle tissue, nerve tissue, and glandular epithelial tissue. The medical term for internal organs is &lt;strong&gt;viscera&lt;/strong&gt; (singular: &lt;strong&gt;viscus&lt;/strong&gt;). Examples of abdominal viscera (organs located in the abdomen) are the liver, stomach, intestines, pancreas, spleen, and gallbladder.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="055d4b73-5ff4-4802-9cdd-465a4dd5fb9e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SYSTEMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e39ebcd0-45e0-47e8-a978-af364fcdc161">
+    <STATIC_text>
+  <text>&lt;p&gt;Systems are groups of organs working together to perform complex functions. For example, the mouth, esophagus, stomach, and small and large intestines are organs that do the work of the digestive system to digest food and absorb it into the bloodstream.&lt;/p&gt;&lt;p&gt;Figure 2-7 reviews the difference between cells, tissues, organs and systems.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="226a60eb-da5b-465a-bc49-c9a83ea7846b">
+    <STATIC_figure>
+  <image>fig2-7.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-7 &lt;/span&gt;Cells, tissues, organs and systems.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="6318f722-06f7-44e3-bc94-49e13d266e08">
+    <STATIC_text>
+  <text>&lt;p&gt;The body systems with their individual organs are listed next. Learn to spell and identify the organs in &lt;strong&gt;boldface&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="adda6361-19e2-484c-b172-f770de385160">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;SYSTEM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;ORGANS&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Digestive&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mouth, &lt;strong&gt;pharynx &lt;/strong&gt;(throat), esophagus (tube from the throat to the stomach), stomach, intestines (small and large), liver, gallbladder, pancreas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Urinary or excretory&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Kidneys, &lt;strong&gt;ureters &lt;/strong&gt;(tubes from the kidneys to the urinary bladder), urinary bladder, &lt;strong&gt;urethra &lt;/strong&gt;(tube from the bladder to the outside of the body)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Respiratory&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Nose, pharynx, &lt;strong&gt;larynx &lt;/strong&gt;(voice box), &lt;strong&gt;trachea &lt;/strong&gt;(windpipe), bronchial tubes, lungs (where the exchange of gases takes place)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Reproductive&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;em&gt;Female &lt;/em&gt;: Ovaries, fallopian tubes, &lt;strong&gt;uterus &lt;/strong&gt;(womb), vagina, mammary glands&lt;/p&gt;&lt;p&gt;&lt;em&gt;Male&lt;/em&gt; : Testes and associated tubes, urethra, penis, prostate gland&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Endocrine&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Thyroid gland&lt;/strong&gt; (in the neck), &lt;strong&gt;pituitary gland&lt;/strong&gt; (at the base of the brain), sex glands (ovaries and testes), adrenal glands, pancreas (islets of Langerhans), parathyroid glands&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nervous&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Brain, spinal cord, nerves, and collections of nerves&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Circulatory&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Heart, blood vessels (arteries, veins, and capillaries), lymphatic vessels and nodes, spleen, thymus gland&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Musculoskeletal&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Muscles, bones, and joints&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Skin and sense organs&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Skin, hair, nails, sweat glands, and sebaceous (oil) glands; eye, ear, nose, and tongue&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7a3ec11e-918c-485d-98a5-122449bfafbb">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; &lt;strong&gt;STUDY SECTION 2&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bf7ad3b6-27b0-4ab4-8bc2-437b84d3b1c7">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term, and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="708ca169-f7a4-434b-b0c5-d02e899ecad9">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;adipose tissue&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Collection of fat cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cartilage&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Flexible connective tissue often attached to bones at joints. Cartilage forms part of the external ear and the nose. Rings of cartilage surround the trachea.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;epithelial cells&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Skin cells that cover the outside of the body and line the internal surfaces of organs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;histologist&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Specialist in the study of tissues.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;larynx &lt;/strong&gt;(LAH-RINKS)&lt;/td&gt;&lt;td&gt;&lt;p&gt;Voice box; located above the trachea.&lt;br/&gt;&lt;span style="color:#D24634;"&gt;*&lt;/span&gt;&lt;strong&gt; HINT:&lt;/strong&gt; Think of the word &lt;strong&gt;laryngitis&lt;/strong&gt;, which means inflammation of the voice box, and may result in losing your voice!&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pharynx &lt;/strong&gt;(FAH-RINKS)&lt;/td&gt;&lt;td&gt;&lt;p&gt;Throat. The pharynx serves as the common passageway for food (from the mouth going to the esophagus) and air (from the nose to the trachea).&lt;br/&gt;&lt;span style="color:#D24634;"&gt;* &lt;/span&gt;&lt;strong&gt;HINT:&lt;/strong&gt; Note that “y” comes before “n” in both phar&lt;strong&gt;yn&lt;/strong&gt;x and lar&lt;strong&gt;yn&lt;/strong&gt;x.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pituitary gland&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Endocrine gland at the base of the brain.&lt;br/&gt;&lt;span style="color:#D24634;"&gt;* &lt;/span&gt;&lt;strong&gt;HINT: &lt;/strong&gt;Be careful spelling pituitary; it contains 2 i’s.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thyroid gland&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Endocrine gland that surrounds the trachea in the neck.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;trachea&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Windpipe (tube leading from the throat and larynx to the bronchial tubes.)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ureter&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;One of two tubes, each leading from a single kidney to the urinary bladder.&lt;br/&gt;&lt;span style="color:#D24634;"&gt;* &lt;/span&gt;&lt;strong&gt;HINT:&lt;/strong&gt; &lt;em&gt;Spelling clue&lt;/em&gt; : Ureter has two &lt;strong&gt;e&lt;/strong&gt;’s, and there are two ureters.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;urethra&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Tube from the urinary bladder to the outside of the body.&lt;br/&gt;&lt;span style="color:#D24634;"&gt;* &lt;/span&gt;&lt;strong&gt;HINT:&lt;/strong&gt; &lt;em&gt;Spelling clue&lt;/em&gt; : Urethra has one &lt;strong&gt;e&lt;/strong&gt;, and there is only one urethra.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;uterus&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Womb; the organ that holds the embryo/fetus as it develops.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;viscera&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Internal organs in the main cavities of the body, especially in the abdomen.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7503eddc-d5ac-4439-9b14-3fe0c9653aa3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;BODY CAVITIES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7c7da0d0-b1b6-4354-a1ad-582494b66fb4">
+    <STATIC_text>
+  <text>&lt;p&gt;A body cavity is a space within the body that contains internal organs (viscera). Label Figure 2-8 as you learn the names of the body cavities. Some of the important organs contained within those cavities are listed as well.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a46d9364-b664-42c9-8e39-830f442ce677">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-8.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-8&lt;/span&gt; Body cavities. Ventral&lt;/strong&gt; (anterior) cavities are in the front of the body (&lt;em&gt;blue&lt;/em&gt;). &lt;strong&gt;Dorsal&lt;/strong&gt; (posterior) cavities are in the back (&lt;em&gt;red&lt;/em&gt;).&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[Cranial]&lt;/li&gt;&lt;li&gt;[Thoracic]&lt;/li&gt;&lt;li&gt;[Abdominal]&lt;/li&gt;&lt;li&gt;[Pelvic]&lt;/li&gt;&lt;li&gt;[Spinal]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5d939c64-818f-4cdf-b68d-ad922a609929">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;CAVITY&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;ORGANS&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align: bottom;"&gt;&lt;strong&gt;Cranial &lt;/strong&gt;[1]&lt;/td&gt;&lt;td&gt;Brain, pituitary gland.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;&lt;p&gt;&lt;strong&gt;Thoracic &lt;/strong&gt;[2]&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Lungs, heart, esophagus, trachea, bronchial tubes, thymus gland, aorta (large artery).&lt;/p&gt;&lt;p&gt;The thoracic cavity is divided into two smaller cavities (Figure 2-9):&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;a.&lt;strong&gt; Pleural cavity &lt;/strong&gt;—space surrounding each lung. The &lt;strong&gt;pleura &lt;/strong&gt;is a double membrane that surrounds the lungs and protects them. If the pleura is inflamed (as in pleuritis or pleurisy), the pleural cavity may fill with fluid. This is called a &lt;strong&gt;pleural effusion&lt;/strong&gt;.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;b. &lt;strong&gt;Mediastinum &lt;/strong&gt;—centrally located space outside of and between the lungs. It contains the heart, aorta, trachea, esophagus, thymus gland, bronchial tubes, and many lymph nodes.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Abdominal &lt;/strong&gt;[3]&lt;/td&gt;&lt;td&gt;The &lt;strong&gt;peritoneum &lt;/strong&gt;is the double-folded membrane surrounding the abdominal cavity (Figure 2-10). It attaches the abdominal organs to the abdominal muscles and surrounds each organ to hold it in place. The kidneys are two bean-shaped organs situated behind the abdominal cavity (retroperitoneal area) on either side of the backbone (see Figures 2-10 and 2-12). The abdominal cavity also contains the stomach, small and large intestines, spleen, pancreas, liver, and gallbladder. The &lt;strong&gt;diaphragm &lt;/strong&gt;(a muscular wall) divides the abdominal and thoracic cavities (see Figure 2-8).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Pelvic &lt;/strong&gt;[4]&lt;/td&gt;&lt;td&gt;Portions of the small and large intestines, rectum, urinary bladder, urethra, and ureters; uterus and vagina in the female.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Spinal &lt;/strong&gt;[5]&lt;/td&gt;&lt;td&gt;Nerves of the spinal cord.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3a560848-117d-4f60-b5ac-f995a668eb74">
+    <STATIC_figure>
+  <image>fig2-9.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-9&lt;/span&gt;&lt;/strong&gt; &lt;strong&gt;Thoracic Cavity.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e5aa638f-d965-4e8c-aef8-6750e00e23ed">
+    <STATIC_figure>
+  <image>fig2-10.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-10 &lt;/span&gt;Abdominal (peritoneal) cavity &lt;/strong&gt;(&lt;em&gt;side view &lt;/em&gt;and in &lt;em&gt;light blue&lt;/em&gt;). Notice the &lt;strong&gt;peritoneum&lt;/strong&gt;, which is a membrane surrounding the organs in the abdominal cavity. If there is disease of the abdominal organs, fluid may accumulate in the peritoneal cavity. This fluid is called &lt;strong&gt;ascites&lt;/strong&gt;. The&lt;strong&gt; retroperitoneal area&lt;/strong&gt; is behind the peritoneum. The kidneys are in the retroperitoneal area.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="10167eee-29c0-4826-a35a-4fbdccd2247d">
+    <STATIC_text>
+  <text>&lt;p&gt;The cranial and spinal cavities are the dorsal (dors/o = back) body cavities because of their location on the back or posterior portion of the body. The thoracic, abdominal, and pelvic cavities are ventral (ventr/o = belly) body cavities because they are on the front (anterior) portion of the body (see Figure 2-8).&lt;/p&gt;&lt;p&gt;While the thoracic and abdominal cavities are separated by a muscular wall called the &lt;strong&gt;diaphragm&lt;/strong&gt;, the abdominal and pelvic cavities are not separated and are referred to together as the &lt;strong&gt;abdominopelvic cavity&lt;/strong&gt;. Figures 2-11 and 2-12 show the abdominal and thoracic viscera from anterior (ventral) and posterior (dorsal) views.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="79e136ff-6c38-4457-9e9d-8d1cb47f27a1">
+    <STATIC_figure>
+  <image>fig2-11.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-11&lt;/span&gt; Organs of the abdominopelvic and thoracic cavities, anterior view.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e3ebf9eb-f23d-4e0c-b25e-3452434e1d60">
+    <STATIC_figure>
+  <image>fig2-12.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-12&lt;/span&gt; Organs of the abdominopelvic and thoracic cavities, posterior view.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bbdb5d60-5854-458b-bd7d-17ce23d526ca">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/studyicon.jpg" data-handler-handled="true"/&gt; &lt;strong&gt;STUDY SECTION 3&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="28fe176e-832d-46b2-8d91-d680e716d39f">
+    <STATIC_text>
+  <text>&lt;p&gt;Practice spelling each term, and know its meaning.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="953a9582-670c-4e38-aefd-d3666f7270f4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;abdominal cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space below the chest containing organs such as the liver, stomach, gallbladder, and intestines; also called the &lt;strong&gt;abdomen &lt;/strong&gt;or &lt;strong&gt;peritoneal cavity&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cranial cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space in the head containing the brain and surrounded by the skull. &lt;strong&gt;Cranial &lt;/strong&gt;means&lt;strong&gt; pertaining to the skull&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;diaphragm&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Muscle separating the abdominal and thoracic cavities. The diaphragm moves up and down and aids in breathing.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dorsal (posterior)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pertaining to the back.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mediastinum&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Centrally located space outside of and between the lungs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pelvic cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space below the abdomen containing portions of the intestines, rectum, urinary bladder, and reproductive organs. &lt;strong&gt;Pelvic &lt;/strong&gt;means &lt;strong&gt;pertaining to the pelvis,&lt;/strong&gt; composed of the hip bones surrounding the pelvic cavity.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;peritoneum &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Double-folded membrane surrounding the abdominal cavity. The peritoneum attaches abdominal viscera to muscles and functions as a protective membrane (containing blood vessels and nerves) around the organs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pleura&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Double-folded membrane surrounding each lung. Pleural means pertaining to the pleura. &lt;strong&gt;&lt;span style="color:#D24634;"&gt;*&lt;/span&gt; HINT:&lt;/strong&gt; Don’t confuse &lt;em&gt;pleural &lt;/em&gt;with &lt;em&gt;plural&lt;/em&gt;, which means more than one!&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pleural cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space between the pleural layers.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spinal cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space within the spinal column (backbones) containing the spinal cord. See Figure 2-13.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thoracic cavity&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Space in the chest containing the heart, lungs, bronchial tubes, trachea, esophagus, and other organs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ventral (anterior)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pertaining to the front.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="459b85e6-9ab1-4bc2-8e9c-106b99b388f2">
+    <STATIC_figure>
+  <image>fig2-13.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-13&lt;/span&gt; Spinal Cavity.&lt;/strong&gt; A disc is a pad of cartilage that acts as a cushion between each backbone of the spinal column.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="26b39454-a25a-4403-a9ea-7a146f664347">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Peritoneum and Other Membranes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Many vital organs are covered and protected by membranes. The &lt;strong&gt;peritoneum &lt;/strong&gt;surrounds abdominal viscera (liver, small and large intestines, stomach), and the &lt;strong&gt;pleura &lt;/strong&gt;covers the lungs.&lt;/p&gt;&lt;p&gt;You can visualize the way organs are surrounded by a double membrane by imagining your fist pushing deep into a soft balloon. The balloon is then in two layers folded over your fist, just the way the pleura surrounds the lungs and the peritoneum surrounds the abdominal organs. Double wrapping around organs provides protection and cushioning, as well as a site for attachment to muscles. In the event of inflammation or disease of organs or membranes, fluid may collect in the space between the membranes surrounding the organs. This collection of fluid in the pleural cavity is called a &lt;strong&gt;pleural effusion&lt;/strong&gt;. A collection of fluid in the peritoneal cavity is called &lt;strong&gt;ascites&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

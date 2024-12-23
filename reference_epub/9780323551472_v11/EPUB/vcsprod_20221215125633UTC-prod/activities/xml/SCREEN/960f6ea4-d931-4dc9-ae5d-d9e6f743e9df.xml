@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="20a24157-ecee-45ae-83be-e6fc917bc000">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fa71e4a2-a33f-4e8b-9992-699808ecd0eb">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="43502f80-680f-4b32-a8a4-a9fc5a3227fe">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;BUN (blood urea nitrogen)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of urea levels in blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Normally, the BUN (pronounced be-u-n) level is low because urea is excreted in the urine continuously. However, when the kidney is diseased or fails, the BUN may be very high. Urea accumulates in the blood (uremia), leading to unconsciousness and death.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;creatinine clearance&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of the rate at which creatinine is cleared from the blood by the kidney.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is an important test to assess the functioning of the kidney. A blood sample is drawn and the creatinine concentration in blood is compared with the amount of creatinine excreted in the urine during a fixed time period. If the kidney is not functioning well in its job of clearing creatinine from the blood, the amount of creatinine in the blood will be high relative to the amount in urine. Creatinine clearance is a useful indicator of the &lt;strong&gt;glomerular filtration rate (GFR)&lt;/strong&gt;, which normally is 90 to 120 mL/minute.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="0bcbf05b-ffd5-477d-a3de-ba71466c38bd">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1d212369-6483-49ea-a960-6bb19e25c21e">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;X-Ray Studies&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="63282519-99de-4ba8-8677-a8f40c92ce1e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CT urography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray images obtained using computed tomography (CT) show multiple cross-sectional and other views of the kidney.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;CT scanners show multiple views of the kidney, taken with or without contrast material. Two main indications are to detect kidney stones and to evaluate patients with hematuria (Figure 7-13A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;KUB (kidneys, ureters, and bladder)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray examination (without contrast) of the kidneys, ureters, and bladder.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A KUB (prounced k-u-be) study demonstrates the size and location of the kidneys in relation to other organs in the abdominopelvic region. It can also show kidney stones.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;renal angiography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray examination (with contrast) of the blood vessels of the kidney.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure helps diagnose obstruction or constriction of blood vessels leading to the kidney. The same changes can be seen on CT and MRI urography.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;retrograde pyelogram (RP)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray image of the renal pelvis and ureters after injection of contrast through a urinary catheter into the ureters from the bladder.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This technique is useful in locating urinary stones and obstructions.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;voiding cystourethrogram (VCUG)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray image (with contrast) of the urinary bladder and urethra obtained while the patient is voiding. See Figure 7-13B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The bladder is filled with contrast material, followed by fluoroscopy (real-time x-ray imaging). Reflux of contrast into the ureters is abnormal and may occur with recurrent urinary tract infections.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="6720a719-c63b-493a-a814-27487cd513af">
+    <STATIC_figure>
+  <image>fig7-13.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-13 &lt;/span&gt;A, CT urography with contrast&lt;/strong&gt; (axial view) shows a benign cyst on the kidney. It does not take up the contrast and is smooth and round. &lt;strong&gt;B, Voiding cystourethrogram &lt;/strong&gt;showing a normal female urethra. &lt;em&gt;(Courtesy William H. Bush, Jr., MD, University of Washington, Seattle.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="575d9901-99b3-43ed-9a83-3d8a16ae747a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Examination&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c7c3bd81-dfc0-4056-bc55-26e0b7eed76c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ultrasonography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Imaging of urinary tract structures using high-frequency sound waves.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kidney size, tumors, hydronephrosis, polycystic kidney disease, and ureteral and bladder obstruction can be diagnosed using ultrasound techniques.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="96bc94df-0b61-47a0-a671-6ae345f247e8">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Radioactive Study&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="478eb09a-dc31-4319-b6e9-cc3e5987f0d2">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;radioisotope scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Image of the kidney obtained after injecting a radioactive substance (radioisotope) into the bloodstream.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pictures show the size and shape of the kidney &lt;strong&gt;(renal scan) &lt;/strong&gt;and its functioning &lt;strong&gt;(renogram)&lt;/strong&gt;. These studies can indicate narrowing of blood vessels, diagnose obstruction, and determine the individual functioning of each kidney.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e5f3a954-ad14-427d-a850-70b552fa8b91">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Magnetic Resonance Imaging&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b0b3f87e-8675-4ec2-8156-0457255b3be7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MRI urography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Changing magnetic field produces images of the kidney and surrounding structures in three planes of the body.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The patient lies within a cylindrical magnetic resonance machine, and images are made of the pelvic and retroperitoneal regions using magnetic waves. The test shows tumor invasion of blood vessels, lymph nodes, and adjacent tissues.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="9c50e008-ff52-4e10-9a82-6ef7ce1b6d55">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;OTHER PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9c156c36-057b-4b73-bf10-541caea36744">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cystoscopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Direct visualization of the urethra and urinary bladder with an endoscope (cystoscope). &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The procedure can be performed in two ways. Flexible cystoscopy uses a thin &lt;strong&gt;fiberoptic cystoscope&lt;/strong&gt; and is used for diagnosis and check-ups of the urinary bladder. &lt;strong&gt;Rigid cystoscopy&lt;/strong&gt; uses a hollow metal tube, passed through the urethra and into the bladder. It is used to take biopsy samples, remove polyps, or perform laser treatments. Both these tests can be done in the office or operating room. See Figure 7-14A and B.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dialysis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Process of separating nitrogenous waste materials from the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dialysis is used to treat acute or chronic renal failure and some cases of drug use. There are two methods:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Hemodialysis (HD)&lt;/strong&gt; uses an artificial kidney machine that receives wastefilled blood from the patient’s bloodstream, filters it through an artificial porous membrane (dialyzer), and returns the dialyzed blood to the patient’s body (Figure 7-15A). An &lt;strong&gt;arteriovenous fistula &lt;/strong&gt;(communication between an artery and a vein) is created surgically, often in the patient’s arm, to provide easy access for hemodialysis (Figure 7-15B).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Peritoneal dialysis (PD)&lt;/strong&gt; uses a &lt;strong&gt;catheter &lt;/strong&gt;to introduce fluid into the peritoneal (abdominal) cavity. Waste materials, such as urea, in the capillaries of the peritoneum pass out of the bloodstream and into the fluid. The fluid (with wastes) is then removed by catheter. When used to treat patients with chronic kidney disease, PD may be performed continuously by the patient without mechanical support (CAPD—continuous ambulatory PD; Figure 7-16) or with the aid of a mechanical apparatus used at night during sleep.&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lithotripsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Urinary tract stones are crushed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;extracorporeal method&lt;/strong&gt; uses shock waves directed toward the stone from the outside of the body (extra = outside, corpor/o = body). The patient receives light sedation or an anesthetic. Stones pass from the body in urine after the procedure. Abbreviation is &lt;strong&gt;ESWL (extracorporeal shock wave lithotripsy).&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="0ef9661a-aa01-43a0-abc4-fc2af563fd07">
+    <STATIC_figure>
+  <image>fig7-14.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-14&lt;/span&gt; Cystoscopy. A, Rigid cystoscope&lt;/strong&gt; in place within the urethra. &lt;strong&gt;B, Flexible cystoscope.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bf83b6e5-ab52-49db-acd4-19a8f4a85b12">
+    <STATIC_figure>
+  <image>fig7-15.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 7-15&lt;/strong&gt; &lt;/span&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;Hemodialysis (HD). A,&lt;/strong&gt; Patient receiving HD. Conventional HD involves 3 to 4 hours of dialysis three times weekly. Newer alternative modalities include slower and longer dialysis, nocturnal HD, and daily short HD.&lt;strong&gt; B, Arteriovenous fistula&lt;/strong&gt; for hemodialysis.&lt;/span&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ab3bef8b-7517-4d6f-8db7-340f0ce729ee">
+    <STATIC_figure>
+  <image>fig7-16.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 7-16&lt;/strong&gt; &lt;/span&gt;&lt;strong&gt;Continuous ambulatory peritoneal dialysis (CAPD). A, &lt;/strong&gt;The dialysis solution (dialysate) flows from a collapsible plastic bag through a catheter (Tenckhoff peritoneal catheter) into the patient’s peritoneal cavity. The empty bag is then folded and inserted into undergarments. &lt;strong&gt;B,&lt;/strong&gt; After 4 to 8 hours, the bag is unfolded, and the fluid is allowed to drain into it by gravity. The full bag is discarded, and a new bag of fresh dialysate is attached.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="4eecaf85-797f-4962-92bb-be6658fef2ac">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;renal angioplasty&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Dilation of narrowed areas in renal arteries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A balloon attached to a catheter is inserted into the artery and then inflated to enlarge the vessel diameter. Afterward, stents (metal-mesh tubes) may be inserted to keep the vessel open. This procedure is used to treat renal hypertension and to preserve renal function.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;renal biopsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of kidney tissue for microscopic examination.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Biopsy may be performed at the time of surgery (open) or through the skin (percutaneous, or closed). When the latter technique is used, the patient lies in the prone position; then, after administration of local anesthesia to the overlying skin and muscles of the back, the physician inserts a biopsy needle down into the kidney. Several specimens are obtained for examination by a pathologist.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;renal transplantation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical transfer of a kidney from a donor to a recipient.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Patients with renal failure may receive a kidney from a living donor, such as an identical twin (isograft) or other person (allograft), or from a patient at the time of death (cadaver transplant). Best results occur when the donor is closely related to the recipient—98% of transplanted kidneys survive for 1 year or longer (Figure 7-17). See the &lt;em&gt;&lt;strong&gt;In Person: Kidney Transplant&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;urinary catheterization&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Passage of a flexible, tubular instrument through the urethra into the urinary bladder.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Catheters are used primarily for short- or long-term drainage of urine. A &lt;strong&gt;Foley catheter&lt;/strong&gt; is an indwelling (left in the bladder) catheter held in place by a balloon inflated with liquid (Figure 7-18).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="6e728420-5e38-4013-b1cb-9d0242de7133">
+    <STATIC_figure>
+  <image>fig7-17.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-17 &lt;/span&gt;Renal (kidney) transplantation. A,&lt;/strong&gt; Left kidney of donor is removed for transplantation.&lt;strong&gt; B, &lt;/strong&gt;Kidney is transplanted to the right pelvis (iliac fossa) of the recipient. The renal artery and vein of the donor kidney are joined to the recipient kidney’s artery and vein, and the end of the donor ureter is connected to the recipient’s bladder &lt;strong&gt;(ureteroneocystostomy)&lt;/strong&gt;. The health of the donor is not affected by losing one kidney. In fact, the remaining kidney is able to take over full function.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b0f488a7-11da-41da-b837-2e12cdef542b">
+    <STATIC_figure>
+  <image>fig7-18.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-18 &lt;/span&gt;Foley catheter&lt;/strong&gt; in place in the urinary bladder. The three-way catheter has three separate lumens: for drainage of urine, for inflation of balloons in the bladder, and for introduction of irrigating solutions into the bladder.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

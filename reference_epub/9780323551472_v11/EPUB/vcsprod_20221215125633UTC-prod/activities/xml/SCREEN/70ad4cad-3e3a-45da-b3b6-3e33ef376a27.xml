@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="750532af-12d0-469e-9359-7ea8dd57beb0">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;CHAPTER 20 | &lt;span style="color:#684182;"&gt;Radiology and Nuclear Medicine&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="757f292d-0a18-4dfc-96b7-4c3c301780d2">
+    <STATIC_figure>
+  <image>chp00020_co020-9780323551472.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="a849acba-a04b-492b-9620-aadd749e72c0">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;span style="color:#684182;"&gt;&lt;strong&gt;Chapter Sections:&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ee853636-ee74-48dc-aa77-b699ac2262c2">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;a href="000302255190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Introduction&lt;/a&gt;&lt;br/&gt;&lt;a href="000302256190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Radiology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302257190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Nuclear Medicine&lt;/a&gt;&lt;br/&gt;&lt;a href="000302258190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Vocabulary&lt;/a&gt;&lt;br/&gt;&lt;a href="000302259190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Terminology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302260190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Abbreviations&lt;/a&gt;&lt;br/&gt;&lt;a href="000302261190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;In Person: CT and MRI&lt;/a&gt;&lt;br/&gt;&lt;a href="000302262190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Practical Applications&lt;/a&gt;&lt;br/&gt;&lt;a href="000315294240211919.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Exercises&lt;/a&gt;&lt;br/&gt;&lt;a href="000302263190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pronunciation of Terms&lt;/a&gt;&lt;br/&gt;&lt;a href="000302264190230743.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Review Sheet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f25d2c19-e4df-4618-a36e-d1c24ccf085a">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CHAPTER GOALS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;List the physical properties of x-rays.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Identify diagnostic techniques used by radiologists and nuclear physicians.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Name the x-ray views and patient positions used in x-ray examinations.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Describe the role of radioactivity in the diagnosis of disease.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Recognize medical terms used in the specialties of radiology and nuclear medicine.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Apply your new knowledge to understanding medical terms in their proper contexts, such as medical reports and records.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+</blocks>

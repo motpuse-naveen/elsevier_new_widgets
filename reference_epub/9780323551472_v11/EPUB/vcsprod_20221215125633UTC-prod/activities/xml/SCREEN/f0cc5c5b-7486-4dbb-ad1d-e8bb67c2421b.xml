@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="9d84f716-6f39-4b28-9947-8033061fbf3d">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="13926ffc-c2b6-4315-bd18-444a12c9433b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d3437032-4971-4bf1-9270-155d17e30527">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;adip/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fat (&lt;em&gt;see &lt;/em&gt;&lt;strong&gt;lip/o&lt;/strong&gt;)&lt;/td&gt;&lt;td&gt;&lt;u&gt;adip&lt;/u&gt;ose&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;albin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;white &lt;/td&gt;&lt;td&gt;&lt;u&gt;albin&lt;/u&gt;ism&lt;br/&gt;&lt;em&gt;See Figure 16-5A. Table 16-1 lists combining forms for colors and examples of terms using those combining forms.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;caus/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;burn, burning&lt;/td&gt;&lt;td&gt;&lt;u&gt;caus&lt;/u&gt;algia&lt;br/&gt;&lt;em&gt;Intensely unpleasant burning sensation in skin and muscles when there is damage to nerves&lt;/em&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cauter/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;heat, burn &lt;/td&gt;&lt;td&gt;electro&lt;u&gt;cauter&lt;/u&gt;y&lt;br/&gt;&lt;em&gt;An instrument containing a needle or blade used during surgery to burn through tissue by means of an electrical current. Electrocauterization is very effective in minimizing blood loss.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cutane/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;skin (&lt;em&gt;see &lt;/em&gt;&lt;strong&gt;derm/o&lt;/strong&gt;) &lt;/td&gt;&lt;td&gt;sub&lt;u&gt;cutane&lt;/u&gt;ous&lt;br/&gt;&lt;em&gt;Epidermis and dermis are the cutaneous layers of the skin. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;derm/o, dermat/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;skin &lt;/td&gt;&lt;td&gt;epi&lt;u&gt;derm&lt;/u&gt;oid&lt;br/&gt;&lt;em&gt;An &lt;strong&gt;epidermoid cyst&lt;/strong&gt; is a collection of keratinous debris within the epidermis. See Figure 16-5B.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;dermat&lt;/u&gt;itis&lt;br/&gt;&lt;br/&gt;&lt;u&gt;dermat&lt;/u&gt;ologist&lt;br/&gt;&lt;br/&gt;&lt;u&gt;derm&lt;/u&gt;abrasion&lt;br/&gt;&lt;em&gt;Abrasion means a scraping away. Dermabrasion using a sandpaper-like material removes acne scars and ﬁne wrinkles&lt;/em&gt;.&lt;br/&gt;&lt;br/&gt;epi&lt;u&gt;derm&lt;/u&gt;olysis&lt;br/&gt;&lt;em&gt;Loosening of the epidermis with the development of large blisters; occurs after injury, or with blister-producing diseases.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;diaphor/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;profuse sweating (&lt;em&gt;see&lt;/em&gt; &lt;strong&gt;hidr/o&lt;/strong&gt;) &lt;/td&gt;&lt;td&gt;&lt;u&gt;diaphor&lt;/u&gt;esis&lt;br/&gt;&lt;em&gt;Commonly called sweating&lt;/em&gt;. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="63bbe8d2-4035-4b42-a9dc-af346806d5fa">
+    <STATIC_figure>
+  <image>Fig_16.5.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-5 &lt;/span&gt;&lt;strong&gt;A, Albinism. B, Epidermoid cyst.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="07db55b6-4639-4ed2-8318-abf45caa287f">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 16-1 COLORS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c2f234cf-4342-4313-b4d9-ca67ae9f44a9">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;albin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;white &lt;/td&gt;&lt;td&gt;&lt;u&gt;albin&lt;/u&gt;ism&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;anthrac/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;black (as coal)&lt;/td&gt;&lt;td&gt;&lt;u&gt;anthrac&lt;/u&gt;osis &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;chlor/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;green&lt;/td&gt;&lt;td&gt;&lt;u&gt;chlor&lt;/u&gt;ophyll&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cirrh/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tawny&lt;/td&gt;&lt;td&gt;&lt;u&gt;cirrh&lt;/u&gt;osis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cyan/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blue &lt;/td&gt;&lt;td&gt;&lt;u&gt;cyan&lt;/u&gt;osis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;eosin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;rosy &lt;/td&gt;&lt;td&gt;&lt;u&gt;eosin&lt;/u&gt;ophil&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;erythr/o&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;red&lt;/td&gt;&lt;td&gt;&lt;u&gt;erythem&lt;/u&gt;a &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;jaund/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;yellow &lt;/td&gt;&lt;td&gt;&lt;u&gt;jaund&lt;/u&gt;ice&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;leuk/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;white&lt;/td&gt;&lt;td&gt;&lt;u&gt;leuk&lt;/u&gt;oderma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lute/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;yellow&lt;/td&gt;&lt;td&gt;corpus &lt;u&gt;lute&lt;/u&gt;um&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;melan/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;black&lt;/td&gt;&lt;td&gt;&lt;u&gt;melan&lt;/u&gt;ocyte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;poli/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;gray&lt;/td&gt;&lt;td&gt;&lt;u&gt;poli&lt;/u&gt;osis (decrease of melanin in hair, eyebrows, and eyelashes) &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;xanth/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;yellow&lt;/td&gt;&lt;td&gt;&lt;u&gt;xanth&lt;/u&gt;oma &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="d0148883-b7f9-471c-aec8-c6ce7d0ba7ba">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;erythem/o, erythemat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;redness&lt;/td&gt;&lt;td&gt;&lt;u&gt;erythem&lt;/u&gt;a&lt;br/&gt;&lt;em&gt;Flushing; widespread redness of the skin. Pronunciation is er-ih-THE-mah.&lt;strong&gt;Erythematous&lt;/strong&gt; means pertaining to erythema. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hidr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sweat&lt;/td&gt;&lt;td&gt;an&lt;u&gt;hidr&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Do not confuse hidr/o with hydr/o (water)! &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ichthy/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;dry, scaly&lt;br/&gt;(ﬁsh-like)&lt;/td&gt;&lt;td&gt;&lt;u&gt;ichthy&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;This is usually a hereditary condition in which the skin is dry, rough, and scaly (resembling ﬁsh scales) because of a defect in keratinization. Ichthyosis also can be acquired, appearing with malignancies such as lymphomas and multiple myeloma. Greek ichthys means ﬁsh (Figure 16-6A).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;kerat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hard&lt;/td&gt;&lt;td&gt;&lt;u&gt;kerat&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;See page 631.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;leuk/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;white&lt;/td&gt;&lt;td&gt;&lt;u&gt;leuk&lt;/u&gt;oplakia&lt;br/&gt;&lt;em&gt;The sufﬁx -plakia means plaques (Figure 16-6B).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="bd766294-b495-4563-95ad-603dde6fd43d">
+    <STATIC_figure>
+  <image>Fig_16.6.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-6 &lt;/span&gt;A, Ichthyosis. B, Leukoplakia.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f3387fc6-3ad6-49cc-8783-f2a64d89f866">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lip/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fat&lt;/td&gt;&lt;td&gt;&lt;u&gt;lip&lt;/u&gt;oma&lt;br/&gt;&lt;br/&gt;&lt;u&gt;lip&lt;/u&gt;osuction&lt;br/&gt;&lt;em&gt;Removal of subcutaneous fat tissue through a tube that is introduced into the fatty area via a small incision. The fat is aspirated (suctioned out).&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;melan/o &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;black &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;melan&lt;/u&gt;ocyte&lt;/p&gt;&lt;p&gt;&lt;u&gt;melan&lt;/u&gt;oma&lt;br/&gt;&lt;em&gt;This is a malignant skin tumor. See page 633.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;myc/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fungus (fungi include yeasts, molds, and mushrooms) &lt;/td&gt;&lt;td&gt;&lt;u&gt;myc&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;An example of a mycosis (fungal infection) is &lt;strong&gt;tinea pedis&lt;/strong&gt;, commonly called &lt;strong&gt;“athlete’s foot”&lt;/strong&gt; (Figure 16-7A). Another fungal infection is tinea corporis (ringworm). See page 631.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;onych/o &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;nail (&lt;em&gt;see&lt;/em&gt; ungu/o) &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;onych&lt;/u&gt;olysis&lt;br/&gt;&lt;em&gt;Separation of the nail plate from the nail bed in fungal infections or after trauma. See Figure 16-3, page 617. Onycholysis is often seen in psoriasis.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;onych&lt;/u&gt;omycosis&lt;br/&gt;&lt;em&gt;Fungal infection of the nails, which become white, opaque, thick, and brittle.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;par&lt;u&gt;onych&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;Par- means near or beside. Paronychia is inﬂammation and swelling of the soft tissue around the nail and is associated with torn cuticles or ingrown nails (Figure 16-7B).&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;phyt/o&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;plant &lt;/td&gt;&lt;td&gt;dermato &lt;u&gt;phyt&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Examples are fungal infections (mycoses) (see Figure 16-7A). &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pil/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hair (&lt;em&gt;see&lt;/em&gt; trich/o), hair follicle &lt;/td&gt;&lt;td&gt;&lt;u&gt;pil&lt;/u&gt;osebaceous&lt;br/&gt;&lt;em&gt;Sebace/o indicates a gland that secretes sebum. The pilosebaceous unit is the combination of the hair follicle and attached sebaceous gland.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;py/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pus &lt;/td&gt;&lt;td&gt;&lt;u&gt;py&lt;/u&gt;oderma&lt;br/&gt;&lt;em&gt;Pus within the skin (-derma). &lt;strong&gt;Impetigo&lt;/strong&gt; is a purulent (puscontaining) skin disease caused by bacterial infection. See page 628.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="482c7074-23a7-43c9-a9b8-6256d3e7fc91">
+    <STATIC_figure>
+  <image>chp00016_f016-007-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 16-7 &lt;/span&gt;A, Mycosis. B, Acute paronychia&lt;/strong&gt; most commonly occurs from nail biting, finger sucking, aggressive manicuring, or penetrating trauma. The most common infecting organism is &lt;em&gt;Staphylococcus aureus. &lt;/em&gt;&lt;strong&gt;C, Xanthelasma&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="76e4cd48-6d70-4b99-be33-729f4baa34d9">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rhytid/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;wrinkle   &lt;/td&gt;&lt;td&gt;&lt;u&gt;rhytid&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;Cosmetic plastic surgery to remove wrinkles and excess skin; also called rhytidoplasty or face lift. Laser treatments, &lt;strong&gt;Botox Cosmetic&lt;/strong&gt; (puriﬁed botulinum toxin) injections, and injectable ﬁllers are used to soften facial lines and wrinkles.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;seb/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sebum (oily secretion from sebaceous glands)&lt;/td&gt;&lt;td&gt;&lt;u&gt;seb&lt;/u&gt;orrhea&lt;br/&gt;&lt;em&gt;Excessive secretion from sebaceous glands. &lt;strong&gt;Seborrheic dermatitis&lt;/strong&gt; commonly is known as &lt;strong&gt;dandruff&lt;/strong&gt;. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;squam/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;scale-like &lt;/td&gt;&lt;td&gt;&lt;u&gt;squam&lt;/u&gt;ous epithelium&lt;br/&gt;&lt;em&gt;Cells are ﬂat and scale-like; “pavement” epithelium. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;trich/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hair &lt;/td&gt;&lt;td&gt;hyper&lt;u&gt;trich&lt;/u&gt;osis   &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ungu/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;nail&lt;/td&gt;&lt;td&gt;sub&lt;u&gt;ungu&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;xanth/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;yellow&lt;/td&gt;&lt;td&gt;&lt;u&gt;xanth&lt;/u&gt;oma&lt;br/&gt;&lt;em&gt;Nodules develop under the skin owing to excess lipid deposits and can be associated with a high cholesterol level. A xanthoma that appears on the eyelids is a  &lt;strong&gt;xanthelasma&lt;/strong&gt;  (-elasma = a ﬂat plate) (Figure 16-7C).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;xer/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;dry &lt;/td&gt;&lt;td&gt;&lt;u&gt;xer&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;This is very dry skin&lt;/em&gt;. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5e333cf6-4195-459d-b7e7-7b72866deae9">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Is Botox Cosmetic Safe?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Botox Cosmetic (onabotulinumtoxin A) has been FDA approved since 2002, and provides temporary improvement in frown lines and wrinkles around the eyes. Millions of patients have been treated with Botox Cosmetic and there are extensive data establishing safety. This purified protein works by weakening muscle contraction to soften overlying lines and wrinkles for several months.&lt;/p&gt;&lt;p&gt;The FDA also has approved injectable dermal fillers for deep facial wrinkles and folds. These include Restylane, Perlane, Juvederm, Radiesse, Belotero Balance, and Voluma. New additional neuromodulators similar to Botox Cosmetic are also available: Xeomin (incobotulinumtoxin A) and Dysport (abobotulinumtoxin A).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

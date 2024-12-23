@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d196345f-950b-46f7-8efb-85ec970868d5">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="226a228a-4f61-4c35-b518-207a2a240714">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5515b813-0e84-451c-b919-f31a3a16c49a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;antiglobulin (Coombs) test&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test for the presence of antibodies that coat and damage erythrocytes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This test determines the presence of antibodies in infants of Rh-negative women or in patients with autoimmune hemolytic anemia. It is also a screening test for blood transfusion compatibility.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;complete blood count (CBC)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Determination of numbers of blood cells, hemoglobin concentration, hematocrit, and red cell values—MCH, MCV, MCHC&lt;/strong&gt; (see Abbreviations ).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;erythrocyte sedimentation rate (ESR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Speed at which erythrocytes settle out of plasma.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Venous blood is collected into an anticoagulant, and the blood is placed in a tube in a vertical position. The distance that the erythrocytes sink in a given period of time under the influence of gravity alone is the sedimentation rate. The rate increases with infections, joint inflammation, and tumor, which increase the fibrinogen content of the blood. Also called sed rate for short.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hematocrit (Hct)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Percentage of erythrocytes in a volume of blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A sample of blood is spun in a centrifuge so that the erythrocytes fall to the bottom of the sample.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hemoglobin test (H, Hg, Hgb, HGB)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Total amount of hemoglobin in a sample of peripheral blood.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;platelet count&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Number of platelets per cubic millimeter (mm&lt;sup&gt;3&lt;/sup&gt;) or microliter (μL) of blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Platelets normally average between 150,000 and 450,000 per mm&lt;sup&gt;3&lt;/sup&gt; (cu mm) or μL.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;prothrombin time (PT)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test of the ability of blood to clot.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Prothrombin is one of the clotting factors (factor II) made by the liver. This test is used to monitor (follow) patients taking certain anticoagulant drugs. The &lt;strong&gt;INR (international normalized ratio)&lt;/strong&gt; is the ratio of patient’s prothrombin time compared with standard prothrombin time obtained across the United States and the world. It is normally near 1. Patients on the anticoagulant drug warfarin are maintained at INRs of 2 to 3. Another blood clotting test, &lt;strong&gt;partial thromboplastin time (PTT)&lt;/strong&gt;, measures other clotting factors. Both PT and PTT are often done at the same time to check for bleeding problems.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;red blood cell count (RBC)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Number of erythrocytes per cubic millimeter (mm&lt;sup&gt;3&lt;/sup&gt;) or microliter (μL) of blood. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The normal number is 4 million to 6 million per mm&lt;sup&gt;3&lt;/sup&gt; (or μL).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;red blood cell morphology&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Microscopic examination of a stained blood smear to determine the shape of individual red cells.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abnormal morphology includes anisocytosis, poikilocytosis, microcytosis, macrocytosis, and sickle cells.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;white blood cell count (WBC)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Number of leukocytes per cubic millimeter (mm&lt;sup&gt;3&lt;/sup&gt;) or microliter (μL) of blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Automated counting devices record numbers within seconds. Normal number of leukocytes averages between 7000 and 10,000 per mm&lt;sup&gt;3&lt;/sup&gt; (or μL).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;white blood cell differential [count]&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Percentages of different types of leukocytes in the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Some instruments can produce an automated differential count, but otherwise the cells are stained and counted under a microscope by a technician. Percentages of neutrophils, eosinophils, basophils, monocytes, lymphocytes, and immature cells (bands) are determined. See page 498 for the normal differential values.&lt;/p&gt;&lt;p&gt;The term &lt;strong&gt;shift to the left&lt;/strong&gt; describes an increase in immature neutrophils in the blood.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="173f1e9a-f7fe-4892-abc1-f54267b57b38">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Shift to the Left&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The phrase &lt;strong&gt;“shift to the left” &lt;/strong&gt;derives from the early practice of reporting percentages of each WBC type across the top of a page, starting with blasts (immature cells) on the left and more mature cells on the right. An increase in immature neutrophils (as seen with severe infection) would be seen in the left-hand column of the reporting form. This “shift to the left” indicates an infection and reflects the body’s effort to fight it by making more neutrophils.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="312cb09a-1173-4903-aac5-6e772d7d4eee">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c71e0108-94d0-452f-b292-b7f010800bc7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;apheresis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Separation of blood into component parts and removal of a select portion from the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure can remove toxic substances or autoantibodies from the blood and can collect blood cells. Leukapheresis, plateletpheresis, and plasmapheresis are examples (Figure 13-14). If plasma is removed from the patient and fresh plasma is given, the procedure is termed plasma exchange.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;blood transfusion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Whole blood or cells are taken from a donor and infused into a patient.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Appropriate testing to ensure a match of red blood cell type (A, B, AB, or O) is essential. Tests also are performed to detect the presence of hepatitis and the acquired immunodeficiency syndrome (AIDS) virus (HIV). &lt;strong&gt;Autologous transfusion &lt;/strong&gt;is the collection and later reinfusion of a patient’s own blood or blood components. &lt;strong&gt;Packed cells&lt;/strong&gt; are a preparation of red blood cells separated from liquid plasma and administered in severe anemia to restore levels of hemoglobin and red cells without overdiluting the blood with excess fluid.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bone marrow biopsy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Microscopic examination of a core of bone marrow removed with a needle.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure is helpful in the diagnosis of blood disorders such as anemia, pancytopenias, and leukemia. Bone marrow also may be removed by brief suction produced by a syringe, which is termed a &lt;strong&gt;bone marrow aspiration.&lt;/strong&gt; See Figure 13-15.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hematopoietic stem cell transplantation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Peripheral stem cells from a compatible donor are administered to a recipient.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Patients with malignancies, such as AML, ALL, CLL, CML, lymphoma, multiple myeloma, as well as patients with severe autoimmune diseases are candidates for this treatment. First the donor is treated with a drug that mobilizes stem cells into the blood. Then stem cells are removed from the donor, a process like leukapheresis in Figure 13-14. Meanwhile, the patient (recipient) undergoes a conditioning process in which radiation and chemotherapy drugs are administered to kill malignant marrow cells and inactivate the patient’s immune system so that subsequently infused stem cells will not be rejected. A cell suspension containing the donor’s stem cells, which will repopulate the bone marrow, is then given through a vein to the recipient. In &lt;strong&gt;autologous stem cell transplantation&lt;/strong&gt;, the patient’s own stem cells are collected, stored, and reinfused after potent chemotherapy. See &lt;strong&gt;&lt;em&gt;In Person: Autologous Stem Cell Transplant&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bone marrow transplantation&lt;/strong&gt; follows the same procedure, except that bone marrow cells are used rather than peripheral stem cells (Figure 13-16). Problems encountered subsequently may include serious infection, &lt;strong&gt;graft-versus-host disease (GVHD), &lt;/strong&gt;and relapse of the original disease despite the treatment.&lt;/p&gt;&lt;p&gt;In GVHD, the immunocompetent cells in the donor’s tissue recognize the recipient’s tissues as foreign and attack them. Because the recipient patient is totally immunosuppressed, his or her immune system cannot defend against the attack. Intensive prophylaxis (prevention) with &lt;strong&gt;immunosuppressive drugs&lt;/strong&gt; is standard for patients undergoing &lt;strong&gt;allogeneic transplants &lt;/strong&gt;(see Figure 13-16). These drugs include cyclosporine, methotrexate, glucocorticoids, sirolimus (Rapamune), and mycophenolate.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="dbde2e7f-c9b4-458b-b237-c3282e6bd5e3">
+    <STATIC_figure>
+  <image>page_402_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-14 &lt;/span&gt;Leukapheresis. &lt;/strong&gt;This machine is an automated blood cell separator that removes large numbers of white blood cells and returns red cells, platelets, and plasma to the patient.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bcc6518b-0b19-45bb-94a2-b01553015170">
+    <STATIC_figure>
+  <image>fig13-15.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-15 &lt;/span&gt;Bone marrow aspiration and biopsy. A,&lt;/strong&gt; Placement of a bone marrow needle into the iliac crest (upper portion of hipbone) and aspiration of liquid bone marrow. &lt;strong&gt;B,&lt;/strong&gt; Trephine needle is then inserted and anchored in the bone. &lt;strong&gt;C, &lt;/strong&gt;A solid piece of bone marrow (biopsy sample) is then extracted through the needle.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f01329ce-63ae-4727-b5cb-eb12776c6cff">
+    <STATIC_figure>
+  <image>chp00013_f013-016-9780323551472.jpg?cachebuster=1596060851458</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 13-16&lt;/span&gt; Hematopoietic stem cell and bone marrow transplantation. &lt;/strong&gt;These procedures constitute &lt;strong&gt;allogeneic &lt;/strong&gt;(all/o means other, different) transplantation, in which a relative or an unrelated person with a close or identical HLA (human leukocyte antigen) type is the donor. It carries a risk of morbidity (disease) and mortality (death) because of complications of incompatibility such as GVHD (graft-versus-host disease). In an &lt;strong&gt;autologous transplantation&lt;/strong&gt;, stem cells or bone marrow cells are removed from the patient during a remission phase and given back to the patient after intensive chemotherapy (drug treatment).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

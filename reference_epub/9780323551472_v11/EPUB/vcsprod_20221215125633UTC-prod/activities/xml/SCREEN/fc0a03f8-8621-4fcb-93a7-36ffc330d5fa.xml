@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="1664f2e5-8aab-4b8a-ad02-0a70b0d9f93f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LYMPHATIC SYSTEM&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="85c648c5-d70b-4ce5-8cfe-c4bcd5964686">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANATOMY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="03fb8c32-3603-4dc7-8515-2fd24354b4a0">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 14-3A as you read the following paragraphs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lymph capillaries&lt;/strong&gt; [1] begin at the spaces around cells throughout the body. Like blood capillaries, they are thin-walled tubes. Lymph capillaries carry lymph from the tissue spaces to larger &lt;strong&gt;lymph vessels&lt;/strong&gt; [2]. Lymph vessels have thicker walls than those of lymph capillaries and, like veins, contain valves so that lymph flows in only one direction, toward the thoracic cavity. Collections of stationary lymph tissue, called &lt;strong&gt;lymph nodes&lt;/strong&gt; [3], are located along the path of the lymph vessels.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d5f660a9-e501-49a7-8f06-794968ad8075">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00014_f014-003-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-3&lt;/span&gt; &lt;strong&gt;Lymphatic system. A,&lt;/strong&gt; Label the figure according to the descriptions in the text. &lt;strong&gt;B,&lt;/strong&gt; Note the &lt;strong&gt;different regions of the body drained by the right lymphatic duct and the thoracic duct&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[lymph capillaries]&lt;/li&gt;&lt;li&gt;[lymph vessels]&lt;/li&gt;&lt;li&gt;[lymph nodes]&lt;/li&gt;&lt;li&gt;[cervical (neck)]&lt;/li&gt;&lt;li&gt;[axillary (armpit)]&lt;/li&gt;&lt;li&gt;[mediastinal (chest)]&lt;/li&gt;&lt;li&gt;[mesenteric (intestinal)]&lt;/li&gt;&lt;li&gt;[paraaortic (lumbar)]&lt;/li&gt;&lt;li&gt;[inguinal (groin)]&lt;/li&gt;&lt;li&gt;[right lymphatic duct]&lt;/li&gt;&lt;li&gt;[thoracic duct]&lt;/li&gt;&lt;li&gt;[large veins]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="c357950a-9b17-4723-affc-13612ad9d49a">
+    <STATIC_text>
+  <text>&lt;p&gt;Major sites of lymph node concentration are shown in Figure 14-3A. These are the &lt;strong&gt;cervical&lt;/strong&gt; (neck) [4], &lt;strong&gt;axillary&lt;/strong&gt; (armpit) [5], &lt;strong&gt;mediastinal&lt;/strong&gt; (chest) [6], &lt;strong&gt;mesenteric&lt;/strong&gt; (intestinal) [7], &lt;strong&gt;paraaortic&lt;/strong&gt; (lumbar) [8], and &lt;strong&gt;inguinal&lt;/strong&gt; (groin) [9] regions. Remember that &lt;strong&gt;tonsils&lt;/strong&gt; are masses of lymph tissue in the throat near the back of the mouth (oropharynx), and &lt;strong&gt;adenoids&lt;/strong&gt; are enlarged lymph tissue in the part of the throat near the nasal passages (nasopharynx).&lt;br/&gt;Lymph vessels all lead toward the thoracic cavity and empty into two large ducts in the upper chest. These are the &lt;strong&gt;right lymphatic duct&lt;/strong&gt; [10] and the &lt;strong&gt;thoracic duct&lt;/strong&gt; [11]. The thoracic duct drains the lower body and the left side of the head, whereas the right lymphatic duct drains the right side of the head and the chest (a much smaller area) (see Figure 14-3B). Both ducts carry the lymph into &lt;strong&gt;large veins&lt;/strong&gt; [12] in the neck, where the lymph then enters the bloodstream.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lymph nodes&lt;/strong&gt; not only produce lymphocytes but also filter lymph and trap substances from infectious, inflammatory, and cancerous lesions. Special cells called macrophages, located in lymph nodes (as well as in the spleen, liver, and lungs), swallow (phagocytose) foreign substances. When bacteria are present in lymph nodes that drain a particular area of the body, the nodes become swollen with collections of cells and their engulfed debris and become tender.&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Lymph nodes also fight disease when specialized lymphocytes called &lt;strong&gt;B lymphocytes (B cells)&lt;/strong&gt;, which are present in the nodes, produce antibodies. Other lymphocytes present in nodes are &lt;strong&gt;T lymphocytes (T cells)&lt;/strong&gt;. They attack bacteria and foreign cells by accurately recognizing a cell as foreign and destroying it. T cells also help B cells make antibodies. See Figure 14-4 for an illustration of a lymph node. B cells mature in bone marrow, whereas T cells originate in the thymus gland.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="22701d3d-aa13-4a71-8669-87ea413d3566">
+    <STATIC_figure>
+  <image>chp00014_f014-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-4 &lt;/span&gt;&lt;strong&gt;Lymph node&lt;/strong&gt; containing &lt;strong&gt;lymphocytes (B cells&lt;/strong&gt; and &lt;strong&gt;T cells)&lt;/strong&gt; and &lt;strong&gt;macrophages&lt;/strong&gt;.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f1ecc53e-4dfb-4871-bccc-6c9becc0553d">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Lymph Nodes and Tenderness &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tenderness is related to the speed of swelling of the lymph node and the stretching of the node capsule. More slowly expanding nodes, such as those involved with tumors, are usually non-tender. Tenderness tends to indicate an inflammatory rather than cancerous origin.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="565ff140-05b6-46ce-91a6-9a9c3e03e032">
+    <STATIC_figure>
+  <image>chp00014_f014-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 14-5 &lt;/span&gt;&lt;strong&gt;A, Spleen&lt;/strong&gt; and adjacent structures. &lt;strong&gt;B, Thymus gland&lt;/strong&gt; in its location in the mediastinum between the lungs.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="557a4382-d3dc-4e31-84e2-e629b8f4e868">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SPLEEN AND THYMUS GLAND&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a92b9f86-3c1c-4694-917e-71f06a54cf60">
+    <STATIC_text>
+  <text>&lt;p&gt;The spleen and the thymus gland are specialized organs that also are a part of the lymphatic system.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;spleen&lt;/strong&gt; (Figure 14-5A) is located in the left upper quadrant of the abdomen, next to the stomach. Although the spleen is not essential to life, it has several important functions:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Destruction of old erythrocytes by macrophages&lt;/strong&gt;. In the slow-moving circulation of the spleen, red cell breakdown liberates hemoglobin, which is converted to bilirubin in the liver and then is excreted into the bile.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Filtration of microorganisms and other foreign material from the blood.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Activation of lymphocytes&lt;/strong&gt;. Activated B lymphocytes (B cells) produce antibodies. Activated T lymphocytes (T cells) attack foreign materials.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Storage of blood&lt;/strong&gt;, especially erythrocytes and platelets.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;The spleen is susceptible to injury. A sharp blow to the upper abdomen (as from the impact of a car’s steering wheel) may cause rupture of the spleen. Massive hemorrhage can occur when the spleen is ruptured, and immediate surgical removal (splenectomy) may be necessary. After splenectomy, the liver, bone marrow, and lymph nodes take over the functions of the spleen.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;thymus gland&lt;/strong&gt; (see Figure 14-5B) is a lymphatic organ located in the upper mediastinum between the lungs. During fetal life and childhood it is quite large, but it becomes smaller with age. The thymus gland is composed of nests of lymphoid cells resting on a platform of connective tissue. It plays an important role in the body’s ability to protect itself from disease (immunity), especially in fetal life and during the early years of growth. It is known that a thymectomy (removal of the thymus gland) performed in an animal during the first weeks of life impairs the ability of the animal to make antibodies and to produce immune cells that fight against foreign antigens such as bacteria and viruses. Thus, the thymus gland is important in development of an effective immune system in childhood.&lt;/p&gt;&lt;p&gt;Early in development, in the thymus, lymphocytes learn to recognize and accept the body’s own antigens as “self” or friendly. This acceptance of “self” antigens is called &lt;strong&gt;tolerance&lt;/strong&gt;. When the tolerance process fails, immune cells react against normal cells, resulting in various pathologic conditions (autoimmune disease). See page 524, under &lt;strong&gt;autoimmune disease&lt;/strong&gt; (aut/o = self).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

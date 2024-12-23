@@ -1,0 +1,553 @@
+{
+  "settings": {
+    "lang": "en",
+    "dir": "",
+    "gui": {
+      "name": "vcs",
+      "variant": ""
+    },
+    "media": {
+      "provider": "videojs"
+    },
+    "subproj": "",
+    "backends": {
+      "EPUBEducationOutcomesAPI": true,
+      "VSTBookAPI": true,
+      "EPUBEducationOutcomesAPISimulator": true,
+      "VCSEditorOutcomesAPISimulator": true
+    },
+    "state": {
+      "stateSaveDelay": 250
+    },
+    "debug": {
+      "isDebug": false,
+      "debugLevel" : 0,
+      "showConsole" : "none",
+      "debugModal": {
+        "enabled": true,
+        "trigger": {
+          "touch": false,
+          "click": false,
+          "keyboard": true
+        },
+        "triggerZoneSizeY": 200
+      }
+    },
+    "engines": {
+      "base": {
+        "buttons": {
+          "print": true,
+          "submit": false
+        }
+      }
+    }
+  },
+  "architecture": {
+    "mappings": {
+      "VIDEO": "STIMUL",
+      "AUDIO": "STIMUL",
+      "HIDESHOW": "STIMUL",
+      "MC_SURVEY": "MC",
+      "CLOZ_SURVEY": "CLOZ",
+      "FIB_SURVEY": "FIB"
+    },
+    "staticRegistry": {
+      "base": {
+        "label": "Blox",
+        "editable": true
+      },
+      "STATIC_divider": {
+        "editable": false
+      },
+      "STATIC_hr-divider": {
+        "editable": false
+      },
+      "MC": {
+        "label": "Multiple Choice"
+      },
+      "MC_SURVEY": {
+        "label": "Multiple Choice Survey"
+      },
+      "ESSAY": {
+        "label": "Essay"
+      },
+      "CLOZ": {
+        "label": "Fill-in-Blank Dropdown"
+      },
+      "CLOZ_SURVEY": {
+        "label": "Dropdown Survey"
+      },
+      "FIB": {
+        "label": "Fill-in-Blank Type-in"
+      },
+      "FIB_SURVEY": {
+        "label": "Type-in Survey"
+      },
+      "FIBDD": {
+        "label": "Fill-in-Blank Word Bank"
+      }
+    },
+    "engines": {
+      "base": {
+        "isCore": true,
+        "hasTemplateOverride": false,
+        "hasCSSOverride": false
+      },
+      "CLOZ": {},
+      "ESSAY": {},
+      "FIB": {},
+      "FIBDD": {},
+      "MC": {},
+      "SLIDES": {},
+      "STATIC": {},
+      "STIMUL": {},
+      "BTN": {},
+      "HSPOT": {}
+    }
+  },
+  "options": {
+    "noTableBorders": false,
+    "noImageZoomBtns": false,
+    "stripMCAnswerPs": true
+  },
+  "themes": {
+    "activeThemeStack": "",
+    "skins": {
+      "vcs": {
+        "flavors": {
+          "base": {
+            "definitions": {
+              "mainAccent": "$accent7"
+            },
+            "elements": {
+              "body-color": "$neutral10",
+              "body-font": "$mainFont",
+              "static-heading-heading-color": "$neutral10",
+              "static-heading-heading-font": "inherit",
+              "static-heading-heading-size": "1.5em",
+              "static-heading-heading-mob-size": "1.125em",
+              "static-heading-subheadingA-color": "$neutral7",
+              "static-heading-subheadingA-font": "inherit",
+              "static-heading-subheadingA-size": "1.125em",
+              "static-heading-subheadingA-mob-size": "1.125em",
+              "static-heading-subheadingB-color": "$neutral10",
+              "static-heading-subheadingB-font": "inherit",
+              "static-heading-subheadingB-size": "1em",
+              "static-heading-subheadingB-mob-size": "1em",
+              "static-heading-subheadingC-color": "$neutral10",
+              "static-heading-subheadingC-font": "inherit",
+              "static-heading-subheadingC-size": "0.938em",
+              "static-heading-subheadingC-mob-size": "0.938em",
+              "static-heading-subheadingD-color": "$neutral7",
+              "static-heading-subheadingD-font": "inherit",
+              "static-heading-subheadingD-size": "0.938em",
+              "static-heading-subheadingD-mob-size": "0.938em",
+              "static-hr-divider-color": "$neutral7",
+              "static-container-color": "$neutral3",
+              "static-quote-line-color": "$mainAccent",
+              "static-quote-line-size": "3px",
+              "static-quote-txt-color": "$neutral10",
+              "static-quote-txt-size": "1.125em",
+              "static-quote-txt-line-height": "1.55",
+              "static-quote-txt-font": "inherit",
+              "static-quote-txt-weight": "300",
+              "static-quote-cite-txt-color": "$neutral10",
+              "static-quote-cite-txt-size": "0.938em",
+              "static-quote-cite-txt-line-height": "1.45",
+              "static-quote-cite-txt-font": "inherit",
+              "static-quote-cite-txt-weight": "300",
+              "activity-title-font": "inherit",
+              "instructions-color": "$neutral7",
+              "ctl-btn-bg-color": "$mainAccent",
+              "ctl-btn-border-color": "$mainAccent",
+              "ctl-btn-color": "white",
+              "ctl-btn-disabled-bg-color": "white",
+              "ctl-btn-disabled-border-color": "$neutral7",
+              "ctl-btn-disabled-color": "$neutral7",
+              "ctl-btn-deemphasized-bg-color": "white",
+              "ctl-btn-deemphasized-border-color": "$neutral7",
+              "ctl-btn-deemphasized-color": "$mainAccent",
+              "page-btn-container-bg-color": "$neutral3",
+              "page-ctl-btn-bg-color": "$neutral3",
+              "page-ctl-btn-icon-color": "$neutral7",
+              "page-ctl-btn-disabled-icon-color": "$neutral5",
+              "page-btn-bg-color": "$neutral3",
+              "page-btn-color": "$neutral7",
+              "page-btn-selected-bg-color": "$mainAccent",
+              "page-btn-selected-color": "white",
+              "page-btn-complete-color": "inherit",
+              "image-caption-color": "$neutral7",
+              "image-caption-size": "0.75rem",
+              "input-border-color": "$neutral7",
+              "container-border-color": "$neutral7",
+              "btn-icon-color": "$mainAccent",
+              "btn-icon-border-color": "$mainAccent",
+              "hyperlink-color": "$mainAccent",
+              "radio-check-border-color": "$neutral7",
+              "radio-check-highlight-color": "$neutral3",
+              "radio-check-selected-color": "$mainAccent",
+              "gap-border-color": "$neutral7",
+              "gap-initial-text-color": "$mainAccent",
+              "feedback-msg-color": "$mainAccent",
+              "feedback-bg-color": "$neutral3",
+              "feedback-text-color": "$neutral8",
+              "slides-bg-color": "$neutral2",
+              "slides-title-color": "$mainAccent",
+              "slides-slide-number-color": "$mainAccent",
+              "slides-nav-btn-bg-color": "$neutral10",
+              "media-btn-bg-color": "$accent5",
+              "media-btn-slider-bg-color": "$accent5",
+              "transcript-btn-toolbar-bg-color": "$neutral3",
+              "transcript-btn-icon-bg-selected-color": "$mainAccent",
+              "transcript-btn-icon-color": "$mainAccent",
+              "transcript-btn-icon-border-color": "$neutral6",
+              "transcript-text-highlight-color": "$accent2",
+              "table-border-color": "$neutral3",
+              "table-caption-bg-color": "$neutral7",
+              "table-heading-bg-color": "$neutral3",
+              "question-hint-btn-icon-color": "$adjunct1",
+              "question-hint-btn-text-color": "$adjunct1",
+              "question-hint-panel-bg-color": "$adjunct9",
+              "stacked-question-divider-bg-color": "$neutral3",
+              "stacked-block-divider-bg-color": "$neutral5",
+              "launch-btn-bg-color": "$mainAccent",
+              "launch-btn-color": "white",
+              "error-text": "#D50D0D",
+              "error-background": "#FEE5E2",
+              "correct-text": "#067D06",
+              "correct-background": "#F9FCED",
+              "overlay-medium-bg-color": "$neutral10",
+              "screen-heading-bg-color": "#ffffff",
+              "screen-heading-border-color": "$mainAccent"
+            }
+          },
+          "heading_fonts": {
+            "elements": {
+              "static-heading-heading-font": "$headingFont",
+              "static-heading-subheadingA-font": "$headingFont",
+              "static-heading-subheadingB-font": "$headingFont",
+              "activity-title-font": "$headingFont"
+            }
+          },
+          "cheddar": {
+            "definitions": {
+              "mainAccent": "$accent9",
+              "accent1": "#fef3e9",
+              "accent2": "#fedbbd",
+              "accent3": "#fec491",
+              "accent4": "#fead64",
+              "accent5": "#ff993f",
+              "accent6": "#f58525",
+              "accent7": "#eb710b",
+              "accent8": "#e06107",
+              "accent9": "#ca500f",
+              "accent10": "#b0430c",
+              "adjunct1": "#007fad",
+              "adjunct9": "#eaf7fc"
+            },
+            "elements": {
+              "media-btn-bg-color": "$accent6",
+              "media-btn-slider-bg-color": "$accent6"
+            }
+          },
+          "ocean": {
+            "definitions": {
+              "accent1": "#eaf7fc",
+              "accent2": "#b0e3f4",
+              "accent3": "#75cfec",
+              "accent4": "#3bbbe3",
+              "accent5": "#00a7db",
+              "accent6": "#0093c4",
+              "accent7": "#007fad",
+              "accent8": "#006c94",
+              "accent9": "#005a75",
+              "accent10": "#00465c",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            }
+          },
+          "magic": {
+            "definitions": {
+              "accent1": "#f2f4f9",
+              "accent2": "#d2d9ed",
+              "accent3": "#b2bee0",
+              "accent4": "#91a3d4",
+              "accent5": "#7188c7",
+              "accent6": "#516dbb",
+              "accent7": "#425ba1",
+              "accent8": "#334a88",
+              "accent9": "#24386e",
+              "accent10": "#002244",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            },
+            "elements": {
+              "media-btn-bg-color": "$accent4",
+              "media-btn-slider-bg-color": "$accent4"
+            }
+          },
+          "sangria": {
+            "definitions": {
+              "accent1": "#fdf2f5",
+              "accent2": "#fbcada",
+              "accent3": "#f8a2bf",
+              "accent4": "#f57aa3",
+              "accent5": "#f35288",
+              "accent6": "#e53872",
+              "accent7": "#d81e5d",
+              "accent8": "#bf1b52",
+              "accent9": "#a61747",
+              "accent10": "#8c143c",
+              "adjunct1": "#007fad",
+              "adjunct9": "#eaf7fc"
+            }
+          },
+          "jungle": {
+            "definitions": {
+              "mainAccent": "$accent8",
+              "accent1": "#e8f7f2",
+              "accent2": "#c0eadb",
+              "accent3": "#86e0c2",
+              "accent4": "#55d5a9",
+              "accent5": "#24c991",
+              "accent6": "#1fb380",
+              "accent7": "#1a9c6e",
+              "accent8": "#16825c",
+              "accent9": "#12694a",
+              "accent10": "#0d4f38",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            }
+          },
+          "pickle": {
+            "definitions": {
+              "mainAccent": "$accent9",
+              "accent1": "#f4f6ea",
+              "accent2": "#e0eab8",
+              "accent3": "#ccde87",
+              "accent4": "#b7d155",
+              "accent5": "#a3c523",
+              "accent6": "#91b215",
+              "accent7": "#7e9e06",
+              "accent8": "#698505",
+              "accent9": "#556b04",
+              "accent10": "#415203",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            }
+          },
+          "brick": {
+            "definitions": {
+              "accent1": "#fae6e3",
+              "accent2": "#fac3bb",
+              "accent3": "#faa094",
+              "accent4": "#fa7d6d",
+              "accent5": "#f75f4b",
+              "accent6": "#eb4f3b",
+              "accent7": "#d24634",
+              "accent8": "#b83e2e",
+              "accent9": "#9e3528",
+              "accent10": "#852d21",
+              "adjunct1": "#007fad",
+              "adjunct9": "#eaf7fc"
+            }
+          },
+          "mist": {
+            "definitions": {
+              "accent1": "#e6f4f7",
+              "accent2": "#c9e5ea",
+              "accent3": "#acd5dd",
+              "accent4": "#8fc6cf",
+              "accent5": "#6eadba",
+              "accent6": "#5f96a1",
+              "accent7": "#4f7e87",
+              "accent8": "#41666e",
+              "accent9": "#324e54",
+              "accent10": "#23373b",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            },
+            "elements": {
+              "media-btn-bg-color": "$accent4",
+              "media-btn-slider-bg-color": "$accent4"
+            }
+          },
+          "eggplant": {
+            "definitions": {
+              "accent1": "#f6f1f9",
+              "accent2": "#ddcbe9",
+              "accent3": "#c4a4d9",
+              "accent4": "#ab7ec9",
+              "accent5": "#9258b9",
+              "accent6": "#7a4c98",
+              "accent7": "#684182",
+              "accent8": "#543469",
+              "accent9": "#3f284f",
+              "accent10": "#2b1b36",
+              "adjunct1": "#ca500F",
+              "adjunct9": "#fef3e9"
+            },
+            "elements": {
+              "media-btn-bg-color": "$accent3",
+              "media-btn-slider-bg-color": "$accent3"
+            }
+          },
+          "cloud": {
+            "definitions": {
+              "neutral1": "#fafafa",
+              "neutral2": "#f6f6f6",
+              "neutral3": "#ececec",
+              "neutral4": "#dadada",
+              "neutral5": "#b3b3b3",
+              "neutral6": "#949494",
+              "neutral7": "#757575",
+              "neutral8": "#646464",
+              "neutral9": "#525252",
+              "neutral10": "#3c3c3c"
+            }
+          },
+          "frost": {
+            "definitions": {
+              "neutral1": "#f6f8fc",
+              "neutral2": "#edf0f5",
+              "neutral3": "#dfe4eb",
+              "neutral4": "#ced2d9",
+              "neutral5": "#a4a9b3",
+              "neutral6": "#888c94",
+              "neutral7": "#74777e",
+              "neutral8": "#5b5e63",
+              "neutral9": "#46494d",
+              "neutral10": "#343538"
+            }
+          },
+          "roboto_font_base": {
+            "fonts": {
+              "faces": [
+                {"face": "roboto-regular-webfont", "family": "roboto", "weight": "normal", "style": "normal", "svgid": "robotoregular"},
+                {"face": "roboto-italic-webfont", "family": "roboto", "weight": "normal", "style": "italic", "svgid": "robotoitalic"},
+                {"face": "roboto-bold-webfont", "family": "roboto", "weight": "bold", "style": "normal", "svgid": "robotobold"},
+                {"face": "roboto-bolditalic-webfont", "family": "roboto", "weight": "bold", "style": "italic", "svgid": "robotobold_italic"},
+                {"face": "roboto-black-webfont", "family": "roboto", "weight": "900", "style": "normal", "svgid": "robotoblack"},
+                {"face": "roboto-blackitalic-webfont", "family": "roboto", "weight": "900", "style": "italic", "svgid": "robotoblack_italic"},
+                {"face": "roboto-medium-webfont", "family": "roboto", "weight": "500", "style": "normal", "svgid": "robotomedium"},
+                {"face": "roboto-light-webfont", "family": "roboto", "weight": "300", "style": "normal", "svgid": "robotolight"},
+                {"face": "roboto-lightitalic-webfont", "family": "roboto", "weight": "300", "style": "italic", "svgid": "robotolight_italic"}
+              ]
+            }
+          },
+          "rubik_font_base": {
+            "fonts": {
+              "faces": [
+                {"face": "rubik-regular-webfont", "family": "rubik", "weight": "normal", "style": "normal", "svgid": "rubikregular"},
+                {"face": "rubik-italic-webfont", "family": "rubik", "weight": "normal", "style": "italic", "svgid": "rubikitalic"},
+                {"face": "rubik-bold-webfont", "family": "rubik", "weight": "bold", "style": "normal", "svgid": "rubikbold"},
+                {"face": "rubik-bolditalic-webfont", "family": "rubik", "weight": "bold", "style": "italic", "svgid": "rubikbold_italic"},
+                {"face": "rubik-black-webfont", "family": "rubik", "weight": "900", "style": "normal", "svgid": "rubikblack"},
+                {"face": "rubik-blackitalic-webfont", "family": "rubik", "weight": "900", "style": "italic", "svgid": "rubikblack_italic"},
+                {"face": "rubik-light-webfont", "family": "rubik", "weight": "300", "style": "normal", "svgid": "rubiklight"},
+                {"face": "rubik-lightitalic-webfont", "family": "rubik", "weight": "300", "style": "italic", "svgid": "rubiklight_italic"}
+              ]
+            }
+          },
+          "aleo_font_base": {
+            "fonts": {
+              "faces": [
+                {"face": "aleo-regular-webfont", "family": "aleo", "weight": "normal", "style": "normal", "svgid": "aleoregular"},
+                {"face": "aleo-italic-webfont", "family": "aleo", "weight": "normal", "style": "italic", "svgid": "aleoitalic"},
+                {"face": "aleo-bold-webfont", "family": "aleo", "weight": "bold", "style": "normal", "svgid": "aleobold"},
+                {"face": "aleo-bolditalic-webfont", "family": "aleo", "weight": "bold", "style": "italic", "svgid": "aleobolditalic"},
+                {"face": "aleo-light-webfont", "family": "aleo", "weight": "300", "style": "normal", "svgid": "aleolight"},
+                {"face": "aleo-lightitalic-webfontt", "family": "aleo", "weight": "300", "style": "italic", "svgid": "aleolightitalic"}
+              ]
+            }
+          },
+          "pt_serif_font_base": {
+            "fonts": {
+              "faces": [
+                {"face": "pt_serif-web-regular-webfont", "family": "PT Serif", "weight": "normal", "style": "normal", "svgid": "pt_serifregular"},
+                {"face": "pt_serif-web-italic-webfont", "family": "PT Serif", "weight": "normal", "style": "italic", "svgid": "pt_serifitalic"},
+                {"face": "pt_serif-web-bold-webfont", "family": "PT Serif", "weight": "bold", "style": "normal", "svgid": "pt_serifbold"},
+                {"face": "pt_serif-web-bolditalic-webfont", "family": "PT Serif", "weight": "bold", "style": "italic", "svgid": "pt_serifbold_italic"}
+              ]
+            }
+          },
+          "sourcecodepro": {
+            "fonts": {
+              "faces": [
+                {"face": "sourcecodepro-regular-webfont", "family": "Source Code Pro", "weight": "normal", "style": "normal", "svgid": "source_code_proregular"}
+              ],
+              "exclusive": false
+            }
+          },
+          "roboto": {
+            "include": "roboto_font_base",
+            "definitions": {
+              "mainFont": "roboto, Sans-Serif"
+            },
+            "fonts": {
+              "exclusive": true
+            }
+          },
+          "rubik": {
+            "include": "rubik_font_base",
+            "definitions": {
+              "mainFont": "rubik, Sans-Serif"
+            },
+            "fonts": {
+              "exclusive": true
+            }
+          },
+          "aleo": {
+            "include": "aleo_font_base",
+            "definitions": {
+              "mainFont": "aleo, Serif"
+            },
+            "fonts": {
+              "exclusive": true
+            }
+          },
+          "pt_serif": {
+            "include": "pt_serif_font_base",
+            "definitions": {
+              "mainFont": "PT Serif, Serif"
+            },
+            "fonts": {
+              "exclusive": true
+            }
+          },
+          "roboto_headings": {
+            "include": "heading_fonts, roboto_font_base",
+            "definitions": {
+              "headingFont": "roboto, Sans-Serif"
+            }
+          },
+          "rubik_headings": {
+            "include": "heading_fonts, rubik_font_base",
+            "definitions": {
+              "headingFont": "rubik, Sans-Serif"
+            }
+          },
+          "aleo_headings": {
+            "include": "heading_fonts, aleo_font_base",
+            "definitions": {
+              "headingFont": "aleo, Serif"
+            }
+          },
+          "pt_serif_headings": {
+            "include": "heading_fonts, pt_serif_font_base",
+            "definitions": {
+              "headingFont": "PT Serif, Serif"
+            }
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "math": {
+      "type": "mathjax",
+      "lib": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML",
+      "scale": 100
+    }
+  }
+}

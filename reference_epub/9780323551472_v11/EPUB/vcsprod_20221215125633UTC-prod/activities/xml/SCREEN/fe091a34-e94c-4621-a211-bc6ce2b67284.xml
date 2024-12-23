@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="f8b6d582-6bd1-4cb8-b7e8-ff5b9dabef18">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;THYROID GLAND&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="94906bb0-2b1f-42d9-b91a-3b52038e9fdc">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LOCATION AND STRUCTURE&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e3cfae4f-4ddb-415f-9290-6ea83ba0a8ee">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 18-2.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;thyroid gland&lt;/strong&gt; [1] is composed of a right and a left lobe on either side of the &lt;strong&gt;trachea &lt;/strong&gt;[2], just below a large piece of cartilage called the &lt;strong&gt;thyroid cartilage&lt;/strong&gt; [3]. The thyroid cartilage covers the larynx and produces the prominence on the neck known in men as the “Adam’s apple.” The &lt;strong&gt;isthmus &lt;/strong&gt;[4] of the thyroid gland is a narrow strip of glandular tissue that connects the two lobes on the ventral (anterior) surface of the trachea.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7af04b93-4cd5-43b3-81d6-a7e31552ec66">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00018_f018-002-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="3-4-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-2&lt;/span&gt; The thyroid gland,&lt;/strong&gt; anterior view. Notice how the thyroid gland covers the trachea like a shield (&lt;em&gt;thyr/o &lt;/em&gt;= shield).&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[thyroid gland]&lt;/li&gt;&lt;li&gt;[trachea]&lt;/li&gt;&lt;li&gt;[thyroid cartilage]&lt;/li&gt;&lt;li&gt;[isthmus]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="ee244f5d-3aa2-4b50-b74f-8a18de5b6dbe">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;FUNCTION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b4ca43bb-48a1-4582-8739-e0115e0ee59e">
+    <STATIC_text>
+  <text>&lt;p&gt;Two of the hormones secreted by the thyroid gland are &lt;strong&gt;thyroxine &lt;/strong&gt;or &lt;strong&gt;tetraiodothyronine (T4) &lt;/strong&gt;and &lt;strong&gt;triiodothyronine (T3).&lt;/strong&gt; These hormones are synthesized in the thyroid gland from iodine, which is picked up from the blood circulating through the gland, and an amino acid called tyrosine. T4 (containing four atoms of iodine) is much more concentrated in the blood, whereas T3 (containing three atoms of iodine) is far more potent in affecting the metabolism of cells. Most thyroid hormone is bound to protein molecules as it travels in the bloodstream.&lt;/p&gt;&lt;p&gt;T4 and T3 are necessary in the body to maintain a normal level of metabolism in all body cells. Cells need oxygen to carry on metabolic processes, one aspect of which is burning food to release the energy stored within it. Thyroid hormone aids cells in their uptake of oxygen and thus supports the metabolic rate in the body. Injections of thyroid hormone raise the metabolic rate, whereas removal of the thyroid gland, diminishing thyroid hormone content in the body, results in a lower metabolic rate, heat loss, and poor physical and mental development.&lt;/p&gt;&lt;p&gt;A more recently discovered hormone produced by the thyroid gland is &lt;strong&gt;calcitonin&lt;/strong&gt;. Calcitonin is secreted when calcium levels in the blood are high. It causes calcium loss in urine, lowering blood calcium back to normal. Calcitonin contained in a nasal spray may be used for treatment of osteoporosis (loss of bone density). By increasing calcium storage in bone, calcitonin strengthens weakened bone tissue and prevents spontaneous bone fractures. Figure 18-3 summarizes the hormones secreted by the thyroid gland.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="059302a9-f688-4a27-9f82-2e6aa87d0b0c">
+    <STATIC_figure>
+  <image>chp00018_f018-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 18-3 &lt;/span&gt;The thyroid gland: its hormones and actions.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

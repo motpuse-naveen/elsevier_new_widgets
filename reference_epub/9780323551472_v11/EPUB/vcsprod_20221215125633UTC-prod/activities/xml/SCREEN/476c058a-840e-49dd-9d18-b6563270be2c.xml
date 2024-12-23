@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="b3b9a175-6fb8-4269-a2cf-8d4090c6dff8">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY—BONES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b59f921e-41c0-4a8f-b701-2c7661803997">
+    <STATIC_text>
+  <text>&lt;p&gt;The following word parts pertaining to bones are divided into two groups: general terms and terms related to specific bones.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3931d6f4-dc34-48b8-8308-a65021dd00ea">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;General Terms&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a96cb361-b89c-4cdd-8b16-043333555461">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e2435231-166f-4137-af60-2b47b5e71ea4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;COMBINING FORM&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;calc/o, calci/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;calcium&lt;/td&gt;&lt;td&gt;&lt;p&gt;hyper&lt;u&gt;calc&lt;/u&gt;emia&lt;/p&gt;&lt;p&gt;de&lt;u&gt;calci&lt;/u&gt;fication&lt;br/&gt;&lt;em&gt;de- means less or lack of; -fication is the process of making.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;kyph/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;humpback, hunchback (posterior curvature in the thoracic region)&lt;/td&gt;&lt;td&gt;&lt;u&gt;kyph&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;This term (from Greek meaning hill or mountain) indicates a hump on the back. The affected person’s height is reduced, and kyphosis may lead to pressure on the spinal cord or peripheral nerves (Figure 15-12).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lamin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lamina (part of the vertebral arch)&lt;/td&gt;&lt;td&gt;&lt;u&gt;lamin&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;An operation often performed to relieve the symptoms of compression of the spinal cord or spinal nerve roots. It involves removal of the lamina and spinous process.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lord/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;curve, swayback (anterior curvature in the lumbar region)&lt;/td&gt;&lt;td&gt;&lt;u&gt;lord&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;The normal anterior curvature of the lumbar spine becomes exaggerated (see Figure 15-12). The word lordosis is derived from Greek, describing a person leaning backward in a lordly fashion.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="2e84fad0-bfc9-4cf1-8206-885b7ae0e3da">
+    <STATIC_figure>
+  <image>chp00015_f015-012-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-12 &lt;/span&gt;Kyphosis and lordosis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c9fcd868-5369-4ca0-897c-c06bd6a6b818">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;COMBINING FORM&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;TERMINOLOGY&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;lumb/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;loins, lower back&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;lumb&lt;/u&gt;ar&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Lumbago &lt;/strong&gt;is a term used to describe low back pain.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;lumb&lt;/u&gt;osacral&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;myel/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;bone marrow&lt;/td&gt;&lt;td&gt;&lt;u&gt;myel&lt;/u&gt;opoiesis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;orth/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;straight&lt;/td&gt;&lt;td&gt;&lt;u&gt;orth&lt;/u&gt;opedics&lt;br/&gt;&lt;em&gt;Ped/o means child.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;oste/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;bone&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;oste&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Osteitis deformans &lt;/strong&gt;is better known as &lt;strong&gt;Paget’s disease&lt;/strong&gt;. Bones become weak and painful, especially in the spine, skull, pelvis, and legs.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;oste&lt;/u&gt;odystrophy&lt;/p&gt;&lt;p&gt;&lt;u&gt;oste&lt;/u&gt;ogenesis&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Osteogenesis imperfecta&lt;/strong&gt; is a genetic disorder involving defective bone development. Bones are brittle and fragile caused by abnormal collagen production; fractures occur with the slightest trauma.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;scoli/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;crooked, bent (lateral curvature)&lt;/td&gt;&lt;td&gt;&lt;u&gt;scoli&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;The spinal column is bent abnormally to the side. Scoliosis is the most common spinal deformity in adolescent girls (Figure 15-13).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;spondyl/o (used to make words about conditions of the structure)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;vertebra&lt;/td&gt;&lt;td&gt;&lt;u&gt;spondyl&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Degeneration of the intervertebral discs and vertebrae in the cervical, thoracic, and lumbar regions. Signs and symptoms include pain and restriction of movement.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vertebr/o (used to describe the structure itself)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;vertebra&lt;/td&gt;&lt;td&gt;&lt;u&gt;vertebr&lt;/u&gt;oplasty&lt;br/&gt;&lt;em&gt;Percutaneous vertebroplasty relieves pain caused by compression fractures of the vertebrae. Medical cement is used to fill in the cracks and strengthen bone.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="1f13b8d1-003b-4a7f-9554-c83bab797667">
+    <STATIC_figure>
+  <image>chp00015_f015-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-13 &lt;/span&gt;Moderate thoracic idiopathic adolescent scoliosis. A, Normal spine and scoliosis. B,&lt;/strong&gt; Notice the &lt;strong&gt;scapular asymmetry&lt;/strong&gt; in the upright position. This results from rotation of the spine and attached rib cage. &lt;strong&gt;C,&lt;/strong&gt; Bending forward reveals a mild rib hump deformity.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bdf4c99b-159c-4636-9486-3c7326304330">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fb36d733-d555-4e9b-bfd6-d8fb6dc864fd">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-blast&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;embryonic or immature cell&lt;/td&gt;&lt;td&gt;osteo&lt;u&gt;blast&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This cell synthesizes collagen to form bone tissue.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-clast&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;to break&lt;/td&gt;&lt;td&gt;osteo&lt;u&gt;clast&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This cell breaks down bone to remove bone tissue.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-listhesis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;slipping&lt;/td&gt;&lt;td&gt;spondylo&lt;u&gt;listhesis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Pronounced spon-dih-lo-lis-THE-sis. The forward slipping (subluxation) of a vertebra over a lower vertebra.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-malacia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;softening&lt;/td&gt;&lt;td&gt;osteo&lt;u&gt;malacia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A condition in which vitamin D deficiency leads to decalcification of bones; known as rickets in children.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-physis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;to grow&lt;/td&gt;&lt;td&gt;&lt;p&gt;epi&lt;u&gt;physis&lt;/u&gt;&lt;/p&gt;&lt;p&gt;pubic sym&lt;u&gt;physis&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-porosis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pore, passage&lt;/td&gt;&lt;td&gt;osteo&lt;u&gt;porosis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Loss of bony tissue with decreased mass of bone. See page 566.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-tome&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;instrument to cut&lt;/td&gt;&lt;td&gt;osteo&lt;u&gt;tome&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This surgical chisel is designed to cut bone.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e3c8647a-c7ab-4739-a256-f461cc677e7f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#3c3c3c;"&gt;&lt;strong&gt;Terms Related to Specific Bones&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="47dcba69-07a7-4647-806d-80fd2ecd54ec">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="939530b0-ddfd-4f31-aa89-97f0f71c4269">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;acetabul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;acetabulum (hip socket)&lt;/td&gt;&lt;td&gt;&lt;u&gt;acetabul&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;calcane/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;calcaneus (heel)&lt;/td&gt;&lt;td&gt;&lt;u&gt;calcane&lt;/u&gt;al&lt;br/&gt;&lt;em&gt;The calcaneus is one of the tarsal (hindfoot) bones.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;carp/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;carpals (wrist bones)&lt;/td&gt;&lt;td&gt;&lt;u&gt;carp&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;clavicul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;clavicle (collar bone)&lt;/td&gt;&lt;td&gt;supra&lt;u&gt;clavicul&lt;/u&gt;ar&lt;br/&gt;&lt;em&gt;Supra- means above.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cost/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ribs (true ribs, false ribs, and floating ribs)&lt;/td&gt;&lt;td&gt;&lt;p&gt;sub&lt;u&gt;cost&lt;/u&gt;al&lt;/p&gt;&lt;p&gt;chondro&lt;u&gt;cost&lt;/u&gt;al&lt;br/&gt;&lt;em&gt;Cartilage that is attached to the ribs.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;crani/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;cranium (skull)&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;crani&lt;/u&gt;otomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;crani&lt;/u&gt;otome&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;femor/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;femur (thigh bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;femor&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;fibul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fibula (smaller lower leg bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;fibul&lt;/u&gt;ar&lt;br/&gt;&lt;em&gt;See perone/o.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;humer/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;humerus (upper arm bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;humer&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ili/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ilium (upper part of pelvic bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;ili&lt;/u&gt;ac&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ischi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ischium (posterior part of pelvic bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;ischi&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;malleol/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;malleolus (process on each side of the ankle)&lt;/td&gt;&lt;td&gt;&lt;u&gt;malleol&lt;/u&gt;ar&lt;br/&gt;&lt;em&gt;The medial malleolus is at the distal end of the tibia, and the lateral malleolus is at the distal end of the fibula.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt; mandibul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;mandible (lower jawbone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;mandibul&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;maxill/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;maxilla (upper jawbone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;maxill&lt;/u&gt;ary&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;metacarp/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;metacarpals (hand bones)&lt;/td&gt;&lt;td&gt;&lt;u&gt;metacarp&lt;/u&gt;ectomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;metatars/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;metatarsals (foot bones)&lt;/td&gt;&lt;td&gt;&lt;u&gt;metatars&lt;/u&gt;algia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;olecran/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;olecranon (elbow)&lt;/td&gt;&lt;td&gt;&lt;u&gt;olecran&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;patell/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;patella (kneecap)&lt;/td&gt;&lt;td&gt;infra&lt;u&gt;patell&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pelv/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pelvis&lt;/td&gt;&lt;td&gt;&lt;u&gt;pelvi&lt;/u&gt;metry&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;phalang/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;phalanges (finger and/or toe bones)&lt;/td&gt;&lt;td&gt;&lt;u&gt;phalang&lt;/u&gt;eal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pub/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pubis (anterior part of the pelvic bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;pub&lt;/u&gt;ic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;radi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;radius (forearm bone—thumb side)&lt;/td&gt;&lt;td&gt;&lt;u&gt;radi&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;scapul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;scapula (shoulder blade)&lt;/td&gt;&lt;td&gt;&lt;u&gt;scapul&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;stern/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sternum (breastbone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;stern&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tars/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tarsals (bones of the mid and hindfoot)&lt;/td&gt;&lt;td&gt;&lt;u&gt;tars&lt;/u&gt;ectomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tibi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tibia (shin bone)&lt;/td&gt;&lt;td&gt;&lt;u&gt;tibi&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;uln/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ulna (forearm bone—little finger side)&lt;/td&gt;&lt;td&gt;&lt;u&gt;uln&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

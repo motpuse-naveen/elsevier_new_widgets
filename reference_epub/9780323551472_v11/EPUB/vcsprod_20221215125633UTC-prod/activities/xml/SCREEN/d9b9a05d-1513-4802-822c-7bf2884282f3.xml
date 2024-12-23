@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d433f44b-ab0f-44c3-978c-94bd787998bc">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="947ef25a-94eb-4a5e-9326-21fb9b55f05c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2942694a-2ef1-4ad5-9e07-38effc63c7c6">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;COMBINING FORM&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;MEANING&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;MEANING&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;is/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;same&lt;/td&gt;&lt;td&gt;radio&lt;u&gt;is&lt;/u&gt;otope&lt;br/&gt;&lt;em&gt;Top/o means place; isotopes of an element have similar structures but different weights and stability. A radioisotope (radionuclide) is an unstable form of an element that emits radioactivity.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pharmaceut/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;drug&lt;/td&gt;&lt;td&gt;radio&lt;u&gt;pharmaceut&lt;/u&gt;ical&lt;br/&gt;&lt;em&gt;In this term, radi/o stands for radioactive.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;radi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;x-rays&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;radi&lt;/u&gt;ographer&lt;/p&gt;&lt;p&gt;&lt;u&gt;radi&lt;/u&gt;ology&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;son/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sound&lt;/td&gt;&lt;td&gt;hystero&lt;u&gt;son&lt;/u&gt;ogram&lt;br/&gt;&lt;em&gt;Saline solution is injected through a catheter inserted into the vagina and cervical canal to the uterus, which is then examined by ultrasound imaging.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;therapeut/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;treatment&lt;/td&gt;&lt;td&gt;&lt;u&gt;therapeut&lt;/u&gt;ic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vitr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;glass&lt;/td&gt;&lt;td&gt;in&lt;u&gt;vitr&lt;/u&gt;o&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;viv/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;life&lt;/td&gt;&lt;td&gt;in&lt;u&gt;viv&lt;/u&gt;o&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="11a9a6c6-33ea-4ffe-a784-1b95df0e7a18">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f44382c5-952a-49e6-ba2a-23f39b4095e6">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;SUFFIX&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-gram&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;record&lt;/td&gt;&lt;td&gt;&lt;p&gt;angio&lt;u&gt;gram&lt;/u&gt;&lt;/p&gt;&lt;p&gt;hysterosalpingo&lt;u&gt;gram&lt;/u&gt;&lt;/p&gt;&lt;p&gt;pyelo&lt;u&gt;gram&lt;/u&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-graphy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;process of recording&lt;/td&gt;&lt;td&gt;computed tomo&lt;u&gt;graphy&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Tom/o means to cut, as in viewing in slices.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-lucent&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;to shine&lt;/td&gt;&lt;td&gt;radio&lt;u&gt;lucent&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Radiolucent (indicating that x-rays pass through easily) areas on x-ray images appear dark.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-opaque&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;obscure&lt;/td&gt;&lt;td&gt;radi&lt;u&gt;opaque&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Radiopaque (indicating that x-rays do not penetrate) areas on x-ray images appear white/light.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="00204825-29c3-4807-b9d3-ccbbc8c681ce">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PREFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2ebc3e78-90ea-4598-b403-0cda7e81069f">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;PREFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;echo-&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;a repeated sound&lt;/td&gt;&lt;td&gt;&lt;u&gt;echo&lt;/u&gt;cardiography&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ultra-&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;beyond&lt;/td&gt;&lt;td&gt;&lt;u&gt;ultra&lt;/u&gt;sonography&lt;br/&gt;&lt;em&gt;Sound waves are beyond the normal range of those that a human can hear.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="7e57aa3b-f6bf-45c6-9534-06b4c2aaf75b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="374e7a60-1418-4fb9-8268-25c0c0d059b9">
+    <STATIC_text>
+  <text>&lt;p&gt;The following specialized procedures are used to detect or treat malignancies. X-rays, CT scans, MRI, and ultrasound imaging (described throughout the text and specifically in Chapter 20) also are important diagnostic procedures in oncology.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2690e361-5e12-4e6e-ad65-dae6307b402e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bone marrow biopsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Aspiration of bone marrow tissue and examination under a microscope for evidence of malignant cells.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;bone marrow or stem cell transplantation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bone marrow or stem cells are infused intravenously into a patient.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In &lt;strong&gt;autologous marrow transplantation&lt;/strong&gt;, marrow previously obtained from the patient and stored is reinfused when needed. In a&lt;strong&gt;llogeneic marrow transplantation &lt;/strong&gt;(all/o = other), marrow is obtained from a living donor other than the recipient. In&lt;strong&gt; peripheral blood stem cell transplantation&lt;/strong&gt;, immature blood cells called stem cells are selected and harvested from the blood of a patient instead of from the bone marrow. After undergoing chemotherapy, the patient gets a reinfusion of the stem cells to repopulate the bone marrow with blood cells.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;core needle biopsy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Insertion of a large-bore needle into tissue to remove a core of cells for microscopic examination.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A needle (aspiration) biopsy is the insertion of a fine needle and aspiration (extraction) of a sample from a fluid-filled cavity or solid mass of tumor.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;exfoliative cytology&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Cells are scraped from the region of suspected disease and examined under a microscope.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Pap test (smear) to detect carcinoma of the cervix and vagina is an example (Figure 19-13).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;fiberoptic colonoscopy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the colon using a fiberoptic instrument.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is an important screening procedure using an endoscope to detect cancer and remove premalignant polyps.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;laparoscopy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Visual examination of the abdominal cavity using small incisions and a laparoscope. &lt;/strong&gt;Also known as peritoneoscopy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;liquid biopsy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Test done on a sample of blood to look for cancer cells, or pieces of DNA from tumor cells.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A liquid biopsy may be used to detect cancer at an early stage or to find out how well treatment is working.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mammography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;X-ray examination of the breast to detect breast cancer.&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;PET-CT scan&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Diagnostic procedure combining CT (computed tomography) and PET (positron emission tomography).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The combination provides a more complete picture of a tumor ’ s location and growth or spread than either done independently. See Figure 19-14 . PET-CT uses a combination of two machines: one to examine chemical reactions (PET scan) and the other to examine physical structures (CT scan). A &lt;strong&gt;PET-MRI scan &lt;/strong&gt;incorporates magnetic resonance imaging (especially good for soft tissues) and positron emission tomography to reveal how an organ functions.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;radionuclide scans&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Radioactive substances (radionuclides) are injected intravenously, and scans (images) of organs are obtained.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These tests detect tumor and metastases. Examples of radionuclides are gallium- 67 (whole-body scan), rose Bengal (liver), and technetium-99m (liver and spleen).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="0975a96e-c9e0-4049-bde1-20c17c188d08">
+    <STATIC_figure>
+  <image>chp00019_f019-013-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 19-13 &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;A, Normal exfoliative cytologic smear (Pap smear) from the cervicovaginal region.&lt;/strong&gt; It shows flattened squamous cells and some neutrophils as well. &lt;strong&gt;B, Abnormal cervicovaginal smear&lt;/strong&gt; shows numerous malignant cells that have pleomorphic (irregularly shaped) and hyperchromatic (stained) nuclei. &lt;em&gt;(&lt;strong&gt;A&lt;/strong&gt; and&lt;strong&gt; B&lt;/strong&gt;, Courtesy Dr. P.K. Gupta, Department of Pathology and Laboratory Medicine, University of Pennsylvania Medical Center, Philadelphia.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ba1dfa74-ad60-407e-991f-8f0ef410ac30">
+    <STATIC_figure>
+  <image>page_642_02.jpg</image>
+  <imageControls>
+    <imageScale value="1-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 19-14 &lt;/span&gt;PET-CT scan. &lt;/strong&gt;The PET-CT scan shown captures three areas of increased radioactivity, seen in the lymph nodes of the left axilla (armpit). By overlaying PET and CT images, physicians can identify spread of malignancy or metastasis. Brain and heart activity are normal. &lt;em&gt;(Courtesy Massachusetts General Hospital, Boston, Massachusetts.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

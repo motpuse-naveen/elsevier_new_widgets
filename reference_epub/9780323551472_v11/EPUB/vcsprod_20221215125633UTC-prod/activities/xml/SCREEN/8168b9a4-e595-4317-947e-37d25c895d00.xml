@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="d46d15c7-b6bc-4619-9aa6-7caabc2283de">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="696513b5-140b-43bb-8334-9d131ff74f80">
+    <STATIC_text>
+  <text>&lt;p&gt;You will find this chapter different from others in the book. Many psychiatric disorders are not readily explainable in terms of abnormalities in the structure or chemistry of an organ or tissue, as are other illnesses. In addition, the causes of mental disorders are complex and include significant psychological and social as well as chemical and structural elements. This chapter provides a simple outline of psychiatric disorders and definitions of major psychiatric terms. For more extensive and detailed information, consult the &lt;strong&gt;&lt;em&gt;Diagnostic and Statistical Manual of Mental Disorders, &lt;/em&gt;fifth edition, (DSM-5),&lt;/strong&gt; published by the American Psychiatric Association.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Psychiatry &lt;/strong&gt;(&lt;strong&gt;psych/o&lt;/strong&gt; = mind,&lt;strong&gt; iatr/o&lt;/strong&gt; = treatment) is the branch of medicine that deals with the diagnosis, treatment, and prevention of mental illness. It is a specialty of clinical medicine like surgery, internal medicine, pediatrics, and obstetrics.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Psychiatrists &lt;/strong&gt;complete the same medical training (4 years of medical school) as other physicians and receive an MD (doctor of medicine) or OD (doctor of osteopathy) degree. Then they spend a variable number of years training in the methods and practice of &lt;strong&gt;psychotherapy&lt;/strong&gt; (psychological techniques for treating mental disorders) and &lt;strong&gt;psychopharmacology&lt;/strong&gt; (drug therapy). Psychiatrists complete 3 years of residency training and then extra years of fellowship training to specialize in various aspects of psychiatry. &lt;strong&gt;Child psychiatrists&lt;/strong&gt; specialize in the treatment of children; &lt;strong&gt;forensic psychiatrists&lt;/strong&gt; specialize in the legal aspects of psychiatry, such as the determination of mental competence in criminal cases. &lt;strong&gt;Psychoanalysts&lt;/strong&gt; complete 3 to 5 additional years of training in a special psychotherapeutic technique called &lt;strong&gt;psychoanalysis&lt;/strong&gt; in which the patient freely relates her or his thoughts and associations to the analyst, who does not interfere with the process. Interpretations are offered at appropriate times.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;psychologist &lt;/strong&gt;is a nonmedical professional who is trained in methods of psychological testing, psychotherapy, and research. Psychologists complete a doctor of philosophy (PhD), doctor of psychology (PsyD), or doctor of education (EdD) degree program in a specific field of interest, such as &lt;strong&gt;clinical psychology&lt;/strong&gt; (patient-oriented) &lt;strong&gt;experimental research&lt;/strong&gt;, or &lt;strong&gt;social psychology&lt;/strong&gt; (focusing on social interaction and the ways the actions of others infl uence the behavior of the individual). A &lt;strong&gt;clinical psychologist&lt;/strong&gt;, like a psychiatrist, can use various methods of psychotherapy to treat patients but, unlike a psychiatrist, cannot prescribe drugs or electroconvulsive therapy (ECT). Other nonphysicians trained in the treatment of mental illness include licensed clinical social workers, psychiatric nurses, and licensed mental health clinicians (LMHCs).&lt;/p&gt;&lt;p&gt;Clinical psychologists are trained in the use of tests to evaluate various aspects of a patient ’s mental health and intelligence. Examples are &lt;strong&gt;intelligence (IQ) tests&lt;/strong&gt; such as the &lt;strong&gt;Wechsler Adult Intelligence Scale (WAIS)&lt;/strong&gt; and the &lt;strong&gt;Stanford-Binet Intelligence Scale.&lt;/strong&gt; Two &lt;strong&gt;projective personality tests&lt;/strong&gt; are the &lt;strong&gt;Rorschach technique,&lt;/strong&gt; in which inkblots, as shown in Figure 22-1, are used to bring out associations, and the &lt;strong&gt;Thematic Apperception Test (TAT)&lt;/strong&gt;, in which pictures are used as stimuli for making up stories (Figure 22-2). Examples of &lt;strong&gt;graphomotor projection tests&lt;/strong&gt; are the &lt;strong&gt;Draw a Person Test&lt;/strong&gt;, in which the patient is asked to copy a body, and the &lt;strong&gt;Bender-Gestalt Test&lt;/strong&gt;, in which the patient is asked to draw certain geometric designs. The Bender-Gestalt Test picks up deficits in mental processing and memory caused by brain damage and is used to screen children for developmental delays. The &lt;strong&gt;Minnesota Multiphasic Personality Inventory (MMPI)&lt;/strong&gt; contains true-false questions that reveal aspects of personality, such as sense of duty or responsibility, ability to relate to others, and dominance (assertiveness, resourcefulness). This test is widely used as a measure of psychological health in adolescents and adults. The patient’s responses to questions are compared with responses made by patients with diagnoses of schizophrenia, depression, and other mental disorders.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="aae9d948-468f-43f1-8c8b-7adeb0d8e33f">
+    <STATIC_figure>
+  <image>page_710_01.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 22-1&lt;/span&gt; Inkblots like this one are presented on 10 cards in the Rorschach test. &lt;/strong&gt;The patient describes images that he or she sees in the blot.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1d603749-73e7-4b33-8647-f98d7c5c99f1">
+    <STATIC_figure>
+  <image>chp00022_f022-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 22-2&lt;/strong&gt;&lt;/span&gt; Sample picture for the &lt;strong&gt;Thematic Apperception Test&lt;/strong&gt;. The patient is asked to tell the story that the picture illustrates. &lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

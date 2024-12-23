@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="17857df6-4baa-470c-a3f5-dd26acf04902">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f6806de0-47ab-4871-a6c2-f250475d0e33">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;FYI: OTHER MALIGNANT TUMORS&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c86ac91e-be03-4f99-af55-893e762b19ad">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;A number of malignant tumors do not contain the combining form carcin/o or sarc/o in their names:&lt;/p&gt;&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;MALIGNANT TUMOR&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;DESCRIPTION&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;glioma&lt;/td&gt;&lt;td&gt;primary brain tumor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;hepatoma&lt;/td&gt;&lt;td&gt;liver tumor (hepatocellular carcinoma)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;hypernephroma&lt;/td&gt;&lt;td&gt;kidney tumor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;lymphoma&lt;/td&gt;&lt;td&gt;lymph node tumor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;melanoma&lt;/td&gt;&lt;td&gt;tumor of pigmented skin cells&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;mesothelioma&lt;/td&gt;&lt;td&gt;tumor of cells within the pleura&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;multiple myeloma&lt;/td&gt;&lt;td&gt;bone marrow cell tumor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;thymoma&lt;/td&gt;&lt;td&gt;thymus gland tumor&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Questions about FYI: Other Malignant Tumors&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Which tumor develops from a dysplastic nevus? [melanoma (a nevus is a benign pigmented lesion or mole)]&lt;br/&gt;2. Which tumor arises from an organ located within the mediastinum? [thymoma]&lt;br/&gt;3. Which tumor arises from an organ in the RUQ of the abdomen? [hepatoma]&lt;br/&gt;4. Which tumor has types called astrocytoma, ependymoma, glioblastoma multiforme? [glioma]&lt;br/&gt;5. Which tumor is also known as a renal cell carcinoma? [hypernephroma]&lt;br/&gt;6. Which type of cancer contains large numbers of plasma cells (bone marrow antibody-producing cells)? [multiple myeloma]&lt;br/&gt;7. Which tumor arises from membrane cells surrounding the lungs? [mesothelioma]&lt;br/&gt;8. Which tumor is derived from B cell lymphocytes? [lymphoma (previously known as lymphosarcoma)]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="6be015cf-8896-48a4-9c48-676bb8bbcfd3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;strong&gt;&lt;span style="color:#CA500F;"&gt;CASE STUDY: SUSPECTED BREAST CANCER&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="17007123-a6bd-4521-9b8b-06eb1f0ce77b">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;A 52-year-old married woman presented to her physician with a painless mass in her left breast. During breast examination a 1.0-cm, firm, nontender mass was palpated in the upper outer quadrant located at the 2 o’clock position, 3 cm from the areola. The mass was not fixed to the skin, and there was no cutaneous erythema or edema. No axillary or supraclavicular lymphadenopathy was noted.&lt;/p&gt;&lt;p&gt;An excisional biopsy of the mass was performed. The pathology report described a gross specimen of fatty breast tissue. Microscopic evaluation of the nodule revealed an invasive ductal carcinoma. The margins of the lumpectomy specimen were free of tumor. Sentinel node [first lymph node where cancer cells are likely to spread] biopsy revealed no tumor involvement.&lt;/p&gt;&lt;p&gt;A portion of the specimen was sent for estrogen receptor assay and proved to be positive. The patient was informed of the diagnosis and underwent additional studies, including chest x-ray, liver chemistries, CBC, and bone scan; all results were negative.&lt;/p&gt;&lt;p&gt;The patient’s tumor was staged as a T1N0M0, stage I carcinoma of the left breast. She was referred to a radiation oncologist for radiation therapy to the lumpectomy site. After completion of radiotherapy, she was treated with tamoxifen. Prognosis is excellent for cure.&lt;/p&gt;&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Questions about the Case Study&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Where was the primary breast lesion located? [About an inch and a half above and to the left of the nipple and pigmented area/Near the axilla and under the shoulder blade/Under the pigmented area of the breast]&lt;/p&gt;&lt;p&gt;2. Other associated findings were [None of the above/Enlarged lymph nodes under the armpit/Redness and swelling]&lt;/p&gt;&lt;p&gt;3. What procedure gave evidence that the tumor had not yet metastasized? [Sentinel node biopsy/Excisional biopsy of the mass/Estrogen receptor assay]&lt;/p&gt;&lt;p&gt;4. What additional therapy was undertaken? [Radiation to the breast and then treatment with an estrogen blocker/Radiation to the breast/Cytotoxic chemotherapy]&lt;/p&gt;&lt;p&gt;5. Tamoxifen was prescribed because [The tumor had an estrogen receptor, and tamoxifen is an antiestrogen/The tumor was found to be nonresponsive to estrogen/The tumor was at an advanced stage]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+  <block refid="bafe8de2-9e44-4bb5-823e-bd199c35c11d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;SHORT HISTORIES&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fd75f29d-2c1c-47a4-a218-26f65fd41961">
+    <STATIC_text>
+  <text>&lt;p&gt;As you read these actual patient histories, congratulate yourself on your understanding of medical terms!&lt;/p&gt;&lt;ol&gt;&lt;li&gt;A 28-year-old man feels a hard, nontender mass in his right testicle. He goes to his doctor, who checks his serum human chorionic gonadotropin and alpha-fetoprotein levels and finds both to be quite elevated. The tentative diagnosis is a germ cell tumor of the testis. A CT scan of the abdomen reveals extensive lymphadenopathy along the aorta. A chest CT shows nodes in both lungs suggestive of tumor. An orchiectomy confirms the diagnosis of testicular cancer. He is given four cycles of chemotherapy with vinblastine, cisplatin, and bleomycin, and his serum AFP and HCG markers return to normal. His CT scans reveal no evidence of residual tumor.&lt;/li&gt;&lt;li&gt;A 42-year-old woman notices repeated episodes of red blood in her stool with each bowel movement. A colonoscopy reveals a 4-cm mass arising from the wall of the rectum. A biopsy demonstrates a rectal adenocarcinoma. An abdominal CT shows two large metastases in the liver and enlarged lymph nodes. She first receives four cycles of 5-fluorouracil and oxaliplatin, which cause the liver lesions to shrink significantly and the lymph nodes to regress. The remaining liver lesions are surgically resected. Radiation therapy is then administered to shrink the rectal tumor and lymph nodes. A small residual tumor is resected. The lymph nodes are removed and contain no tumor.&lt;/li&gt;&lt;li&gt;A 62-year-old man has a routine PSA blood sample drawn. PSA is elevated at 5.8 (normal is less than 4.0). A transrectal biopsy of the prostate reveals a Gleason grade 6 adenocarcinoma in 4 of 12 biopsy pieces. He chooses to be treated with brachytherapy. Treatment causes dysuria, cystitis, and proctitis, but these symptoms disappear 6 weeks after therapy ends, and his PSA is now undetectable.&lt;/li&gt;&lt;/ol&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

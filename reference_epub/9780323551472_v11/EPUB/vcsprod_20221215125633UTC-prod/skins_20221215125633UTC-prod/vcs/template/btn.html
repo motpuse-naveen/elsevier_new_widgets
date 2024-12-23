@@ -1,0 +1,26 @@
+
+
+<script type="text/template" id="btn-interactive-template">
+
+	<%
+	var btnClasses = instructions.length ? "" : " no-instructions";
+	btnClasses += (text.length ? "" : " no-text");
+	%>
+
+	<div class="content screen__margin <%=btnClasses%>">
+		<h5><%=title%></h5>
+		<div class="btn-instructions-title"<%=itu.dirltr()%>>Instructions:</div>
+		<div class="btn-instructions"><%=instructions%></div>
+		<div class="btn-holder">
+			<a class="btn-launch" title="<%-tooltip%>" href="<%=url%>"><span aria-hidden="true"><%=text%></span><span class="visuallyhidden"><%=text%> (Opens in a new window)</span></a>
+		</div>
+		<div class="btn-url-for-print">
+			<%=url%>
+		</div>
+	</div>
+
+</script>
+
+
+
+

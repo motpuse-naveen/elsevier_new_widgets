@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="ac1aa927-87e0-4db5-bceb-f51802b60ac1">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_practical_applications.png" data-handler-handled="true"/&gt; PRACTICAL APPLICATIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c99ccab3-e0be-4bb7-96ac-3009e0f1f7b3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;CASE STUDY: MELANOMA FOLLOW-UP&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="65ed6797-60e0-4ea0-9f9d-a9bb9369d684">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;p&gt;Bill Smith, a 51-year-old sales representative, was initially diagnosed with stage III melanoma 4 years ago. He underwent surgery and received interferon treatment at that time. At his 3-month follow-up CT evaluation last year, Mr. Smith received bad news. The CT scan detected a 1 cm nodule that could be a melanoma metastasis. To confirm the diagnosis, Mr. Smith underwent a PET scan.&lt;/p&gt;&lt;p&gt;He was admitted to the nuclear medicine unit of the hospital on the morning of the scan. He had been instructed to fast (no food or beverage 12 hours before the scan). The nuclear medicine physician had told him especially not to eat any type of sugar, which would compete with the radiopharmaceutical 18F-FDG (radiolabeled fluorodeoxyglucose, 18 F-FDG), a radioactive glucose molecule that travels to every cell in the body.&lt;/p&gt;&lt;p&gt;The PET scan began with an injection of a trace amount of 18F-FDG by the physician. Bill was asked to lie still for about an hour in a dark, quiet room and to avoid talking to prevent the compound from concentrating in the tongue and vocal cords. The waiting time allowed the 18F-FDG to be absorbed and released from normal tissue. After emptying his bladder, Bill reclined on a bed that moved slowly and quietly through a PET scanner, a large tube similar to a CT scanner. The radioactive glucose emits charged particles called positrons, which interact with electrons, producing gamma rays that are in turn detected by the scanner. Color-coded images indicate the intensity of metabolic activity throughout the body. Cancerous cells absorb more radioactive glucose than noncancerous cells. The malignant cells show up brighter on the PET scan.&lt;/p&gt;&lt;p&gt;Bill’s PET scan proved the CT wrong: His melanoma had not metastasized. He returned home quite relieved.&lt;/p&gt;&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Questions about the Case Study: Melanoma Follow-up&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. In CT scanning: [X-rays and a computer produce images in the axial plane/Magnetic images reveal images in all three planes of the body/A nuclear physician performs the ultrasound procedure/A radioactive tracer is used]&lt;/p&gt;&lt;p&gt;2. In PET scanning: [A radioactive tracer is used/X-ray images reveal images in all three planes of the body/A nuclear physician performs the ultrasound procedure/Doppler ultrasound is used]&lt;/p&gt;&lt;p&gt;3. Bill’s case showed that: [PET scanning is useful in cancer diagnosis and staging/CT scanning and PET scanning are equally effective in diagnosis of metastases/Melanoma never progresses to stage IV/A diet high in glucose helps concentrate the radioactive 18F-FDG before the PET scan]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+  <block refid="a9880040-411b-4974-a3c8-384328e080c8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;GENERAL HOSPITAL: NUCLEAR MEDICINE DEPARTMENT&lt;/strong&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c95c2058-b8bc-41d1-a00d-7cf6f5248307">
+    <CLOZ>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;Radionuclide&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;Radiopharmaceutical&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;Administration Route&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;strong&gt;Target Organ&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Xe-133&lt;/td&gt;&lt;td&gt;xenon gas&lt;/td&gt;&lt;td&gt;inhaled&lt;/td&gt;&lt;td&gt;lungs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;albumin microspheres&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;lungs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sr-87m (strontium)&lt;/td&gt;&lt;td&gt;solution&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;bone&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;diphosphonate&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;bone&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;pertechnetate&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;brain&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;sulfur colloid&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;liver/spleen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;HIDA&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;gallbladder&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;DTPA&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;kidney&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;DMSA&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;kidney&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I-123&lt;/td&gt;&lt;td&gt;sodium iodide&lt;/td&gt;&lt;td&gt;PO&lt;/td&gt;&lt;td&gt;thyroid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I-131&lt;/td&gt;&lt;td&gt;sodium iodide&lt;/td&gt;&lt;td&gt;PO&lt;/td&gt;&lt;td&gt;thyroid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TI-201 (thallium)&lt;/td&gt;&lt;td&gt;thallium chloride&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;heart&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tc-99m&lt;/td&gt;&lt;td&gt;sestamibi&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;heart&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ga-67 (gallium)&lt;/td&gt;&lt;td&gt;gallium citrate&lt;/td&gt;&lt;td&gt;IV&lt;/td&gt;&lt;td&gt;tumors and abscesses&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;DMSA, dimercaptosuccinic acid; DTPA, diethylenetriaminepentaacetic acid; HIDA, &lt;em&gt;N&lt;/em&gt;-(2,6 dimethyl) iminodiacetic acid; IV, intravenous; PO, oral (Latin &lt;em&gt;per os&lt;/em&gt;, by mouth).&lt;/p&gt;&lt;p&gt;&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Questions about the General Hospital: Nuclear Medicine Department&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</reading>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;p&gt;1. Which radionuclide is used with sestamibi in an ETT of heart function? [Technetium-99m/Gallium-67/Iodine-131/Thallium-201]&lt;/p&gt;&lt;p&gt;2. Which radionuclide would be used to diagnose disease in an endocrine gland? [I-123/Ga-67/Xe-123/Sr-87m]&lt;/p&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title>&lt;span style="color:#CA500F;"&gt;&lt;strong&gt;Available Radionuclides&lt;/strong&gt;&lt;/span&gt;</title>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</CLOZ>
+  </block>
+</blocks>

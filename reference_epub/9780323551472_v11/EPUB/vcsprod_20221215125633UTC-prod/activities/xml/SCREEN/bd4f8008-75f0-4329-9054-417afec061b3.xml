@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="558888d7-d98a-487c-aca3-b0ae752f9410">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLINICAL TESTS AND PROCEDURE&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6f4f6018-2756-4a8f-b794-d886f11eb019">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="a8f9e477-db05-4a4e-990f-511f28908421">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Pap test (Pap smear)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Microscopic examination of stained cells removed from the vagina and cervix.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After inserting a vaginal &lt;strong&gt;speculum&lt;/strong&gt; (instrument to hold apart the vaginal walls), the physician uses a small spatula to remove exfoliated (peeling and sloughing off) cells from the cervix and vagina (Figure 8-23). Microscopic analysis of the cell smear detects cervical or vaginal cellular abnormalities.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pregnancy test&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Blood or urine test to detect the presence of hCG.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c912bc9e-737b-4af2-a650-278cab479773">
+    <STATIC_figure>
+  <image>Fig_8.23.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-23 &lt;/span&gt;Method of obtaining a sample for a &lt;strong&gt;Pap test&lt;/strong&gt;. The test is 95% accurate in diagnosing early cervical cancer. It was invented by and named for a Greek physician, Georgios Papanicolaou.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="274cee5b-8f28-4316-9da3-677f53f28a96">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d5de4526-7415-4145-bc93-1d63391ca935">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;X-Ray Studies&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="04a22d1c-7ead-4c84-96b8-62a9b43a0107">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hysterosalpingography (HSG)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging of the uterus and fallopian tubes after injection of contrast material.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This radiologic procedure is used to evaluate tubal patency (adequate opening) and uterine cavity abnormalities.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;mammography&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;X-ray imaging of the breast&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Women are advised to have a baseline mammogram at 40-44 years of age for later comparison if needed.&lt;/p&gt;&lt;p&gt;The most recent method of mammography is &lt;strong&gt;digital tomosynthesis&lt;/strong&gt;. See Figure 8-24. In this procedure, an x-ray tube moves in an arc around the breast as several images are taken. These images are sent to a computer and clear, highly focused three-dimensional pictures are produced. This procedure makes breast cancer easier to ﬁnd in dense breast tissue; also called 3D mammography.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="be22e850-f8b7-44d4-8b0e-25ac705748e9">
+    <STATIC_figure>
+  <image>FIG_8.24.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-24 &lt;/span&gt;&lt;strong&gt;A, Mammography&lt;/strong&gt;. The machine compresses the breast and x-ray pictures (&lt;strong&gt;&lt;em&gt;top to bottom &lt;/em&gt;and &lt;em&gt;lateral&lt;/em&gt;&lt;/strong&gt;) are taken. &lt;strong&gt;B, Comparison of mammogram and digital tomosynthesis images.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1edb3506-4987-4795-b066-fd5e5f4de393">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Examination and Magnetic Resonance Imaging (MRI)&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="16c3dadb-814b-4ffe-b827-ef901de57e00">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;breast ultrasound imaging and breast MRI&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Technologies using sound waves and a magnetic ﬁeld to create images of breast tissue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These imaging techniques conﬁrm the presence of a mass and can distinguish a cystic from a solid mass. MRI is very useful in detecting masses in young women with dense breasts or in women with a strong family history of breast cancer and at high risk for this condition. Breast ultrasound imaging is useful to evaluate a speciﬁc area of cancer on a mammogram.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;pelvic ultrasonography&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Recording images of sound waves as they bounce off organs in the pelvic region&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;This technique can evaluate fetal size and anatomy, as well as fetal and placental position. Uterine tumors and other pelvic masses, including abscesses, also are diagnosed by ultrasonography. &lt;strong&gt;Transvaginal ultrasound&lt;/strong&gt; allows the radiologist a closer, sharper look at organs within the pelvis. The sound probe is placed in the vagina instead of over the pelvis or abdomen; this method is best used to evaluate ﬂuid-ﬁlled cysts.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="69a39493-3b0a-4c10-a879-fd3dd21934ef">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Gynecologic Procedures&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="73a4e145-c24f-4bb7-9b37-87a93e181097">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cauterization&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Destruction of tissue by burning.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Destruction of abnormal tissue with chemicals (silver nitrate) or an electrically heated instrument. Cauterization is used to treat cervical dysplasia or cervical erosion. The &lt;strong&gt;loop electrocautery excision procedure (LEEP)&lt;/strong&gt; (see Figure 8-26A) is used to further assess and often treat abnormal cervical tissue.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;colposcopy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the vagina and cervix using a colposcope.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A colposcope is a lighted magnifying instrument resembling a small, mounted pair of binoculars. Gynecologists prefer colposcopy for pelvic examination when cervical dysplasia is present because it identiﬁes the speciﬁc areas of abnormal cells. A biopsy specimen can then be taken for more accurate diagnosis (Figure 8-25).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;conization&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of a cone-shaped section (cone biopsy) of the cervix.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The physician resects the tissue using a &lt;strong&gt;LEEP (loop electrocautery excision procedure),&lt;/strong&gt; or with a carbon dioxide laser or surgical knife (scalpel). Figure 8-26A shows conization with LEEP, and Figure 8-26B shows the cone biopsy specimen removed surgically.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cryosurgery&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Use of cold temperatures to destroy tissue&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;A liquid nitrogen probe produces the freezing (cry/o means cold) temperature. Also called &lt;strong&gt;cryocauterization&lt;/strong&gt;.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="c17784a0-31ef-4d60-b6a4-437cc7656edf">
+    <STATIC_figure>
+  <image>Fig_8.25.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-25 &lt;/span&gt;&lt;strong&gt;Colposcopy&lt;/strong&gt; is used to evaluate a patient with an abnormal Pap test result. For this examination, the woman lies in the dorsal lithotomy position. This is the same position used to remove a urinary tract stone (lithotomy means incision to remove a stone).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="ab1ec434-2041-40b8-bb2f-ae18564e0850">
+    <STATIC_figure>
+  <image>Fig_8.26.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-26&lt;/span&gt; &lt;strong&gt;A, Cervical loop electrocautery excision procedure (LEEP)&lt;/strong&gt; for cone biopsy. &lt;strong&gt;B,&lt;/strong&gt; Surgical removal of cone biopsy specimen. &lt;em&gt;(&lt;strong&gt;A,&lt;/strong&gt; Courtesy Dr. A. K. Goodman, Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="54eb5029-54f6-4c27-96bd-b79738884db4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;culdocentesis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Needle aspiration of ﬂuid from the cul-de-sac.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The physician inserts a needle through the vagina into the cul-de-sac. The presence of blood may indicate a ruptured ectopic pregnancy or ruptured ovarian cyst.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;dilation (dilatation) and curettage (D&amp;amp;C)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Widening the cervix and scraping off the endometrial lining of the uterus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dilation is accomplished by inserting a series of dilators of increasing diameter. A &lt;strong&gt;curet&lt;/strong&gt; (metal loop at the end of a long, thin handle) is then used to sample the uterine lining. This procedure helps diagnose uterine disease and can temporarily halt prolonged or heavy uterine bleeding. When necessary, a D&amp;amp;C is used to remove the tissue during a spontaneous or therapeutic abortion (Figure 8-27).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ac1dfd31-c133-48aa-a8f9-de4480248f8c">
+    <STATIC_figure>
+  <image>FIG_8.27.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-27&lt;/span&gt; &lt;strong&gt;Dilation and curettage (D&amp;amp;C) of the uterus.&lt;/strong&gt; &lt;strong&gt;A,&lt;/strong&gt; The uterine cavity is explored with a &lt;strong&gt;uterine sound&lt;/strong&gt; (a slender instrument used to measure the depth of the uterus) to prevent perforation during dilation. &lt;strong&gt;B, Uterine dilators&lt;/strong&gt; (Hanks or Hagar) in graduated sizes are used to gradually dilate the cervix. &lt;strong&gt;C,&lt;/strong&gt; The uterus is gently curetted and specimens are collected.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0233ed42-3f11-4e10-8d17-a8d56dd425ef">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;exenteration&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of internal organs within a cavity.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pelvic exenteration&lt;/strong&gt; is removal of the organs and adjacent structures of the pelvis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;ﬁne needle aspiration&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Withdrawal of ﬂuid or tissue from a cyst or solid mass by suction with a needle.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;FNA is a valuable diagnostic technique in evaluating lumps of the breast. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;laparoscopy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Visual examination of the abdominal cavity using an endoscope (laparoscope).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this procedure, a form of &lt;strong&gt;minimally invasive surgery (MIS)&lt;/strong&gt;, small incisions (5 to 10 mm long) are made near the woman’s navel for introduction of the laparoscope and other instruments. Uses of laparoscopy include inspection and removal of ovaries and fallopian tubes, diagnosis and treatment of endometriosis, and removal of ﬁbroids. Laparoscopy also is used to perform subtotal (cervix is left in place) and total hysterectomies (Figure 8-28).&lt;/p&gt;&lt;p&gt;Morcellation (cutting up uterine tissue in the abdomen) is commonly performed when the uterus or ﬁbroids are removed laparoscopically. It is contraindicated in situations of suspcious or pre-malignancy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;tubal ligation&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Blocking the fallopian tubes to prevent fertilization from occurring.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This &lt;strong&gt;sterilization&lt;/strong&gt; procedure (making an individual incapable of reproduction) is performed using laparoscopy or through a hysteroscope inserted via the cervical os (opening). &lt;strong&gt;Ligation&lt;/strong&gt; means tying off and does not pertain solely to the fallopian tubes—which may be “tied” using clips or bands, or by surgically cutting or burning through the tissue.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="ee0c9348-ab5a-4e65-bef7-ce18546e32c7">
+    <STATIC_figure>
+  <image>FIG_8.28.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-28 &lt;/span&gt;&lt;strong&gt;Laparoscopic oophorectomy&lt;/strong&gt;. &lt;strong&gt;A,&lt;/strong&gt; Notice the ovary placed in a plastic bag. The bag was inserted through the laparoscope and then opened, and the ovary was placed inside. &lt;strong&gt;B,&lt;/strong&gt; Both are extracted through the laparoscope, leaving the uterus and the cut end of the fallopian tube. &lt;em&gt;(Courtesy Dr. A. K. Goodman, Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="28dbf83a-8a86-45cb-b496-6f67a83995ef">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Procedures Related to Pregnancy&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9b4ea048-99d1-4573-be09-a17bdbd5cb7e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;abortion (AB)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Termination of pregnancy before the embryo or fetus can exist on its own.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abortions are &lt;strong&gt;spontaneous&lt;/strong&gt; or &lt;strong&gt;induced&lt;/strong&gt;. Spontaneous abortions, commonly called “miscarriages,” occur without apparent cause. Induced abortions can be &lt;strong&gt;therapeutic&lt;/strong&gt; or &lt;strong&gt;elective&lt;/strong&gt;. A therapeutic abortion is performed when the health of the pregnant woman is endangered. An elective abortion is performed at the request of the woman. Major methods for abortion include vaginal evacuation by D&amp;amp;C or vacuum aspiration (suction) and stimulation of uterine contractions by injection of saline (salt solution) into the amniotic cavity (in second-trimester pregnancies).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="88c54cee-0a01-4697-a6c9-d83e8c5f5d8d">
+    <STATIC_figure>
+  <image>page_225_02.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 8-29 &lt;/span&gt;&lt;strong&gt;Amniocentesis&lt;/strong&gt;. The obstetrician places a long needle through the pregnant woman’s abdominal wall into the amniotic cavity. Needle placement (avoiding the fetus and the placenta) is guided by concurrent ultrasound imaging, performed using the transducer in the radiologist’s hand. The yellow amniotic fluid is aspirated into the syringe attached to the needle. This procedure took place in the 16th week of pregnancy. The indication for the amniocentesis was a low alpha-fetoprotein (AFP) level. This finding suggested a higher risk of Down syndrome in the baby. Karyotype analysis (received 10 days later) showed normal chromosome configuration.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="82c3f5e7-801a-4dba-a386-5518582f05c6">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;amniocentesis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Needle puncture of the amniotic sac to withdraw amniotic ﬂuid for analysis &lt;/strong&gt;(Figure 8-29)&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cells of the fetus, found in the ﬂuid, are cultured (grown), and cytologic and biochemical studies are performed to check fetal chromosomes, concentrations of proteins and bilirubin, and fetal maturation.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cesarean section&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical incision of the abdominal wall and uterus to deliver a fetus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Indications for cesarean section include cephalopelvic disproportion (the baby’s head is too big for the mother’s birth canal), abruptio placentae or placenta previa, fetal distress (fetal hypoxia), and breech or shoulder presentation. The name comes from a law during the time of Julius Caesar requiring removal of the fetus before a deceased pregnant woman could be buried.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;chorionic villus sampling (CVS)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sampling of placental tissues (chorionic villi) for prenatal diagnosis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The sample of tissue is removed with a catheter inserted into the uterus. The procedure can be performed earlier than amniocentesis, at 10 or more weeks of gestation.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;fetal monitoring&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Continuous recording of the fetal heart rate and maternal uterine contractions to assess fetal status and the progress of labor.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;in vitro fertilization (IVF)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Egg and sperm cells are combined outside the body in a laboratory dish (in vitro) to facilitate fertilization.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After an incubation period of 3 to 5 days, the fertilized ova are injected into the uterus through the cervix. (Latin &lt;em&gt;in vitro&lt;/em&gt; means in glass, as used for laboratory containers.) From 30% to 50% of all IVF procedures are now associated with &lt;strong&gt;intracytoplasmic sperm injection (ICSI)&lt;/strong&gt;. This is the direct injection of sperm into harvested ova.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

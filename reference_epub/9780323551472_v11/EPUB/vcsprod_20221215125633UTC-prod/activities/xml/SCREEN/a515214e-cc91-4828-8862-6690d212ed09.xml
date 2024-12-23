@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="86776eb6-74f4-49a9-a217-f2778ed7fedc">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#425BA1;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 51px;" src="../media/Icon_Closerlook.jpg" data-handler-handled="true"/&gt; A CLOSER LOOK&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="89618d8f-2808-4f9c-813d-eb0c5fe8bf27">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIGENS AND ANTIBODIES; THE Rh CONDITION&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4526490f-eeaa-4bb3-a09a-54f4ea133328">
+    <STATIC_text>
+  <text>&lt;p&gt;An &lt;strong&gt;antigen&lt;/strong&gt;, usually a foreign substance (such as a poison, virus, or bacterium), stimulates the production of &lt;strong&gt;antibodies&lt;/strong&gt;. Antibodies are protein substances made by white blood cells in response to the presence of foreign antigens. For example, the flu virus (antigen) enters the body, causing the production of antibodies in the bloodstream. These antibodies then bind to and mark for destruction the antigens (viruses) that produced them. The reaction between an antigen and an antibody is an &lt;strong&gt;immune response&lt;/strong&gt; (immun/o means protection). See Figure 4-8. When you receive a &lt;strong&gt;vaccine&lt;/strong&gt;, you actually are receiving dead or weakened antigens that stimulate white blood cells (lymphocytes) to make antibodies. These antibodies remain in your blood to protect against those specific antigens when encountered in the future.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6cd06408-d4e5-4ae1-a360-4e07ddb7824a">
+    <STATIC_figure>
+  <image>fig4-8.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-8 &lt;/span&gt;Immune response. &lt;/strong&gt;When antigens (bacteria) enter the body through a flesh wound, antibodies are produced to destroy the antigens.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1ef6ed03-68d3-4840-be08-5b00314c68d1">
+    <STATIC_text>
+  <text>&lt;p&gt;Another example of an antigen-antibody reaction is the &lt;strong&gt;Rh condition&lt;/strong&gt;. A person who is Rh-positive (&lt;strong&gt;Rh&lt;sup&gt;+&lt;/sup&gt;&lt;/strong&gt;) has a protein coating (antigen) on his or her red blood cells (RBCs). This specific antigen factor is something that the person is born with and is normal. People who are Rh-negative (&lt;strong&gt;Rh&lt;sup&gt;−&lt;/sup&gt;&lt;/strong&gt;) have normal RBCs as well, but their red cells lack the Rh factor antigen.&lt;/p&gt;&lt;p&gt;If an Rh&lt;sup&gt;−&lt;/sup&gt; woman and an Rh&lt;sup&gt;+&lt;/sup&gt; man conceive an embryo, the embryo may be Rh&lt;sup&gt;−&lt;/sup&gt; or Rh +. A dangerous condition arises only when the embryo is Rh&lt;sup&gt;+&lt;/sup&gt; (because this is different from the Rh&lt;sup&gt;−&lt;/sup&gt; mother). During delivery of the first Rh&lt;sup&gt;+&lt;/sup&gt; baby, some of the baby’s blood cells containing Rh&lt;sup&gt;+&lt;/sup&gt; antigens can escape into the mother ’ s bloodstream. This sensitizes the mother so that she produces a low level of antibodies to the Rh&lt;sup&gt;+&lt;/sup&gt; antigen. Because this occurs at delivery, the first baby is generally not affected and is normal at birth. Sensitization can also occur after a miscarriage, abortion, or blood transfusions (with Rh&lt;sup&gt;+&lt;/sup&gt; blood).&lt;/p&gt;&lt;p&gt;Difficulties arise with the second Rh&lt;sup&gt;+&lt;/sup&gt; pregnancy. If this embryo also is Rh&lt;sup&gt;+&lt;/sup&gt;, during pregnancy the mother’s acquired antibodies (from the first pregnancy) enter the embryo’s bloodstream. These antibodies attack and destroy the embryo’s Rh&lt;sup&gt;+&lt;/sup&gt; RBCs (hemolysis). The affected infant is born with &lt;strong&gt;hemolytic disease of the newborn (HDN).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of the clinical signs of HDN is &lt;strong&gt;jaundice&lt;/strong&gt; (yellow skin pigmentation). Jaundice results from excessive destruction of RBCs. When RBCs break down, the hemoglobin within the cells produces &lt;strong&gt;bilirubin &lt;/strong&gt;(a chemical pigment). High levels of bilirubin in the bloodstream (hyperbilirubinemia) cause jaundice. To prevent bilirubin from affecting the brain cells of the infant, newborns are treated with exposure to bright lights (phototherapy). The light decomposes the bilirubin, which is then excreted from the infant’s body.&lt;/p&gt;&lt;p&gt;Physicians administer Rh immunoglobulin to an Rh&lt;sup&gt;−&lt;/sup&gt; woman within 72 hours after each Rh&lt;sup&gt;+&lt;/sup&gt; delivery, abortion, or miscarriage. The globulin binds to Rh&lt;sup&gt;+&lt;/sup&gt; cells that escape into the mother’s circulation and prevents formation of Rh&lt;sup&gt;+&lt;/sup&gt; antibodies. This protects future babies from developing HDN. Figure 4-9 reviews the Rh condition as an example of an antigenantibody action.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="6268cde2-2218-4713-a7c3-4b7f4c92f549">
+    <STATIC_figure>
+  <image>fig4-9.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-9 &lt;/span&gt;Rh condition&lt;/strong&gt; as an example of an antigen-antibody reaction.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="503611fa-3eaa-4369-96c5-67925e84074e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CONGENITAL ANOMALY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6206dace-1890-4684-b7f6-f303165905da">
+    <STATIC_text>
+  <text>&lt;p&gt;An anomaly is an irregularity in a structure or organ. Examples of &lt;strong&gt;congenital anomalies&lt;/strong&gt; (those that an infant is born with) include webbed fingers or toes (syndactyly), heart defects, and clubbed feet. See Figure 4-10A. Some congenital anomalies are hereditary (passed to the infant through chromosomes from the father or mother, or both), whereas others are produced by factors present during pregnancy. For example, when a pregnant woman consumes high levels of alcohol during pregnancy, there is often a pattern of physical and mental defects in her infant at birth. See Figure 4-10B.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="27d0b00f-423b-47d5-917c-008c378b392f">
+    <STATIC_figure>
+  <image>fig4-10.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-10 &lt;/span&gt;Congenital anomalies. A, Clubfoot&lt;/strong&gt; is a hereditary congenital anomaly. The “clubbing” may affect one or both feet. &lt;strong&gt;B, Fetal alcohol syndrome (FAS)&lt;/strong&gt; is a congenital anomaly caused by environmental factors during pregnancy. Notice the facial features of FAS: skin folds in corners of eyes; long, smooth groove between the nose and upper lip; thin upper lip; and flat nasal bridge.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3dd67547-8a45-4ea8-86e1-19c55eb46a50">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;RECOMBINANT DNA&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7796f076-eaf6-4f75-a796-919d60f24666">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Recombinant DNA technology&lt;/strong&gt; is the process of taking a gene (a region of DNA) from one organism and inserting it into the DNA of another organism. For example, recombinant techniques are used to manufacture insulin outside the body. The gene that codes for insulin (i.e., contains the recipe for making insulin) is cut out of a human chromosome (using special enzymes) and transferred into a bacterium, such as &lt;em&gt;Escherichia coli &lt;/em&gt;(&lt;em&gt;E.coli&lt;/em&gt;). The bacterium then contains the gene for making human insulin and, because it multiplies very rapidly, can produce insulin in large quantities. Diabetic patients, unable to make their own insulin, can use this synthetic product (see Figure 4-11). &lt;strong&gt;CRISPR &lt;/strong&gt;is an acronym for new DNA editing tool that changes DNA sequences to turn off genes or to replace them with new versions. CRISPR means clustered regularly-interspaced short palindromic repeats!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a1c95e15-8906-460c-a72b-aec7407a4746">
+    <STATIC_figure>
+  <image>fig4-11.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-11&lt;/span&gt; Recombinant DNA and insulin production.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2beb44de-49b9-4b91-a497-466bbe918c5c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SYNDROMES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="da896b1f-b1f8-4377-b076-5efbfb3cd43e">
+    <STATIC_text>
+  <text>&lt;p&gt;A &lt;strong&gt;syndrome&lt;/strong&gt; (from the Greek &lt;em&gt;dromos&lt;/em&gt;, meaning a course for running) is a group of signs or symptoms that appear together to produce a typical clinical picture of a disease or inherited abnormality. For example, &lt;strong&gt;Reye syndrome&lt;/strong&gt; is characterized by vomiting, swelling of the brain, increased intracranial pressure, hypoglycemia, and dysfunction of the liver. It may occur in children after a viral infection that has been treated with aspirin.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Marfan syndrome&lt;/strong&gt; is an inherited connective tissue disorder marked by a tall, thin body type with long, “spidery” fingers and toes (arachnodactyly), elongated head, and heart, blood vessel, and ophthalmic abnormalities (see Figure 4-12).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="41cac370-2c22-42a2-9674-101acb89e88d">
+    <STATIC_figure>
+  <image>fig4-12.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-12 &lt;/span&gt;Marfan syndrome.&lt;/strong&gt; &lt;strong&gt;A&lt;/strong&gt; and &lt;strong&gt;B&lt;/strong&gt; show people with Marfan’s. Note the unusually tall body type and long, spidery fingers. The Olympic swimmer Michael Phelps (not pictured) has Marfan syndrome. His height is 6′ 4″ and his arm span is 6′ 7″.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="31e88660-0c97-4f43-91f9-9ffe5075621d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TRANSURETHRAL RESECTION OF THE PROSTATE GLAND&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dc7adcc7-a077-4dfc-b33c-4e260d43d1d5">
+    <STATIC_text>
+  <text>&lt;p&gt;In&lt;strong&gt; transurethral resection of the prostate gland (TURP), &lt;/strong&gt;a portion of the prostate gland is removed with an instrument (resectoscope) passed through (&lt;strong&gt;trans-&lt;/strong&gt;) the urethra. The procedure is indicated when prostatic tissue increases (hyperplasia) and interferes with urination. This condition is called &lt;strong&gt;benign prostatic hyperplasia &lt;/strong&gt;or BPH. Figure 4-13 shows a TURP procedure.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="298040f8-d338-483f-a1c4-077c9ae68640">
+    <STATIC_figure>
+  <image>fig4-13.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-13 &lt;/span&gt;Transurethral resection of the prostate (TURP). &lt;/strong&gt;The resectoscope contains a light, valves for controlling irrigated fluid, and an electrical loop that cuts tissue and seals blood vessels.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="65b1b638-5bf0-4f26-8389-771bb11e66f1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ULTRASONOGRAPHY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="25258090-63d8-470d-b30a-a0c0792aee1a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Ultrasonography &lt;/strong&gt;is a diagnostic technique using ultrasound waves (inaudible sound waves) to produce an image of an organ or tissue. A machine records ultrasonic echoes as they pass through different types of tissue. X-rays are not used! &lt;strong&gt;Echocardiograms &lt;/strong&gt;are ultrasound images of the heart. Figure 4-14 shows a fetal ultrasound image &lt;strong&gt;(sonogram).&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="1bda3a05-3b2c-4b45-b9cc-e93b9ef54e58">
+    <STATIC_figure>
+  <image>fig4-14.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 4-14 &lt;/span&gt;Ultrasonography. A,&lt;/strong&gt; Notice the facial features of this beautiful 30-week-old fetus, in a (very) early “baby picture” of my granddaughter, Beatrix Bess Thompson! &lt;strong&gt;B,&lt;/strong&gt; Bebe, smiling, at 3 months of age. &lt;em&gt;(Courtesy Dr. Elizabeth Chabner Thompson.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

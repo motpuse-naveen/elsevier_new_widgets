@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="c37e81e1-02f4-41a9-8069-25fca0c602ff">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fba84795-9e91-46fc-8c92-7a033615d5e3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="66a63677-abf6-4d24-939e-7fc214208079">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;BNP test&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Measurement of BNP (brain natriuretic peptide) in blood&lt;/strong&gt;.&lt;br/&gt;BNP is elevated in patients with heart failure, and it is useful in the diagnosis of CHF in patients with dyspnea who come to the emergency department. Its presence also identiﬁes patients at risk for complications when presenting with acute coronary syndromes (e.g., myocardial infarction, unstable angina). It is secreted when the heart becomes overloaded, and it acts as a diuretic to help heart function return to normal. Cardiologists also measure NT-proBNP levels to assess the degree of heart failure. NT stands for N-terminal.&lt;br/&gt;The reference to brain in this term originates from the initial identiﬁcation of the protein in the brain of a pig.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cardiac biomarkers&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Chemicals are measured in the blood as evidence of a heart attack&lt;/strong&gt;.&lt;br/&gt;Damaged heart muscle releases chemicals into the bloodstream. The substances tested for are &lt;strong&gt;troponin-I&lt;/strong&gt; &lt;strong&gt;(cTnI)&lt;/strong&gt; and &lt;strong&gt;troponin-T (cTnT)&lt;/strong&gt;. Troponin is a heart muscle protein released into circulation after myocardial injury.&lt;br/&gt;C-reactive protein &lt;strong&gt;(CRP)&lt;/strong&gt; is a biomarker of inﬂammation. High-sensitivity CRP &lt;strong&gt;(Hs-CRP)&lt;/strong&gt; is useful in predicting risk for heart attack, stroke, or other major heart disease.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lipid tests (lipid proﬁle) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Measurement of cholesterol and triglycerides (fats) in a blood sample&lt;/strong&gt;.&lt;br/&gt;High levels of lipids are associated with atherosclerosis. The general guideline for total cholesterol in the blood is less than 200 mg/dL. &lt;strong&gt;Saturated fats&lt;/strong&gt; (of animal origin, such as milk, butter, and meats) increase cholesterol in the blood, whereas &lt;strong&gt;polyunsaturated fats&lt;/strong&gt; (of vegetable origin, such as corn and safﬂower oil) decrease blood cholesterol.&lt;br/&gt;Treatment of hyperlipidemia includes proper diet (low-fat, high-ﬁber intake) and exercise. Niacin (a vitamin) also helps reduce lipids. Drug therapy includes &lt;strong&gt;statins&lt;/strong&gt;, which reduce the risk of heart attack, stroke, and cardiovascular death. Statins lower cholesterol by reducing its production in the liver. Examples are simvastatin (Zocor), atorvastatin (Lipitor), pravastatin (Pravachol), and rosuvastatin (Crestor).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lipoprotein electrophoresis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Lipoproteins (combinations of fat and protein) are physically separated and measured in a blood sample.&lt;/strong&gt;&lt;br/&gt;Examples of lipoproteins are &lt;strong&gt;low-density lipoprotein (LDL)&lt;/strong&gt; and &lt;strong&gt;high-density lipoprotein (HDL)&lt;/strong&gt;. High levels of LDL are associated with atherosclerosis. The National Guideline for LDL is less than 130 mg/dL in normal persons and less than 70 mg/dL in patients with CAD, PAD, and diabetes mellitus. High levels of HDL protect adults from atherosclerosis. Factors that increase HDL are exercise and alcohol consumption in moderation.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="064f4f32-ec51-4297-95d6-933fd925478f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES: DIAGNOSTIC&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e55b10fb-939d-4e04-a329-112a95e67657">
+    <STATIC_heading>
+  <headingLevel value="subheadingc"/>
+  <text>&lt;span style="color:#556B04;"&gt;&lt;em&gt;&lt;strong&gt;X-Ray and Electron Beam Tests&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9f40298d-5017-42f1-84d4-38929791a362">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;angiography&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;X-ray imaging of blood vessels after injection of contrast material.&lt;br/&gt;Arteriography&lt;/strong&gt; is x-ray imaging of arteries after injection of contrast via a catheter into the aorta or an artery.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;computed tomography angiography (CTA) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Three-dimensional x-ray images of the heart and coronary arteries using computed tomography (64-slice CT scanner).&lt;/strong&gt; &lt;br/&gt;This newer technique takes hundreds of images of the heart per second. Crosssectional images are assembled by computer into a three-dimensional picture. It is less invasive than angiography (contrast material is injected into a small peripheral vein with a small needle) and provides excellent views of the coronary arteries for diagnosis of coronary artery disease (Figure 11-23A).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;digital subtraction angiography (DSA) &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Video equipment and a computer produce x-ray images of blood vessels&lt;/strong&gt;.&lt;br/&gt;After taking an initial x-ray picture and storing it in a computer, physicians inject contrast material and take a second image of that area. The computer compares the two images and subtracts digital data for the ﬁrst from the second, leaving an image of vessels with contrast.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;electron beam computed tomography (EBCT &lt;em&gt;or&lt;/em&gt; EBT)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Electron beams and CT identify calcium deposits in and around coronary arteries to diagnose early CAD.&lt;/strong&gt;&lt;br/&gt;A coronary artery calcium score &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; is derived to indicate future risk of heart attack and stroke (see Figure 11-23B).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="2ab36f2d-b0b5-492a-b2fb-2dba390e30e6">
+    <STATIC_figure>
+  <image>chp00011_f011-023-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-23 &lt;/span&gt;&lt;strong&gt;A, Computed tomography angiography (CTA) showing coronary arteries. B, Electron beam computed tomography&lt;/strong&gt; showing significant calcification (&lt;em&gt;white areas&lt;/em&gt;) in the coronary arteries, indicating advanced coronary artery disease. &lt;em&gt;(&lt;strong&gt;A,&lt;/strong&gt; Courtesy Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b0a3cc87-b99b-446f-9aef-acd678b23788">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Coronary Artery Calcium Score&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;0-99           low risk&lt;br/&gt;100-399    intermediate risk&lt;br/&gt;&amp;gt; 400         high risk&lt;br/&gt;A calcium score &amp;gt; 400 is associated with a nearly 25% chance of a heart attack or stroke occurring within 10 years.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="89f31478-d3fb-4edf-a987-d638ee045ad5">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Ultrasound Examination&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="73f01085-6c89-4e8d-ac43-7529e29d2a6a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Doppler ultrasound studies&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Sound waves measure blood ﬂow within blood vessels. &lt;/strong&gt;&lt;br/&gt;An instrument focuses sound waves on blood vessels, and echoes bounce off red blood cells. The examiner can hear various alterations in blood ﬂow caused by vessel obstruction. &lt;strong&gt;Duplex ultrasound&lt;/strong&gt; combines Doppler and conventional ultrasound to allow physicians to image the structure of blood vessels and measure the speed of blood ﬂow. Carotid artery occlusion, aneurysms, varicose veins, and other vessel disorders can be diagnosed with duplex ultrasound.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;echocardiography (ECHO)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Echoes generated by high-frequency sound waves produce images of the heart &lt;/strong&gt;(Figure 11-24A)&lt;strong&gt;.&lt;/strong&gt;&lt;br/&gt;ECHOs show the structure and movement of the heart. &lt;strong&gt;Intransesophageal echocardiography (TEE),&lt;/strong&gt; a transducer placed in the esophagus provides ultrasound and Doppler information (Figure 11-24B). This technique detects cardiac masses, prosthetic valve function, aneurysms, and pericardial ﬂuid. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="39df0791-ee8a-4309-b342-65d455bdf836">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Nuclear Cardiology&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1b87f683-b372-4518-b3f6-c3ed66f702b5">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;positron emission tomography (PET) scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Images show blood ﬂow and myocardial function following uptake of radioactive glucose.&lt;/strong&gt;&lt;br/&gt;PET scanning can detect CAD, myocardial function, and differences between ischemic heart disease and cardiomyopathy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;technetium Tc 99m sestamibi scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Technetium Tc 99m sestamibi injected intravenously is taken up in cardiac tissue, where it is detected by scanning&lt;/strong&gt;.&lt;br/&gt;This scan is used in persons who have had an MI, to assess the amount of damaged heart muscle. It also is used with an exercise tolerance test (&lt;strong&gt;ETT-MIBI&lt;/strong&gt;). Sestamibi is a radioactive tracer compound used to deﬁne areas of poor blood ﬂow in heart muscle.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;thallium 201 scan&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Concentration of radioactive thallium is measured to give information about blood supply to the heart muscle.&lt;/strong&gt;&lt;br/&gt;Thallium studies show the viability of heart muscle. Infarcted or scarred myocardium shows up as “cold spots.”&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="86bab3bb-82a8-41e2-b9ea-55d87dc11cf8">
+    <STATIC_figure>
+  <image>chp00011_f011-024-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-24 &lt;/span&gt;&lt;strong&gt;A, Echocardiogram&lt;/strong&gt;. Notice that in this view, the ventricles are above the atria. &lt;strong&gt;B, Transesophageal echocardiography.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="1320ef36-a1c2-4d0c-97e8-1aafe6e18403">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Magnetic Resonance Imaging (MRI)&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9a7d301c-8749-4c2f-87a9-e1eb29554999">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cardiac MRI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Images of the heart are produced using radiowave energy in a magnetic field.&lt;/strong&gt;&lt;br/&gt;These images in multiple planes give information about left and right ventricular function, wall thickness, and fibrosis, aneurysms, cardiac output, and patency of peripheral and coronary arteries. The magnetic waves emitted during MRI could interfere with implanted pacemakers because of their metal content and heat generation, so it is currently contraindicated for a patient with a pacemaker to undergo cardiac MRI. However, new MRI-safe pacemakers have been approved. &lt;strong&gt;Magnetic resonance angiography (MRA)&lt;/strong&gt; is a type of MRI that gives highly detailed images of blood vessels. Physicians use MRA to view arteries and blockage inside arteries. &lt;strong&gt;Gadolinium&lt;/strong&gt; is the most common contrast agent used for MRI procedures.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="52626c36-3253-4464-9358-eed867a7b9ee">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Other Diagnostic Procedures&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="02979d51-b6e7-49e7-9d15-7e49f6aefd98">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cardiac catheterization&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Thin, flexible tube is guided into the heart via a vein or an artery.&lt;/strong&gt;&lt;br/&gt;This procedure detects pressures and patterns of blood flow in the heart. Contrast may be injected and x-ray images taken of the heart and blood vessels (Figure 11-25). This procedure may be used in diagnosis and treatment of heart conditions (see under percutaneous coronary intervention [PCI]).&lt;br/&gt;&lt;br/&gt;At the time of catheterization, the interventional cardiologist also may perform &lt;strong&gt;intravascular ultrasound (IVUS)&lt;/strong&gt; to evaluate the severity of vessel narrowing. It also measures fractional flow reserve (FFR) to determine the impact of the coronary artery blockage on blood flow.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;electrocardiography (ECG)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Recording of electricity ﬂowing through the heart.&lt;/strong&gt;&lt;br/&gt;Continuous monitoring of a patient’s heart rhythm in hospitals is performed via &lt;strong&gt;telemetry&lt;/strong&gt; (electronic transmission of data—tele/o means distant). Sinus rhythm begins in the SA node, and the normal rate is between 60 to 100 beats per minute. Figure 11-26 shows ECG strips for normal sinus rhythm and several types of dysrhythmias (abnormal rhythms).&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="956422d8-46ee-4ed6-9b0e-5f239f9baf68">
+    <STATIC_figure>
+  <image>chp00011_f011-025-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-25 &lt;/span&gt;&lt;strong&gt;Transradial cardiac catheterization&lt;/strong&gt;. The catheter is passed retrograde (backward) from the radial artery into the aorta and then into the left ventricle.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="fddf76de-266c-4fec-956e-495b462b0466">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Holter monitoring&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;An ECG device is worn during prolonged period to detect cardiac arrhythmias.&lt;/strong&gt;&lt;br/&gt;Rhythm changes are correlated with symptoms recorded in a diary.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;stress test&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Exercise tolerance test (ETT) determines the heart’s response to physical exertion (stress).&lt;/strong&gt;&lt;br/&gt;A common protocol uses 3-minute stages at set speeds and elevations of a treadmill. Continual monitoring of vital signs and ECG rhythms is important in the diagnosis of CAD and left ventricular function.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="82df890f-038c-480c-bec4-cdafc856d01b">
+    <STATIC_figure>
+  <image>chp00011_f011-026-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-26 &lt;/span&gt;&lt;strong&gt;ECG rhythm strips showing normal sinus rhythm and dysrhythmias (arrhythmias).&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="066850df-5078-4f4d-a407-467cc467c5b1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES: TREATMENT&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="77e1b537-7ff8-4f36-bbe8-87dda148ef73">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br/&gt;&lt;strong&gt;catheter ablation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Brief delivery of radiofrequency energy to ablate (remove) areas of heart tissue that may be causing arrhythmias.&lt;/strong&gt;&lt;br/&gt;A catheter is guided through a vein in the leg to the vena cava and into the heart. The abnormal electrical pathway is located and ablated (destroyed) using energy emitted from the catheter. See Figure 11-27A.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;coronary artery bypass grafting (CABG)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Arteries and veins are anastomosed to coronary arteries to detour around blockages.&lt;/strong&gt;&lt;br/&gt;Internal mammary (breast) and radial (arm) arteries and saphenous (leg) vein grafts are used to keep the myocardium supplied with oxygenated blood (Figure 11-27B). Cardiac surgeons perform minimally invasive CABG surgery using smaller incisions instead of the traditional sternotomy to open the chest. Vein and artery grafts are removed endoscopically through small incisions as well.&lt;br/&gt;Although most operations are performed with a heart-lung machine (“on pump”), an increasing number are performed “off pump” with a beating heart. See &lt;em&gt;&lt;strong&gt;In Person: Coronary Artery Bypass Surgery&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;deﬁbrillation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Brief discharges of electricity are applied across the chest to stop dysrhythmias (ventricular ﬁbrillation)&lt;/strong&gt;.&lt;br/&gt;For patients at high risk for sudden cardiac death from ventricular dysrhythmias, an implantable &lt;strong&gt;cardioverter-deﬁbrillator (ICD)&lt;/strong&gt; or &lt;strong&gt;automatic implantable cardioverter-deﬁbrillator (AICD)&lt;/strong&gt; is placed in the upper chest.&lt;br/&gt;&lt;strong&gt;Cardioversion&lt;/strong&gt; is another technique using lower energy to treat atrial ﬁbrillation, atrial ﬂutter, and supraventricular tachycardia.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="683830e0-1a87-489b-8d9e-bcccdfa04627">
+    <STATIC_figure>
+  <image>chp00011_f011-027-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-27 &lt;/span&gt;&lt;strong&gt;A, Catheter ablation&lt;/strong&gt;. SVT, atrial flutter, AF, and VT may be treated with ablation when clinically indicated. &lt;strong&gt;B, Coronary artery bypass grafting (CABG)&lt;/strong&gt; surgery with anastomosis of vein and arterial grafts. &lt;strong&gt;(1)&lt;/strong&gt; A section of a vein is removed from the leg and anastomosed (upside down because of its directional valves) to a coronary artery, to bypass an area of arteriosclerotic blockage. &lt;strong&gt;(2)&lt;/strong&gt; An internal mammary artery is grafted to a coronary artery to bypass a blockage.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="de3864be-5016-44ee-82bc-3647d2977fc1">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;endarterectomy &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical removal of plaque from the inner layer of an artery.&lt;/strong&gt;&lt;br/&gt;Fatty deposits (atheromas) and thromboses are removed to open clogged arteries. &lt;strong&gt;Carotid endarterectomy&lt;/strong&gt; is a procedure to remove plaque buildup in the carotid artery to reduce risk of stroke.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;extracorporeal circulation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Heart-lung machine diverts blood from the heart and lungs while the heart is repaired.&lt;/strong&gt;&lt;br/&gt;Blood leaves the body, enters the heart-lung machine, where it is oxygenated, and then returns to a blood vessel (artery) to circulate through the bloodstream. The machine uses the technique of &lt;strong&gt;extracorporeal membrane oxygenation (ECMO)&lt;/strong&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;heart transplantation&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Donor heart is transferred to a recipient.&lt;/strong&gt;&lt;br/&gt;While waiting for a transplant, a patient may need a &lt;strong&gt;left ventricular assist device (LVAD),&lt;/strong&gt; which is a booster pump implanted in the chest or abdomen with cannulae (ﬂexible tubes) from the left ventricle to the ascending aorta.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;percutaneous coronary intervention (PCI)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Balloon-tipped catheter is inserted into a coronary artery to open the artery; stents are put in place.&lt;/strong&gt;&lt;br/&gt;An interventional cardiologist places the catheter in the femoral or radial artery and then threads it up the aorta into the coronary artery. &lt;strong&gt;Stents&lt;/strong&gt; (expandable slotted metal tubes that serve as permanent scaffolding devices) create wide lumens and make restenosis less likely. &lt;strong&gt;Drug-eluting stents (DESs)&lt;/strong&gt; are coated with polymers that elute (release) anti-inﬂammatory and antiproliferative drugs to prevent scar tissue formation leading to restenosis (Figure 11-28). Other devices are bioabsorbable vascular scaffolds (BVSs), made of dissolvable material, and drug-coated balloons (DCBs) that release paclitaxel.&lt;br/&gt;PCI techniques include percutaneous transluminal coronary angioplasty (PTCA), stent placement, laser angioplasty (a small laser on the tip of a catheter vaporizes plaque), and atherectomy.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="1055f1d9-5476-4f60-abf4-af1f256cd8e8">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;thrombolytic therapy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Drugs to dissolve clots are injected into the bloodstream of patients with coronary thrombosis&lt;/strong&gt;.&lt;br/&gt;Tissue plasminogen activator &lt;strong&gt;(tPA)&lt;/strong&gt; and &lt;strong&gt;streptokinase&lt;/strong&gt; restore blood ﬂow to the heart and limit irreversible damage to heart muscle. The drugs are given within 12 hours after the onset of a heart attack. Thrombolytic agents reduce the mortality rate in patients with myocardial infarction by 25%.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;transcatheter aortic valve replacement (TAVR)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Placement of a balloon-expandable aortic heart valve into the body via a catheter.&lt;/strong&gt; &lt;br/&gt;The catheter is guided into the heart through the femoral artery, and a stent valve device is inserted using the catheter. This is a newer, minimally invasive catheterbased technology used to treat aortic stenosis.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3c52d3c5-1488-4d4d-83dc-1565a14a5b5f">
+    <STATIC_figure>
+  <image>chp00011_f011-028-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-28 &lt;/span&gt;&lt;strong&gt;Placement of an intracoronary artery drug-eluting stent. A,&lt;/strong&gt; The stent is positioned at the site of the lesion. &lt;strong&gt;B,&lt;/strong&gt; The balloon is inflated, expanding the stent and compressing the plaque. &lt;strong&gt;C,&lt;/strong&gt; When the balloon is withdrawn, the stent supports the artery and releases a drug to reduce the risk of restenosis. Stents are stainless-steel scaffolding devices that help hold open arteries, such as the coronary, renal, and carotid arteries.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

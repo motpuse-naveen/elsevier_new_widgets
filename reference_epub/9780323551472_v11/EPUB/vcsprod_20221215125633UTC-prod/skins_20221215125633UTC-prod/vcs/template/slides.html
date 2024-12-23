@@ -1,0 +1,55 @@
+
+
+<script type="text/template" id="slides-interactive-template">
+	<div class="screen__margin">
+		<div class="content">
+			<h2 class="header-title"><%=headerTitle%></h2>
+			<p class="header-desc"><%=headerDesc%></p>
+			<div class="slides-content">
+				<div class="slides-holder">
+					<div class="slides-bg">
+						<button class="slides-nav slides-previous-btn"><span class="visuallyhidden">Previous Slide</span></button>
+						<button class="slides-nav slides-next-btn"><span class="visuallyhidden">Next Slide</span></button>
+					</div>
+					<%
+					_.each(slides,function(slide,i) {
+					%>
+					<%
+						var figCaptionTag = "div";
+						if ( slide.searchableImage ) {
+							figCaptionTag = 'figcaption';
+						}
+
+						var div = slide.searchableImage ? "figure" : "div";
+					%>
+					<<%= div %> class="slides-slide <%= slide.enableBorder ? 'has-border' : '' %>">
+						<div class="slide-image-holder">
+							<img class="<%=slide.enableZoom ? 'zoomable-image' : ''%> vst-draggable vst-click" draggable="false" src="<%-slide.image%>" alt="<%-slide.imageAlt%>"/>
+						</div>
+						<% if (slide.imageTitle || slide.imageCaption) { %>
+						<<%=figCaptionTag%> class="fig-caption image-detail">
+							<% if (slide.imageTitle) { %>
+							<h3 class=".heading--subheadingb"><%=itu.htmlPtoBr(slide.imageTitle)%></h3>
+							<% } %>
+							<% if (slide.imageCaption) { %>
+							<%=slide.imageCaption%>
+							<% } %>
+						</<%=figCaptionTag%>>
+						<% } else { %>
+							<div class="caption-spacer"/>
+						<% } %>
+					<%=slide.searchableImage ? '</figure>' : '</div>'%>
+					<% }) %>
+				</div>
+				<div class="carousel-numbering vstdonthighlight"<%=itu.dirltr()%>>
+					<%
+					var totalSlides=slides.length;
+					var inputID = id + "-slide-num-input";
+					%>
+					<label class="visuallyhidden" for="<%=inputID%>">Slide Number</label>
+					<input type="text" class="slide-number" id="<%=inputID%>" /> of <span><%=totalSlides%></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>

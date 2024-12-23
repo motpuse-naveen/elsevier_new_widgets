@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="8fed8c08-7940-4fc2-8e48-bc6256f81e28">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;CHAPTER 12 | &lt;span style="color:#16825C;"&gt;Respiratory System&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3975b99d-90e9-460f-a83d-1ee1359b41fb">
+    <STATIC_figure>
+  <image>chp00012_co012-9780323551472.png</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f591f9f9-6464-482a-b2d0-cc75766f070d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;h3&gt;&lt;span style="color:#16825C;"&gt;&lt;strong&gt;Chapter Sections:&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="50f7b370-595f-434f-9612-df26ef05dbf1">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;a href="000302111190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Introduction&lt;/a&gt;&lt;br/&gt;&lt;a href="000302112190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Anatomy and Physiology of Respiration&lt;/a&gt;&lt;br/&gt;&lt;a href="000302113190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Vocabulary&lt;/a&gt;&lt;br/&gt;&lt;a href="000302114190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Terminology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302115190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pathology&lt;/a&gt;&lt;br/&gt;&lt;a href="000302116190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Clinical Procedures&lt;/a&gt;&lt;br/&gt;&lt;a href="000302117190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Abbreviations&lt;/a&gt;&lt;br/&gt;&lt;a href="000302118190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Practical Applications&lt;/a&gt;&lt;br/&gt;&lt;a href="000302119190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;In Person: Recurrent Pneumonia&lt;/a&gt;&lt;br/&gt;&lt;a href="000315286240211918.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Exercises&lt;/a&gt;&lt;br/&gt;&lt;a href="000302120190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Pronunciation of Terms&lt;/a&gt;&lt;br/&gt;&lt;a href="000302121190230742.xhtml" data-handler="screen-link" data-handler-handled="true"&gt;Review Sheet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5e1581c1-652d-4b13-bdc7-8de472ef7a18">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;span style="color:#16825C;"&gt;&lt;strong&gt;CHAPTER GOALS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Name the organs of the respiratory system and their location and function.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Identify pathologic conditions that affect the respiratory system.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Learn medical terms that pertain to respiration.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Describe important clinical procedures related to the respiratory system, and recognize relevant abbreviations.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color:#3c3c3c;"&gt;Apply your new knowledge to understanding medical terms in their proper contexts, such as medical reports and records.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+  <bgColor value="ececec"/>
+</STATIC_container>
+  </block>
+</blocks>

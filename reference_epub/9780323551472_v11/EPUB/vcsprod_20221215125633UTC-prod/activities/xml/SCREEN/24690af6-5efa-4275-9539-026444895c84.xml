@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="4276129a-0c92-4873-ae22-2f5c7036ae02">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY—THE EAR&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dcdf5c72-b5ba-4e91-a780-5c4c6c936cc8">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;COMBINING FORMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="45a4ff26-790a-47af-af7c-7c03b9311beb">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;strong&gt;COMBINING FORM&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col"&gt;MEANING&lt;/th&gt;&lt;th scope="col"&gt;TERMINOLOGY&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;acous/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hearing&lt;/td&gt;&lt;td&gt;&lt;u&gt;acous&lt;/u&gt;tic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;audi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hearing; the sense of hearing&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;audi&lt;/u&gt;ogram &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;audi&lt;/u&gt;ologist&lt;br/&gt;&lt;em&gt;A health care professional specializing in the evaluation and rehabilitation of people with hearing loss.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;audit/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hearing&lt;/td&gt;&lt;td&gt;&lt;u&gt;audit&lt;/u&gt;ory&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;aur/o, auricul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ear (&lt;em&gt;see &lt;/em&gt;&lt;strong&gt;ot/o&lt;/strong&gt;)&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;aur&lt;/u&gt;al&lt;/p&gt;&lt;p&gt;post&lt;u&gt;auricul&lt;/u&gt;ar&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cochle/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;cochlea&lt;/td&gt;&lt;td&gt;&lt;u&gt;cochle&lt;/u&gt;ar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mastoid/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;mastoid process&lt;/td&gt;&lt;td&gt;&lt;u&gt;mastoid&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;The &lt;strong&gt;mastoid process&lt;/strong&gt; is the posterior portion of the temporal bone extending downward behind the external auditory meatus. Mastoiditis, caused by bacterial infection, spreads from the middle ear.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;myring/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;eardrum, tympanic membrane (&lt;em&gt;see&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;tympan/o&lt;/strong&gt;)&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;myring&lt;/u&gt;otomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;myring&lt;/u&gt;itis&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ossicul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ossicle&lt;/td&gt;&lt;td&gt;&lt;u&gt;ossicul&lt;/u&gt;oplasty&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ot/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ear&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ot&lt;/u&gt;ic&lt;/p&gt;&lt;p&gt;&lt;u&gt;ot&lt;/u&gt;omycosis&lt;/p&gt;&lt;p&gt;&lt;u&gt;ot&lt;/u&gt;opyorrhea&lt;/p&gt;&lt;p&gt;&lt;u&gt;ot&lt;/u&gt;olaryngologist&lt;br/&gt;&lt;em&gt;An otolaryngologist is a medical doctor specializing in the ear, nose, and throat.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;salping/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;eustachian tube, auditory tube&lt;/td&gt;&lt;td&gt;&lt;u&gt;salping&lt;/u&gt;opharyngeal&lt;br/&gt;&lt;em&gt;In the context of female reproductive anatomy, salping/o means the fallopian tubes.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;staped/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;stapes (third bone of the middle ear)&lt;/td&gt;&lt;td&gt;&lt;u&gt;staped&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;After stapedectomy a prosthetic device is used to connect the incus and the oval window (Figure 17-23). Also see otosclerosis, page 677.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;tympan/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;eardrum, tympanic membrane&lt;/td&gt;&lt;td&gt;&lt;u&gt;tympan&lt;/u&gt;oplasty&lt;br/&gt;&lt;em&gt;Surgical reconstruction of the bones of the middle ear with reconnection of the eardrum to the oval window. Figure 17-24 shows a normal tympanic membrane (eardrum).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vestibul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;vestibul/o&lt;/td&gt;&lt;td&gt;&lt;u&gt;vestibul&lt;/u&gt;ocochlear&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="19f2e9a9-02b4-4d4f-89f8-061aeeb6042c">
+    <STATIC_figure>
+  <image>chp00017_f017-023-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-23 &lt;/span&gt;A, Stapedectomy.&lt;/strong&gt; Using microsurgical technique and a laser, the stapes bone is removed from the middle ear.&lt;strong&gt; B&lt;/strong&gt;, A &lt;strong&gt;prosthetic device&lt;/strong&gt; (wire, Teflon, or metal) is placed into the incus and attached to a hole in the oval window.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="215498b6-af70-4f31-988c-c7e851299b00">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Audiogram/Audiometry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;audiogram &lt;/strong&gt;is the record (chart) produced when a person’s hearing is tested by &lt;strong&gt;audiometry.&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5fdc48a8-93d6-43dd-a050-3389c4b2aef4">
+    <STATIC_figure>
+  <image>chp00017_f017-024-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 17-24 &lt;/span&gt;A, Healthy tympanic membrane. B, Tympanic membrane with cholesteatoma. C, Tympanic membrane with acute otitis media. D, Myringotomy with tympanostomy tube.&lt;/strong&gt; &lt;em&gt;(&lt;strong&gt;A&lt;/strong&gt; to &lt;strong&gt;C&lt;/strong&gt;, Courtesy Richard A. Buckingham, Clinical Professor, Otolaryngology, Abraham Lincoln School of Medicine, University of Illinois, Chicago. From Barkauskas VH et al: Health and Physical Assessment, 3rd ed., St. Louis, Mosby, 2002, pp. 278 and 290. &lt;strong&gt;D&lt;/strong&gt;, From Fireman P, Slavin RG: Atlas of Allergies, 2nd ed., London, Glower Medical Publishing, 1996.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5d623fa8-3dd7-4b4f-b183-508ed4c1f6b3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e6723755-2303-48f6-a6c5-3133878d6d2d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;SUFFIX&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-acusis &lt;em&gt;or&lt;/em&gt;&lt;br/&gt;-cusis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hearing&lt;/td&gt;&lt;td&gt;&lt;p&gt;hyper&lt;u&gt;acusis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Abnormally acute sensitivity to sounds.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;presby&lt;u&gt;cusis&lt;/u&gt;&lt;br/&gt;&lt;em&gt;This type of nerve deafness occurs with the process of aging.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-meter&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;instrument to measure&lt;/td&gt;&lt;td&gt;audio&lt;u&gt;meter&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-otia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ear condition&lt;/td&gt;&lt;td&gt;macr&lt;u&gt;otia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Abnormally large ears; congenital anomaly.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

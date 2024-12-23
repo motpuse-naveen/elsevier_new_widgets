@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="f64dbcb1-8905-4b22-8f39-0bd73740f930">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;BLOOD VESSELS AND THE CIRCULATION OF BLOOD&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="030ea2cf-3fe5-4d0d-b9ec-4a7eaca70d2e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;BLOOD VESSELS &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 20px; height: 20px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ca969414-9f7e-47c0-b4f9-13649812c061">
+    <STATIC_text>
+  <text>&lt;p&gt;There are three types of blood vessels in the body: &lt;strong&gt;arteries, veins, and capillaries&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Arteries&lt;/strong&gt; are large blood vessels that carry blood away from the heart. Their walls are lined with connective tissue, muscle tissue, and elastic fibers, with an innermost layer of epithelial cells called &lt;strong&gt;endothelium&lt;/strong&gt;. Endothelial cells, found in all blood vessels, secrete factors that affect the size of blood vessels, reduce blood clotting, and promote the growth of blood vessels. Because arteries carry blood away from the heart, they must be strong enough to withstand the high pressure of the pumping action of the heart. Their elastic walls allow them to expand as the heartbeat forces blood into the arterial system throughout the body.&lt;/p&gt;&lt;p&gt;Smaller branches of arteries are &lt;strong&gt;arterioles&lt;/strong&gt;. Arterioles are thinner than arteries and carry the blood to the tiniest of blood vessels, the capillaries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Capillaries &lt;/strong&gt;have walls that are only one endothelial cell in thickness. These delicate, microscopic vessels carry nutrient-rich, oxygenated blood from the arteries and arterioles to the body cells. Their thin walls allow passage of oxygen and nutrients out of the bloodstream and into cells. There, the nutrients are burned in the presence of oxygen (catabolism) to release energy. At the same time, waste products such as carbon dioxide and water pass out of cells and into the thin-walled capillaries. Waste-filled blood then flows back to the heart in small &lt;strong&gt;venules&lt;/strong&gt;, which combine to form larger vessels called veins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Veins&lt;/strong&gt; have thinner walls compared with arteries. They conduct blood (that has given up most of its oxygen) toward the heart from the tissues. Veins have little elastic tissue and less connective tissue than that typical of arteries, and blood pressure in veins is extremely low compared with pressure in arteries. In order to keep blood moving back toward the heart, veins have &lt;strong&gt;valves&lt;/strong&gt; that prevent the backflow of blood and keep the blood moving in one direction. Muscular action also helps the movement of blood in veins. Figure 11-1 illustrates the differences in blood vessels. Figure 11-2 reviews their characteristics and relationship to one another.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ec4ff70c-d435-4590-a4bf-a96858bf96a9">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Blood Vessels and Blood &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What color is blood?&lt;/strong&gt; Blood is bright red in arteries (contains oxygen) and dark red (maroon) in veins (contains carbon dioxide). From the outside of the body, blood in veins &lt;em&gt;appears &lt;/em&gt;blue because the color reflects off the skin.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;How much blood is in the body?&lt;/strong&gt; The average adult has about 5 quarts (4.7 liters) of blood in his or her body.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What is the length of all the blood vessels?&lt;/strong&gt; The total length of all the blood vessels in the body is 60,000 miles!&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="7074b694-f342-4e4c-956e-575897827ac7">
+    <STATIC_figure>
+  <image>chp00011_f011-001-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-1 &lt;/span&gt;&lt;strong&gt;Blood vessels&lt;/strong&gt;. Observe the differences in thickness of walls among an artery, a vein, and a capillary. All three vessels are lined with endothelium. Endothelial cells actively secrete substances that prevent clotting and regulate the tone of blood vessels. Examples of endothelial secretions are endotheliumderived relaxing factor (EDRF) and endothelin (a vasoconstrictor).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="b7e1715a-f930-46ac-a6ce-6df522768495">
+    <STATIC_figure>
+  <image>chp00011_f011-002-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-2&lt;/span&gt; &lt;strong&gt;&lt;span style="color:#3c3c3c;"&gt;Relationship and characteristics of blood vessels.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c46e37aa-60ee-4a62-8b21-e91792f615ce">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CIRCULATION OF BLOOD&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b9d640bd-945b-407b-881a-4ab302929789">
+    <STATIC_text>
+  <text>&lt;p&gt;Arteries, arterioles, veins, venules, and capillaries, together with the heart, form a circulatory system for the flow of blood. Figure 11-3 is a more detailed representation of the entire circulatory system. Refer to it as you read the following paragraphs. (Note that the bracketed numbers in the following paragraphs correspond with those in Figure 11-3.)&lt;/p&gt;&lt;p&gt;Blood that is deficient in oxygen flows through two large veins, the &lt;strong&gt;venae cavae&lt;/strong&gt; [1], on its way from the tissue capillaries to the heart. The blood became oxygen-poor at the tissue capillaries when oxygen left the blood and entered the body cells.&lt;/p&gt;&lt;p&gt;Oxygen-poor blood enters the &lt;strong&gt;right side of the heart&lt;/strong&gt; [2] and travels through that side and into the &lt;strong&gt;pulmonary artery&lt;/strong&gt; [3], a vessel that divides in two: one branch leading to the left lung, the other to the right lung. The arteries continue dividing and subdividing within the lungs, forming smaller and smaller vessels (arterioles) and finally reaching the &lt;strong&gt;lung capillaries&lt;/strong&gt; [4]. The pulmonary artery is unusual in that it is the only artery in the body that carries blood deficient in oxygen.&lt;/p&gt;&lt;p&gt;While passing through the lung (pulmonary) capillaries, blood absorbs the oxygen that entered the body during inhalation. The newly oxygenated blood next returns immediately to the heart through &lt;strong&gt;pulmonary veins&lt;/strong&gt; [5]. The pulmonary veins are unusual in that they are the only veins in the body that carry oxygen-rich &lt;strong&gt;(oxygenated)&lt;/strong&gt; blood. The circulation of blood through the vessels from the heart to the lungs and then back to the heart again is the &lt;strong&gt;pulmonary circulation&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Oxygen-rich blood enters the left side of the heart [6] from the pulmonary veins. The muscles in the &lt;strong&gt;left side of the heart&lt;/strong&gt; pump the blood out of the heart through the largest single artery in the body, the &lt;strong&gt;aorta &lt;/strong&gt;[7]. The aorta moves up at ﬁrst (ascending aorta) but then arches over dorsally and runs downward (descending aorta) just in front of the vertebral column. The aorta divides into numerous branches called &lt;strong&gt;arteries&lt;/strong&gt; [8] that carry the oxygenated blood to all parts of the body. The names of some of these arterial branches will be familiar to you. The &lt;strong&gt;carotid&lt;/strong&gt; arteries supply blood to the head and neck. Axillary, brachial (brachi/o means arm), splenic and renal arteries are examples of branching arteries from the aorta.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="16cb31ec-1251-4ebd-95f4-d2a33fda7989">
+    <STATIC_figure>
+  <image>chp00011_f011-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-3 &lt;/span&gt;Schematic diagram of the &lt;strong&gt;pulmonary circulation&lt;/strong&gt; (blood flow from the heart to lung capillaries and back to the heart) and &lt;strong&gt;systemic circulation&lt;/strong&gt; (blood flow from the heart to tissue capillaries and back to the heart).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="3a772149-9703-4349-982c-b0f7b89e4523">
+    <STATIC_text>
+  <text>&lt;p&gt;The relatively large arterial vessels branch further to form smaller &lt;strong&gt;arterioles&lt;/strong&gt; [9]. The arterioles, still containing oxygenated blood, branch into smaller &lt;strong&gt;tissue capillaries&lt;/strong&gt; [10], which are near the body cells. Oxygen leaves the blood and passes through the thin capillary walls to enter the body cells. There, food is broken down, in the presence of oxygen, and energy is released.&lt;/p&gt;&lt;p&gt;This chemical process also releases &lt;strong&gt;carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;)&lt;/strong&gt; as a waste product. Carbon dioxide passes out from the cell into the tissue capillaries at the same time that oxygen enters. Thus the blood returning to the heart from tissue capillaries through &lt;strong&gt;venules&lt;/strong&gt; [11] and &lt;strong&gt;veins&lt;/strong&gt; [12] is filled with carbon dioxide but is depleted of oxygen. As this oxygen-poor blood enters the heart from the venae cavae, the circuit is complete. The pathway of blood from the heart to the tissue capillaries and back to the heart is the &lt;strong&gt;systemic circulation&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Figure 11-4 shows the aorta, selected arteries, and pulse points. The &lt;strong&gt;pulse&lt;/strong&gt; is the beat of the heart as felt through the walls of arteries.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4c2544e5-415c-4d9a-b41f-98d97dd4f38b">
+    <STATIC_figure>
+  <image>chp00011_f011-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 11-4 &lt;/span&gt;&lt;strong&gt;The aorta and arteries&lt;/strong&gt;. &lt;em&gt;Solid gold dots &lt;/em&gt;indicate pulse points in arteries. These are areas in which the &lt;strong&gt;pulse&lt;/strong&gt; expansion and contraction of a superficial artery can be felt.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

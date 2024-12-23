@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="faf4131b-c1b5-4922-a84f-134d1d724531">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY: STRUCTURES, SUBSTANCES, AND URINARY SIGNS AND SYMPTOMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="2a368722-bf7e-4423-8a97-2cf94765858d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;STRUCTURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="463926cf-7e61-4d72-a75e-ec61948516dc">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cali/o, calic/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;calyx (calix); cup-shaped&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;cali&lt;/u&gt;ectasis&lt;/p&gt;&lt;p&gt;&lt;u&gt;calic&lt;/u&gt;eal&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cyst/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urinary bladder&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;cyst&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;Bacterial infections often cause acute or chronic cystitis. In acute cystitis, the bladder contains blood as a result of mucosal hemorrhage (Figure 7-7).&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;cyst&lt;/u&gt;ectomy&lt;/p&gt;&lt;p&gt;&lt;u&gt;cyst&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;An opening is made into the urinary bladder from the outside of the body. A catheter is placed into the bladder for drainage.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;glomerul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;glomerulus&lt;/td&gt;&lt;td&gt;&lt;u&gt;glomerul&lt;/u&gt;ar capsule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;meat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;meatus&lt;/td&gt;&lt;td&gt;&lt;u&gt;meat&lt;/u&gt;al stenosis&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="458ac219-f2f9-4a1a-9630-5427703ab0f5">
+    <STATIC_figure>
+  <image>fig7-7.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-7 &lt;/span&gt;Acute cystitis. &lt;/strong&gt;Notice that the mucosa of the bladder is red and swollen. Bladder and urinary tract infections are more common in women because of the shorter urethra, which allows easier bacterial colonization of the urinary bladder. They usually occur without a known cause but may be acquired during sexual intercourse (“honeymoon cystitis”) or after surgical procedures and urinary catheterization.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2412c490-a3ea-47ab-8035-16ac915c5e8e">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;nephr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;kidney&lt;/td&gt;&lt;td&gt;&lt;p&gt;para&lt;u&gt;nephr&lt;/u&gt;ic&lt;/p&gt;&lt;p&gt;&lt;u&gt;neph&lt;/u&gt;opathy&lt;br/&gt;&lt;em&gt;(neh-FROP-ah-the)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;nephr&lt;/u&gt;optosis&lt;br/&gt;&lt;em&gt;Downward displacement or dropping of a kidney when its anatomic supports are weakened. &lt;strong&gt;Nephropexy &lt;/strong&gt;(-pexy means fixation) is an operation to put a “floating” kidney in place.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;nephr&lt;/u&gt;olithotomy&lt;br/&gt;&lt;em&gt;Incision (percutaneous) into the kidney to remove a stone.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;hydro&lt;u&gt;nephr&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Obstruction of urine flow may be caused by renal calculi (Figure 7-8), compression of the ureter by tumor, or hyperplasia of the prostate gland at the base of the bladder in males.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;nephr&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;Surgical opening to the outside of the body (from the renal pelvis). This is necessary when a ureter becomes obstructed and the obstruction cannot be removed easily. The renal pelvis becomes distended with urine (hydronephrosis), making nephrostomy necessary.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a84ad664-050e-4089-b875-0638ef83bbcb">
+    <STATIC_figure>
+  <image>fig7-8.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-8 &lt;/span&gt;A, Hydronephrosis &lt;/strong&gt;caused by a stone (obstruction) in the proximal part of a ureter. Notice the buildup of excess fluid in the kidney. &lt;strong&gt;B, Hydroureter&lt;/strong&gt; with hydronephrosis caused by a stone in the distal part of the ureter.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="520fea86-afbb-45ab-ae8e-f8c700925611">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pyel/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;renal pelvis&lt;/td&gt;&lt;td&gt;&lt;u&gt;pyel&lt;/u&gt;olithotomy&lt;br/&gt;&lt;em&gt;Removal of a large calculus (stone) contributing to blockage of urine flow and development of infection. The renal pelvis is surgically opened.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ren/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;kidney&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ren&lt;/u&gt;al ischemia&lt;/p&gt;&lt;p&gt;&lt;u&gt;ren&lt;/u&gt;al colic&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Colic &lt;/strong&gt;is intermittent spasms of pain caused by inflammation and distention of an organ. In renal colic, pain results from calculi in the kidney or ureter.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;trigon/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;trigone (region of the bladder)&lt;/td&gt;&lt;td&gt;&lt;u&gt;trigon&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ureter/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ureter&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ureter&lt;/u&gt;oplasty&lt;/p&gt;&lt;p&gt;&lt;u&gt;ureter&lt;/u&gt;oileostomy&lt;br/&gt;&lt;em&gt;After cystectomy, the urologic surgeon forms a pouch from a segment of the ileum, used in place of the bladder to carry urine from ureters out of the body (Figure 7-9). It is an &lt;strong&gt;ileal conduit&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;urethr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urethra&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;urethr&lt;/u&gt;itis&lt;/p&gt;&lt;p&gt;&lt;u&gt;urethr&lt;/u&gt;oplasty&lt;/p&gt;&lt;p&gt;&lt;u&gt;urethr&lt;/u&gt;al stricture&lt;br/&gt;&lt;em&gt;A &lt;strong&gt;stricture&lt;/strong&gt; is an abnormal narrowing of an opening or pasageway.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;vesic/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urinary bladder&lt;/td&gt;&lt;td&gt;&lt;p&gt;intra&lt;u&gt;vesic&lt;/u&gt;al&lt;br/&gt;&lt;em&gt;Do not confuse the term &lt;strong&gt;vesical&lt;/strong&gt; with the term &lt;strong&gt;vesicle&lt;/strong&gt;, which is a small blister on the skin.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;vesic&lt;/u&gt;oureteral reflux&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="78ca7ae7-0046-4ab1-9035-03c3ae7ad3db">
+    <STATIC_figure>
+  <image>fig7-9.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-9 &lt;/span&gt;Ileostomy and ileal conduit after cystectomy.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="bbffc5a9-0599-4a94-a72e-e2b07b63e709">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUBSTANCES AND URINARY SIGNS AND SYMPTOMS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bcb5b7f3-fb93-4f81-be37-0e4bdc0176e7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM OR SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;albumin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;albumin (a protein in the blood)&lt;/td&gt;&lt;td&gt;&lt;u&gt;albumin&lt;/u&gt;uria&lt;br/&gt;&lt;em&gt;The suffix -uria means urine condition. This finding can indicate malfunction of the kidney as protein leaks out of damaged glomeruli. &lt;strong&gt;Microalbuminuria &lt;/strong&gt;is leakage of very small amounts of albumin through the glomeruli.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;azot/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;nitrogen&lt;/td&gt;&lt;td&gt;&lt;u&gt;azot&lt;/u&gt;emia&lt;br/&gt;&lt;em&gt;This toxic condition is characteristic of uremia. It is indicated by an elevated &lt;strong&gt;BUN (blood urea nitrogen)&lt;/strong&gt; test.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bacteri/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;bacteria&lt;/td&gt;&lt;td&gt;&lt;u&gt;bacteri&lt;/u&gt;uria&lt;br/&gt;&lt;em&gt;Usually a sign of &lt;strong&gt;urinary tract infection (UTI)&lt;/strong&gt;. The bacteria in the urine are cultured (grown in a special nutrient environment) and then tested with antibiotics to determine which will inhibit growth. This is known as &lt;strong&gt;culture and sensitivity testing (C&amp;amp;S).&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dips/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;thirst&lt;/td&gt;&lt;td&gt;poly&lt;u&gt;dips&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;Commonly, a sign of diabetes mellitus or diabetes insipidus. Polydipsia occurs when excessive urination (polyuria) signals the brain to cause thirst.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;kal/i&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;potassium&lt;/td&gt;&lt;td&gt;hyper&lt;u&gt;kal&lt;/u&gt;emia&lt;br/&gt;&lt;em&gt;Because potassium (K&lt;sup&gt;+&lt;/sup&gt;) normally is excreted by the kidneys, it accumulates in blood when the kidneys fail.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ket/o, keton/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ketone bodies (ketoacids and acetone)&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ket&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Often called &lt;strong&gt;ketoacidosis&lt;/strong&gt;, because acids accumulate in the blood and tissues. The breath of a patient with ketosis has a sweet or “fruity” odor. This is produced by &lt;strong&gt;acetone &lt;/strong&gt;(a ketone body) released from the blood in the lungs and exhaled through the mouth.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;keton&lt;/u&gt;uria&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lith/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;stone&lt;/td&gt;&lt;td&gt;nephro&lt;u&gt;lith&lt;/u&gt;iasis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;natr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sodium&lt;/td&gt;&lt;td&gt;hypo&lt;u&gt;natr&lt;/u&gt;emia&lt;br/&gt;&lt;em&gt;This condition can occur when water intake is excessive— primary polydipsia, or when athletes drink too much water in high-endurance events.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;noct/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;night&lt;/td&gt;&lt;td&gt;&lt;u&gt;noct&lt;/u&gt;uria&lt;br/&gt;&lt;em&gt;Frequent, excessive urination at night.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;olig/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;scanty&lt;/td&gt;&lt;td&gt;&lt;u&gt;olig&lt;/u&gt;uria&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-poietin&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;substance that forms&lt;/td&gt;&lt;td&gt;erythro&lt;u&gt;poietin&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;py/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pus&lt;/td&gt;&lt;td&gt;&lt;u&gt;py&lt;/u&gt;uria&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-tripsy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;crushing&lt;/td&gt;&lt;td&gt;litho&lt;u&gt;tripsy&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ur/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urine (urea)&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;ur&lt;/u&gt;emia&lt;br/&gt;&lt;em&gt;This toxic state results when nitrogenous waste accumulates abnormally in the blood.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;en&lt;u&gt;ur&lt;/u&gt;esis &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;&lt;em&gt;Literally, a condition (-esis) of being “in urine”; bed-wetting.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;di&lt;u&gt;ur&lt;/u&gt;esis&lt;br/&gt;&lt;em&gt;Di- (from dia-) means complete. Caffeine and alcohol are well-known &lt;strong&gt;diuretics &lt;/strong&gt;—they induce increased excretion of urine (diuresis).&lt;/em&gt;&lt;/p&gt;&lt;p&gt;antidi&lt;u&gt;ur&lt;/u&gt;etic hormone&lt;br/&gt;&lt;em&gt;This hormone from the pituitary gland normally acts on the renal tubules to promote water reabsorption. It is also called &lt;strong&gt;vasopressin &lt;/strong&gt;and is abbreviated &lt;strong&gt;ADH&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;urin/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urine&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;urin&lt;/u&gt;ary incontinence&lt;br/&gt;&lt;em&gt;Incontinence literally means not (in-) able to hold (tin) together (con-). This is loss of control of the passage of urine from the bladder.&lt;strong&gt; Stress incontinence&lt;/strong&gt; occurs with strain on the bladder opening during coughing or sneezing. &lt;strong&gt;Urgency incontinence&lt;/strong&gt; occurs with the inability to hold back urination when feeling the urge to void.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;urin&lt;/u&gt;ary retention&lt;br/&gt;&lt;em&gt;This symptom results when the outflow of urine from the bladder is blocked.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-uria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;urination; urine condition&lt;/td&gt;&lt;td&gt;&lt;p&gt;dys&lt;u&gt;uria&lt;/u&gt;&lt;/p&gt;&lt;p&gt;an&lt;u&gt;uria&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Commonly caused by renal failure or urinary tract obstruction.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;hemat&lt;u&gt;uria&lt;/u&gt;&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Microhematuria &lt;/strong&gt;is hematuria that is visible only under a microscope, as opposed to &lt;strong&gt;gross hematuria&lt;/strong&gt;, which can be seen with the naked eye.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;glycos&lt;u&gt;uria&lt;/u&gt;&lt;br/&gt;&lt;em&gt;A sign of diabetes mellitus.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;polyuria&lt;br/&gt;&lt;em&gt;A symptom of both diabetes insipidus and diabetes mellitus.&lt;/em&gt;&lt;br/&gt; &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="fa316ac7-cc38-4c9e-85f2-39ec4ba35aaa">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Enuresis/Nocturia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse enuresis, which is involuntary, with nocturia, which is voluntary, frequent urination at night.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

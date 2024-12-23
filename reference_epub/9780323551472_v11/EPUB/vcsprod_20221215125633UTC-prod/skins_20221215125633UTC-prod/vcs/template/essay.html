@@ -1,0 +1,46 @@
+<script type="text/template" id="essay-page-template">
+
+	<div class="content">
+		<%
+		var doAutoNumber = autoNumberWritingPrompts; // make available in _.each callback scope
+		var maxPages = numPages;
+		var questionNumber = index;
+		_.each(questions,function(question,i) {
+		var autoNumberWritingPromptsClass = doAutoNumber ? " autonumber" : "";
+		%>
+		<h3 class="visuallyhidden">Question <%=questionNumber+1%></h3>
+		<div id="<%= question.qid %>" class="question<%=autoNumberWritingPromptsClass%>">
+			<%
+			_.each(question.prompts,function(prompt,i) {
+			var questionid = pid + "-prompt-question-" + i;
+			var inputid = pid + "-answer-input-" + i;
+			var itemLabel = "";
+			if (doAutoNumber) {
+				itemLabel =  questionNumber + 1;
+				if (question.prompts.length > 1) {
+					itemLabel += String.fromCharCode(String("a").charCodeAt(0) + i);
+				}
+				itemLabel += ".";
+			}
+			%>
+			<div class="prompt">
+				<div class="prompt-question" id="<%=questionid%>">
+					<span class="question-num"><%=itemLabel%></span><div class="prompt-txt"><%=prompt.text%></div>
+				</div>
+				<div class="stimulus-after u-float--clearfix"></div>
+				<% if (isPrint) { %>
+					<div id="<%=inputid%>" class="answer-input type-in-box"></div>
+				<% } else { %>
+					<textarea id="<%=inputid%>" aria-labelledby="<%=questionid%>" spellcheck="false" autocapitalize="none" autocomplete="off" class="answer-input type-in-box"></textarea>
+				<% } %>
+			</div>
+			<% }); %>
+		</div>
+		<% }); %>
+	</div>
+
+</script>
+
+
+
+

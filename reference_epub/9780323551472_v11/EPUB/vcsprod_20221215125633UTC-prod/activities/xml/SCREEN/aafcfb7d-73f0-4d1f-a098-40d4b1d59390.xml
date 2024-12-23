@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="aa308dfb-4f3a-4acb-81b2-04ce0eb5281f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ABDOMINOPELVIC REGIONS AND QUADRANTS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3a8c9b24-7e07-4aac-922e-4ab76350b9a1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;strong&gt;&lt;span style="color:#425BA1;"&gt;REGIONS&lt;/span&gt;&lt;/strong&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0b081ff3-97ac-4abe-95b2-135e44d60091">
+    <STATIC_text>
+  <text>&lt;p&gt;Doctors divide the abdominopelvic area into nine regions. Label these regions in Figure 2-14.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right hypochondriac region&lt;/strong&gt; [1]: right upper region below (hypo-) the cartilage (chondr/o) of the ribs that extend over the abdomen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Left hypochondriac region&lt;/strong&gt; [2]: left upper region below the rib cartilage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Epigastric region &lt;/strong&gt;[3]: region above the stomach&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right lumbar region&lt;/strong&gt; [4]: right middle region near the waist&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Left lumbar region&lt;/strong&gt; [5]: left middle region near the waist&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Umbilical region&lt;/strong&gt; [6]: region of the navel or umbilicus&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right inguinal region&lt;/strong&gt; [7]: right lower region near the groin (inguin/o = groin), which is the area where the legs join the trunk of the body. This region also is known as the &lt;strong&gt;right iliac region&lt;/strong&gt; because it lies near the ilium (the upper portion of the hip bone).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Left inguinal region&lt;/strong&gt; [8]: left lower region near the groin. Also called the &lt;strong&gt;left iliac region&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hypogastric region&lt;/strong&gt; [9]: middle lower region below the umbilical region.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="4bd9c5c2-9d4d-42a7-9b2c-c7c1078dbc89">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-14.jpg</image>
+            <imageControls>
+              <imageScale value="1-2-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-14&lt;/span&gt; Abdominopelvic regions&lt;/strong&gt;. These regions can be used clinically to locate internal organs.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[Right hypochondriac region]&lt;/li&gt;&lt;li&gt;[Left hypochondriac region]&lt;/li&gt;&lt;li&gt;[Epigastric region]&lt;/li&gt;&lt;li&gt;[Right lumbar region]&lt;/li&gt;&lt;li&gt;[Left lumbar region]&lt;/li&gt;&lt;li&gt;[Umbilical region]&lt;/li&gt;&lt;li&gt;[Right inguinal region]&lt;/li&gt;&lt;li&gt;[Left inguinal region]&lt;/li&gt;&lt;li&gt;[Hypogastric region]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="ae1f64b1-372e-4a33-9ff2-cd50df3bb374">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#007FAD;"&gt;QUADRANTS&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="c2af20ec-9523-45ce-a80e-9dfa8709f67b">
+    <STATIC_text>
+  <text>&lt;p&gt;The abdominopelvic area can be divided into four quadrants by two imaginary lines—one horizontal and one vertical—that cross at the midsection of the body. Figure 2-15 shows the four abdominopelvic quadrants; add the proper abbreviation on the line under each label on the diagram.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right upper quadrant (RUQ) &lt;/strong&gt;—contains the liver (right lobe), gallbladder, part of the pancreas, parts of the small and large intestines&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Left upper quadrant (LUQ)&lt;/strong&gt; —contains the liver (left lobe), stomach, spleen, part of the pancreas, parts of the small and large intestines&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right lower quadrant (RLQ) &lt;/strong&gt;—contains parts of the small and large intestines, right ovary, right fallopian tube, appendix, right ureter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Left lower quadrant (LLQ)&lt;/strong&gt; —contains parts of the small and large intestines, left ovary, left fallopian tube, left ureter&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5db12c25-9ccc-4183-b38a-9af0710c4d84">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig2-15.jpg</image>
+            <imageControls>
+              <imageScale value="1-2-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 2-15&lt;/span&gt; Abdominopelvic quadrants.&lt;/strong&gt; Write the abbreviation for each quadrant on the line provided.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;Right Upper Quadrant: [RUQ]&lt;/li&gt;&lt;li&gt;Left Upper Quadrant: [LUQ]&lt;/li&gt;&lt;li&gt;Right Lower Quadrant: [RLQ]&lt;/li&gt;&lt;li&gt;Left Lower Quadrant: [LLQ]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+</blocks>

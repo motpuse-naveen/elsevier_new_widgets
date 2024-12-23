@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="4446372d-7b42-4d28-91b7-10b0ff673b21">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY OF THE MAJOR ORGANS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8d17fcf7-6054-4631-921f-9e7993ec7067">
+    <STATIC_text>
+  <text>&lt;p&gt;The following paragraphs describe the organs of the urinary system. Label Figure 7-1 as you identify each organ.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;kidney &lt;/strong&gt;[1] is one of two bean-shaped organs behind the abdominal cavity (retroperitoneal) on either side of the spine in the lumbar region. A cushion of adipose (fatty) tissue and fibrous connective tissue surrounds each kidney for protection. Each kidney (about the size of a fist) weighs about 4 to 6 ounces.&lt;/p&gt;&lt;p&gt;The kidneys consist of an outer &lt;strong&gt;cortex &lt;/strong&gt;region (cortex means bark, as the bark of a tree) and an inner &lt;strong&gt;medulla &lt;/strong&gt;region (medulla means marrow). The &lt;strong&gt;hilum&lt;/strong&gt; is a depression on the medial border of the kidney. Blood vessels and nerves pass through the hilum.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;ureter &lt;/strong&gt;[2] is one of two muscular tubes (16 to 18 inches long) lined with mucous membrane. Ureters carry urine in peristaltic waves from the kidneys to the urinary bladder.&lt;/p&gt;&lt;p&gt;The&lt;strong&gt; urinary bladder&lt;/strong&gt; [3], a hollow, muscular sac, is a temporary reservoir for urine. The &lt;strong&gt;trigone&lt;/strong&gt; is a triangular region at the base of the bladder where the ureters enter and the urethra exits.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="173e16f0-337a-4aa2-a40c-1ad24726c03d">
+    <STATIC_container>
+  <text>&lt;p&gt;&lt;strong&gt;Box 7-1 FUNCTIONS OF THE KIDNEYS&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Remove nitrogenous wastes :&lt;/strong&gt; urea, creatinine, uric acid&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Balance water and electrolytes&lt;/strong&gt; (sodium, potassium)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Release substances : &lt;/strong&gt;renin, erythropoietin, calciferol&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Degrade and eliminate hormones&lt;/strong&gt; from bloodstream&lt;/li&gt;&lt;/ul&gt;</text>
+  <bgColor value="eaf7fc"/>
+</STATIC_container>
+  </block>
+  <block refid="f3744741-6eb4-40d0-ab3a-3f752169750b">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig7-1.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-1&lt;/span&gt; Male urinary system.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[kidney]&lt;/li&gt;&lt;li&gt;[ureter]&lt;/li&gt;&lt;li&gt;[urinary bladder]&lt;/li&gt;&lt;li&gt;[urethra]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="5e60ca2f-3570-4d46-9c45-070068db8acd">
+    <STATIC_text>
+  <text>&lt;p&gt;The &lt;strong&gt;urethra &lt;/strong&gt;[4] is a tube that carries urine from the urinary bladder to the outside of the body. The process of expelling urine through the urethra is called &lt;strong&gt;urination &lt;/strong&gt;or &lt;strong&gt;voiding&lt;/strong&gt;. The external opening of the urethra is the &lt;strong&gt;urinary meatus&lt;/strong&gt;. The male urethra, about 8 inches long, extends downward through the prostate gland to the urinary meatus, at the tip of the penis. In the female urinary system, the urethra, about 2 inches long, lies anterior to the vagina. See Figure 7-2A, which illustrates the female urinary system. When a patient can’t empty his/her bladder, a tube called a &lt;strong&gt;catheter&lt;/strong&gt; is often inserted through the urethra to drain urine from the bladder. See Figure 7-2B.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="24545890-a819-4d90-a1dd-560eecb418f9">
+    <STATIC_figure>
+  <image>fig7-2.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 7-2 &lt;/span&gt;A. Female urinary system. B. Urinary catheter placement.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

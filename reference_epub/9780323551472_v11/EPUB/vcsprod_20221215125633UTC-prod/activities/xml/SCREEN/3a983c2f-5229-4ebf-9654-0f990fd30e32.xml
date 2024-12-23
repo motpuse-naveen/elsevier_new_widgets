@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="569680c1-ef23-4e7e-9ea9-6dc8bbe6c958">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;CLASSES OF DRUGS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e2d19257-14c2-4504-b23e-49507fc8fdf6">
+    <STATIC_text>
+  <text>&lt;p&gt;The following are major classes of drugs with indications for their uses. Specific drugs in each class are included in tables for your reference (note that the brand names are capitalized). Appendix IV presents a complete list of these drugs and their class or type. Notice that many drug types end with the adjectival suffix -ic, meaning pertaining to, although they are used as nouns.&lt;/p&gt;&lt;p&gt;Anti-cancer drugs (chemotherapeutic, molecularly targeted, and immunotherapeutic drugs) is discussed in Chapter 19.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="74037cf0-a71b-4926-a911-2e6ecaca0459">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANALGESICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="b44c199b-1bc2-443d-b358-dafda6f8099d">
+    <STATIC_text>
+  <text>&lt;p&gt;An &lt;strong&gt;analgesic&lt;/strong&gt; (alges/o = sensitivity to pain) is a drug that lessens pain. Mild analgesics relieve mild to moderate pain, such as myalgias, headaches, and toothaches. More potent analgesics are &lt;strong&gt;narcotics&lt;/strong&gt; or &lt;strong&gt;opioids&lt;/strong&gt;, which are derived from opium. These drugs may induce stupor (a condition of near-unconsciousness and reduced mental and physical activity). They are used only to relieve severe pain because they may produce dependence.&lt;/p&gt;&lt;p&gt;Some non-narcotic analgesics reduce fever, pain, and inflammation and are used for joint disorders (osteoarthritis and rheumatoid arthritis), painful menstruation, and acute pain due to minor injuries or infection. These agents are not steroid hormones (such as cortisone) and are known as &lt;strong&gt;nonsteroidal anti-inflammatory drugs (NSAIDs)&lt;/strong&gt;. NSAIDs act on tissues to inhibit prostaglandins (hormone-like substances that sensitize peripheral pain receptors). A newer type of stronger NSAID is a COX-2 inhibitor. It relives pain and inflammation as do traditional NSAIDs but produces fewer gastrointestinal side effects. Currently the COX-2 inhibitor, celecoxib (Celebrex), is used but carries an increased risk of clot formation and heart attack. Table 21-2 lists various types of analgesics.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8e983f5f-5f44-46df-8234-674bf4fcb9e8">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-2 ANALGESICS AND ANESTHETICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="6a5d908a-dd8a-4805-93ab-e0facc1383c7">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component c-table--fixed" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANALGESICS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Nonsteroidal Anti-inﬂammatory Drugs (NSAIDs)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Mild&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;aspirin (Anacin, Ascriptin, Excedrin) &lt;br/&gt;celecoxib (Celebrex) &lt;br/&gt;diclofenac sodium (Voltaren) &lt;br/&gt;ibuprofen (Motrin, Advil) &lt;br/&gt;ketorolac (Toradol)&lt;br/&gt;naproxen (Aleve) &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;acetaminophen (Tylenol)&lt;br/&gt;aspirin&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANESTHETICS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Narcotic (Opioid)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="3"&gt;codeine &lt;br/&gt;fentanyl patch (Duragesic) &lt;br/&gt;hydrocodone w/APAP *  (Lortab, Vicodin) &lt;br/&gt;hydromorphone (Dilaudid) &lt;br/&gt;meperidine (Demerol) &lt;br/&gt;morphine &lt;br/&gt;oxycodone (OxyContin, Roxicodone) &lt;br/&gt;oxycodone with APAP *  (Percocet, Roxicet, Endocet)&lt;br/&gt;tramadol (Ultram)&lt;/td&gt;&lt;td&gt;ketamine (Ketalar)&lt;br/&gt;nitrous oxide&lt;br/&gt;propofol (Diprivan)&lt;br/&gt;thiopental (Pentothal)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Local or Regional&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;lidocaine (Xylocaine) &lt;br/&gt;lidocaine-prilocaine (EMLA— &lt;u&gt;e&lt;/u&gt;utectic &lt;u&gt;m&lt;/u&gt;ixture of &lt;u&gt;l&lt;/u&gt;ocal &lt;u&gt;a&lt;/u&gt;nesthetics) &lt;br/&gt;procaine (Novocain)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;:  Brand names are in parentheses. &lt;br/&gt;*APAP, acetyl-&lt;em&gt;p&lt;/em&gt;-aminophenol—acetaminophen (Tylenol, others).&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="17d45289-a1c1-4a67-ae46-735511408d42">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANESTHETICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ee7affec-798d-4fe3-936a-3aeb7046de2e">
+    <STATIC_text>
+  <text>&lt;p&gt;An &lt;strong&gt;anesthetic&lt;/strong&gt; is an agent that reduces or eliminates sensation. This effect may occur in all tissues of the body &lt;strong&gt;(general anesthetic)&lt;/strong&gt; and puts a patient asleep, or may be limited to a particular region &lt;strong&gt;(local or regional anesthetic)&lt;/strong&gt;. General anesthetics are used for surgical procedures. They depress the activity of the central nervous system, producing loss of consciousness, and block the perception of pain. Local anesthetics inhibit the conduction of pain impulses in sensory nerves in the region where they are injected or applied. An example is dental anesthesia with a local Novocain injection or nerve block for an orthopedic procedure.&lt;br/&gt;Table 21-2 gives examples of specific anesthetics.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="93fecbce-608b-4396-9e77-41f3cfe4cce7">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIBIOTICS AND OTHER ANTIMICROBIALS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="59cdc365-f204-42a6-8d4e-bbfb6b315334">
+    <STATIC_text>
+  <text>&lt;p&gt;Antimicrobial drugs kill or inhibit the growth of microorganisms, such as bacteria, viruses, fungi, and protozoans (one-celled organisms). Examples of antimicrobials are &lt;strong&gt;antibiotics, antifungals, antivirals, and antiprotozoans&lt;/strong&gt;. See Table 21-3.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Antibiotics&lt;/strong&gt;—These are chemical agents, produced from molds or bacteria, that inhibit or kill bacteria. Antibiotics are not effective against viruses, like the flu virus. The use of antibiotics (penicillin was the first in the 1940s and now there are well over 100), has made it possible to cure many conditions such as pneumonia, urinary tract infections, and streptococcal pharyngitis (“strep throat”). Antibiotics are powerful drugs and, like all drugs, may have dangerous side effects. Also, with indiscriminate use of antibiotics, bacteria can develop resistance to a particular agent. Infections caused by these resistant bacteria can spread and may be difficult or impossible to cure. Methicillin-resistant &lt;em&gt;Staphylococcus aureus &lt;/em&gt;(MRSA) and &lt;em&gt;Clostridium difficile &lt;/em&gt;(C. difficile) are two antibiotic-resistant bacteria.&lt;/p&gt;&lt;p style="margin-left: 80px;"&gt;Two examples of antibiotics are &lt;em&gt;&lt;strong&gt;antibacterial&lt;/strong&gt; &lt;/em&gt;and &lt;em&gt;&lt;strong&gt;antitubercular&lt;/strong&gt; &lt;strong&gt;drugs&lt;/strong&gt;.&lt;br/&gt;&lt;strong&gt;Antibacterial drugs&lt;/strong&gt; &lt;/em&gt;interfere with the growth and reproduction of bacteria. There are many kinds and use depends on the bacteria that they kill. Antibacterials can be grouped in classes that have similar chemical and pharmacologic properties.&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Antitubercular drugs&lt;/strong&gt; &lt;/em&gt;treat tuberculosis, a chronic and often drug-resistant bacterial infection.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Antifungals&lt;/strong&gt;—These drugs treat fungal infections. These commonly occur in the skin (ringworm) vagina (candidiasis), mouth, bloodstream or lungs.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Antivirals&lt;/strong&gt;—These drugs are used against infections due to viruses, such as the flu virus, herpesvirus, cytomegalovirus (CMV), human immunodeficiency virus (HIV), and hepatitis B and C viruses.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Antiprotozoans&lt;/strong&gt;—These drugs act against infections caused by protozoans that become parasites (inhabit another organism and take their nutrients) in humans. Examples are malaria, gastrointestinal infections, ringworm, and lice.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a42ff3ad-e3e8-40bc-8654-56fd29015dee">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-3 ANTIBIOTICS AND OTHER ANTIMICROBIALS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="0eaedc57-33c1-4857-95b3-b8cad4f7d6e2">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTIBIOTICS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTIFUNGALS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="3"&gt;&lt;p&gt;&lt;strong&gt;Antibacterial Drugs&lt;/strong&gt; &lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Penicillins&lt;/strong&gt;—amoxicillin with clavulanate (Augmentin) &lt;br/&gt;&lt;strong&gt;Tetracyclines&lt;/strong&gt;—doxycycline &lt;br/&gt;&lt;strong&gt;Cephalosporins&lt;/strong&gt;—cephalexin (Keﬂex) &lt;br/&gt;&lt;strong&gt;Quinolones&lt;/strong&gt;— ciproﬂoxacin (Cipro) moxiﬂoxacin (Avelox) &lt;br/&gt;&lt;strong&gt;Lincomycins&lt;/strong&gt;—clindamycin (Cleocin) &lt;br/&gt;&lt;strong&gt;Macrolides&lt;/strong&gt;— erythromycin (Ery-Tab) azithromycin (Zithromax)&lt;br/&gt;&lt;strong&gt;Sulfonamides&lt;/strong&gt;— sulfamethoxazole (Bactrim) &lt;br/&gt;&lt;strong&gt;Glycopeptides&lt;/strong&gt;—vancomycin (Vancocin) &lt;br/&gt;&lt;strong&gt;Aminoglycosides&lt;/strong&gt;—gentamicin (Garamycin) tobramycin (Tobi)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;amphotericin B (Fungilin) &lt;br/&gt;caspofungin (Cancidas) &lt;br/&gt;clotrimazole (Lotrimin, Mycelex) &lt;br/&gt;ﬂucytosine (Ancobon) &lt;br/&gt;griseofulvin (Gris-peg) &lt;br/&gt;nystatin (Nilstat) &lt;br/&gt;terbinaﬁne (Lamisil)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTIVIRALS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;acyclovir (Zovirax)—herpes virus drug &lt;br/&gt;ganciclovir (Zirgan)—CMV drug &lt;br/&gt;lamivudine (Epivir)—HIV and hepatitis B drug &lt;br/&gt;oseltamivir (Tamiﬂu)—ﬂu virus drug &lt;br/&gt;ribavirin (Rebetol)—hepatitis C drug&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="2"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Antitubercular Drugs &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;ethambutol (Myambutol) &lt;br/&gt;isoniazid [INH] (Nydrazid) &lt;br/&gt;pyrazinamide (Rifater) &lt;br/&gt;rifampin (Rifadin)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTIPROTOZOANS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;chloroquine (Aralen) &lt;br/&gt;metronidazole (Flagyl)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="50f82427-43cd-4abb-b1fa-decb2aaeeb19">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTICOAGULANTS AND ANTIPLATELET DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e16bd28f-cc21-4053-b37c-dc294b0b6a82">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Anticoagulants&lt;/strong&gt; prevent clotting (coagulation) of blood. They prevent formation of clots or break up clots in blood vessels in conditions such as thrombosis and embolism. They also are used to prevent coagulation in preserved blood used for transfusions. &lt;strong&gt;Heparin&lt;/strong&gt; is a natural anticoagulant purified from pig intestine or bovine (cow) lung. It is found in white blood cells. A more easily administered form of heparin called low-molecular-weight heparin (Fragmin, Lovenox) is self-injected subcutaneously on a daily basis and requires no monitoring of blood clotting ability, as is done with regular heparin. Other anticoagulants, including &lt;strong&gt;warfarin (Coumadin)&lt;/strong&gt;, are chemically synthesized. Warfarin’s effects must be monitored by taking regular blood samples every two to three weeks to test prothrombinINR time. The INR (International Normalized Ratio) test measures blood clotting time and is kept in a safe range of 2.0–3.0. &lt;strong&gt;Tissue-type plasminogen activator (tPA)&lt;/strong&gt; dissolves clots and is used to open vessels after myocardial infarction. &lt;/p&gt;&lt;p&gt;Direct-acting oral anticoagulant drugs that greatly reduce the risk of stroke are called &lt;strong&gt;DOACs&lt;/strong&gt; (&lt;u&gt;d&lt;/u&gt;irect-&lt;u&gt;a&lt;/u&gt;cting &lt;u&gt;o&lt;/u&gt;ral &lt;u&gt;a&lt;/u&gt;nticoagulants). Examples are apixaban (Eliquis), dabigatran (Pradaxa), and rivaroxaban (Xarelto). They require no monitoring of blood coagulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Antiplatelet drugs&lt;/strong&gt; reduce the tendency of platelets to stick together. Aspirin is an example of an antiplatelet drug; daily aspirin prophylaxis is recommended for patients with coronary artery disease and for those who have had heart attacks. Clopidogrel (Plavix) inhibits clumping of platelets and is used to prevent clotting after heart attacks and blood vessel procedures, such as angioplasty.&lt;/p&gt;&lt;p&gt;Table 21-4 lists anticoagulants and antiplatelet drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="76035d18-191a-4eee-a379-784b860d976e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTICONVULSANTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="3df545af-dad5-455f-b741-df39e028e975">
+    <STATIC_text>
+  <text>&lt;p&gt;An &lt;strong&gt;anticonvulsant&lt;/strong&gt; prevents or reduces the frequency of convulsions in various types of seizure disorders or epilepsy. Ideally, anticonvulsants depress abnormal spontaneous activity of the brain arising from areas of scar or tumor, without affecting normal brain function. Psychiatrists prescribe anticonvulsants for bipolar disorder (depressive and manic episodes) and anxiety. Two anticonvulsant drugs are also commonly used for chronic nerve pain resulting from injury, infection, or cancer. These are gabapentin (Neurontin) and pregabalin (Lyrica). Table 21-4 lists examples of anticonvulsants.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="139bcff3-be3a-41dc-8824-41a3c550e4b2">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIDEPRESSANTS AND ANTI-ALZHEIMER DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4de9b40b-9924-4986-a57f-112eba27774a">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Antidepressants&lt;/strong&gt; treat symptoms of depression. They can elevate mood, increase physical activity and mental alertness, and improve appetite and sleep patterns. Many antidepressants also are mild sedatives and treat mild forms of depression associated with anxiety.&lt;/p&gt;&lt;p&gt;The largest class of antidepressants increases the action of neurotransmitters by blocking their removal (reuptake) from the synapses (spaces between nerve cells). These drugs include &lt;strong&gt;tricyclic antidepressants (TCAs)&lt;/strong&gt; and &lt;strong&gt;selective serotonin reuptake inhibitors (SSRIs).&lt;/strong&gt; Other antidepressants are &lt;strong&gt;monoamine oxidase inhibitors (MAOIs),&lt;/strong&gt; which increase the length of time neurotransmitters work by blocking monoamine oxidase, an enzyme that normally inactivates neurotransmitters.&lt;/p&gt;&lt;p&gt;Lithium is a drug that is used to stabilize the mood swings and unpredictable behavior of people with bipolar disorder (manic-depressive illness).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Anti-Alzheimer drugs&lt;/strong&gt;, used to treat symptoms of Alzheimer disease, act by aiding brain neurotransmitters (acetylcholine) or shielding brain cells from glutamate, a neurotransmitter that at high levels contributes to death of brain cells. Table 21-4 lists examples of antidepressants and anti-Alzheimer drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8d487bf3-f529-40cd-9c0d-3bbf29e9d522">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-4 ANTICOAGULANTS AND ANTIPLATELET DRUGS, ANTICONVULSANTS, ANTIDEPRESSANTS, AND ANTI-ALZEIMER DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="44d3a48e-9666-4a58-aee1-f9002e66753a">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTICOAGULANTS AND ANTIPLATELET DRUGS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTIDEPRESSANTS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;apixaban (Eliquis)&lt;br/&gt;aspirin&lt;br/&gt;clopidogrel (Plavix)&lt;br/&gt;dabigatran (Pradaxa)&lt;br/&gt;dalteparin (Fragmin)&lt;br/&gt;edoxaban (Savaysa)&lt;br/&gt;enoxaparin sodium (Lovenox)&lt;br/&gt;fondaparinux (Arixtra)&lt;br/&gt;heparin&lt;br/&gt;rivaroxaban (Xarelto)&lt;br/&gt;tissue plasminogen activator [tPA]&lt;br/&gt;warfarin (Coumadin)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;amitriptyline (Elavil) ‡&lt;br/&gt;bupropion (Wellbutrin SR)&lt;br/&gt;citalopram hydrobromide (Celexa) §&lt;br/&gt;duloxetine (Cymbalta)&lt;br/&gt;escitalopram (Lexapro) §&lt;br/&gt;ﬂuoxetine (Prozac) §&lt;br/&gt;ﬂuvoxamine (Luvox) §&lt;br/&gt;mirtazapine (Remeron) ‡&lt;br/&gt;paroxetine (Paxil) §&lt;br/&gt;quetiapine fumarate (Seroquel)&lt;br/&gt;sertraline (Zoloft) §&lt;br/&gt;trazodone (Desyrel) §&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTICONVULSANTS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTI-ALZHEIMER DRUGS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;carbamazepine (Tegretol) &lt;br/&gt;gabapentin (Neurontin) &lt;br/&gt;levetiracetam (Keppra) &lt;br/&gt;phenytoin (Dilantin) &lt;br/&gt;pregabalin (Lyrica) &lt;br/&gt;divalproex (Depakote) &lt;br/&gt;oxcarbazepine (Trileptal) &lt;br/&gt;clonazepam (Klonopin) &lt;br/&gt;lamotrigine (Lamictal) &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p style="margin-left: 40px;"&gt;donepezil (Aricept) &lt;br/&gt;memantine (Namenda)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;‡ Tricyclic antidepressant drug. &lt;/td&gt;&lt;td&gt; § Selective serotonin reuptake inhibitor (SSRI).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="10a7b8ba-5ade-462e-b90f-5adbb4aac3a7">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIDIABETICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f171c2df-bb8a-4ecf-9643-ba41f849f231">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Antidiabetics&lt;/strong&gt; are used to treat diabetes mellitus (condition in which either the hormone insulin is not produced, or the body’s tissues have developed insensitivity to &lt;strong&gt;insulin&lt;/strong&gt;). Patients with type 1 diabetes have lost the ability to produce insulin as children or young adults and must receive daily injections of insulin. Human insulin and synthetic derivations produced by recombinant DNA research have largely replaced animal-derived insulin in the management of diabetes. Rapid-acting insulins peak at 30–60 minutes and last 3–5 hours. Short-acting insulins peak at &lt;span role="math" aria-label="1 bevelled 1 half"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mfrac bevelled="true"&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;&lt;/span&gt; to 2 hours and last 6–8 hours. Intermediate-acting insulins peak at 4–12 hours and last 14–24 hours. Long-acting insulins last up to 24 hours.&lt;/p&gt;&lt;p&gt;Patients with type 2 diabetes usually develop the disease later in life and have insensitivity to insulin. Their diabetes may be well controlled by limiting sugars in their diet and by taking &lt;strong&gt;oral antidiabetic drugs&lt;/strong&gt;. These include &lt;strong&gt;sulfonylureas&lt;/strong&gt; (lower the levels of glucose in the blood by stimulating the production of insulin), &lt;strong&gt;biguanides&lt;/strong&gt; (increase the body ’ s sensitivity to insulin and reduce the production of glucose by the liver), &lt;strong&gt;alpha-glucosidase inhibitors&lt;/strong&gt; (temporarily block enzymes that digest sugars), &lt;strong&gt;thiazolidinediones&lt;/strong&gt; (enhance glucose uptake into tissues), and &lt;strong&gt;meglitinides&lt;/strong&gt; (stimulate the beta cells in the pancreas to produce insulin). &lt;strong&gt;DPP4 inhibitors&lt;/strong&gt; work by inhibiting an enzyme so that cells make more insulin when glucose levels are high. &lt;strong&gt;SGLT2 inhibitors&lt;/strong&gt; cause the body to excrete glucose in the urine. &lt;strong&gt;Non-insulin injectable medications&lt;/strong&gt; stimulate cells in the pancreas to make and release insulin. These last longer in the bloodstream and are injected once a week.&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;insulin pump&lt;/strong&gt; is a device strapped to the patient’s waist that periodically delivers (through a subcutaneous needle inserted in the abdomen) the desired amount of insulin.&lt;/p&gt;&lt;p&gt;Table 21-5 lists antidiabetic drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="c59000fb-ba8f-4d11-84cb-807c69c787e0">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-5 ANTIDIABETICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="cd45e232-9c93-4838-ae50-e1e530ad6943">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col" style="text-align: left;"&gt;INSULINS&lt;/th&gt;&lt;th scope="col" style="text-align: left;"&gt;ORAL ANTIDIABETICS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Rapid-Acting &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;insulin aspart (Novolog, Fiasp) &lt;br/&gt;insulin glulisine (Apidra) &lt;br/&gt;insulin lispro (Humalog, Admelog)&lt;/td&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Sulfonylureas &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;glipizide (Glucotrol XL) &lt;br/&gt;glyburide (DiaBeta, Micronase) &lt;br/&gt;glimepiride (Amaryl)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Short-Acting &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;Regular insulin (Humulin R)&lt;/td&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Meglitinides &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;repaglinide (Prandin) &lt;br/&gt;nateglinide (Starlix)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Intermediate-Acting &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;insulin NPH (Humulin N, Novolin N) &lt;br/&gt;insulin combinations (Humalog Mix)&lt;/td&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Biguanides &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;metformin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Long-Acting &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;insulin detemir (Levemir) &lt;br/&gt;insulin glargine (Lantus,Toujeo) &lt;br/&gt;insulin degludec (Tresiba)&lt;/td&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;Thiazolidinediones &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;pioglitazone (Actos) &lt;br/&gt;rosiglitazone (Avandia)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;NON-INSULIN INJECTABLES&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;&lt;em&gt;Alpha-Glucosidase Inhibitors&lt;/em&gt;&lt;/strong&gt;&lt;br/&gt;acarbose (Precose) &lt;br/&gt;miglitol (Glyset)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="2" colspan="1"&gt;&lt;em&gt;&lt;strong&gt;GLP-1 Agonist &lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;exenatide (Byetta, Bydureon) &lt;br/&gt;dulaglutide (Trulicity) &lt;br/&gt;liraglutide (Victoza)&lt;br/&gt; &lt;/td&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;DPP-4 Inhibitors&lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;alogliptin (Nesina) &lt;br/&gt;linagliptin (Tradjenta) &lt;br/&gt;sitagliptin (Januvia) &lt;br/&gt;saxagliptin (Onglyza)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;&lt;strong&gt;SGLT2 Inhibitors&lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;dapagliﬂozin (Farxiga)&lt;br/&gt;canagliﬂozin (Invokana)&lt;br/&gt;empagliﬂozin (Jardiance)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="12039824-0110-4a73-bbf7-0e800c221bf9">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-6 ANTIHISTAMINES AND ANTIOSTEOPOROSIS DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="87283d9c-2941-439a-948e-5bec794c47e9">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;ANTIHISTAMINES&lt;/th&gt;&lt;th scope="col"&gt;ANTIOSTEOPOROSIS DRUGS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan="6" colspan="1"&gt;cetirizine (Zyrtec) &lt;br/&gt;chlorpheniramine maleate (Chlor-Trimeton) &lt;br/&gt;diphenhydramine (Benadryl) &lt;br/&gt;fexofenadine (Allegra) &lt;br/&gt;loratadine (Claritin, Alavert) &lt;br/&gt;meclizine (Antivert) &lt;br/&gt;promethazine (Phenergan)&lt;/td&gt;&lt;td&gt;Bisphosphonates —prevent bone loss&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;alendronate (Fosamax) &lt;br/&gt;ibandronate sodium (Boniva) &lt;br/&gt;zoledronic acid (Zometa)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Selective Estrogen Receptor Modulators (SERMs)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;raloxifene (Evista) &lt;br/&gt;tamoxifen (Nolvadex)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Other Antiosteoporosis Drugs&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;denosumab (Prolia) *&lt;br/&gt;teriparatide (Forteo) †&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;* Monoclonal antibody against a protein that signals bone removal. &lt;br/&gt;† Hormone that stimulates bone formation.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e9ddc65e-6c3b-4373-a9bf-0a2febb0f681">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIHISTAMINES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e8ac7460-1b1e-43a9-b0c5-78c749bf2a73">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Antihistamines&lt;/strong&gt; block the action of histamine, which normally is released in the body in allergic reactions. Histamine causes allergic symptoms such as hives, bronchial asthma, hay fever, and in severe cases, &lt;strong&gt;anaphylactic shock&lt;/strong&gt; (dyspnea, hypotension, and loss of consciousness). Antihistamines cannot cure the allergic reaction, but they relieve its symptoms. Many antihistamines have strong &lt;strong&gt;antiemetic&lt;/strong&gt; (prevention of nausea) activity and are used to prevent motion sickness. The most common side effects of antihistamines are drowsiness, blurred vision, tremors, digestive upset, and lack of motor coordination.&lt;br/&gt;Table 21-6 lists common antihistamines.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="619f1b5a-d040-4660-9a53-766750c75dc6">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ANTIOSTEOPOROSIS DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="81722a4f-5868-4743-be44-6352bb731894">
+    <STATIC_text>
+  <text>&lt;p&gt;Osteoporosis is a disorder marked by loss of bone density. Calcium, vitamin D, and estrogen may increase calcium deposition in bone. Several different drugs are used to treat osteoporosis. &lt;strong&gt;Bisphosphonates&lt;/strong&gt; prevent bone loss, and hormone-like drugs called &lt;strong&gt;selective estrogen receptor modulators (SERMs)&lt;/strong&gt; increase bone formation. See Table 21-6 .&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="2c93c527-67a8-43fb-82e4-6e1e8c0f2446">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CARDIOVASCULAR DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fc296b16-5aa3-4d95-a4a9-bf3a730b77a3">
+    <STATIC_text>
+  <text>&lt;p&gt;Cardiovascular drugs act on the heart or the blood vessels to treat hypertension, angina (pain due to decreased oxygen delivery to heart muscle), myocardial infarction (heart attack), congestive heart failure, and arrhythmias. &lt;strong&gt;Digoxin (Lanoxin)&lt;/strong&gt; helps the heart pump more forcefully in heart failure. Other cardiovascular drugs include:&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Angiotensin-converting enzyme (ACE) inhibitors&lt;/strong&gt; —dilate blood vessels to lower blood pressure, improve the performance of the heart, and reduce its workload. They prevent the conversion of angiotensin I into angiotensin II, which is a powerful vasopressor (vasoconstrictor). ACE inhibitors reduce the risk of heart attack, stroke, heart failure and death even if a patient is not hypertensive.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Angiotensin II receptor blockers (ARBs)&lt;/strong&gt; —lower blood pressure by preventing angiotensin from acting on receptors in blood vessels. They are used in patients who do not tolerate ACE inhibitors.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Antiarrhythmics &lt;/strong&gt;—treat abnormal heart rhythms. They slow the response of heart muscle to nerve stimulation or slow the rate at which impulses are carried throughout the heart.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Beta blockers&lt;/strong&gt; —slow heart rate, decrease output of the heart, and reduce blood pressure by blocking the action of epinephrine at receptor sites in the heart muscle and in blood vessels. Beta blockers are prescribed for angina, hypertension, arrhythmias (such as fibrillation), and prevention of a second heart attack.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Calcium channel blockers &lt;/strong&gt;—dilate blood vessels and lower blood pressure and are used to treat arrhythmias. They inhibit the entry of calcium (necessary for blood vessel contraction) into the muscles of the heart and blood vessels.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Cardiac glycosides&lt;/strong&gt; —made from digitalis (foxglove plant). These drugs increase the force of contraction of the heart and are used to treat heart failure and atrial fibrillation.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Cholesterol-binding drugs&lt;/strong&gt; —bind to dietary cholesterol and prevent its uptake from the gastrointestinal tract. PCSK9 inhibitors lower LDL cholesterol in the blood. These drugs, in some cases, can actually prevent heart attacks or strokes.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Cholesterol-lowering drugs&lt;/strong&gt; —statins block the formation of cholesterol in the liver and treat hypercholesterolemia (high levels of cholesterol in the blood), which is a major factor in the development of heart disease.&lt;/p&gt;&lt;p style="margin-left: 40px;"&gt;&lt;strong&gt;Diuretics&lt;/strong&gt; —reduce the volume of blood in the body by promoting the kidney to remove water and salt through urine (diuresis). They treat hypertension (high blood pressure) and congestive heart failure.&lt;/p&gt;&lt;p&gt;Table 21-7 gives examples of cardiovascular drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="03daac46-0f4b-432f-a06c-431aee5dca94">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-7 CARDIOVASCULAR DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e8f6ba3d-a58c-41dd-a274-ba44b93064e7">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANGIOTENSIN-CONVERTING ENZYME (ACE) INHIBITORS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;CALCIUM CHANNEL BLOCKERS &lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;enalapril maleate (Vasotec) &lt;br/&gt;lisinopril (Prinivil, Zestril) &lt;br/&gt;quinapril (Accupril) &lt;br/&gt;ramipril (Altace)&lt;/td&gt;&lt;td&gt;amlodipine (Norvasc) &lt;br/&gt;diltiazem (Cardizem CD) &lt;br/&gt;felodipine (Plendil) &lt;br/&gt;nifedipine (Adalat CC, Procardia)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANGIOTENSIN II RECEPTOR BLOCKERS &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;CARDIAC GLYCOSIDES&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;irbesartan (Avapro) &lt;br/&gt;losartan (Cozaar) &lt;br/&gt;valsartan (Diovan)&lt;/td&gt;&lt;td&gt;digoxin (Lanoxin)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTIARRHYTHMICS &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;CHOLESTEROL-BINDING DRUGS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;amiodarone (Cordarone) &lt;br/&gt;ibutilide (Corvert) &lt;br/&gt;sotalol (Betapace)&lt;/td&gt;&lt;td&gt;alirocumab (Praluent) + &lt;br/&gt;cholestyramine (Questran) &lt;br/&gt;colestipol (Colestid) &lt;br/&gt;evolocumab (Repatha) + &lt;br/&gt;ezetimibe (Zetia)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;BETA BLOCKERS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;CHOLESTEROL-LOWERING DRUGS (STATINS)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="3" colspan="1"&gt;atenolol (Tenormin) &lt;br/&gt;carvedilol (Coreg) &lt;br/&gt;metoprolol (Lopressor, Toprol-XL) &lt;br/&gt;propranolol (Inderal)&lt;/td&gt;&lt;td&gt;atorvastatin (Lipitor) &lt;br/&gt;ﬂuvastatin (Lescol) &lt;br/&gt;pravastatin (Pravachol)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;DIURETICS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;furosemide (Lasix) &lt;br/&gt;chlorothiazide (Diuril) &lt;br/&gt;spironolactone (Aldactone)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; +PCSK9 inhibitor.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="dfb19147-0475-4348-9aae-25853dab3f2b">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;ENDOCRINE DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="989c9cd8-c0e4-4c7d-aad5-337d20b3fd24">
+    <STATIC_text>
+  <text>&lt;p&gt;Endocrine preparations act in much the same manner as the naturally occurring (endogenous) hormones discussed in Chapter 18. &lt;strong&gt;Androgens&lt;/strong&gt;, normally made by the testes and adrenal glands, are used for male hormone replacement and to treat endometriosis and anemia. &lt;strong&gt;Antiandrogens&lt;/strong&gt; interfere with the production of androgens or with their binding in tissues. They are prescribed for prostate cancer. &lt;strong&gt;Estrogens&lt;/strong&gt; are female hormones, normally produced by the ovaries, that are used for symptoms associated with menopause (estrogen replacement therapy) and to prevent postmenopausal osteoporosis. &lt;strong&gt;Aromatase inhibitors&lt;/strong&gt; also reduce the amount of estrogen (estradiol) in the blood and are effective against breast cancer. They work by decreasing the amount of estrogen in fatty tissue.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Selective estrogen receptor modulators (SERMs)&lt;/strong&gt; have estrogen-like effects on bone (increase in bone density) and on lipid metabolism (decrease in cholesterol levels). However, they lack estrogenic effects on uterus and breast tissue. SERMs are used to treat postmenopausal osteoporosis and breast cancer. Tamoxifen and raloxifene are SERMs. &lt;strong&gt;Progestins&lt;/strong&gt; are prescribed for abnormal uterine bleeding caused by hormonal imbalance and, together with estrogen, in hormone replacement therapy and oral contraceptives.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Thyroid hormone&lt;/strong&gt; is administered when there is a low output of hormone from the thyroid gland. &lt;strong&gt;Calcitonin&lt;/strong&gt; (a thyroid hormone) is used to treat osteoporosis. It increases calcium in the blood and promotes bone deposition. &lt;strong&gt;Glucocorticoids&lt;/strong&gt; (adrenal corticosteroids) are prescribed for reduction of inflammation and a wide range of other disorders, including arthritis, severe skin and allergic conditions, respiratory and blood disorders, gastrointestinal ailments, and malignant conditions.&lt;/p&gt;&lt;p&gt;A fragment of human &lt;strong&gt;parathyroid hormone (PTH)&lt;/strong&gt; has been approved for osteoporosis treatment. This agent stimulates new bone formation. &lt;strong&gt;Growth hormone release–inhibiting factor (somatostatin)&lt;/strong&gt; can be manufactured and given to treat gastrointestinal symptoms associated with acromegaly and other tumors.&lt;/p&gt;&lt;p&gt;Table 21-8 gives examples of endocrine drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="47833362-62dc-4914-9329-9c3177de0419">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-8 ENDOCRINE DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1ea77506-08f7-4cf6-9173-08afe6d4ef84">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANDROGENS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;GROWTH HORMONE–RELEASE INHIBITING FACTOR&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ﬂuoxymesterone (Halotestin) &lt;br/&gt;methyltestosterone (Virilon)&lt;/td&gt;&lt;td&gt;octreotide (Sandostatin) &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTIANDROGENS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;PARATHYROID HORMONE FRAGMENT &lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;abiraterone (Zytiga) &lt;br/&gt;enzalutamide (XTANDI) &lt;br/&gt;ﬂutamide (Eulexin)&lt;br/&gt;nilutamide (Casodex)&lt;/td&gt;&lt;td&gt;teriparatide (Forteo)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;AROMATASE INHIBITORS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;PROGESTINS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;anastrozole (Arimidex) &lt;br/&gt;letrozole (Femara)&lt;/td&gt;&lt;td&gt;medroxyprogesterone acetate (Cycrin, Provera) &lt;br/&gt;megestrol (Megace)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ESTROGENS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;SELECTIVE ESTROGEN RECEPTOR MODULATORS (SERMS)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;estrogens (Premarin, Prempro)&lt;/td&gt;&lt;td&gt;raloxifene (Evista) &lt;br/&gt;tamoxifen (Nolvadex)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;GLUCOCORTICOIDS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;THYROID HORMONES&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;dexamethasone (Decadron) &lt;br/&gt;hydrocortisone &lt;br/&gt;prednisone (Deltasone) &lt;br/&gt;triamcinolone (Aristocort)&lt;/td&gt;&lt;td&gt;calcitonin (Cibacalcin) &lt;br/&gt;levothyroxine (Levoxyl, Synthroid) &lt;br/&gt;liothyronine (Cytomel) &lt;br/&gt;thyroid ISP (Armour Thyroid)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Brand names are in parentheses.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="b50e321f-efa9-4fd6-babc-cc8a448830b3">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;GASTROINTESTINAL DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="8887a525-eb6c-42b5-bb9d-af3cb326ec2f">
+    <STATIC_text>
+  <text>&lt;p&gt;Gastrointestinal drugs often are used to relieve uncomfortable and potentially dangerous symptoms, rather than as cures for specifi c diseases. &lt;strong&gt;Antacids&lt;/strong&gt; neutralize the hydrochloric acid in the stomach to relieve symptoms of peptic ulcer, esophagitis, and reflux. &lt;strong&gt;Antiulcer&lt;/strong&gt; drugs block secretion of acid by cells in the lining of the stomach and are prescribed for patients with gastric and duodenal ulcers and &lt;strong&gt;gastroesophageal reflux disease (GERD)&lt;/strong&gt;. Histamine H&lt;sub&gt;2&lt;/sub&gt; receptor blockers such as &lt;strong&gt;cimetidine (Tagamet)&lt;/strong&gt; turn off histamine, which promotes secretion of stomach acid. Another drug, &lt;strong&gt;omeprazole (Prilosec)&lt;/strong&gt;, works by stopping acid production by a different method (proton pump inhibition).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Antidiarrheal&lt;/strong&gt; drugs relieve diarrhea and decrease the rapid movement (peristalsis) in the muscular walls of the colon. &lt;strong&gt;Cathartics&lt;/strong&gt; relieve constipation and promote defecation for diagnostic and operative procedures and are used to treat disorders of the gastrointestinal tract. Some cathartics increase the intestinal salt content to cause fluid to fill the intestines; others increase the bulk of the feces to promote peristalsis. Another type of cathartic lubricates the intestinal tract to produce soft stools. &lt;strong&gt;Laxatives&lt;/strong&gt; are mild cathartics, and purgatives are strong cathartics.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Antinauseants (antiemetics)&lt;/strong&gt; relieve nausea and vomiting and overcome vertigo, dizziness, motion sickness, and similar symptoms due to labyrinthitis (inflammation of the inner ear).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Anti-TNF (tumor necrosis factor)&lt;/strong&gt; drugs are used to treat &lt;strong&gt;autoimmune diseases&lt;/strong&gt; such as &lt;strong&gt;Crohn’s&lt;/strong&gt;. These drugs also are used against rheumatoid arthritis.&lt;/p&gt;&lt;p&gt;Table 21-9 lists the various types of gastrointestinal drugs and examples of each.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="64c82c72-e700-4514-bf6b-6c0836d3cfb4">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-9 GASTROINTESTINAL DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="49fc1bab-cddb-4405-af15-6a35d4d9f110">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTACIDS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTI–TUMOR NECROSIS FACTOR (TNF) DRUGS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;aluminum and magnesium antacid (Gaviscon) &lt;br/&gt;magnesium antacid (milk of magnesia) &lt;br/&gt;aluminum antacid (Rolaids)&lt;/td&gt;&lt;td&gt;adalimumab (Humira) &lt;br/&gt;certolizumab pegol (Cimzia) &lt;br/&gt;etanercept (Enbrel) &lt;br/&gt;golimumab (Simponi) &lt;br/&gt;inﬂiximab (Remicade)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTIDIARRHEALS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;ANTIULCER AND ANTI–GASTROINTESTINAL REFLUX DISEASE (GERD) DRUGS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;diphenoxylate + atropine (Lomotil) &lt;br/&gt;loperamide (Imodium)&lt;br/&gt;paregoric&lt;/td&gt;&lt;td&gt;cimetidine (Tagamet) &lt;br/&gt;esomeprazole (Nexium) &lt;br/&gt;famotidine (Pepcid) &lt;br/&gt;lansoprazole (Prevacid) &lt;br/&gt;omeprazole (Prilosec)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ANTINAUSEANTS (ANTIEMETICS)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;CATHARTICS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;metoclopramide (Reglan) &lt;br/&gt;ondansetron (Zofran) &lt;br/&gt;promethazine (Phenergan) &lt;br/&gt;prochlorperazine maleate (Compazine)&lt;/td&gt;&lt;td&gt;casanthranol + docusate sodium (PeriColace)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;Note: &lt;/em&gt;Brand names are in parentheses.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="23cd8bd7-074e-4e91-9885-7c8726d7e288">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-10 RESPIRATORY DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7b2ac060-ebbe-40f7-9d5b-2e8560004efb">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;BRONCHODILATORS &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;STEROIDS: INHALERS &lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;albuterol (Proventil, Ventolin HFA) &lt;sup&gt;*&lt;/sup&gt; &lt;br/&gt;formoterol  +  budesonide (Symbicort) &lt;sup&gt;†&lt;/sup&gt; &lt;br/&gt;ipratropium + albuterol (Combivent) &lt;sup&gt;*&lt;/sup&gt; &lt;br/&gt;salmeterol + ﬂuticasone (Advair Diskus) &lt;sup&gt;†&lt;/sup&gt;&lt;br/&gt;tiotropium bromide (Spiriva) &lt;sup&gt;‡&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;ﬂuticasone (Flovent) &lt;br/&gt;mometasone (Asmanex) &lt;br/&gt;triamcinolone (Azmacort)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;LEUKOTRIENE MODIFIERS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;STEROIDS: INTRAVENOUS OR ORAL &lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;montelukast (Singulair) &lt;br/&gt;zaﬁrlukast (Accolate) &lt;br/&gt;zileuton (Zyﬂo)&lt;/td&gt;&lt;td&gt;dexamethasone (Decadron) &lt;br/&gt;methylprednisolone (Medrol) &lt;br/&gt;prednison&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;* Short-acting; inhaled. † Long-acting. ‡ Anticholinergic; bronchodilator enhancers.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e4bbc460-3abf-49f0-b076-ea5c64d73fa2">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;RESPIRATORY DRUGS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="fb6cab1d-340c-4f78-8a1c-11ad16ec807f">
+    <STATIC_text>
+  <text>&lt;p&gt;Respiratory drugs are prescribed for the treatment of asthma and COPD (chronic obstructive pulmonary diseases such as emphysema and chronic bronchitis.) &lt;strong&gt;Bronchodilators&lt;/strong&gt; open bronchial tubes and are administered by injection or aerosol inhalers. &lt;strong&gt;Steroid drugs&lt;/strong&gt; are inhaled or given intravenously and orally to reduce chronic inflammation in respiratory passageways. &lt;strong&gt;Leukotriene modifiers&lt;/strong&gt; are recent additions to the anti-inflammatory therapy of asthma. They prevent asthma attacks and bronchospasms by blocking leukotriene (bronchoconstrictor) from binding to receptors in respiratory tissues. Table 21-10 gives examples of respiratory drugs.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a5cd35df-b3e6-43d1-8093-74a7c1fc3f7a">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SEDATIVE-HYPNOTICS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="e216bc92-a4b8-41f4-8983-5eea24a91790">
+    <STATIC_text>
+  <text>&lt;p&gt;Sedative-hypnotics are medications that depress the central nervous system and promote drowsiness (sedatives) and sleep (hypnotics). They are prescribed for insomnia and sleep disorders. These products have a very high abuse potential and should be used only for short periods of time and under close supervision. &lt;strong&gt;Barbiturates&lt;/strong&gt; and &lt;strong&gt;benzodiazepines&lt;/strong&gt; are the two major categories of sedative-hypnotics.&lt;/p&gt;&lt;p&gt;Low doses of &lt;strong&gt;benzodiazepines&lt;/strong&gt; (which influence the part of the brain responsible for emotions) may act as sedatives. In higher doses, benzodiazepines may act as hypnotics (to promote sleep).&lt;/p&gt;&lt;p&gt;Table 21-11 gives examples of sedative-hypnotics.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="94708a6e-5e5e-4a80-b18a-a375e3255e6f">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;STIMULANTS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="31388bf6-c3f9-4e90-9e50-15a0926005c3">
+    <STATIC_text>
+  <text>&lt;p&gt;Stimulants are drugs that act on the brain to speed up vital processes (heart and respiration) in cases of shock and collapse. They also increase alertness and inhibit hyperactive behavior in children. High doses can produce restlessness, insomnia, and hypertension. Examples of stimulants are &lt;strong&gt;amphetamines&lt;/strong&gt;—used to prevent narcolepsy (seizures of sleep), to suppress appetite, and to calm hyperkinetic children. &lt;strong&gt;Caffeine&lt;/strong&gt; also is a cerebral stimulant. It is used in drugs to relieve certain types of headache by constricting cerebral blood vessels. Table 21-11 lists examples of stimulants.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="e987626d-2ef3-4950-988e-5b984c4df326">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TRANQUILIZERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="65c67ee7-7fbc-4b87-b21e-0f5700babf15">
+    <STATIC_text>
+  <text>&lt;p&gt;Tranquilizers are useful for controlling anxiety. Minor tranquilizers &lt;strong&gt;(benzodiazepines)&lt;/strong&gt; control minor symptoms of anxiety. Major tranquilizers &lt;strong&gt;(phenothiazines)&lt;/strong&gt; control more severe disturbances of behavior. Table 21-11 lists examples of minor and major tranquilizers.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="5c8d49c7-d055-410e-b4d2-0568efe38972">
+    <STATIC_heading>
+  <headingLevel value="subheadingd"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TABLE 21-11 SEDATIVE-HYPNOTICS, STIMULANTS, AND TRANQUILIZERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="7091a914-1881-418e-9a19-b5ddfd90d65b">
+    <STATIC_table>
+  <text>&lt;table class="c-table--fixed c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;SEDATIVE-HYPNOTICS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;TRANQUILIZERS&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan="2"&gt;methaqualone (Quaalude) &lt;br/&gt;temazepam (Restoril)*&lt;br/&gt;triazolam (Halcion)* &lt;br/&gt;zolpidem tartrate (Ambien)&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Minor&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;alprazolam (Xanax)*&lt;br/&gt;buspirone (BuSpar) &lt;br/&gt;diazepam (Valium)* &lt;br/&gt;lorazepam (Ativan)*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;STIMULANTS&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Major&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;caffeine &lt;br/&gt;dextroamphetamine sulfate (Dexedrine) &lt;br/&gt;dextroamphetamine and amphetamine (Adderall) &lt;br/&gt;lisdexamfetamine (Vyvanse) &lt;br/&gt;methylphenidate (Ritalin) &lt;br/&gt;modaﬁnil (Provigil)&lt;/td&gt;&lt;td&gt;aripiprazole (Abilify) &lt;br/&gt;chlorpromazine (Thorazine)&lt;sup&gt;†&lt;/sup&gt;&lt;br/&gt;haloperidol (Haldol) &lt;br/&gt;lithium carbonate (Eskalith) &lt;br/&gt;olanzapine (Zyprexa) &lt;br/&gt;risperidone (Risperdal) &lt;br/&gt;thioridazine (Mellaril)&lt;sup&gt;†&lt;/sup&gt; &lt;br/&gt;triﬂuoperazine (Stelazine)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;* Benzodiazepine.&lt;sup&gt;†&lt;/sup&gt; Phenothiazine.&lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

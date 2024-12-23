@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="184536e4-9597-428b-9b0b-d6edc03c9446">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5de7855f-e48a-4d97-b05a-b74c30c329fd">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cytogenetic analysis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Chromosomes of normal or tumor cells are examined for breaks, translocations, or deletions of DNA.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The results of cytogenetic analysis can help confirm the diagnosis of a particular form of leukemia or other cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;immunohistochemistry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Localization of antigens or proteins in tissues using labeled (colored or fluorescent) antibodies.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This technique allows for evaluation of the presence and amount of specific molecules in normal and tumor cells.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;protein marker tests&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measure the level of proteins in the blood or on the surface of tumor cells.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These tests diagnose cancer or detect its recurrence after treatment. Examples are:&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="af304286-8189-4c26-af6a-ada770d554be">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;PROTEIN&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;WHERE MEASURED&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#007FAD;"&gt;&lt;strong&gt;TYPE OF CANCER&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;acid phosphatase&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;prostate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;alpha-fetoprotein (AFP)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;liver, testicular&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;beta-hCG (human chorionic gonadotropin)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;choriocarcinoma, testicular&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CA-125&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;ovarian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CEA (carcinoembryonic antigen)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;colorectal, GI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;estrogen receptor&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tumor cells&lt;/td&gt;&lt;td&gt;breast&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;PSA (prostate-specific antigen)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;prostate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;15.3 and 29.7&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;breast&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;19.9&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blood&lt;/td&gt;&lt;td&gt;pancreatic&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

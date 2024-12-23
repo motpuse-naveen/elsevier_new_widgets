@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="a91af87a-0635-436a-ab33-cf72db508e77">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_terminology.png" data-handler-handled="true"/&gt; TERMINOLOGY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="11cc46ef-60a0-45bf-89dd-36c82b00c3f7">
+    <STATIC_text>
+  <text>&lt;p&gt;Check the Pronunciation of Terms section for any unfamiliar words.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="edf909ad-3cfa-4e63-9783-6bf48c5854f1">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;PARTS OF THE BODY&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="622cd199-e0c9-437e-9fdc-857271cd1c44">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;an/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;anus&lt;/td&gt;&lt;td&gt;peri&lt;u&gt;an&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;append/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;append/o appendix&lt;/td&gt;&lt;td&gt;&lt;u&gt;append&lt;/u&gt;ectomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;appendic/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;&lt;u&gt;appendic&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;See Figure 5-14.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bucc/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;cheek &lt;/td&gt;&lt;td&gt;&lt;u&gt;bucc&lt;/u&gt;almucosa&lt;br/&gt;&lt;em&gt;A mucosa is a &lt;strong&gt;mucous membrane&lt;/strong&gt; lining cavities or canals that open to the outside of the body.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cec/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;cecum &lt;/td&gt;&lt;td&gt;&lt;u&gt;cec&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;celi/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;belly, abdomen &lt;/td&gt;&lt;td&gt;&lt;u&gt;celi&lt;/u&gt;ac&lt;br/&gt;&lt;em&gt;Abdomin/o and lapar/o also mean abdomen. &lt;strong&gt;Celiac disease&lt;/strong&gt; is damage to the lining of the small intestine, occurring as a reaction to eating gluten.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="28507386-d22d-43da-b4c2-dc33c2657c84">
+    <STATIC_figure>
+  <image>Fig_5.14.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-14 &lt;/span&gt;Stages of appendicitis. A,&lt;/strong&gt; Obstruction and bacterial infection cause red, swollen, and inflamed appendix. &lt;strong&gt;B,&lt;/strong&gt; Pus and bacteria invade the wall of the appendix. &lt;strong&gt;C,&lt;/strong&gt; Pus perforates (ruptures through) the wall of the appendix into the abdomen, leading to peritonitis (inflammation of the peritoneum).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f0640f0b-2a82-47ad-80a2-15d30972699e">
+    <STATIC_figure>
+  <image>Fig_5.15.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-15&lt;/span&gt; A. Locations of stomas in the ileum and colon. B. Colostomy care.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="60d25c17-782b-4f39-af72-78bd6561b17c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cheil/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lip&lt;/td&gt;&lt;td&gt;&lt;u&gt;cheil&lt;/u&gt;osis&lt;br/&gt;&lt;em&gt;Labi/o also means lip.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;cholecyst/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;gallbladder &lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;u&gt;cholecyst&lt;/u&gt;ectomy&lt;br/&gt;&lt;em&gt;Chol/e = gall, bile.&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;choledoch/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;common bile duct &lt;/td&gt;&lt;td&gt;&lt;u&gt;choledoch&lt;/u&gt;otomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;col/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;colon &lt;/td&gt;&lt;td&gt;&lt;u&gt;col&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;The sufﬁx -stomy, when used with a combining form for an organ, means an opening to the outside of the body. A &lt;strong&gt;stoma&lt;/strong&gt; is an opening between an organ and the surface of the body (Figure 5-15A and B).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;colon/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;colon &lt;/td&gt;&lt;td&gt;&lt;u&gt;colon&lt;/u&gt;ic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;dent/i&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tooth &lt;/td&gt;&lt;td&gt;&lt;u&gt;denti&lt;/u&gt;buccal&lt;br/&gt;&lt;em&gt;Odont/o also means tooth&lt;/em&gt;. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;duoden/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;duodenum &lt;/td&gt;&lt;td&gt;&lt;u&gt;duoden&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;enter/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;intestines, usually small intestine&lt;/td&gt;&lt;td&gt;&lt;u&gt;enter&lt;/u&gt;ocolitis&lt;br/&gt;&lt;em&gt;&lt;span style="color:#D24634;"&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;HINT&lt;/strong&gt;: When two combining forms for gastrointestinal organs are in a term, the one for the organ closer to the mouth appears ﬁrst.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;enter&lt;/u&gt;o&lt;u&gt;enter&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;New opening between two previously unconnected parts of the small intestine. This is an &lt;strong&gt;anastomosis&lt;/strong&gt;, which is any surgical connection between two parts, such as vessels, ducts, or bowel segments (ana = up, stom = opening, -sis = state of) (Figure 5-16). &lt;/em&gt;&lt;br/&gt;&lt;br/&gt;mes&lt;u&gt;enter&lt;/u&gt;y&lt;br/&gt;&lt;em&gt;Part of the double fold of peritoneum that stretches around the organs in the abdomen, the mesentery holds the organs in place. Literally, it lies in the middle (mes-) of the intestines, a membrane attaching the intestines to the muscle wall at the back of the abdomen (Figure 5-17).&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;par&lt;u&gt;enter&lt;/u&gt;al&lt;br/&gt;&lt;em&gt;Par (from para-) means apart from in this term. An intravenous line brings &lt;strong&gt;parenteral nutrition&lt;/strong&gt; directly into the bloodstream, bypassing the intestinal tract (&lt;strong&gt;enteral&lt;/strong&gt; nutrition). Parenteral injections may be subcutaneous or intramuscular as well. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5ee30b83-448b-4ac4-8763-9dafd7bf0649">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Cholecyst/o and Cyst/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;strong&gt;cholecyst/o (gallbladder)&lt;/strong&gt; with &lt;strong&gt;cyst/o&lt;/strong&gt;, which is the &lt;strong&gt;urinary bladder&lt;/strong&gt;.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="412d858b-8618-4e34-b936-2ef4b392015c">
+    <STATIC_figure>
+  <image>Fig_5.16.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;span style="color:#D81E5D;"&gt;&lt;strong&gt;FIGURE 5-16&lt;/strong&gt; &lt;/span&gt;&lt;strong&gt;Three types of anastomoses&lt;/strong&gt;. These are examples of an enteroenterostomy. The suffix -stomy, when used with two or more combining forms (enter/o and enter/o), indicates the surgical creation of a new opening between those parts of the body.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="982a49ae-8de6-40c9-981c-631c32e6e550">
+    <STATIC_figure>
+  <image>Fig_5.17.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 5-17&lt;/span&gt;&lt;/strong&gt; &lt;strong&gt;Mesentery&lt;/strong&gt;. The &lt;strong&gt;omentum&lt;/strong&gt; and &lt;strong&gt;mesocolon&lt;/strong&gt; are parts of the mesentery. The omentum (raised in this figure) actually hangs down like an apron over the intestines. The mesentery contains blood and lymph vessels. The lymph nodes in the mesentery are important indicators in the spread of colon cancer (staging of colon cancer).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="2a6869ce-734a-4a74-9c1d-3a2d6c5d4888">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;esophag/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;esophagus &lt;/td&gt;&lt;td&gt;&lt;u&gt;esophag&lt;/u&gt;eal&lt;br/&gt;&lt;strong&gt;&lt;span style="color:#D24634;"&gt;*&lt;/span&gt;&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;HINT&lt;/strong&gt;: Changing the sufﬁx from -al to -eal softens the ﬁnal g&lt;/em&gt; (eh-sof-ah-JE-al)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;faci/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;face &lt;/td&gt;&lt;td&gt;&lt;u&gt;faci&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gastr/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;stomach&lt;/td&gt;&lt;td&gt;&lt;u&gt;gastr&lt;/u&gt;ostomy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gingiv/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;gums&lt;/td&gt;&lt;td&gt;&lt;u&gt;gingiv&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gloss/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tongue&lt;/td&gt;&lt;td&gt;hypo&lt;u&gt;gloss&lt;/u&gt;al&lt;br/&gt;&lt;em&gt;Lingu/o also means tongue.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;hepat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;liver&lt;/td&gt;&lt;td&gt;&lt;u&gt;hepat&lt;/u&gt;oma&lt;br/&gt;&lt;em&gt;Also called &lt;strong&gt;hepatocellular carcinoma&lt;/strong&gt;.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;ile/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ileum &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;/td&gt;&lt;td&gt;&lt;u&gt;ile&lt;/u&gt;ocecal sphincter&lt;br/&gt;&lt;em&gt;Also called the ileocecal valve.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;u&gt;ile&lt;/u&gt;itis&lt;br/&gt;&lt;br/&gt;&lt;u&gt;ile&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;See Figure 5-15A.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;jejun/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;jejunum&lt;/td&gt;&lt;td&gt;choledocho&lt;u&gt;jejun&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;An anastomosis&lt;/em&gt;.&lt;br/&gt;&lt;br/&gt;gastro&lt;u&gt;jejun&lt;/u&gt;ostomy&lt;br/&gt;&lt;em&gt;This is part of a &lt;strong&gt;gastric bypass&lt;/strong&gt; procedure. See Figure 6-7B.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;labi/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lip&lt;/td&gt;&lt;td&gt;&lt;u&gt;labi&lt;/u&gt;al&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lapar/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;abdomen&lt;/td&gt;&lt;td&gt;&lt;u&gt;lapar&lt;/u&gt;oscopy&lt;br/&gt;&lt;em&gt;A form of &lt;strong&gt;minimally invasive surgery (MIS)&lt;/strong&gt;. Examples are laparoscopic cholecystectomy (Figure 5-28) and laparoscopic appendectomy.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lingu/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;tongue&lt;/td&gt;&lt;td&gt;sub&lt;u&gt;lingu&lt;/u&gt;al &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;mandibul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;lower jaw, mandible&lt;/td&gt;&lt;td&gt;sub&lt;u&gt;mandibul&lt;/u&gt;ar &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;odont/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;tooth&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;orth&lt;u&gt;odont&lt;/u&gt;ist&lt;br/&gt;&lt;em&gt;Orth/o means straight.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;peri&lt;u&gt;odont&lt;/u&gt;ist&lt;br/&gt;&lt;br/&gt;end&lt;u&gt;odont&lt;/u&gt;ist&lt;br/&gt;&lt;em&gt;Performs root canal therapy&lt;/em&gt;.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3a79650d-b6de-4345-9db3-d76127544c58">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Ileum and Ilium&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse the &lt;strong&gt;ileum&lt;/strong&gt;, which is the third part of the small intestine, with the &lt;strong&gt;ilium&lt;/strong&gt;, uppermost and largest part of the pelvis (hip bone).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="73b48035-b445-46da-83c4-94c4b56779d8">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;or/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;mouth &lt;/td&gt;&lt;td&gt;&lt;u&gt;or&lt;/u&gt;al&lt;br/&gt;Stomat/o&lt;br/&gt;&lt;em&gt;also means mouth&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;palat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;palate&lt;/td&gt;&lt;td&gt;&lt;u&gt;palat&lt;/u&gt;oplasty&lt;br/&gt;&lt;em&gt;Procedure to repair cleft palate and cleft lip; repair of a cleft palate.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pancreat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pancreas&lt;/td&gt;&lt;td&gt;&lt;u&gt;pancreat&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;peritone/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;peritoneum&lt;/td&gt;&lt;td&gt;&lt;u&gt;periton&lt;/u&gt;itis&lt;br/&gt;&lt;em&gt;The e of the root has been dropped in this term.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pharyng/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;throat&lt;/td&gt;&lt;td&gt;&lt;u&gt;pharyng&lt;/u&gt;eal&lt;br/&gt;&lt;br/&gt;palato&lt;u&gt;pharyng&lt;/u&gt;oplasty&lt;br/&gt;&lt;em&gt;Used to treat cases of snoring or sleep apnea caused by obstructions in the throat or nose.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;proct/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;anus and rectum&lt;/td&gt;&lt;td&gt;&lt;u&gt;proct&lt;/u&gt;ologist&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;pylor/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;pyloric sphincter&lt;/td&gt;&lt;td&gt;&lt;u&gt;pylor&lt;/u&gt;oplasty&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;rect/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;rectum&lt;/td&gt;&lt;td&gt;&lt;u&gt;rect&lt;/u&gt;ocele&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sialaden/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;salivary gland&lt;/td&gt;&lt;td&gt;&lt;u&gt;sialaden&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sigmoid/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sigmoid colon&lt;/td&gt;&lt;td&gt;&lt;u&gt;sigmoid&lt;/u&gt;oscopy &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;stomat/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;mouth&lt;/td&gt;&lt;td&gt;&lt;u&gt;stomat&lt;/u&gt;itis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;uvul/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;uvula&lt;/td&gt;&lt;td&gt;&lt;u&gt;uvul&lt;/u&gt; ectomy&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3f73fb03-9d03-42a0-9da5-2573b1332c34">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUBSTANCES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1a3eebd2-f7b0-4097-a43a-2ee459cc9f6c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;amyl/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;starch&lt;/td&gt;&lt;td&gt;&lt;u&gt;amyl&lt;/u&gt;ase&lt;br/&gt;&lt;em&gt;The sufﬁx -ase means enzyme&lt;/em&gt;. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bil/i&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;gall, bile&lt;/td&gt;&lt;td&gt;&lt;u&gt;bil&lt;/u&gt;iary&lt;br/&gt;&lt;em&gt;The &lt;strong&gt;biliary tract&lt;/strong&gt; includes the organs (liver and gallbladder) and ducts (hepatic, cystic, and common bile ducts) that secrete, store, and empty bile into the duodenum.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;bilirubin/o&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;bilirubin (bile pigment)&lt;/td&gt;&lt;td&gt;hyper&lt;u&gt;bilirubin&lt;/u&gt;emia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;chol/e&lt;/strong&gt; &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;​​​​​​​&lt;/td&gt;&lt;td&gt;gall, bile &lt;/td&gt;&lt;td&gt;&lt;u&gt;chol&lt;/u&gt;elithiasis&lt;br/&gt;&lt;em&gt;Lith/o means stone or calculus; -iasis means abnormal condition.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a5f41ecd-6dd1-4e08-a27d-754a5771c5ac">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Chol/e and Col/o&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t confuse &lt;strong&gt;chol/e&lt;/strong&gt;, which means gall or bile, with &lt;strong&gt;col/o&lt;/strong&gt;, which indicates the colon! The context of the term will help you determine the correct spelling.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="fc2e682c-627c-4ba5-9157-11f77043fcd3">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;COMBINING FORM&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;chlorhydr/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;hydrochloric acid &lt;/td&gt;&lt;td&gt;a&lt;u&gt;chlorhydr&lt;/u&gt;ia&lt;br/&gt;&lt;em&gt;Absence of gastric juice is associated with gastric carcinoma.&lt;/em&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;gluc/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sugar&lt;/td&gt;&lt;td&gt;&lt;u&gt;gluc&lt;/u&gt;oneogenesis&lt;br/&gt;&lt;em&gt;Liver cells make new sugar from fats and proteins. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;glyc/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;sugar&lt;/td&gt;&lt;td&gt;&lt;p&gt;hyper&lt;u&gt;glyc&lt;/u&gt;emia&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;glycogen/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;glycogen, animal starch &lt;/td&gt;&lt;td&gt;&lt;u&gt;glycogen&lt;/u&gt;olysis&lt;br/&gt;&lt;em&gt;Liver cells change glycogen back to glucose when blood sugar levels drop.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lip/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fat, lipid &lt;/td&gt;&lt;td&gt;&lt;u&gt;lip&lt;/u&gt;oma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;lith/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;stone &lt;/td&gt;&lt;td&gt;&lt;u&gt;lith&lt;/u&gt;ogenesis &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;prote/o&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;protein&lt;/td&gt;&lt;td&gt;&lt;u&gt;prote&lt;/u&gt;ase&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;py/o&lt;/strong&gt; &lt;/td&gt;&lt;td&gt;py/o&lt;/td&gt;&lt;td&gt; &lt;u&gt;py&lt;/u&gt;orrhea &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt;&lt;br/&gt;&lt;em&gt;Periodontitis; an advanced stage of periodontal disease (gingivitis).&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;sial/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;saliva, salivary &lt;/td&gt;&lt;td&gt;&lt;u&gt;sial&lt;/u&gt;olith&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;steat/o &lt;/strong&gt;&lt;/td&gt;&lt;td&gt;fat&lt;/td&gt;&lt;td&gt;&lt;u&gt;steat&lt;/u&gt;orrhea&lt;br/&gt;&lt;em&gt;Improperly digested (malabsorbed) fats will appear in the feces.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="4b043bb9-9073-4676-abdf-8557a26ead36">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; &lt;strong&gt;Pyorrhea and Pyuria&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pyorrhea&lt;/strong&gt; is discharge (-rrhea) of pus from gums, and &lt;strong&gt;pyuria&lt;/strong&gt; is presence of pus in urine (sign of a urinary tract infection).&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ed710cee-15f5-4273-84b5-69537fdfc98d">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SUFFIXES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="ae9ec9c3-ce96-4b1b-bb44-c3777dc29deb">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;SUFFIX&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;MEANING&lt;/span&gt;&lt;/th&gt;&lt;th scope="col"&gt;&lt;span style="color:#556B04;"&gt;TERMINOLOGY&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-ase&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;enzyme &lt;/td&gt;&lt;td&gt;lip&lt;u&gt;ase&lt;/u&gt;&lt;br/&gt;&lt;em&gt;Enzymes speed up chemical reactions. Lipase aids in the digestion of fats. In all types of liver disease, liver enzyme levels may be elevated, indicating damage to liver cells. Signs and symptoms include malaise, anorexia, hepatomegaly, jaundice, and abdominal pain.&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-chezia&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;defecation, elimination of wastes&lt;/td&gt;&lt;td&gt;hemato&lt;u&gt;chezia&lt;/u&gt;&lt;br/&gt;&lt;em&gt;(he-mat-o-KE-ze-ah) Bright red blood is found in the feces. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-iasis&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;abnormal condition&lt;/td&gt;&lt;td&gt;choledocholith&lt;u&gt;iasis&lt;/u&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;-prandial&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;meal&lt;/td&gt;&lt;td&gt;post&lt;u&gt;prandial&lt;/u&gt;&lt;br/&gt;&lt;em&gt;&lt;strong&gt;Post cibum (p.c.)&lt;/strong&gt;, seen on written prescriptions, also means after meals. &lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+</blocks>

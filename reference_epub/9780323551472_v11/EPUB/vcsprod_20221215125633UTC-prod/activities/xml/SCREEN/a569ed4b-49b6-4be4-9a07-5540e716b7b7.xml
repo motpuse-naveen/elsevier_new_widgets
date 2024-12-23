@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="419d969c-24a8-4e56-94a4-ed8c6e87f002">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;LABORATORY TESTS AND CLINICAL PROCEDURES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="5bc4a86e-f8e8-4928-af0a-c17bb8078d36">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;span style="color:#007FAD;"&gt;LABORATORY TESTS&lt;/span&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="99b332da-8859-4b4a-9d38-f7b475c71ab2">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;PSA test&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Measurement of levels of prostate-specific antigen (PSA) in the blood.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;PSA is produced by cells within the prostate gland. Elevated levels of PSA are associated with enlargement of the prostate gland and may be a sign of prostate cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;semen analysis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Microscopic examination of ejaculated fluid.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sperm cells are counted and examined for motility and shape. The test is part of fertility studies and is required to establish the effectiveness of vasectomy. Men with sperm counts of less than 20 million/mL of semen usually are sterile (not fertile). Sterility can result in an adult male who becomes ill with mumps, an infectious disease affecting the testes (inflammation leads to deterioration of spermatozoa).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a5ca83e9-05b8-4a0a-a936-56d03bb73e52">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;CLINICAL PROCEDURES&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="9b6522bc-add2-4fd9-8dc9-421055e0cb51">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;castration&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Surgical excision of testicles or ovaries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Castration may be performed to reduce production and secretion of hormones that stimulate growth of malignant cells (in breast cancer and prostate cancer). When a boy is castrated before puberty, he becomes a eunuch (Greek, &lt;em&gt;eune&lt;/em&gt;, couch; &lt;em&gt;echein&lt;/em&gt;, to guard). Male secondary sex characteristics fail to develop.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;circumcision&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Surgical procedure to remove the prepuce (foreskin) of the penis.&lt;/strong&gt;&lt;br/&gt;See Figure 9-11B.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;digital rectal examination (DRE)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Finger palpation through the anal canal and rectum to examine the prostate gland.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;See Figure 9-10.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;photoselective vaporization of the prostate (GreenLight PVP)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of tissue to treat benign prostatic hyperplasia (BPH) using a green light laser (“laser TURP”). &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This minimally invasive procedure in selected cases replaces TURP for treatment of BPH.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;transurethral resection of the prostate (TURP)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Removal of portions of prostate gland through the urethra.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This procedure treats benign prostatic hyperplasia (BPH). An electrical hot loop cuts the prostatic tissue; the bits of tissue (chips) are removed through the resectoscope (Figure 9-14).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;vasectomy&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bilateral surgical removal of a part of the vas deferens&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;A urologist cuts the vas deferens, removes a piece, and performs a &lt;strong&gt;ligation &lt;/strong&gt;(tying and binding off) of the free ends with sutures (Figure 9-15); this is repeated on the opposite side. The procedure is performed using local anesthesia and through an incision in the scrotal sac. Because spermatozoa cannot leave the body, the vasectomized man is sterile, but not castrated. Normal hormone secretion, sex drive, and potency (ability to have an erection) are intact. The body reabsorbs unexpelled sperm. In some cases, a vasovasostomy can successfully reverse vasectomy.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="a5770719-110c-4ebd-be49-a99fb7f75a94">
+    <STATIC_figure>
+  <image>fig9-14.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-14 &lt;/span&gt;Transurethral resection of the prostate (TURP). A,&lt;/strong&gt; The resectoscope contains a light, valves for controlling irrigating fluid, and an electrical loop that cuts tissue and seals blood vessels. &lt;strong&gt;B, &lt;/strong&gt;The urologist uses a wire loop through the resectoscope to remove obstructing tissue one piece at a time. The pieces are carried by the fluid into the bladder and flushed out at the end of the operation.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="24727a5d-8481-4fb5-90de-644977dcf12e">
+    <STATIC_figure>
+  <image>fig9-15.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-15 &lt;/span&gt;Vasectomy.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

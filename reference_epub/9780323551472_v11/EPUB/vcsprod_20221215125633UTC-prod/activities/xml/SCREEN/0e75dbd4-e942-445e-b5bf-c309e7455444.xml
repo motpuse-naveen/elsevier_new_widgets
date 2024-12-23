@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="e83abf5c-80c5-4902-bdd9-522d45c4364e">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;ANATOMY AND PHYSIOLOGY OF RESPIRATION&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="829834f5-5c7f-4189-a7f2-63a40cb8d0bd">
+    <STATIC_text>
+  <text>&lt;p&gt;Label Figure 12-2 as you read the following paragraphs that describe the respiratory organs and their functions.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="3aef55df-cdf0-4ac6-9612-9e0ddf9ee8a5">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>chp00012_f012-002-9780323551472.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-2 &lt;/span&gt;Organs of the respiratory system.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[nose]&lt;/li&gt;&lt;li&gt;[nasal cavity]&lt;/li&gt;&lt;li&gt;[Paranasal sinuses]&lt;/li&gt;&lt;li&gt;[nasopharynx]&lt;/li&gt;&lt;li&gt;[pharyngeal tonsils or adenoids]&lt;/li&gt;&lt;li&gt;[oropharynx]&lt;/li&gt;&lt;li&gt;[palatine tonsils]&lt;/li&gt;&lt;li&gt;[laryngopharynx]&lt;/li&gt;&lt;li&gt;[larynx (voice box)]&lt;/li&gt;&lt;li&gt;[esophagus]&lt;/li&gt;&lt;li&gt;[epiglottis]&lt;/li&gt;&lt;li&gt;[trachea (windpipe)]&lt;/li&gt;&lt;li&gt;[mediastinum]&lt;/li&gt;&lt;li&gt;[bronchial tubes or bronchi]&lt;/li&gt;&lt;li&gt;[lung]&lt;/li&gt;&lt;li&gt;[terminal bronchiole]&lt;/li&gt;&lt;li&gt;[alveoli]&lt;/li&gt;&lt;li&gt;[capillary]&lt;/li&gt;&lt;li&gt;[erythrocytes]&lt;/li&gt;&lt;li&gt;[parietal pleura]&lt;/li&gt;&lt;li&gt;[visceral pleura]&lt;/li&gt;&lt;li&gt;[diaphragm]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="0ca72cc3-dfad-4635-b6cf-938da322e7af">
+    <STATIC_text>
+  <text>&lt;p&gt;Air enters the body via the &lt;strong&gt;nose &lt;/strong&gt;[1] through two openings called nostrils or &lt;strong&gt;nares&lt;/strong&gt;. Air then passes through the &lt;strong&gt;nasal cavity&lt;/strong&gt; [2], lined with a mucous membrane and fine hairs (cilia) to help filter out foreign bodies, as well as to warm and moisten the air. &lt;strong&gt;Paranasal sinuses&lt;/strong&gt; [3] are hollow, air-containing spaces within the skull that communicate with the nasal cavity. They, too, have a mucous membrane lining. Besides producing mucus, a lubricating fluid, the sinuses lighten the bones of the skull and help produce sound.&lt;/p&gt;&lt;p&gt;After passing through the nasal cavity, the air next reaches the&lt;strong&gt; pharynx (throat)&lt;/strong&gt;. There are three divisions of the pharynx. The first is the &lt;strong&gt;nasopharynx &lt;/strong&gt;[4]. It contains the&lt;strong&gt; pharyngeal tonsils, &lt;/strong&gt;or &lt;strong&gt;adenoids&lt;/strong&gt; [5], which are collections of lymphatic tissue. They are more prominent in children and, if enlarged, can obstruct air passageways. Below the nasopharynx and closer to the mouth is the second division of the pharynx, the &lt;strong&gt;oropharynx &lt;/strong&gt;[6]. The &lt;strong&gt;palatine tonsils &lt;/strong&gt;[7], two rounded masses of lymphatic tissue, are in the oropharynx. The third division of the pharynx, the &lt;strong&gt;laryngopharynx &lt;/strong&gt;[8], serves as a common passageway for food from the mouth and air from the nose. It divides into the &lt;strong&gt;larynx (voice box) &lt;/strong&gt;[9] and the &lt;strong&gt;esophagus &lt;/strong&gt;[10].&lt;/p&gt;&lt;p&gt;The esophagus leads into the stomach and carries food to be digested. The larynx contains the vocal cords and is surrounded by pieces of cartilage for support and to keep the airway open. The thyroid cartilage is the largest and in men is commonly referred to as the Adam’s apple. As expelled air passes the vocal cords, they vibrate to produce sounds. The tension of the vocal cords determines the high or low pitch of the voice.&lt;/p&gt;&lt;p&gt;Because food entering from the mouth and air entering from the nose mix in the pharynx, what prevents food or drink from entering the larynx and respiratory system during swallowing? Even if a small quantity of solid or liquid matter finds its way into the air passages, aspirated food can cause irritation in the lungs and breathing can stop. The &lt;strong&gt;epiglottis &lt;/strong&gt;[11], a flap of cartilage attached to the root of the tongue, prevents choking or aspiration of food. It acts as a lid over the opening of the larynx. During swallowing, when food and liquid move through the throat, the epiglottis closes over the larynx, preventing material from entering the lungs. Figure 12-3 shows the larynx from a superior view.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="ab405b17-cb79-4932-8b5f-cdd1166bdeef">
+    <STATIC_figure>
+  <image>chp00012_f012-003-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-3 &lt;/span&gt;The larynx, viewed from above (superior view).&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="28b4003a-0fa5-419e-ab56-a1cf223a3c87">
+    <STATIC_text>
+  <text>&lt;p&gt;On its way to the lungs, air passes through the larynx to the &lt;strong&gt;trachea (windpipe)&lt;/strong&gt; [12], a vertical tube about &lt;sup&gt;4&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; inches long and 1 inch in diameter. The trachea is kept open by 16 to 20 C-shaped rings of cartilage separated by fibrous connective tissue that stiffen the front and sides of the tube.&lt;/p&gt;&lt;p&gt;The &lt;strong&gt;mediastinum &lt;/strong&gt;[13] is a space in the center of the chest. In the region of the mediastinum, the trachea divides into two branches, the right and left &lt;strong&gt;bronchial tubes&lt;/strong&gt;, or &lt;strong&gt;bronchi &lt;/strong&gt;[14] (&lt;em&gt;singular&lt;/em&gt;: &lt;strong&gt;bronchus&lt;/strong&gt;). The bronchi are tubes composed of delicate epithelium surrounded by cartilage rings and a muscular wall. Each bronchus leads to a separate &lt;strong&gt;lung &lt;/strong&gt;[15], where it divides and subdivides into smaller and finer tubes, somewhat like the branches of a tree.&lt;/p&gt;&lt;p&gt;The small bronchial branches are the &lt;strong&gt;bronchioles&lt;/strong&gt;. Each &lt;strong&gt;terminal bronchiole&lt;/strong&gt; [16] narrows into alveolar ducts, which end in collections of air sacs called &lt;strong&gt;alveoli &lt;/strong&gt;[17] (&lt;em&gt;singular&lt;/em&gt;: &lt;strong&gt;alveolus&lt;/strong&gt;). About 300 million alveoli are estimated to be present in both lungs. The total area of the alveoli is approximately the size of a tennis court. Each alveolus is lined with a one-cell-thick layer of epithelium. This very thin wall permits an exchange of gases between the alveolus and the &lt;strong&gt;capillary &lt;/strong&gt;[18] surrounding it. Blood flowing through the capillary accepts oxygen from the alveolus while depositing carbon dioxide into the alveolus. &lt;strong&gt;Erythrocytes &lt;/strong&gt;[19] in the blood carry oxygen away from the lungs to all parts of the body and carbon dioxide back to the lungs for exhalation.&lt;/p&gt;&lt;p&gt;Each lung is covered by a double-layered membrane called the &lt;strong&gt;pleura&lt;/strong&gt;. The outer layer of this membrane, nearer the ribs, is the &lt;strong&gt;parietal pleura&lt;/strong&gt; [20], and the inner layer, closer to the lung, is the&lt;strong&gt; visceral pleura&lt;/strong&gt; [21]. A serous (thin, watery fluid) secretion moistens the pleura and facilitates movements of the lungs within the chest (thorax).&lt;/p&gt;&lt;p&gt;The two lungs are not quite mirror images of each other. The slightly larger right lung is divided into three &lt;strong&gt;lobes&lt;/strong&gt;, whereas the smaller left lung has two lobes. One lobe of the lung can be removed without significantly compromising lung function. The uppermost part of the lung is the &lt;strong&gt;apex&lt;/strong&gt;, and the lower area is the &lt;strong&gt;base&lt;/strong&gt;. The &lt;strong&gt;hilum &lt;/strong&gt;of the lung is the midline region in which blood vessels, nerves, lymphatic tissue, and bronchial tubes enter and exit.&lt;/p&gt;&lt;p&gt;The lungs extend from the collarbone to the &lt;strong&gt;diaphragm &lt;/strong&gt;[22] in the thoracic cavity. The diaphragm is a muscular partition separating the thoracic from the abdominal cavity and aiding in the process of breathing. It contracts and descends with each &lt;strong&gt;inhalation (inspiration) &lt;/strong&gt;and relaxes and ascends with each &lt;strong&gt;exhalation (expiration).&lt;/strong&gt; The downward movement of the diaphragm enlarges the area in the thoracic cavity, decreasing internal air pressure, so that air flows into the lungs to equalize the pressure. When the lungs are full, the diaphragm relaxes and elevates, making the area in the thoracic cavity smaller, thus increasing air pressure in the chest. Air then is expelled out of the lungs to equalize the pressure; this is &lt;strong&gt;exhalation (expiration).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Figure 12-4 shows the position of the diaphragm in inspiration and in expiration.&lt;/p&gt;&lt;p&gt;Figure 12-5 is a flow diagram of the pathway of air from the nose, where air enters the body, to the capillaries of the lungs, where oxygen enters the bloodstream.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="f9c7b4ee-73e7-4f45-8f17-3d5be8ffdbf9">
+    <STATIC_figure>
+  <image>chp00012_f012-004-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-4 &lt;/span&gt;Position of the diaphragm during inhalation (inspiration) and exhalation (expiration).&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e507678f-7a3a-4272-a3a0-4455c55184bc">
+    <STATIC_figure>
+  <image>chp00012_f012-005-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 12-5 &lt;/span&gt;Pathway of air from the nose to the capillaries of the lungs.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

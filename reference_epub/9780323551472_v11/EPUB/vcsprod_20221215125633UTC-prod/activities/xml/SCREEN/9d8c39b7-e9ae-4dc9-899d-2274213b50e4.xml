@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="66e2b6c8-5a53-46b7-a1aa-2f6a69497ae5">
+    <STATIC_heading>
+  <headingLevel value="heading"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 50px; height: 50px;" src="../media/icon_inperson.jpg" data-handler-handled="true"/&gt; IN PERSON: PROSTATE CANCER&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="52837436-aeb8-48b3-a633-2575b5c1403f">
+    <STATIC_text-figure>
+  <image>page_254_07.jpg</image>
+  <imageControls>
+    <imageScale value="1-2-screen"/>
+    <imageAlignment value="right"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption/>
+  <!-- <figcaptionPos>bottom</figcaptionPos> -->
+  <!-- <imagePos>left</imagePos> -->
+  <imageAlt/>
+  <text>&lt;p&gt;&lt;em&gt;This is a first-person narrative of a man diagnosed with prostate cancer.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As with many men in their late 50s, the PSA prostate-related lab test was the first item I would always look at when having my annual physical. Over a few years, the PSA had been going up gradually, but nothing that seemed to indicate anything unusual. So it was a bit of a surprise when my primary care doctor suggested that it might be time to have a further medical review of the slowly increasing results. The PSA was 4.37 ng/mL (4.0 or less is considered normal).&lt;/p&gt;&lt;p&gt;Being in good overall health, I expected the follow-up prostate exam and biopsy to be of a routine nature. It was with great surprise that the prostate biopsy showed that 3 of 12 samples were positive for cancerous cells. My Gleason score was 6 (3 + 3). This situation was described to me as favorable, an early-stage cancer. Nevertheless, I had no idea of the treatment options available.&lt;/p&gt;&lt;p&gt;I decided that the best way to reach a decision for a treatment plan was to get together with the doctors at the Mass General Cancer Center genitourinary clinic, where my situation would be reviewed, and to learn more about my options. I realized that the possibilities ranged widely, including watchful waiting, external radiation, internal radiation, and prostate surgery (prostatectomy). In the end, the decision becomes your own in early-stage prostate cancer, and that, in itself, can leave you second-guessing the choice.&lt;/p&gt;&lt;p&gt;After careful thought and review of the information with my physicians and family, I decided to pursue the internal radiation option, or brachytherapy, often referred to as implantation of radiation seeds. Even up to the time of the procedure, the question remained with me as to whether I was making the right choice. Should I wait a while and just see how things go? Would there be any of the side effects that are noted for this procedure, such as bowel or bladder irritation? I had the internal radiation done at MGH. The entire medical team there made the process from start to completion as easy an event as one could hope for. The best news was that after the procedure, as tumor disappeared, my PSA began to drop.&lt;/p&gt;&lt;p&gt;Now a year has passed, and I am happy to see that the PSA has continued downward. The long-term side effects of the brachytherapy procedure were related to urination and erectile dysfunction. While urination post-procedure was painful, discomfort dissipated within a week or so. Long term, managing the control of urination was an issue, but after a year it has definitely improved. Erectile dysfunction after any type of prostate procedure is an issue. I found it to be a major effect early on, but less as time progressed. There is still the required PSA testing to see that the tumor has not returned. But taking warning signs seriously, educating yourself, and making an informed decision with the help of the best medical team possible will make you feel good about your choices.&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;em&gt;Kevin Mahoney is a U.S. veteran, now working as a program manager.&lt;br/&gt;He enjoys spending time with his family, including his wife, children, and grandchildren. &lt;/em&gt;&lt;/p&gt;</text>
+</STATIC_text-figure>
+  </block>
+</blocks>

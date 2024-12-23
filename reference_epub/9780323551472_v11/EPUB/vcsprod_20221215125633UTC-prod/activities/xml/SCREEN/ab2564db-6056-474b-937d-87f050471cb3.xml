@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="ddf8dbe2-f2ee-4bde-91d8-a56ea10aeb30">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGY—BONES&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="dc99633e-baf1-4569-b4f4-432ae4759438">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Ewing sarcoma&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Rare malignant tumor arising in bone; most often occurring in children.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pain and swelling are common, especially if the tumor involves the shaft (medullary cavity) of a long bone. This tumor usually occurs at an early age between 5 and 15 years, and combined treatment with surgery, radiotherapy, and chemotherapy represents the best chance for cure (60% to 70% of patients are cured if metastasis has not occurred).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;exostosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bony growth (benign) arising from the surface of bone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Osteochondromas&lt;/strong&gt; (composed of cartilage and bone) are benign &lt;strong&gt;exostoses &lt;/strong&gt;usually found on the metaphyses of long bones near the epiphyseal plates. Ex- means out; -ostosis is condition of bones.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;bunion &lt;/strong&gt;is a swelling of the metatarsophalangeal joint near the base of the big toe and is accompanied by the buildup of soft tissue and underlying bone at the distal medial aspect of the first metatarsal.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;fracture&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Traumatic breaking of a bone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In a &lt;strong&gt;simple (closed) fracture&lt;/strong&gt;, the bone is broken but there is no open wound in the skin. In a &lt;strong&gt;compound (open) fracture,&lt;/strong&gt; the bone is broken and a fragment of bone protrudes through an open wound in the skin. See Figure 15-14A. &lt;strong&gt;Crepitus &lt;/strong&gt;is the crackling sound produced when ends of bones rub each other or rub against roughened cartilage. Figure 15-14B illustrates different types of fractures.&lt;/p&gt;&lt;p&gt;Treatment of fractures involves &lt;strong&gt;reduction&lt;/strong&gt;, which is restoration of the bone to its normal position. A &lt;strong&gt;closed reduction&lt;/strong&gt; is manipulative reduction without a surgical incision; in an &lt;strong&gt;open reduction&lt;/strong&gt;, an incision is made for access to the fracture site. A &lt;strong&gt;cast &lt;/strong&gt;(solid mold of the body part) is applied to fractures to immobilize the injured bone after a closed reduction. The abbreviation &lt;strong&gt;ORIF &lt;/strong&gt;means &lt;u&gt;o&lt;/u&gt;pen &lt;u&gt;r&lt;/u&gt;eduction/&lt;u&gt;i&lt;/u&gt;nternal &lt;u&gt;f&lt;/u&gt;ixation. Often this involves insertion of metal plates, screws, rods, or pins to stabilize the bone. See Figure 15-15.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="e5e3e11b-3961-485b-94b4-22f5eff37d48">
+    <STATIC_figure>
+  <image>chp00015_f015-014-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-14&lt;/span&gt; A, Simple and compound fractures. B, Types of fractures. &lt;/strong&gt;A pathologic fracture (not pictured) is caused by disease of bones (tumor, infection, osteoporosis) that causes them to weaken and break more easily. Fracture healing occurs in 4 stages:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Hematoma formation–blood from the fracture site&lt;/li&gt;&lt;li&gt;Soft callus formation–blood hematoma becomes soft callus (cartilage)&lt;/li&gt;&lt;li&gt;Hard callus formation–soft callus becomes hard callus (cartilage)&lt;/li&gt;&lt;li&gt;Bone formation–hard callus becomes bone.&lt;/li&gt;&lt;/ol&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="5f0df31d-8112-4822-a9a4-de3ec484c022">
+    <STATIC_figure>
+  <image>Fig15-15.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-15 &lt;/span&gt;Clavicle fracture.&lt;/strong&gt; A, This is a clavicle fracture of a 17-year-old rugby player.&lt;strong&gt; B, Open reduction with internal fixation (ORIF)&lt;/strong&gt; to align and repair the fracture.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="da0939c3-6ec8-4e37-ad5c-e81c725537d4">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;osteogenic sarcoma (osteosarcoma)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor arising from osteoblasts, found primarily in children and adolescents.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Osteoblasts multiply, forming large, bony tumors, especially at the ends of long bones (half of the lesions are located just below or just above the knee) (Figure 15-16). Metastasis (spread of tumor) takes place through the bloodstream, often affecting the lungs. Surgical resection followed by chemotherapy improves the survival rate.&lt;/p&gt;&lt;p&gt;Malignant tumors from other parts of the body (breast, prostate, lung, thyroid gland, and kidney) that metastasize to bones are &lt;strong&gt;metastatic bone lesions.&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;osteomalacia&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Softening of bone, with inadequate amounts of mineral (calcium) in the bone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Osteomalacia occurs primarily as a disease of infancy and childhood and is then known as &lt;strong&gt;rickets&lt;/strong&gt;. Bones fail to receive adequate amounts of calcium and phosphorus; they become soft, bend easily, and become deformed.&lt;/p&gt;&lt;p&gt;In affected patients, vitamin D is deficient in the diet, which prevents calcium and phosphorus from being absorbed into the bloodstream from the intestines. Vitamin D is also formed by the action of sunlight on certain compounds (such as cholesterol) in the skin; thus, rickets is more common in large, smoky cities during the winter months.&lt;/p&gt;&lt;p&gt;Treatment most often consists of administration of large daily doses of vitamin D and an increase in dietary intake of calcium and phosphorus. Exposure to sunlight can also be helpful.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;osteomyelitis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inflammation of the bone and bone marrow secondary to infection.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bacteria enter the body through a wound and infect the bone. Children are affected most often, and infection usually occurs near the ends of long bones of legs and arms. Adults are affected too, usually as the result of an open fracture.&lt;/p&gt;&lt;p&gt;The lesion begins as an inflammation with pus collection. Pus tends to spread down the medullary cavity and outward to the periosteum. Antibiotic therapy corrects the condition if the infection is treated quickly. If treatment is delayed, an abscess can form. An &lt;strong&gt;abscess &lt;/strong&gt;is a walled-off area of infection that is difficult to penetrate with antibiotics. Surgical drainage usually is necessary.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;osteoporosis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Decrease in bone density (mass); thinning and weakening of bone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Osteopenia &lt;/strong&gt;is a condition in which bone mineral density is lower than normal. In some cases, it is a precursor to osteoporosis. In osteoporosis, the interior of bones is diminished in structure, as if the steel skeleton of a building had rusted and deteriorated (Figure 15-17). The condition commonly occurs in older women as a consequence of estrogen deficiency with menopause. Lack of estrogen promotes excessive bone resorption (osteoclast activity) and less bone deposition. Weakened bones are subject to fracture (common in the hip and spine); loss of height and kyphosis occur as vertebrae collapse (Figure 15-18).&lt;/p&gt;&lt;p&gt;Osteoporosis can occur with atrophy caused by disuse, as in a limb that is in a cast, in the legs of a person with paraplegia, or in a bedridden patient. It also may occur in men as part of the aging process and in patients who have received corticosteroids (medication used to treat inflammatory conditions).&lt;/p&gt;&lt;p&gt;Treatment and prevention of osteoporosis &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; are critical to maintaining strong bones and avoiding fractures of the spine, hip, or wrist.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;talipes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Congenital abnormality of the hindfoot (involving the talus).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Talipes (Latin &lt;em&gt;talus &lt;/em&gt;= ankle, pes = foot) is a congenital anomaly. The most common form is &lt;strong&gt;talipes equinovarus&lt;/strong&gt; (&lt;strong&gt;equin/o&lt;/strong&gt; = horse), or &lt;strong&gt;clubfoot&lt;/strong&gt;. The infant cannot stand with the sole of the foot flat on the ground. The defect can be corrected by applying orthopedic casts in the early months of infancy or, if that fails, by surgery.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="303b0b89-c4f2-4acf-b642-676a2edbc586">
+    <STATIC_figure>
+  <image>page_461_02.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-16 &lt;/span&gt;Osteosarcoma. &lt;/strong&gt;The tumor has grown through the cortex of the bone and elevated the periosteum. &lt;em&gt;(Courtesy Dr. Francis Hornicek, Department of Orthopedics, Massachusetts General Hospital, Boston.)&lt;/em&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="e1a4354e-3763-4ced-ac29-35ec60096f1f">
+    <STATIC_figure>
+  <image>chp00015_f015-017-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-17 &lt;/span&gt;Scanning electron micrograph of normal bone (A) and bone with osteoporosis (B).&lt;/strong&gt; Notice the thinning and wide separation of the trabeculae in the osteoporotic bone.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="f29e4934-66fa-44f5-91a3-12d6b758e8fd">
+    <STATIC_figure>
+  <image>chp00015_f015-018-9780323551472.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 15-18 &lt;/span&gt;Kyphosis. &lt;/strong&gt;Loss of bone mass due to osteoporosis produces posterior curvature of the spine in the thoracic region. A normal spine is shown at the age of 40 years, and osteoporotic changes are illustrated at the ages of 60 and 80 years. The changes in the spine can cause a loss of as much as 6 to 9 inches in height.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="0e7d2999-446b-4c40-90cb-edffdbed81a0">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Preventing Osteoporosis&lt;/strong&gt;: Prevention of osteoporosis includes the following:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Balanced diet rich in calcium and vitamin D&lt;/li&gt;&lt;li&gt;Weight-bearing and resistance exercise&lt;/li&gt;&lt;li&gt;Reduction of smoking and alcohol intake&lt;/li&gt;&lt;li&gt;Checking bone mineral density (BMD) with a DEXA test.&lt;/li&gt;&lt;li&gt;Medications when appropriate—such as bisphosphonates (Fosamax, Boniva) and selective estrogen receptor modulators (SERMs—Raloxifene, Evista) and hormone replacement therapy (HRT)&lt;/li&gt;&lt;/ul&gt;</text>
+</STATIC_text>
+  </block>
+</blocks>

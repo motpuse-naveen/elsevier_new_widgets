@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="bbf59827-8d49-4745-b2e5-03218fcd729c">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;NEURONS, NERVES, AND GLIAL CELLS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="1bb6e760-070c-4821-b1aa-21035f9317e5">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;A neuron&lt;/strong&gt; is an individual nerve cell, a microscopic structure. Impulses pass along the parts of a nerve cell in a definite manner and direction. The parts of a neuron are pictured in Figure 10-5; label it as you study the following.&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;stimulus &lt;/strong&gt;begins an impulse in the branching fibers of the neuron, which are called &lt;strong&gt;dendrites &lt;/strong&gt;[1]. A change in the electrical charge of the dendrite membranes is thus begun, and the nervous impulse moves along the dendrites like the movement of falling dominoes. The impulse, traveling in only one direction, next reaches the&lt;strong&gt; cell body&lt;/strong&gt; [2], which contains the&lt;strong&gt; cell nucleus&lt;/strong&gt; [3]. Small collections of nerve cell bodies outside the brain and spinal cord are called &lt;strong&gt;ganglia &lt;/strong&gt;(&lt;em&gt;singular &lt;/em&gt;: &lt;strong&gt;ganglion&lt;/strong&gt;). Extending from the cell body is the &lt;strong&gt;axon &lt;/strong&gt;[4], which carries the impulse away from the cell body. Axons can be covered with a fatty tissue called myelin. The purpose of this &lt;strong&gt;myelin sheath&lt;/strong&gt; [5] is to insulate the axon and speed transmission of the electrical impulse. Demyelination is loss of the myelin insulating the nerve fiber and is characteristic of multiple sclerosis, an acquired illness affecting the CNS.&lt;/p&gt;&lt;p&gt;The myelin sheath gives a white appearance to the nerve fiber—hence the term white matter, as in parts of the spinal cord and the white matter of the brain and most peripheral nerves. The gray matter of the brain and spinal cord is composed of the cell bodies of neurons that appear gray because they are not covered by a myelin sheath.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="8e907757-fce3-494d-86bd-57b08a64966e">
+    <FIBDD>
+  <form>
+    <questions>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image>fig10-5.jpg</image>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-5&lt;/span&gt; Parts of a neuron and the pathway of a nervous impulse. &lt;/strong&gt;Neurons are the &lt;strong&gt;parenchymal &lt;/strong&gt;(essential) cells of the nervous system. The &lt;em&gt;boxed drawing &lt;/em&gt;shows what happens in a synapse: Vesicles store neurotransmitters in the terminal end fibers of axons. Receptors on the dendrites pick up the neurotransmitters. Inactivators end the activity of neurotransmitters when they have finished their job.&lt;/p&gt;</imageCaption>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText>&lt;ol&gt;&lt;li&gt;[dendrites]&lt;/li&gt;&lt;li&gt;[cell body]&lt;/li&gt;&lt;li&gt;[cell nucleus]&lt;/li&gt;&lt;li&gt;[axon]&lt;/li&gt;&lt;li&gt;[myelin sheath]&lt;/li&gt;&lt;li&gt;[terminal end fibers]&lt;/li&gt;&lt;li&gt;[synapse]&lt;/li&gt;&lt;/ol&gt;</questionText>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+      <question>
+        <stimulus>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="on"/>
+              <legacyErrorLabel/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </stimulus>
+        <questionContent>
+          <questionText/>
+          <hint>
+            <reading/>
+          </hint>
+          <distractors>
+            <distractor>
+              <text/>
+            </distractor>
+          </distractors>
+        </questionContent>
+        <feedback>
+          <imagePart>
+            <image/>
+            <imageControls>
+              <imageScale value="full-screen"/>
+              <imageAlignment value="center"/>
+              <enableBorder value="off"/>
+              <enableZoom value="on"/>
+              <searchableImage value="off"/>
+            </imageControls>
+            <imageCaption/>
+            <imageAltText/>
+          </imagePart>
+          <audioPart>
+            <audio/>
+            <audioTranscript/>
+          </audioPart>
+          <readingPart>
+            <reading/>
+          </readingPart>
+          <videoPart>
+            <embeddedVideo/>
+            <errorLabel/>
+            <video/>
+            <videoPoster/>
+            <videoInfo/>
+            <a11yFeatures>
+              <videoCaption/>
+              <videoUseVTT value="yes"/>
+              <videoTranscript/>
+            </a11yFeatures>
+          </videoPart>
+        </feedback>
+      </question>
+    </questions>
+    <header>
+      <title/>
+      <instructions>
+        <instructions/>
+      </instructions>
+    </header>
+    <settings>
+      <questionSettings>
+        <questionLayout value="stacked"/>
+        <autoNumberQuestions value="off"/>
+        <stimulusPlacement value="above"/>
+      </questionSettings>
+      <answerSettings>
+        <attemptsAllowed value="-1"/>
+        <canRevealAnswer value="on"/>
+      </answerSettings>
+    </settings>
+  </form>
+</FIBDD>
+  </block>
+  <block refid="530d7622-c991-4118-8279-0e60d814be06">
+    <STATIC_text>
+  <text>&lt;p&gt;The nervous impulse passes through the axon to leave the cell via the &lt;strong&gt;terminal end fibers&lt;/strong&gt; [6] of the neuron. The space where the nervous impulse jumps from one neuron to another is called the &lt;strong&gt;synapse &lt;/strong&gt;[7]. The transfer of the impulse across the synapse depends on the release of a chemical substance, called a &lt;strong&gt;neurotransmitter&lt;/strong&gt;, by the neuron that brings the impulse to the synapse. See the boxed diagram in Figure 10-5. Tiny sacs (vesicles) containing the neurotransmitter are located at the ends of neurons, and they release the neurotransmitter into the synapse. &lt;strong&gt;Acetylcholine, norepinephrine, epinephrine (adrenaline), dopamine, serotonin,&lt;/strong&gt; and &lt;strong&gt;endorphins &lt;/strong&gt;are examples of neurotransmitters.&lt;/p&gt;&lt;p&gt;Whereas a neuron is a microscopic structure within the nervous system, a nerve is macroscopic, able to be seen with the naked eye. A nerve consists of many axons that travel together like strands of rope. Peripheral nerves that carry impulses &lt;em&gt;to &lt;/em&gt;the brain and spinal cord from stimulus receptors like the skin, eye, ear, and nose are &lt;strong&gt;afferent &lt;/strong&gt;or &lt;strong&gt;sensory&lt;/strong&gt; &lt;strong&gt;nerves; &lt;/strong&gt;those that carry impulses &lt;em&gt;from &lt;/em&gt;the CNS to organs that produce responses, such as muscles and glands, are &lt;strong&gt;efferent &lt;/strong&gt;or &lt;strong&gt;motor nerves.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neurons and nerves are the &lt;strong&gt;parenchyma&lt;/strong&gt; of the nervous system. Parenchyma is the essential distinguishing tissue of an organ. In the brain and spinal cord, neurons, which conduct electrical impulses, are the parenchymal tissue. &lt;strong&gt;Stroma &lt;/strong&gt;of an organ is the connective and supportive tissue of an organ. The stromal tissue of the central nervous system consists of the &lt;strong&gt;glial (neuroglial) cells&lt;/strong&gt;, which make up its supportive framework and help it ward off infection. Glial cells do not transmit impulses. They are far more numerous than neurons and can reproduce.&lt;/p&gt;&lt;p&gt;There are four types of supporting or glial cells (see Figure 10-6). &lt;strong&gt;Astrocytes (astroglial cells) &lt;/strong&gt;are star-like in appearance (astr/o means star) and transport water and salts between capillaries and neurons.&lt;strong&gt; Microglial cells&lt;/strong&gt; are small cells with many branching processes (dendrites). As phagocytes, they protect neurons in response to inflammation. &lt;strong&gt;Oligodendroglial cells (oligodendrocytes)&lt;/strong&gt; have few (olig/o means few or scanty) dendrites. These cells form the myelin sheath in the CNS. By contrast, &lt;strong&gt;ependymal cells&lt;/strong&gt; (Greek &lt;em&gt;ependyma &lt;/em&gt;means upper garment) line membranes within the brain and spinal cord where CSF is produced and circulates.&lt;/p&gt;&lt;p&gt;Glial cells, particularly the astrocytes, are associated with blood vessels and regulate the passage of potentially harmful substances from the blood into the nerve cells of the brain. This protective barrier between the blood and brain cells is called the &lt;strong&gt;blood-brain barrier (BBB).&lt;/strong&gt; This barrier consists of special lining (endothelial) cells, which along with astrocytes separate capillaries from nerve cells. Delivery of chemotherapeutic drugs to treat brain tumors is thus difficult, because the BBB blocks drug access to brain tissues. Figure 10-6 illustrates glial cells.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="a58015b3-4844-49c2-a000-632415b34d6f">
+    <STATIC_figure>
+  <image>fig10-6.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 10-6 &lt;/span&gt;Glial cells (neuroglial cells).&lt;/strong&gt; These are the supportive, protective, and connective tissue cells of the CNS. Glial cells are &lt;strong&gt;stromal &lt;/strong&gt;(framework) &lt;strong&gt;tissue&lt;/strong&gt;, whereas neurons carry nervous impulses.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>

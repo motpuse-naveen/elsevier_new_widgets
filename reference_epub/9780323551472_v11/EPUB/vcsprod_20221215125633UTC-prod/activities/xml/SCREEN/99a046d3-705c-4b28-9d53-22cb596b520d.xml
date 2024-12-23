@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block refid="ffea492c-6f58-4e60-9ef8-169bb6bb27f5">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#684182;"&gt;&lt;strong&gt;PATHOLOGIC CONDITIONS; SEXUALLY TRANSMITTED INFECTIONS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="d1ed1d79-0463-445e-8965-0892d26d20e9">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;TUMORS AND ANATOMIC/STRUCTURAL DISORDERS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="f8c7b2d7-d2f1-4af3-a327-94bf9d6d799f">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Testes&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="80bc6052-f351-416a-ba2c-c04bfc3f0745">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;testicular cancer (carcinoma of the testes)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor of the testicles.&lt;/strong&gt;&lt;br/&gt;Testicular tumors are rare except in the 15- to 35-year-old age group. The most common tumor, a &lt;strong&gt;seminoma&lt;/strong&gt;, arises from embryonic cells in the testes (Figure 9-7A). Other tumors are &lt;strong&gt;embryonal carcinoma &lt;/strong&gt;(Figure 9-7B), &lt;strong&gt;teratoma, choriocarcinoma, &lt;/strong&gt;and &lt;strong&gt;yolk sac tumor.&lt;/strong&gt; Teratomas contain a mixture of mature tissue such as bone, hair, cartilage, and skin cells (terat/o means monster).&lt;/p&gt;&lt;p&gt;Testicular cancers &lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; are curable with surgery (orchiectomy), followed by chemotherapy. Seminomas are treated with radiotherapy and/or chemotherapy. Tumors produce the proteins &lt;strong&gt;human chorionic gonadotropin (hCG)&lt;/strong&gt; and &lt;strong&gt;alphafetoprotein (AFP)&lt;/strong&gt;. Serum levels of these proteins are used as &lt;strong&gt;tumor markers&lt;/strong&gt; to determine success of treatment.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="bcd79857-1178-4a49-bd5c-1bd0e6e9a846">
+    <STATIC_figure>
+  <image>fig9-7.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-7 &lt;/span&gt;A, Seminoma of a testis. B, Embryonal carcinoma &lt;/strong&gt;of a testis. In contrast with the seminoma, which is a pale, homogeneous mass, the embryonal carcinoma is a hemorrhagic mass.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="eb83e020-b535-49e1-88aa-aa0c6b49e2ce">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Azoospermia and Infertility&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Male factor infertility is the cause of up to 40% of infertility issues. The most common causes of male infertility are azoospermia and &lt;strong&gt;oligoasthenozoospermia &lt;/strong&gt;(low numbers and poor motility of sperm). The combining form asthen/o means lack of strength.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="23b2e92a-6dfc-4cab-82b9-e9833d0b2006">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;cryptorchidism; cryptorchism&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Undescended testicles.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Orchiopexy is performed to bring the testes into the scrotum, if they do not descend on their own by the age of 1 or 2 years. Undescended testicles are associated with a high risk for sterility and increased risk of developing testicular cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hydrocele&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Sac of clear fluid in the scrotum.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hydroceles (Figure 9-8) may be congenital or occur as a response to infection or tumors. Often idiopathic, they can be differentiated from testicular masses by ultrasound imaging. If the hydrocele does not resolve on its own, the sac fluid is aspirated using a needle and syringe, or hydrocelectomy may be necessary. In this procedure, the sac is surgically removed through an incision in the scrotum.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;testicular torsion&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Twisting of the spermatic cord&lt;/strong&gt; (see Figure 9-8).&lt;/p&gt;&lt;p&gt;The rotation of the spermatic cord cuts off blood supply to the testis. Torsion occurs most frequently in childhood. Surgical correction within hours of onset of symptoms can save the testis.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;varicocele&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Enlarged, dilated veins near the testicle.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Varicocele (see Figure 9-8) may be associated with oligospermia and azoospermia. Oligospermic men with varicocele and scrotal pain should have a varicocelectomy. In this procedure, the internal spermatic vein is ligated (the affected segment is cut out and the ends are tied off). This procedure may increase fertility.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="7c2dfc5f-4cb6-4528-bdaa-6f895f8ac9e6">
+    <STATIC_figure>
+  <image>fig9-8.jpg</image>
+  <imageControls>
+    <imageScale value="full-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-8 &lt;/span&gt;Hydrocele, testicular torsion, and varicocele.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="10320ef0-5d4e-4b5f-a675-33c2d37be383">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;&lt;img alt="" class="c-inline-icon" data-handler="inline-image" style="vertical-align: middle; width: 16px; height: 16px;" src="../media/icons.png" data-handler-handled="true"/&gt; Testicular Cancer Detection&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There may be no signs or symptoms of testicular cancer. Regular testicular self-examinations, however, can help identify growths earlier, when the chance for successful treatment is highest. A man should see a doctor if he detects any mass, pain, or swelling in the scrotum.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="d919d1d2-e7a5-46a9-b243-427479613725">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Prostate Gland&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="728e1e99-2f99-42f5-9ce7-11c82456435c">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;benign prostatic hyperplasia (BPH)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Benign growth of cells within the prostate gland.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;BPH is a common condition in men older than 60 years of age. Urinary obstruction and inability to empty the bladder completely are symptoms. Figure 9-9 shows the prostate gland with BPH and with carcinoma. Surgical treatment by &lt;strong&gt;transurethral resection of the prostate (TURP)&lt;/strong&gt; relieves the obstruction, but overgrowth of cells may recur over several years. In this procedure, an endoscope (resectoscope) is inserted into the penis and through the urethra. Prostatic tissue is removed by an electrical hot loop attached to the resectoscope.&lt;/p&gt;&lt;p&gt;Several drugs to relieve BPH symptoms have been approved by the FDA. Finasteride (Proscar) inhibits production of a potent testosterone that promotes enlargement of the prostate. Other drugs, alpha blockers such as tamsulosin (Flomax), act by relaxing the smooth muscle of the prostate and the neck of the bladder.&lt;/p&gt;&lt;p&gt;Lasers also may be used to destroy prostatic tissue and relieve obstruction. &lt;strong&gt;A laser TURP&lt;/strong&gt; or &lt;strong&gt;GreenLight PVP&lt;/strong&gt; procedure uses a green light laser at the end of an endoscope.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;prostate cancer (carcinoma of the prostate)&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Malignant tumor (adenocarcinoma) of the prostate gland.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This cancer commonly occurs in men older than 50 years. &lt;strong&gt;Digital rectal examination (DRE) &lt;/strong&gt;(Figure 9-10) can detect the tumor at a later stage, but early detection depends on finding a high level of a &lt;strong&gt;prostate-specific antigen (PSA)&lt;/strong&gt; in the blood. PSA is secreted into the bloodstream by tumor cells. The normal PSA level is 4.0 ng/mL or less.&lt;/p&gt;&lt;p&gt;Diagnosis requires finding tumor in a needle biopsy of the prostate. Transrectal ultrasound (TRUS) guides the needle biopsy taken through the rectal wall. Multiple needle biopsy specimens are taken through the rectal wall. Computed tomography (CT) detects lymph node metastases.&lt;/p&gt;&lt;p&gt;Treatment consists of surgery (prostatectomy) or radiation therapy for localized tumor. Hormonal therapy is used for locally advanced or metastatic disease. Because prostatic cells are stimulated to grow in the presence of androgens, antiandrogen drugs slow tumor growth. One such drug is Lupron, which reduces the level of androgens in the bloodstream. Tumor cells also can be destroyed by brachytherapy (brachy = near), which means that radioactive seeds are implanted directly into the prostate gland. See the &lt;em&gt;&lt;strong&gt;In Person: Prostate Cancer &lt;/strong&gt;&lt;/em&gt;story.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="5b0d62d1-aac8-4cbf-bca3-0ac0912725d7">
+    <STATIC_figure>
+  <image>fig9-9.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-9&lt;/span&gt; The prostate gland with carcinoma and benign prostatic hyperplasia (BPH).&lt;/strong&gt; Carcinoma usually arises around the sides of the gland, whereas BPH occurs in the center of the gland. Because prostate cancers are located more peripherally, they can be palpated on digital rectal exam (DRE).&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="fa858297-a25c-48a9-8fb4-6bceb6ac61fd">
+    <STATIC_figure>
+  <image>fig9-10.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-10 &lt;/span&gt;Digital rectal examination (DRE) of the prostate gland.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="c02072a8-321e-4f0b-a6a0-40d8aaa7355a">
+    <STATIC_heading>
+  <headingLevel value="subheadingb"/>
+  <text>&lt;p&gt;&lt;span style="color:#556B04;"&gt;&lt;strong&gt;&lt;em&gt;Penis&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="bf2a6720-bda7-47a8-8a3a-d6bad2c5c16d">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;hypospadias&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Congenital abnormality in which the male urethral opening is on the undersurface of the penis, instead of at its tip.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hypospadias (-spadias means the condition of tearing or cutting) occurs in 1 in every 300 live male births and can be corrected surgically (Figure 9-11A).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Peyronie disease&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Abnormal curvature of the penis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This condition is quite common and is caused by scar tissue in the connective tissue of the penis. Drug treatment can be effective by breaking down the buildup of fibrous tissue that causes penile curvature.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;phimosis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Narrowing (stricture) of the opening of the prepuce over the glans penis.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This abnormal condition (phim/o = muzzle) in adolescent and adult males can interfere with urination and cause secretions to accumulate under the prepuce, leading to infection. Treatment is by circumcision (cutting around the prepuce to remove it) (Figure 9-11B).&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="3a6e1f9e-0d01-46e2-8b98-99963d603e7e">
+    <STATIC_figure>
+  <image>fig9-11.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-11 &lt;/span&gt;A, Hypospadias. &lt;/strong&gt;Surgical repair involves elongating the urethra by using surrounding tissue or using a graft from tissue elsewhere in the body and bringing it to the exit at the tip of the penis. &lt;strong&gt;B, Phimosis &lt;/strong&gt;and &lt;strong&gt;circumcision &lt;/strong&gt;to correct the condition.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="9c6e52d9-f4bd-452a-83ec-045494ebc467">
+    <STATIC_heading>
+  <headingLevel value="subheadinga"/>
+  <text>&lt;p&gt;&lt;span style="color:#007FAD;"&gt;SEXUALLY TRANSMITTED INFECTIONS&lt;/span&gt;&lt;/p&gt;</text>
+</STATIC_heading>
+  </block>
+  <block refid="4c097e5a-a642-4bd8-88cf-d3fd6d18fad9">
+    <STATIC_text>
+  <text>&lt;p&gt;&lt;strong&gt;Sexually transmitted infections (STIs)&lt;/strong&gt; are infections transmitted by sexual or other genital contact. Also known as &lt;strong&gt;sexually transmitted diseases (STDs)&lt;/strong&gt; or venereal diseases (from Latin Venus, the goddess of love), they occur in both men and women and are some of the most prevalent communicable diseases in the world.&lt;/p&gt;</text>
+</STATIC_text>
+  </block>
+  <block refid="63c90f3a-53bb-4f2e-852e-626916124607">
+    <STATIC_table>
+  <text>&lt;table class="c-table js-x-scroll-component" border="1" cellspacing="0" cellpadding="1" style="width: 100%;"&gt;&lt;thead/&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;chlamydia&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Bacterial infection (by &lt;em&gt;Chlamydia trachomatis&lt;/em&gt;) of the urethra and reproductive tract.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Within 3 weeks after becoming infected, men may experience a burning sensation on urination and notice a white or clear discharge from the penis.&lt;/p&gt;&lt;p&gt;Infected women may notice a yellowish vaginal discharge (from the endocervix), but often the disease is asymptomatic. Antibiotics cure the infection, but if untreated, this STI can cause salpingitis (pelvic inflammatory disease [PID]) and infertility in women.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;gonorrhea&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Inflammation of the genital tract mucosa, caused by infection with gonococci (berry-shaped bacteria).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Other areas of the body, such as the eye, oral mucosa, rectum, and joints, may be affected as well. Signs and symptoms include dysuria and a yellow, mucopurulent (&lt;strong&gt;purulent &lt;/strong&gt;means pus-filled) discharge from the male urethra (Figure 9-12A). The ancient Greeks mistakenly thought that this discharge was a leakage of semen, so they named the condition gonorrhea, meaning discharge of seed (gon/o = seed).&lt;/p&gt;&lt;p&gt;Many women carry the disease asymptomatically, whereas others have pain, vaginal and urethral discharge, and salpingitis (PID). As a result of sexual activity, men and women can acquire anorectal and pharyngeal gonococcal infections as well. Chlamydia and gonorrhea often occur together. When treating these infections, doctors give antibiotics for both and treat both partners.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;herpes genitalis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Infection of skin and genital mucosa, caused by the herpes simplex virus (HSV).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Most cases of herpes genitalis are caused by HSV type 2 (although some are caused by HSV type 1, which commonly is associated with oral infections such as cold sores or fever blisters). The usual clinical presentation is reddening of skin with formation of small, &lt;strong&gt;fluid-filled blisters&lt;/strong&gt; and ulcers (Figure 9-12B). Initial episodes also may involve inguinal lymphadenopathy, fever, headache, and malaise. Remissions and relapse periods occur; no drug is known to be effective as a cure. Neonatal herpes affects infants born to women with active infection near the time of delivery. Gynecologists may deliver infants by cesarean section to prevent infection of these babies by HSV. Studies suggest that women with herpes genitalis are at a higher risk for developing vulvar and cervical cancer.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;human papillomavirus (HPV) infection&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Infection of the skin and mucous membranes in the anogenital region by the human papillomavirus.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Some types of HPV cause&lt;strong&gt; genital warts&lt;/strong&gt; (see Figure 9-13A) and lead to cancer of the cervix as well as cancer in men. A vaccine is available for young girls and boys that protects against nine types of HPV.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;syphilis&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Chronic STI caused by a spirochete (spiral-shaped bacterium).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A chancre (hard ulcer or sore) usually appears on the external genitalia a few weeks after bacterial infection (Figure 9-13B). Two to six months after the chancre disappears, secondary syphilis begins. Tertiary syphilis includes damage to the brain, spinal cord, and heart, which may appear years after the earlier symptoms disappear. Syphilis (which was so often fatal in early times that it was known as the “great pox”—versus the more familiar smallpox) can be congenital in the fetus if it is transmitted from the mother during pregnancy. Penicillin is effective for treatment in most cases.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</STATIC_table>
+  </block>
+  <block refid="742becbb-184c-41af-a086-34e6d5abc872">
+    <STATIC_figure>
+  <image>fig9-12.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+    <enableBorder value="off"/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-12 &lt;/span&gt;A, Gonorrhea. &lt;/strong&gt;Discharge from the penis can be seen.&lt;strong&gt; B, Herpes genitalis.&lt;/strong&gt; The classic blisters (vesicles) are evident.&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+  <block refid="89282ff9-33f5-40fe-bb06-7271cbc4e29b">
+    <STATIC_figure>
+  <image>fig9-13.jpg</image>
+  <imageControls>
+    <imageScale value="3-4-screen"/>
+    <imageAlignment value="center"/>
+    <enableBorder value="off"/>
+    <enableZoom value="on"/>
+    <searchableImage value="on"/>
+    <legacyErrorLabel/>
+  </imageControls>
+  <imageCaption>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#D81E5D;"&gt;FIGURE 9-13&lt;/span&gt; A, Genital warts. B, Primary syphilis with chancre on penis.&lt;/strong&gt;&lt;/p&gt;</imageCaption>
+  <imageAlt/>
+</STATIC_figure>
+  </block>
+</blocks>
