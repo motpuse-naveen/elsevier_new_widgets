@@ -30,11 +30,16 @@
     --prm-btn-border-color:#036788;
     --prm-btn-color: #FFFFFF;
     --prm-btn-hover-color:#036788;
-
+    /*
     --sec-btn-bg-color: #545b62;
     --sec-btn-border-color: #464c51;
     --sec-btn-color:#FFFFFF;
     --sec-btn-hover-color:#464c51;
+    */
+    --sec-btn-bg-color: #FFFFFF;
+    --sec-btn-border-color: #007398;
+    --sec-btn-color:#007398;
+    --sec-btn-hover-color:#036788;
 
     --info-btn-bg-color: #FFFFFF;
     --info-btn-border-color:#036788;
@@ -77,6 +82,11 @@ body {
 	text-rendering: optimizeLegibility;
     font-family: Arial, Helvetica, sans-serif, FiraSans-Regular;
 }
+hr.seperator {
+    border: 0;
+    height: 1px;
+    background: var(--gray-lighter);
+}
 textarea{
     /*font-family: FiraSans-Regular;*/
     font-family: inherit;
@@ -84,10 +94,13 @@ textarea{
     padding: 10px;
     width: 100%;
     border-radius: 5px;
-    border: 2px solid var(--border-color);
+    border: 1px solid var(--border-color);
 }
+
 .page-wrapper{
     padding: 1rem;
+    max-width: 760px;
+    margin: auto;
 }
 .inline-question{
     width: 100%;
@@ -173,7 +186,6 @@ ul.ques_radiogroup, ul.ques_checkboxgroup{
 }
 .question-controls{
     margin: 10px 0px;
-    margin-left: 10px;
     padding: 10px 0px;
 }
 
@@ -349,7 +361,7 @@ span.inputState.incorrect{
 .opt-abbr {
     font-weight: bold;
     color: var(--blue);
-    margin-right: 8px;
+    margin-right: 4px;
 }
 .optionLabel:hover .opt-abbr {
     text-decoration: underline;
@@ -398,9 +410,9 @@ span.inputState.incorrect{
 }
 
 .btn_style_secondary {
-    color: var(--sec-btn-color);
-    background: var(--sec-btn-bg-color);
-    border: 2px solid var(--sec-btn-border-color);
+    color: var(--info-btn-color);
+    background: var(--info-btn-bg-color);
+    border: 1px solid var(--info-btn-color);
     margin: 5px 2px;
     border-radius: 6px;
     font-family: FiraSans-Regular;
@@ -435,9 +447,9 @@ span.inputState.incorrect{
     background: var(--blue-bg-focus);
     color: var(--white);*/
 
-    color: var(--sec-btn-color);
-    background-color: var(--sec-btn-hover-color);
-    border: 2px solid var(--sec-btn-border-color);
+    color: var(--sec-btn-hover-color);
+    background: var(--info-btn-bg-color);
+    border: 2px solid var(--sec-btn-hover-color);
 }
 
 .btn_style_info {
@@ -507,7 +519,7 @@ span.inputState.incorrect{
 
 .inputbox-wrapper{
     position: relative;
-    padding: 20px 10px 0px 10px
+    padding: 20px 0px 5px 0px;
 }
 
 .question-explanation{
@@ -529,5 +541,107 @@ span.inputState.incorrect{
     padding: 10px;
     font-weight: bold;
 }
+.accordian-main{
+    border: 1px solid var(--gray-border);
+    border-radius: 4px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.accordian-main .accordian-title-wrapper {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: unset;
+    background-color: transparent;
+    border: hidden;
+    pointer-events: auto;
+    cursor: pointer;
+    padding: 10px 0;
+  }
+  .accordian-main button.accordian-title-wrapper{
+    width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+    font-size: 1.125rem;
+    font-weight: 700;
+  }
+  .accordian-main .accordian-desc-wrapper{
+    padding: 10px 0;
+    display: none;
+  }
+  .accordian-desc-wrapper.visible{
+    display: block;
+  }
+
+  .accordian-main .accordian-audio{
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .accordian-main .accordian-desc
+  {
+    display: block;
+    text-align: left;
+    padding: 8px 0 8px 0;
+  }
+.accordian-main  .hide-show-icon {
+    margin-left: auto;
+    display: block;
+    height: 27px;
+    width: 27px;
+    border: 0;
+    background: url(images/minus.svg) no-repeat center center;
+    pointer-events: auto;
+  }
+  .accordian-title-wrapper.collapsed .hide-show-icon {
+    background: url(images/plus.svg) no-repeat center center;
+    pointer-events: auto;
+  }
+
+  h1.accordian-title, h2.accordian-title,
+  h3.accordian-title, h4.accordian-title,
+  h5.accordian-title, h6.accordian-title{
+    margin: 0;
+  }
+
+
+.reflectiveWriting-main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.print-btn-icon {
+    display: inline-block;
+    background: white
+      url("data:image/svg+xml,%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' width='22' height='14' viewBox='0 0 22 14'%3E%3Cstyle%3E.st0%7Bfill:%23007fad;%7D%3C/style%3E%3Cpath class='st0' d='M15 1v2H7V1h8m1-1H6v4h10V0z'/%3E%3Cpath class='st0' d='M20 3H2C.9 3 0 3.9 0 5v6c0 1.1.9 2 2 2h4v-2H2V5h18v6h-4v2h4c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z'/%3E%3Cpath class='st0' d='M15 9v4H7V9h8m1-1H6v6h10V8z'/%3E%3C/svg%3E")
+      no-repeat center;
+    background-size: 1.375rem 0.88rem;
+    width: 1.375rem;
+    height: 0.875rem;
+    margin-right: 6px;
+    vertical-align: text-bottom;
+    margin-bottom: 2px;
+  }
+
+  .print-btn{
+    min-width: 150px;
+    margin-left: 20px;
+  }
+
+  .reflectiveWriting-feedback{
+    background-color: #ececec;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+    font-weight: 400;
+    overflow: hidden;
+  }
 
 
