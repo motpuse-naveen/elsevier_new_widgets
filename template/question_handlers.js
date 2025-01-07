@@ -1,697 +1,3 @@
-  class MCMS_Handler{
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-  
-    render(question) {
-      question.options = shuffleArray(question.options);
-      const div = $(`
-        <div id="${question.id}" class="question-main mcms" role="group" aria-labelledby="question_text_${question.id}">
-        ${question.questionTitle!="" ? `<div class="question-title">${question.questionTitle}</div>` : ''}
-          <div class="question-text" id="question_text_${question.id}">${question.questionHtml}</div>
-          <div class="groupWrapper" role="group" aria-labelledby="question_text_${question.id}">
-            <ul class="ques_checkboxgroup">
-              ${question.options.map((option, index) =>
-                `<li optionId="${option.id}">
-                  <span class="optionState" correct="${option.correct}" aria-hidden="true"></span>
-                  <input class="optionCheckbox" type="checkbox" name="${question.id}" id="${option.id}" value="${option.text}" correct="${option.correct}" />
-                  <label class="optionLabel" for="${option.id}">
-                    ${question.optionStyleType!=undefined && question.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[question.optionStyleType][index]}.</span>` : ''}
-                    <span class="opt-txt">${option.text}</span>
-                  </label>
-                </li>`
-              ).join('')}
-            </ul>
-            <div class="question-feedback dis-none" aria-hidden="true"></div>
-            <div class="question-controls">
-                <button class="btn_style_primary submit-btn disabled" aria-disabled="true">Submit</button>
-                <button class="btn_style_secondary reset-btn dis-none" aria-hidden="true">Try Again</button>
-            </div>
-          </div>
-        </div>
-      `);
-      return div;
-    }
-  
-    attachEvents(question) {
-      $(`input[type="checkbox"][name="${question.id}"]`).on('click', function (event) {
-        // Check if the checkbox has the 'disable' class
-        if ($(this).hasClass('disabled')) {
-          event.preventDefault(); // Prevent the checkbox from being checked/unchecked
-          return false; // Exit the function early
-        }
-      });
-      
-      $(`input[type="checkbox"][name="${question.id}"]`).on('change', function () {
-        // If the checkbox is disabled, skip processing
-        if ($(this).hasClass('disabled')) {
-          return false; // Exit the function early
-        }
-      
-        const isChecked = $(this).prop('checked'); // Check if the input is checked (true/false)
-        $(this).closest("li").find("span.optionState").attr("checked", (isChecked ? "true" : "false")); // Set the text to "true" or "false"
-        
-        // Check if at least one checkbox is checked to enable/disable the submit button
-        const anyChecked = $(`input[type="checkbox"][name="${question.id}"]:checked`).length > 0;
-        if (anyChecked) {
-          $(`#${question.id} .submit-btn`).removeClass("disabled").attr("aria-disabled", "false");
-        } else {
-          $(`#${question.id} .submit-btn`).addClass("disabled").attr("aria-disabled", "true");
-        }
-      });
-  
-      // Handle "Submit" button click
-      $(`#${question.id} .submit-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.submitAnswer(question);
-        }
-      });
-  
-      // Handle "Try Again" (reset) button click
-      $(`#${question.id} .reset-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.resetAnswer(question);
-        }
-      });
-    }
-    submitAnswer(question) {
-      const questionContainer = $(`#${question.id}`);
-      const selectedOptions = questionContainer
-        .find('input[type="checkbox"]:checked')
-        .map(function () {
-          return {
-            id: $(this).attr("id"),
-            text: $(this).val(),
-            correct: $(this).attr("correct") === "true", // Convert "correct" attribute to boolean
-          };
-        })
-        .get(); // Convert jQuery object to a regular array
-    
-      if(question.attempts == undefined){question.attempts = 0;}
-      question.attempts += 1;
-      // Store user's answer
-      question.userAnswer = selectedOptions;
-    
-      // Evaluate the answer
-      const isCorrect = selectedOptions.every((option) => option.correct) &&
-                        selectedOptions.length === question.options.filter((opt) => opt.correct).length;
-      
-      // Store user's answer state correct/incorrect.
-      question.isCorrect = isCorrect;
-  
-      //Set aria-describedby for checked items 
-      questionContainer.find('input[type="checkbox"]:checked').each(function() {
-        const isCorrect = $(this).attr('correct') === 'true'; // Check the 'data-correct' attribute
-        const ariaValue = isCorrect ? 'ariaCorrect' : 'ariaIncorrect';
-  
-        $(this).attr('aria-describedby', ariaValue); // Add the aria-describedby attribute
-      });
-    
-      // Display feedback
-      const feedback = questionContainer.find(".question-feedback");
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-      debugger;
-      var feedbackHtml = "";
-      feedbackHtml = isCorrect ? question.correctFeedback : question.incorrectFeedback
-  
-      if(!isCorrect && this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-        if(question.attempts>=this.sharedProperties.maxAttempts){
-          feedbackHtml = question.attemptsExhaustedFeedback;
-        }
-      }
-      feedback.html(feedbackHtml);
-      feedback.removeClass("error success").addClass(isCorrect ? "success" : "error").removeClass("dis-none").attr("aria-hidden", "false");
-      
-      // Adjust the UI
-      questionContainer.find("input[type='checkbox']").addClass("disabled").attr("aria-disabled", "true"); // Disable checkboxes
-      questionContainer.find("label[for]").addClass("disabled"); // Disable checkboxes
-  
-      ariaAnnounce(feedback.text())
-      //add submitted attribute to questionContainer
-      questionContainer.attr("submitted","true");
-  
-      if(isCorrect){
-        submitBtn.addClass("disabled").attr("aria-disabled", "true"); // Disable "Submit" button
-      }
-      else{
-        submitBtn.addClass("dis-none disabled").attr("aria-hidden", "true").attr("aria-disabled", "true"); // Disable "Submit" button
-        resetBtn.removeClass("dis-none").attr("aria-hidden", "false"); // Show "Try Again" button
-        resetBtn.focus();
-        if(this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-          if(question.attempts>=this.sharedProperties.maxAttempts){
-            //Show Correct Answers tick mark and update aria-describedby property.
-            this.showAnswers(question, true);
-          }
-        }
-      }
-    }
-    resetAnswer(question) {
-      question.userAnswer = null;
-      const questionContainer = $(`#${question.id}`);
-  
-      // Hide feedback
-      const feedback = questionContainer.find(".question-feedback");
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-  
-      feedback.text('');
-      feedback.removeClass("error success").addClass("dis-none").attr("aria-hidden", "true");
-  
-      //Reset Option correct/incorrect icon state.
-      questionContainer.find("span.optionState").attr("checked","false")
-  
-      // Adjust the UI
-      questionContainer.find("input[type='checkbox']").prop('checked', false).removeClass("disabled").attr("aria-disabled", "false"); // Disable checkboxes
-      questionContainer.find("input[type='checkbox']").removeAttr("aria-describedby");
-      questionContainer.find("label[for]").removeClass("disabled");
-      submitBtn.addClass("disabled").removeClass("dis-none").attr("aria-hidden", "false").attr("aria-disabled", "true"); // Disable "Submit" button
-      resetBtn.addClass("dis-none").attr("aria-hidden", "true"); // Show "Try Again" button
-  
-      //remove submitted attribute to questionContainer
-      questionContainer.attr("submitted","false");
-      //On Reset/Retry shift focus to first checkbox.
-      questionContainer.find("input[type='checkbox']:first").focus();
-    }
-    showAnswers(question, attemptsExhausted){
-      const questionContainer = $(`#${question.id}`);
-      if(attemptsExhausted){
-        questionContainer.addClass("attemptsExhausted");
-      }
-      else{
-        questionContainer.addClass("showAnsRequested");
-      }
-      questionContainer.find('input[type="checkbox"][correct="true"]').each(function() {
-        $(this).attr('aria-describedby', 'ariaCorrect'); // Add the aria-describedby attribute
-      });
-      questionContainer.find(".reset-btn").addClass("disabled").attr("aria-disabled","true");
-    }
-  }
-  
-  class MCQ_Handler {
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-    render(question) {
-      question.options = shuffleArray(question.options);
-      const div = $(`
-        <div id="${question.id}" class="question-main mcq" role="group" aria-labelledby="question_text_${question.id}">
-          ${question.questionTitle!="" ? `<div class="question-title">${question.questionTitle}</div>` : ''}
-          <div class="question-text" id="question_text_${question.id}">${question.questionHtml}</div>
-          <div class="groupWrapper" role="radiogroup" aria-labelledby="question_text_${question.id}">
-            <ul class="ques_radiogroup">
-              ${question.options.map((option, index) =>
-                `<li optionId="${option.id}">
-                  <span class="optionState" correct="${option.correct}" aria-hidden="true"></span>
-                  <input class="optionCheckbox" type="radio" name="${question.id}" id="${option.id}" value="${option.text}" correct="${option.correct}" />
-                  <label  class="optionLabel" for="${option.id}">
-                    ${question.optionStyleType!=undefined && question.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[question.optionStyleType][index]}.</span>` : ''}
-                    <span class="opt-txt">${option.text}</span>
-                  </label>
-                </li>`
-              ).join('')}
-            </ul>
-            <div class="question-feedback dis-none" aria-hidden="true"></div>
-            <div class="question-controls">
-              <button class="btn_style_primary submit-btn disabled" aria-disabled="true">Submit</button>
-              <button class="btn_style_secondary reset-btn dis-none" aria-hidden="true">Try Again</button>
-            </div>
-          </div>
-        </div>
-      `);
-      return div;
-    }
-    attachEvents(question) {
-      $(`input[type="radio"][name="${question.id}"]`).on('click', function (event) {
-        // Check if the checkbox has the 'disable' class
-        if ($(this).hasClass('disabled')) {
-          event.preventDefault(); // Prevent the checkbox from being checked/unchecked
-          return false; // Exit the function early
-        }
-      });
-  
-      $(`input[type="radio"][name="${question.id}"]`).on('change', function (event) {
-        // If the checkbox is disabled, skip processing
-        if ($(this).hasClass('disabled')) {
-          return false; // Exit the function early
-        }
-  
-        $(this).closest("ul.ques_radiogroup").find("span.optionState").attr("checked","false")
-        const isChecked = $(this).prop('checked'); // Check if the input is checked (true/false)
-        $(this).closest("li").find("span.optionState").attr("checked", (isChecked ? "true" : "false")); // Set the text to "true" or "false"
-        const anyChecked = $(`input[type="radio"][name="${question.id}"]:checked`).length > 0;
-        //$(`#${question.id} .submit-btn`).prop('disabled', !anyChecked);
-        if(anyChecked){
-          $(`#${question.id} .submit-btn`).removeClass("disabled").attr("aria-disabled","false");
-        }
-        else{
-          $(`#${question.id} .submit-btn`).addClass("disabled").attr("aria-disabled","true");
-        }
-      });
-      // Handle "Submit" button click
-      $(`#${question.id} .submit-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.submitAnswer(question);
-        }
-      });
-  
-      // Handle "Try Again" (reset) button click
-      $(`#${question.id} .reset-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.resetAnswer(question);
-        }
-      });
-    }
-    submitAnswer(question) {
-      const questionContainer = $(`#${question.id}`);
-      const selectedOptions = questionContainer
-        .find('input[type="radio"]:checked')
-        .map(function () {
-          return {
-            id: $(this).attr("id"),
-            text: $(this).val(),
-            correct: $(this).attr("correct") === "true", // Convert "correct" attribute to boolean
-          };
-        })
-        .get(); // Convert jQuery object to a regular array
-    
-      if(question.attempts == undefined){question.attempts = 0;}
-      question.attempts += 1;
-      // Store user's answer
-      question.userAnswer = selectedOptions;
-    
-      // Evaluate the answer
-      const isCorrect = selectedOptions.every((option) => option.correct) &&
-                        selectedOptions.length === question.options.filter((opt) => opt.correct).length;
-  
-      // Store user's answer state correct/incorrect.
-      question.isCorrect = isCorrect;
-  
-      //Set aria-describedby for checked items 
-      questionContainer.find('input[type="radio"]:checked').each(function() {
-        const isCorrect = $(this).attr('correct') === 'true'; // Check the 'data-correct' attribute
-        const ariaValue = isCorrect ? 'ariaCorrect' : 'ariaIncorrect';
-        $(this).attr('aria-describedby', ariaValue); // Add the aria-describedby attribute
-      });
-      
-      const feedback = questionContainer.find(".question-feedback");
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-  
-      // Display feedback
-      var feedbackHtml = "";
-      feedbackHtml = isCorrect ? question.correctFeedback : question.incorrectFeedback
-  
-      if(!isCorrect && this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-        if(question.attempts>=this.sharedProperties.maxAttempts){
-          feedbackHtml = question.attemptsExhaustedFeedback;
-        }
-      }
-      feedback.text(feedbackHtml);
-      feedback.removeClass("error success").addClass(isCorrect ? "success" : "error").removeClass("dis-none").attr("aria-hidden", "false");
-      
-      // Adjust the UI
-      questionContainer.find("input[type='radio']").addClass("disabled").attr("aria-disabled", "true"); // Disable checkboxes
-      questionContainer.find("label[for]").addClass("disabled"); // Disable checkboxes
-  
-      ariaAnnounce(feedback.text())
-      //add submitted attribute to questionContainer
-      questionContainer.attr("submitted","true");
-  
-      if(isCorrect){
-        submitBtn.addClass("disabled").attr("aria-disabled", "true"); // Disable "Submit" button
-      }
-      else{
-        submitBtn.addClass("dis-none disabled").attr("aria-hidden", "true").attr("aria-disabled", "true"); // Disable "Submit" button
-        resetBtn.removeClass("dis-none").attr("aria-hidden", "false"); // Show "Try Again" button
-        resetBtn.focus();
-        if(this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-          if(question.attempts>=this.sharedProperties.maxAttempts){
-            //Show Correct Answers tick mark and update aria-describedby property.
-            this.showAnswers(question, true)
-          }
-        }
-      }
-    }
-  
-    resetAnswer(question) {
-      question.userAnswer = null;
-      const questionContainer = $(`#${question.id}`);
-  
-      // Hide feedback
-      const feedback = questionContainer.find(".question-feedback");
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-      feedback.text('');
-      feedback.removeClass("error success").addClass("dis-none").attr("aria-hidden", "true");
-  
-      //Reset Option correct/incorrect icon state.
-      questionContainer.find("span.optionState").attr("checked","false")
-  
-      // Adjust the UI
-      questionContainer.find("input[type='radio']").prop('checked', false).removeClass("disabled").attr("aria-disabled", "false"); // Disable checkboxes
-      questionContainer.find("input[type='radio']").removeAttr("aria-describedby");
-      questionContainer.find("label[for]").removeClass("disabled");
-      submitBtn.addClass("disabled").removeClass("dis-none").attr("aria-hidden", "false").attr("aria-disabled", "true"); // Disable "Submit" button
-      resetBtn.addClass("dis-none").attr("aria-hidden", "true"); // Show "Try Again" button
-  
-      //remove submitted attribute to questionContainer
-      questionContainer.attr("submitted","false");
-      //On Reset/Retry shift focus to first radio.
-      questionContainer.find("input[type='radio']:first").focus();
-    }
-  
-    showAnswers(question, attemptsExhausted){
-      const questionContainer = $(`#${question.id}`);
-      if(attemptsExhausted){
-        questionContainer.addClass("attemptsExhausted");
-      }
-      else{
-        questionContainer.addClass("showAnsRequested");
-      }
-      questionContainer.find('input[type="radio"][correct="true"]').each(function() {
-        $(this).attr('aria-describedby', 'ariaCorrect'); // Add the aria-describedby attribute
-      });
-      questionContainer.find(".reset-btn").addClass("disabled").attr("aria-disabled","true");
-    }
-  }
-  
-  class SAQ_Handler {
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-    render(question) {
-      const div = $(`
-        <div id="${question.id}" class="question-main short-answer" role="group" aria-labelledby="question_text_${question.id}">
-          ${question.questionTitle!="" ? `<div class="question-title">${question.questionTitle}</div>` : ''}
-          <div class="question-text" id="question_text_${question.id}" for="textarea_${question.id}">${question.questionHtml}</div>
-          <div class="groupWrapper">
-            <div class="inputbox-wrapper">
-              <span class="inputState" aria-hidden="true"></span>
-              <textarea id="textarea_${question.id}" placeholder="Write your answer here...." rows="4" aria-label="Your answer" aria-labelledby="question_text_${question.id}"></textarea>
-            </div>
-            <div class="question-feedback dis-none" aria-hidden="true"></div>
-            <div class="question-controls">
-                <button class="btn_style_primary submit-btn disabled" aria-disabled="true">Submit</button>
-                <button class="btn_style_secondary reset-btn dis-none" aria-hidden="true">Try Again</button>
-            </div>
-          </div>
-        </div>
-      `);
-      return div;
-    }
-  
-    attachEvents(question) {
-      /*$(`#${question.id} input`).on('blur', function () {
-        question.userAnswer = $(this).val().trim();
-      });*/
-      // Listen for input in the textarea
-      $(`#${question.id} textarea`).on("input", function () {
-        const text = $(this).val().trim(); // Get the trimmed value of the textarea
-        // Enable the submit button if there is any text, disable otherwise
-        if (text.length > 0) {
-          $(`#${question.id} .submit-btn`).removeClass("disabled").attr("aria-disabled", "false");
-        } else {
-          $(`#${question.id} .submit-btn`).addClass("disabled").attr("aria-disabled", "true");
-        }
-      });
-  
-      // Handle "Submit" button click
-      $(`#${question.id} .submit-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.submitAnswer(question);
-        }
-      });
-  
-      // Handle "Try Again" (reset) button click
-      $(`#${question.id} .reset-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.resetAnswer(question);
-        }
-      });
-    }
-  
-    submitAnswer(question){
-      const questionContainer = $(`#${question.id}`);
-      const feedback = questionContainer.find(".question-feedback");
-      const textarea = questionContainer.find('textarea');
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-      
-      // Example logic to check answer (this can be replaced with actual logic)
-      var userAnswer = textarea.val().trim();
-      const correctAnswer = question.answer; // Assuming `question.correctAnswer` is predefined
-      const isCorrect = userAnswer.toLowerCase() === correctAnswer.toLowerCase();
-      
-      if(question.attempts == undefined){question.attempts = 0;}
-      question.attempts += 1;
-      question.userAnswer = userAnswer;
-      // Display feedback
-      var feedbackHtml = "";
-      feedbackHtml = isCorrect ? question.correctFeedback : question.incorrectFeedback
-  
-      if(!isCorrect && this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-        if(question.attempts>=this.sharedProperties.maxAttempts){
-          feedbackHtml = question.attemptsExhaustedFeedback + " " + question.answer;
-        }
-      }
-      feedback.text(feedbackHtml);
-      feedback.removeClass("error success").addClass(isCorrect ? "success" : "error").removeClass("dis-none").attr("aria-hidden", "false");
-      
-      const ariaValue = isCorrect ? 'ariaCorrect' : 'ariaIncorrect';
-      textarea.attr("readonly","true").addClass("disabled").attr("aria-disabled","true").attr('aria-describedby', ariaValue);;
-      
-      ariaAnnounce(feedback.text())
-      //add submitted attribute to questionContainer
-      questionContainer.attr("submitted","true");
-  
-      if(isCorrect){
-        questionContainer.find(".inputState").addClass("correct").show();
-        submitBtn.addClass("disabled").attr("aria-disabled", "true"); // Disable "Submit" button
-      }
-      else{
-        questionContainer.find(".inputState").addClass("incorrect").show();
-        submitBtn.addClass("dis-none disabled").attr("aria-hidden", "true").attr("aria-disabled", "true"); // Disable "Submit" button
-        resetBtn.removeClass("dis-none").attr("aria-hidden", "false"); // Show "Try Again" button
-        resetBtn.focus();
-        if(this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-          if(question.attempts>=this.sharedProperties.maxAttempts){
-            //Show Correct Answers tick mark and update aria-describedby property.
-            this.showAnswers(question, true)
-          }
-        }
-      }
-    }
-  
-    showAnswers(question, attemptsExhausted){
-      const questionContainer = $(`#${question.id}`);
-      /*
-      const textarea = questionContainer.find('textarea');
-      textarea.after($(`<div class="correct-answer">The Answer is: ${question.answer}</div>`))
-      */
-      questionContainer.find(".reset-btn").addClass("disabled").attr("aria-disabled","true");
-    }
-  
-    resetAnswer(question) {
-      const questionContainer = $(`#${question.id}`);
-      const feedback = questionContainer.find(".question-feedback");
-      const textarea = questionContainer.find('textarea');
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-  
-      //Reset TextArea
-      textarea.val('')
-      textarea.removeAttr("readonly").removeClass("disabled").attr("aria-disabled","false").removeAttr("aria-describedby");
-  
-      questionContainer.find(".inputState").removeClass("correct incorrect").hide();
-  
-      //Reset Feedback
-      feedback.text('');
-      feedback.removeClass("error success").addClass("dis-none").attr("aria-hidden", "true");
-  
-      submitBtn.addClass("disabled").removeClass("dis-none").attr("aria-hidden", "false").attr("aria-disabled", "true"); // Disable "Submit" button
-      resetBtn.addClass("dis-none").attr("aria-hidden", "true"); // Show "Try Again" button
-  
-      //remove submitted attribute to questionContainer
-      questionContainer.attr("submitted","false");
-      //Focus to textarea on reset.
-      textarea.focus();
-    }
-  
-    
-  
-  }
-  
-  class SAX_Handler{
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-    render(question) {
-      const div = $(`
-        <div id="${question.id}" class="question-main short-answer" role="group" aria-labelledby="question_text_${question.id}">
-          ${question.questionTitle!="" ? `<div class="question-title">${question.questionTitle}</div>` : ''}
-          <div class="question-text" id="question_text_${question.id}" for="textarea_${question.id}">${question.questionHtml}</div>
-          <div class="groupWrapper">
-            <div class="inputbox-wrapper">
-              <span class="inputState" aria-hidden="true"></span>
-              <textarea id="textarea_${question.id}" placeholder="Write your answer here...." rows="4" aria-label="Your answer" aria-labelledby="question_text_${question.id}"></textarea>
-            </div>
-            <div class="question-feedback dis-none" aria-hidden="true"></div>
-            <div class="question-controls">
-                <button class="btn_style_primary submit-btn disabled" aria-disabled="true">Submit</button>
-                <button class="btn_style_secondary reset-btn dis-none" aria-hidden="true">Try Again</button>
-                <button class="btn_style_info icon show-answer-btn floatright" aria-expanded="false">Show Answer</button>
-            </div>
-            <div class="question-explanation dis-none" aria-hidden="true" aria-describedby="ariaAnswerExplanation">${question.explanation}</div>
-          </div>
-        </div>
-      `);
-      return div;
-    }
-    attachEvents(question) {
-      // Listen for input in the textarea
-      $(`#${question.id} textarea`).on("input", function () {
-        const text = $(this).val().trim(); // Get the trimmed value of the textarea
-        // Enable the submit button if there is any text, disable otherwise
-        if (text.length > 0) {
-          $(`#${question.id} .submit-btn`).removeClass("disabled").attr("aria-disabled", "false");
-        } else {
-          $(`#${question.id} .submit-btn`).addClass("disabled").attr("aria-disabled", "true");
-        }
-      });
-  
-      // Handle "Submit" button click
-      $(`#${question.id} .submit-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.submitAnswer(question);
-        }
-      });
-  
-      // Handle "Try Again" (reset) button click
-      $(`#${question.id} .reset-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.resetAnswer(question);
-        }
-      });
-  
-      // Handle "Try Again" (reset) button click
-      $(`#${question.id} .show-answer-btn`).on('click', (event) => {
-        if (!$(event.target).hasClass('disabled')) {
-          this.toggleAnswer(event,question);
-        }
-      });
-    }
-  
-    submitAnswer(question){
-      const questionContainer = $(`#${question.id}`);
-      const feedback = questionContainer.find(".question-feedback");
-      const textarea = questionContainer.find('textarea');
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-      
-      // Example logic to check answer (this can be replaced with actual logic)
-      var userAnswer = textarea.val().trim();
-      const correctAnswer = question.answer; // Assuming `question.correctAnswer` is predefined
-      const isCorrect = userAnswer.toLowerCase() === correctAnswer.toLowerCase();
-      
-      if(question.attempts == undefined){question.attempts = 0;}
-      question.attempts += 1;
-      question.userAnswer = userAnswer;
-  
-      // Display feedback
-      var feedbackHtml = "";
-      feedbackHtml = isCorrect ? question.correctFeedback : question.incorrectFeedback
-  
-      if(!isCorrect && this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-        if(question.attempts>=this.sharedProperties.maxAttempts){
-          feedbackHtml = question.attemptsExhaustedFeedback + " " + question.answer;
-        }
-      }
-      feedback.text(feedbackHtml);
-      feedback.removeClass("error success").addClass(isCorrect ? "success" : "error").removeClass("dis-none").attr("aria-hidden", "false");
-      const ariaValue = isCorrect ? 'ariaCorrect' : 'ariaIncorrect';
-      textarea.attr("readonly","true").addClass("disabled").attr("aria-disabled","true").attr('aria-describedby', ariaValue);;
-      
-      ariaAnnounce(feedback.text())
-      //add submitted attribute to questionContainer
-      questionContainer.attr("submitted","true");
-  
-      if(isCorrect){
-        questionContainer.find(".inputState").addClass("correct").show();
-        submitBtn.addClass("disabled").attr("aria-disabled", "true"); // Disable "Submit" button
-      }
-      else{
-        questionContainer.find(".inputState").addClass("incorrect").show();
-        submitBtn.addClass("dis-none disabled").attr("aria-hidden", "true").attr("aria-disabled", "true"); // Disable "Submit" button
-        resetBtn.removeClass("dis-none").attr("aria-hidden", "false"); // Show "Try Again" button
-        resetBtn.focus();
-        if(this.sharedProperties.maxAttempts != undefined && this.sharedProperties.maxAttempts != 0){
-          if(question.attempts>=this.sharedProperties.maxAttempts){
-            //Show Correct Answers tick mark and update aria-describedby property.
-            this.showAnswers(question, true)
-          }
-        }
-      }
-    }
-  
-    showAnswers(question, attemptsExhausted){
-      const questionContainer = $(`#${question.id}`);
-      /*
-      const textarea = questionContainer.find('textarea');
-      textarea.after($(`<div class="correct-answer">The Answer is: ${question.answer}</div>`))
-      */
-      questionContainer.find(".reset-btn").addClass("disabled").attr("aria-disabled","true");
-    }
-  
-    resetAnswer(question) {
-      const questionContainer = $(`#${question.id}`);
-      const feedback = questionContainer.find(".question-feedback");
-      const textarea = questionContainer.find('textarea');
-      const submitBtn = questionContainer.find('.submit-btn');
-      const resetBtn = questionContainer.find('.reset-btn');
-  
-      //Reset TextArea
-      textarea.val('')
-      textarea.removeAttr("readonly").removeClass("disabled").attr("aria-disabled","false").removeAttr("aria-describedby");
-  
-      questionContainer.find(".inputState").removeClass("correct incorrect").hide();
-  
-      //Reset Feedback
-      feedback.text('');
-      feedback.removeClass("error success").addClass("dis-none").attr("aria-hidden", "true");
-  
-      submitBtn.addClass("disabled").removeClass("dis-none").attr("aria-hidden", "false").attr("aria-disabled", "true"); // Disable "Submit" button
-      resetBtn.addClass("dis-none").attr("aria-hidden", "true"); // Show "Try Again" button
-  
-      //remove submitted attribute to questionContainer
-      questionContainer.attr("submitted","false");
-      //shift focus to textarea on reset
-      textarea.focus();
-    }
-  
-    toggleAnswer(event,question){
-      const questionContainer = $(`#${question.id}`);
-      const explanation = questionContainer.find(".question-explanation")
-      
-      $(event.target).toggleClass("expanded");
-  
-      if($(event.target).hasClass("expanded")){
-        $(event.target).attr("aria-expanded","true");
-        explanation.attr("aria-hidden","false").removeClass("dis-none")
-        explanation.css("height", "0").animate({ height: explanation[0].scrollHeight + "px" }, "slow", "linear", function() {
-          //expanded
-          $(this).css({"height":"auto"});
-        });
-        //explanation[0].style.height = explanation[0].scrollHeight + "px"; // Set height to the full content height
-      }
-      else{
-        $(event.target).attr("aria-expanded","false");
-        explanation.animate({ height: "0px" }, "slow", "linear", function() {
-          $(this).attr("aria-hidden","true").addClass("dis-none");
-        });
-      }
-    }
-  }
 
   class Accordion_Handler{
     constructor(sharedProperties) {
@@ -701,7 +7,7 @@
       const div = $(`
       <div id="accordian_${group.id}" class="group-main ${group.type}">
       ${group.items.map((item, index) =>
-        `<div id="accordian_${group.id}_${index}" class="accordian-main" role="group" aria-labelledby="accordian_title_${group.id}_${index}">
+        `<div id="accordian_${group.id}_${index}" class="accordian-main" role="region" aria-labelledby="accordian_title_${group.id}_${index}">
           <button id="hideshow_${group.id}_${index}" itemid="${group.id}_${index}" class="accordian-title-wrapper collapsed" aria-expanded="false" aria-controls="accordian_desc_${group.id}_${index}">
           ${group.titleElement && group.titleElement!="" 
           ? `<${group.titleElement} class="accordian-title" id="accordian_title_${group.id}_${index}">${item.title}</${group.titleElement}>` 
@@ -720,7 +26,7 @@
               <div class="accordian-desc">${item.explanation}</div>
           </div>
         </div>
-        ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator"/>` : ''}
+        ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
         `
         ).join('')}
       </div>`);
@@ -739,43 +45,15 @@
 
     toggleAnswer(event,itemid){
       $(event.currentTarget).toggleClass("collapsed");
+      $(`#accordian_${itemid} .accordian-desc-wrapper`).toggleClass("visible");
       if($(event.currentTarget).hasClass("collapsed")){
         $(event.currentTarget).attr("aria-expanded","false")
+        $(`#accordian_${itemid} .accordian-desc-wrapper`).attr("aria-hidden","true");
       }
       else{
         $(event.currentTarget).attr("aria-expanded","true")
+        $(`#accordian_${itemid} .accordian-desc-wrapper`).attr("aria-hidden","false");
       }
-      $(`#accordian_${itemid} .accordian-desc-wrapper`).attr("aria-hidden","true").toggleClass("visible");
-    }
-  }
-  class Dropdown_Handler{
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-    render(group) {
-      const div = $(`
-        <div class="group-main ${group.type}">
-        </div> 
-      `);
-      return div;
-    }
-    attachEvents(group) {
-
-    }
-  }
-  class Cloze_Handler{
-    constructor(sharedProperties) {
-      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
-    }
-    render(group) {
-      const div = $(`
-        <div class="group-main ${group.type}">
-        </div> 
-      `);
-      return div;
-    }
-    attachEvents(group) {
-
     }
   }
   class Reflective_Writing_Handler{
@@ -795,10 +73,12 @@
               <div class="inputbox-wrapper">
                 <textarea id="textarea_${group.id}_${index}" placeholder="Write your answer here...." rows="4" aria-label="Your answer" aria-labelledby="reflectiveWriting_title_${group.id}_${index}"></textarea>
               </div>
-              <div class="reflectiveWriting-feedback dis-none" aria-hidden="true">${item.feedback}</div>
+              <div class="reflectiveWriting-feedback dis-none" aria-hidden="true" tabindex="-1">
+                ${item.feedback}
+              </div>
             </div>
           </div>
-          ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator"/>` : ''}
+          ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
           `
           ).join('')}
           <div class="question-controls">
@@ -817,18 +97,40 @@
 
       $(`#btnPrintFeedback_${group.id}`).on('click', (event) => {
         if (!$(event.target).hasClass('disabled')) {
-          this.printFeedback(event,group);
+          //this.printFeedback(event,group);
+          $("#group3_printable").print({
+            globalStyles: true,
+            iframe: true,    
+          });
         }
       });
     }
     toggleFeedback(event, group) {
       const feedbackElements = $(`#reflectiveWriting_${group.id} .reflectiveWriting-feedback`);
-      feedbackElements.toggleClass("dis-none"); // Toggle visibility for all elements
-      feedbackElements.each(function () {
-          const isHidden = $(this).hasClass("dis-none");
-          $(this).attr("aria-hidden", isHidden ? "true" : "false"); // Update accessibility attribute
-      });
+  
+      // Handle case where no elements are found
+      if (feedbackElements.length === 0) {
+          console.warn("No feedback elements found for group:", group.id);
+          return;
+      }
+      // Toggle visibility
+      feedbackElements.toggleClass("dis-none");
+      // Determine visibility state based on the first element
+      const isHidden = feedbackElements.first().hasClass("dis-none");
+      // Update aria-hidden for accessibility
+      feedbackElements.attr("aria-hidden", isHidden ? "true" : "false");
+      // Manage focus for visible elements
+      if (!isHidden) {
+        $(event.currentTarget).text("Hide Feedback")
+        ariaAnnounce("Feedback Expanded." + feedbackElements.first().text())
+        feedbackElements.first().focus();
+      } 
+      else{
+        $(event.currentTarget).text("Show Feedback")
+        ariaAnnounce("Feedback collapsed.")
+      }
     }
+  
     printFeedback(event, group) {
       const groupElement = $(`#reflectiveWriting_${group.id}`);
       
@@ -866,7 +168,239 @@
       } else {
           alert("No content to print.");
       }
+    }
   }
+  class Dropdown_Handler{
+    constructor(sharedProperties) {
+      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
+    }
+    render(group) {
+      const div = $(`
+          <div id="dropdown_${group.id}" class="group-main ${group.type}">
+              <ol class="ordered-list dropdown">
+                  ${group.items.map((item, index) => `
+                      <li id="dropdown_${group.id}_${index}" class="dropdown-main" role="group" aria-labelledby="dropdown_title_${group.id}_${index}">
+                          ${item.headerImage ? this.renderImage(item.headerImage) : ''}
+                          <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
+                          ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
+                          ${this.parseDropdownHtml(
+                            item.dropdownHtml, 
+                            this.populateCommonOptions(item.dropdowns, group.commonDropdownOptions), 
+                            group.id, 
+                            index,
+                            item.dropdownPlacement
+                          )}
+                          </div>
+                          ${item.correctFeedback && item.correctFeedback!="" 
+                          ? `<div class="feedback-container">
+                                <div class="correct-feedback" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
+                                <div class="incorrect-feedback" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
+                            </div>` 
+                          : ''}
+                          
+                          ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
+                      </li>
+                  `).join('')}
+                  
+              </ol>
+              <div class="question-controls">
+                  <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn" aria-disabled="true">Check Answer</button>
+                  <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
+                  <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
+                  <button id="btnPrintFeedback_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+              </div>
+          </div>
+      `);
+      return div;
+    }
+
+    renderImage(headerImage) {
+      // Check if the object is null, undefined, or empty
+      if (!headerImage || Object.keys(headerImage).length === 0) {
+          console.warn("Invalid or empty headerImage provided.");
+          return '';
+      }
   
+      const { src, alt = '', figCaption = 'FIGURE' } = headerImage;
+  
+      return `
+          <figure class="fig fig-center">
+              <div class="image-zoom-holder">
+                  <img class="zoomable-image vst-click" src="${src}" alt="${this.escapeHTML(alt)}"/>
+                  <img class="image-zoom-proxy" src="${src}" style="display: none;" aria-hidden="true"/>
+                  <button class="image-zoom-button">
+                      <span class="visuallyhidden">zoom image</span>
+                  </button>
+              </div>
+              <figcaption class="fig-caption">
+                  <p><span style="color:#D81E5D;"><strong>${this.escapeHTML(figCaption)}</strong></span></p>
+              </figcaption>
+          </figure>
+      `;
+    }
+  
+    escapeHTML(str) {
+      return str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+    }
+
+    parseDropdownHtml(dropdownHtml, dropdowns, groupId, itemIndex, dropdownPlacement) {
+      return dropdownHtml.replace(/#dropdown(\d+)#/g, (match, dropdownIndex) => {
+          const dropdownKey = `dropdown${dropdownIndex}`;
+          const dropdown = dropdowns[dropdownKey];
+  
+          if (!dropdown) {
+              console.error(`Dropdown data for key '${dropdownKey}' not found.`);
+              return match;
+          }
+  
+          const dropdownId = `${groupId}_${itemIndex}_${dropdownKey}`;
+          const dropdownLabel = this.escapeHTML(dropdown.dropdownlabel || "Select an option");
+  
+          return `
+          <span class="dropdown_${dropdownPlacement}">
+              <label for="${dropdownId}" class="visually-hidden">${dropdownLabel}</label>
+              <select id="${dropdownId}" 
+                  aria-label="${dropdownLabel}" 
+                  class="dropdown-select" 
+                  correctOption="${dropdown.correctValue}">
+                  <option value=""></option>
+                  ${dropdown.values.map(value => `
+                      <option value="${value}">${value}</option>
+                  `).join('')}
+              </select>
+              </span>
+          `;
+      });
+    }
+
+    isValidHTML(html) {
+      const doc = document.createElement("div");
+      doc.innerHTML = html;
+      return doc.innerHTML === html;
+    }
+
+    populateCommonOptions(dropdowns, commonDropdownOptions) {
+      const updatedDropdowns = { ...dropdowns };
+      for (const key in updatedDropdowns) {
+          if (updatedDropdowns[key].useCommonOptions === "true") {
+              updatedDropdowns[key].values = [...commonDropdownOptions];
+          }
+      }
+      return updatedDropdowns;
+    }
+
+    attachEvents(group) {
+
+    }
   }
+  class Cloze_Handler{
+    constructor(sharedProperties) {
+      this.sharedProperties = sharedProperties; // Store sharedProperties for later use
+    }
+    render(group) {
+      const div = $(`
+          <div id="cloze_${group.id}" class="group-main ${group.type}">
+              <ol class="ordered-list cloze">
+                  ${group.items.map((item, index) => `
+                      <li id="cloze_${group.id}_${index}" class="close-main" role="group" aria-labelledby="cloze_title_${group.id}_${index}">
+                          ${item.headerImage ? this.renderImage(item.headerImage) : ''}
+                          <div class="cloze-html" id="cloze_title_${group.id}_${index}">
+                          ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
+                          ${this.parseClozeHtml(
+                            item.clozeHtml,
+                            item.clozes,
+                            group.id, 
+                            index,
+                            item.closePlacement
+                          )}
+                          </div>
+                          ${item.correctFeedback && item.correctFeedback!="" 
+                          ? `<div class="feedback-container">
+                                <div class="correct-feedback" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
+                                <div class="incorrect-feedback" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
+                            </div>` 
+                          : ''}
+                          ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
+                      </li>
+                  `).join('')}
+                  
+              </ol>
+              <div class="question-controls">
+                  <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn" aria-disabled="true">Check Answer</button>
+                  <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
+                  <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
+                  <button id="btnPrintFeedback_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+              </div>
+          </div>
+      `);
+      return div;
+    }
+
+    renderImage(headerImage) {
+      // Check if the object is null, undefined, or empty
+      if (!headerImage || Object.keys(headerImage).length === 0) {
+          console.warn("Invalid or empty headerImage provided.");
+          return '';
+      }
+  
+      const { src, alt = '', figCaption = 'FIGURE' } = headerImage;
+  
+      return `
+          <figure class="fig fig-center">
+              <div class="image-zoom-holder">
+                  <img class="zoomable-image vst-click" src="${src}" alt="${this.escapeHTML(alt)}"/>
+                  <img class="image-zoom-proxy" src="${src}" style="display: none;" aria-hidden="true"/>
+                  <button class="image-zoom-button">
+                      <span class="visually-hidden">zoom image</span>
+                  </button>
+              </div>
+              <figcaption class="fig-caption">
+                  <p><span style="style-fig-caption"><strong>${this.escapeHTML(figCaption)}</strong></span></p>
+              </figcaption>
+          </figure>
+      `;
+    }
+  
+    escapeHTML(str) {
+      return str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+    }
+
+    parseClozeHtml(clozeHtml, clozes, groupId, itemIndex, closePlacement) {
+      return clozeHtml.replace(/#cloze(\d+)#/g, (match, clozeIndex) => {
+          const clozeKey = `cloze${clozeIndex}`;
+          const cloze = clozes[clozeKey];
+  
+          if (!cloze) {
+              console.error(`Cloze data for key '${clozeKey}' not found.`);
+              return match;
+          }
+  
+          const clozeId = `${groupId}_${itemIndex}_${clozeKey}`;
+          const clozeLabel = this.escapeHTML(cloze.clozelabel || "Fill in the blank");
+  
+          return `
+          <span class="cloze_${closePlacement}">
+              <label for="${clozeId}" class="visually-hidden">${clozeLabel}</label>
+              <input id="${clozeId}" type="text"
+                  aria-label="${clozeLabel}" 
+                  class="cloze-input" 
+                  correctvalue="${cloze.correctValue}"/>
+              
+              </span>
+          `;
+      });
+    }
+    attachEvents(group) {
+
+    }
+  }
+
 

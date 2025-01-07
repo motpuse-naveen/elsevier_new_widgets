@@ -26,7 +26,7 @@ const questions_data = {
         },
         
       ],
-      titleElement: "",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
+      titleElement: "h4",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
       itemSeperator: "false",
     },
     group2: {
@@ -47,7 +47,7 @@ const questions_data = {
           explanation: `<span>abdomen</span>`,
       },
       ],
-      titleElement: "",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
+      titleElement: "h4",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
       itemSeperator: "false",
     },
     group3: {
@@ -79,29 +79,5 @@ const questions_data = {
       optionStyleType: "st-decimal",
       itemSeperator: "true",
     },
-    group4: {
-      id: "group4",
-      type: "dropdown",
-      placeholder_id: "group4_placeholder",
-      items: [
-        
-      ],
-      ddoptions:[],
-      itemBorderedBox: "true",
-      optionStyleType: "st-decimal",
-      itemSeperator: "false",
-    },
-    group5: {
-      id: "group5",
-      type: "cloze", //Fill-in-the-Blank
-      placeholder_id: "group5_placeholder",
-      items: [
-        
-      ],
-      itemBorderedBox: "true",
-      optionStyleType: "st-decimal",
-      itemSeperator: "false",
-    },
-    
   },
 };

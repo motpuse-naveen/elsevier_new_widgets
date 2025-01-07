@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">
 
 <head>
-    <title>Inline Questions Sample</title>
+    <title>Accordian and Audio Sample</title>
     <meta charset="UTF-8" />
     <meta http-equiv="default-style" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,6 +12,8 @@
     <link rel="stylesheet" type="text/css" href="audio.css"></link>
 
     <script type="text/javascript" src='libs/jquery-2.2.4.min.js'></script>
+    <script type="text/javascript" src="libs/jQuery.print.js"></script>
+    
     <script type="text/javascript" src="libs/video.min.js"></script>
     <script type="text/javascript" src='data/ch01_questions_data.js'></script>
     <script type="text/javascript" src='question_handlers.js'></script>
@@ -31,26 +33,12 @@
             <p><strong>Instructions</strong>: Click or tap on the <em>plus</em> sign to reveal the opposite side of the card.</p>
         </div>
         <div id="group2_placeholder" class="question-group"></div>
-        <h3>D, Part 2</h3>
-        <p>Give the meaning of the entire term.</p>
-        <div id="group3_placeholder" class="question-group"></div>
-        <h3>SPECIALISTS</h3>
-        <p>Match the abnormal condition with the physician (specialist) who treats it.</p>
-        <div id="group4_placeholder" class="question-group" style="border-radius: 4px;
-        padding: 20px;
-        margin: 20px 0;
-        font-weight: 700;
-        background-color: #fee5e2;
-        overflow: hidden;"> DROPDOWN template is in progress </div>
-        <h3>EXERCISES</h3>
-        <p>The exercises that follow are designed to help you learn the terms presented in the chapter. Writing terms over and over again is a good way to study this new language. As you check each answer, you not only will reinforce your understanding of a term but often will gain additional information from the answer.</p>
-        <p><strong>Each exercise is designed not as a test, but rather as an opportunity for you to learn the material.</strong></p>
-        <div id="group5_placeholder" class="question-group" style="border-radius: 4px;
-        padding: 20px;
-        margin: 20px 0;
-        font-weight: 700;
-        background-color: #fee5e2;
-        overflow: hidden;"> Cloze / Fill in the blank template is in progress </div>
+        <div id="group3_printable">
+            <h3>D, Part 2</h3>
+            <p>Give the meaning of the entire term.</p>
+            <div id="group3_placeholder" class="question-group"></div>
+        </div>
+        
     </section>
     
 </body>

@@ -44,10 +44,10 @@ class QuestionRenderer {
   }
   getHandler(type) {
     const handlers = {
-      MCMS: new MCMS_Handler(this.sharedProperties),//Multiple Choice, Multiple Select
+      /*MCMS: new MCMS_Handler(this.sharedProperties),//Multiple Choice, Multiple Select
       MCQ: new MCQ_Handler(this.sharedProperties),//Multiple Choice Question
       SAQ: new SAQ_Handler(this.sharedProperties),//Short/Answer question
-      SAX: new SAX_Handler(this.sharedProperties),//Short/Answer With Explanation
+      SAX: new SAX_Handler(this.sharedProperties),//Short/Answer With Explanation*/
       accordian: new Accordion_Handler(this.sharedProperties),//Accordian with Audio
       dropdown: new Dropdown_Handler(this.sharedProperties),//dropdown groups
       cloze: new Cloze_Handler(this.sharedProperties),//fill in the blank groups
@@ -71,12 +71,13 @@ class QuestionRenderer {
   }
   add_ARIA_Div_to_DOM(){
     const divs = $(`
-      <div id="ariaMessages" class="visually-hidden" aria-live="assertive"></div>
-      <div id="ariaCorrect" class="visually-hidden"> Correct </div>
-      <div id="ariaIncorrect" class="visually-hidden"> Incorrect </div>
-      <div id="ariaAnswerExplanation" class="visually-hidden"> Answer Explanation </div>
+        <div id="ariaMessages" class="visually-hidden" aria-live="assertive" aria-hidden="true"></div>
+        <div id="ariaCorrect" class="visually-hidden" aria-hidden="true"> Correct </div>
+        <div id="ariaIncorrect" class="visually-hidden" aria-hidden="true"> Incorrect </div>
+        <div id="ariaAnswerExplanation" class="visually-hidden" aria-hidden="true"> Answer Explanation </div>
+        <div id="ariaExplanationFeedback" class="visually-hidden" aria-hidden="true"> Explanation Feedback </div>
     `)
-
+    /*
     const elm_question_group = $(".question-group:first");
     if(elm_question_group != undefined){
       elm_question_group.before(divs)
@@ -87,6 +88,8 @@ class QuestionRenderer {
         elm_group_main.before(divs)
       }
     }
+    */
+    $("body").append(divs);
   }
   init_videoJS_audio_component(){
     // Select all audio elements with the class 'video-js'
@@ -116,11 +119,11 @@ function ariaAnnounce(msg) {
     console.log(msg);
     if (msg) {
         clearTimeout(ariaClearTimeout)
-        $('#ariaMessages').html("");
+        $('#ariaMessages').html("").attr("aria-hidden","false");
         $('#ariaMessages').html(msg);
     }
     ariaClearTimeout = setTimeout(function () {
-        $('#ariaMessages').html("");
+        $('#ariaMessages').html("").attr("aria-hidden","true");
     }, 5000);
 }
 

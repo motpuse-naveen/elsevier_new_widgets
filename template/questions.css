@@ -95,6 +95,7 @@ textarea{
     width: 100%;
     border-radius: 5px;
     border: 1px solid var(--border-color);
+    resize: none;
 }
 
 .page-wrapper{
@@ -632,7 +633,15 @@ span.inputState.incorrect{
 
   .print-btn{
     min-width: 150px;
-    margin-left: 20px;
+    margin-left: 10px;
+  }
+
+  .reveal-answer-btn{
+    min-width: 170px;
+    margin-left: 10px;
+  }
+  .reset-answer-btn{
+    min-width: 150px;
   }
 
   .reflectiveWriting-feedback{
@@ -644,4 +653,82 @@ span.inputState.incorrect{
     overflow: hidden;
   }
 
+  .ordered-list.dropdown, .ordered-list.cloze{
+    padding-left: 0;
+  }
+  .ordered-list.dropdown li, .ordered-list.cloze li{
+    list-style-type: none;
+    padding: 8px 0;
+  }
 
+select.dropdown-select{
+    cursor: pointer;
+    font-weight: 700;
+    border: 1px solid #757575;
+    border-radius: 4px;
+    margin: 2px 0;
+    height: 2.5rem;
+    /*text-align: center;
+    text-align-last: center;*/
+    color: #444;
+    z-index: 50000;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-left: 12px;
+    padding-right: 1.875rem;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9.9' height='6.4' viewBox='-474 277.6 9.9 6.4'%3E%3Cpath fill='%23007fad' d='M-465.5 277.6l-3.6 3.5-3.5-3.5-1.4 1.4 4.9 5 5-5'/%3E%3C/svg%3E")
+    right center/.5625rem 0.375rem no-repeat !important;    min-width: 10.25rem;
+    background-position: right 0.625rem center !important;
+    font-size: unset;
+}
+
+  .dropdown_newline{
+    display: block;
+    padding: 15px 0 20px 0;
+  }
+  .dropdown_inline{
+    display: inline-block;
+  }
+
+.style-fig-caption{
+    color:#D81E5D;
+}
+
+input.cloze-input{
+    font-weight: 700;
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-tap-highlight-color: #fff;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 1px solid #444;
+    height: 2.5rem;
+    text-align: left;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    min-width: 100px;
+    font-size: unset;
+}
+
+.image-zoom-holder {
+    position: relative;
+  }
+  .image-zoom-holder img:not(.disabled) {
+    cursor: pointer;
+  }
+  .image-zoom-holder .image-zoom-button {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+    background: url(images/image_zoom.svg) no-repeat center;
+  }
+  figure{
+    margin: auto;
+  }
