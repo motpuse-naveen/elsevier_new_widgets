@@ -1,3 +1,4 @@
+//optionstyletypes ---- "st-upper-alpha", "st-lower-alpha", "st-upper-roman", "st-lower-roman", "st-decimal", "st-none"
 const questions_data = {
   sharedProperties: {
     maxWidth: "960px", //"100%", "90%", "760px", "1024px"
@@ -14,7 +15,9 @@ const questions_data = {
           headerImage:{
             src:"data/media/images/fig2-practicalapplication-1.jpg",
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
-            figCaption: "FIGURE A"
+            figCaption: "FIGURE A",
+            align:"left",//center
+            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>This is a/an #dropdown1# view. The heart lies #dropdown2# to the vertebrae.</span>`,
           dropdowns:{
@@ -29,7 +32,9 @@ const questions_data = {
           headerImage:{
             src:"data/media/images/fig2-practicalapplication-2.jpg",
             alt:"Diagram illustrating the human lungs and heart, highlighting their anatomical structure and interconnection.",
-            figCaption: "FIGURE B"
+            figCaption: "FIGURE B",
+            align:"left",//center
+            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>This is a/an #dropdown1# view. It is a/an #dropdown2# image.</span>`,
           dropdowns:{
@@ -44,7 +49,9 @@ const questions_data = {
           headerImage:{
             src:"data/media/images/fig2-practicalapplication-3.jpg",
             alt:"Chest X-ray displaying the lungs and heart, highlighting their structure and any potential abnormalities.",
-            figCaption: "FIGURE C"
+            figCaption: "FIGURE C",
+            align:"left",//center
+            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>This is a/an #dropdown1# view. It is a/an #dropdown2# image.</span>`,
           dropdowns:{
@@ -258,37 +265,39 @@ const questions_data = {
           headerImage:{
             src:"data/media/images/fig2-practicalapplication-1.jpg",
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
-            figCaption: "FIGURE A"
+            figCaption: "FIGURE A",
+            align:"left",//center
+            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
           },
-          clozeHtml:`<span>Word beginnings are called #cloze1#</span>`,
+          clozeHtml:`<span>Word beginnings are called #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "prefixes", clozelabel:"fill in the blank"},
           },
           closePlacement:"inline",//newline
         },
         {
-          clozeHtml:`<span>Word endings are called #cloze1#</span>`,
+          clozeHtml:`<span>Word endings are called #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "suffixes", clozelabel:"fill in the blank"},
           },
           closePlacement:"inline",//newline
         },
         {
-          clozeHtml:`<span>The foundation of a word is known as the #cloze1#</span>`,
+          clozeHtml:`<span>The foundation of a word is known as the #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "root", clozelabel:"fill in the blank"},
           },
           closePlacement:"inline",//newline
         },
         {
-          clozeHtml:`<span>A letter linking a suffix and a root, or linking two roots, in a term is the #cloze1#</span>`,
+          clozeHtml:`<span>A letter linking a suffix and a root, or linking two roots, in a term is the #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "combining vowel", clozelabel:"fill in the blank"},
           },
           closePlacement:"inline",//newline
         },
         {
-          clozeHtml:`<span>The combination of a root and a combining vowel i.e. #cloze2# is known as the #cloze1#</span>`,
+          clozeHtml:`<span>The combination of a root and a combining vowel i.e. #cloze2# is known as the #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "combining form", clozelabel:"fill in the blank"},
             cloze2:{correctValue: "combining root", clozelabel:"fill in the blank"},

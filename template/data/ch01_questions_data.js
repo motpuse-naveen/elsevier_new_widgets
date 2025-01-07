@@ -10,7 +10,7 @@ const questions_data = {
       placeholder_id: "group1_placeholder",
       items: [
         {
-            title: `abductor`,
+            title: `<i>abductor</i>`,
             audio: `data/media/audio/group1/abductor.mp3`,
             explanation: `<span>ab-DUK-tor</span>`,
         },
@@ -56,7 +56,7 @@ const questions_data = {
       placeholder_id: "group3_placeholder",
       items: [
         {
-            title: `cerebral`,
+            title: `<div style="display:inline;">terms you have <strong>learned</strong> in this chapter are presented here with their pronunciations. The CAPITAL letters indicate the accented syllable.</div>`,
             feedback: `<span>pertaining to the cerebrum, or largest part of the brain</span>`,
         },
         {

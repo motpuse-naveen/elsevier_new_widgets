@@ -695,6 +695,9 @@ select.dropdown-select{
     color:#D81E5D;
 }
 
+figure.fig.fig-center{
+    margin: auto;
+}
 input.cloze-input{
     font-weight: 700;
     border-radius: 0;
@@ -728,7 +731,27 @@ input.cloze-input{
     width: 40px;
     height: 40px;
     background: url(images/image_zoom.svg) no-repeat center;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+  }
+  .fig-holder{
+    
   }
   figure{
-    margin: auto;
+    display: block;
+  }
+  .fig-center {
+    margin: 0 auto; /* Centers the figure horizontally */
+  }
+  .fig-left {
+    margin: auto 0; /* Centers the figure horizontally */
+  }
+  figure.fig-25{ width: 25%; }
+  figure.fig-50{ width: 50%; }
+  figure.fig-75{ width: 75%; }
+  figure.fig-100{ width: 100%; }
+
+  figure.fig-center img,   figure.fig-left img{
+    width: 100%;
   }
