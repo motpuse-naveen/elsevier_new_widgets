@@ -8,15 +8,16 @@ var CommonUtils = (function () {
        */
       renderImage: function (headerImage) {
           if (!headerImage || Object.keys(headerImage).length === 0) {
-              console.warn("Invalid or empty headerImage provided.");
+              console.info("Invalid or empty headerImage provided.");
               return '';
           }
 
-          const { src, alt = '', figCaption = 'FIGURE', align = "left", widthPerd = "70" } = headerImage;
-
+          const { src, alt = '', figCaption = 'FIGURE', align = "left", widthPerc = "auto" } = headerImage;
+          const effectiveWidthPerc = widthPerc === "" ? "auto" : widthPerc;
+          
           return `
-              <div class="fig-holder">
-                  <figure class="fig fig-${align} fig-${widthPerd}">
+              <div class="fig-holder ${align + "_"+ effectiveWidthPerc}">
+                  <figure class="fig fig-${align} fig-${effectiveWidthPerc}">
                       <div class="image-zoom-holder">
                           <img class="zoomable-image vst-click" src="${src}" alt="${CommonUtils.escapeHTML(alt)}"/>
                           <img class="image-zoom-proxy" src="${src}" style="display: none;" aria-hidden="true"/>
@@ -142,7 +143,7 @@ class Reflective_Writing_Handler{
         ).join('')}
         <div class="question-controls">
             <button id="btnShowFeedback_${group.id}" class="btn_style_primary show-feedback-btn" aria-disabled="false">Show Feedback</button>
-            <button id="btnPrintFeedback_${group.id}" class="btn_style_secondary print-btn" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+            <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
         </div>
       </div>`);
       return div;
@@ -154,7 +155,7 @@ class Reflective_Writing_Handler{
       }
     });
 
-    $(`#btnPrintFeedback_${group.id}`).on('click', (event) => {
+    $(`#btnPrint_${group.id}`).on('click', (event) => {
       if (!$(event.target).hasClass('disabled')) {
         //this.printFeedback(event,group);
         $("#group3_printable").print({
@@ -169,7 +170,7 @@ class Reflective_Writing_Handler{
 
     // Handle case where no elements are found
     if (feedbackElements.length === 0) {
-        console.warn("No feedback elements found for group:", group.id);
+        console.info("No feedback elements found for group:", group.id);
         return;
     }
     // Toggle visibility
@@ -238,7 +239,7 @@ class Dropdown_Handler{
         <div id="dropdown_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
-                    <li id="dropdown_${group.id}_${index}" class="dropdown-main" role="group" aria-labelledby="dropdown_title_${group.id}_${index}">
+                    <li id="dropdown_${group.id}_${index}" class="dropdown-item" role="group" aria-labelledby="dropdown_title_${group.id}_${index}">
                         ${item.headerImage ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -251,9 +252,9 @@ class Dropdown_Handler{
                         )}
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
-                        ? `<div class="feedback-container">
-                              <div class="correct-feedback" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
-                              <div class="incorrect-feedback" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
+                        ? `<div class="item-feedback dis-none" aria-hidden="true">
+                              <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
+                              <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
                           </div>` 
                         : ''}
                         
@@ -262,11 +263,24 @@ class Dropdown_Handler{
                 `).join('')}
                 
             </ol>
+            ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
+            ${group.correctFeedback && group.correctFeedback!="" 
+            ? `<div class="group-feedback dis-none" aria-hidden="true">
+                  <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${group.correctFeedback}</div>
+                  <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${group.incorrectFeedback}</div>
+              </div>`
+            :`
+            <div class="global-feedback dis-none" aria-hidden="true" tabindex="-1">
+              <span class="feedback-title visually-hidden">Feedback</span>
+              <div class="correct-feedback">All of your answers are correct.</div>
+              <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
+            </div>
+            `}
             <div class="question-controls">
-                <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn" aria-disabled="true">Check Answer</button>
+                <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
                 <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
-                <button id="btnPrintFeedback_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+                <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
             </div>
         </div>
     `);
@@ -278,7 +292,7 @@ class Dropdown_Handler{
         const dropdown = dropdowns[dropdownKey];
 
         if (!dropdown) {
-            console.error(`Dropdown data for key '${dropdownKey}' not found.`);
+            console.log(`Dropdown data for key '${dropdownKey}' not found.`);
             return match;
         }
 
@@ -286,8 +300,8 @@ class Dropdown_Handler{
         const dropdownLabel = CommonUtils.escapeHTML(dropdown.dropdownlabel || "Select an option");
 
         return `
-        <span class="dropdown_${dropdownPlacement}">
-            <label for="${dropdownId}" class="visually-hidden">${dropdownLabel}</label>
+        <span class="dropdown_wrapper dropdown_${dropdownPlacement}">
+            <!--<label id="label_${dropdownId}" for="${dropdownId}" class="visually-hidden">${dropdownLabel}</label>-->
             <select id="${dropdownId}" 
                 aria-label="${dropdownLabel}" 
                 class="dropdown-select" 
@@ -311,8 +325,188 @@ class Dropdown_Handler{
     return updatedDropdowns;
   }
   attachEvents(group) {
+    group.items.forEach((item, index) => {
+        // Attach event handlers for all dropdowns within the item
+        Object.keys(item.dropdowns).forEach((dropdownKey) => {
+            const dropdownId = `${group.id}_${index}_${dropdownKey}`;
+            $(`#${dropdownId}`).on('change', (event) => {
+                this.handleDropdownChange(event, group.id, index, dropdownKey);
+            });
+        });
+    });
+
+    // Attach event for "Check Answer" button
+    $(`#btnCheckAnswer_${group.id}`).on('click', (event) => {
+      if(!$(event.currentTarget).hasClass("disabled")){
+        this.checkAnswer(event, group.id);
+      }
+    });
+
+    // Attach event for "Reset" button
+    $(`#btnResetAnswer_${group.id}`).on('click', (event) => {
+        this.resetAnswers(event, group.id);
+    });
+
+    // Attach event for "Reveal Answer" button
+    $(`#btnRevealAnswer_${group.id}`).on('click', (event) => {
+        this.revealAnswers(event, group.id);
+    });
+  }
+
+
+  handleDropdownChange(event, groupId, itemIndex, dropdownKey) {
+    const dropdown = $(event.currentTarget);
+    // Enable the "Check Answer" button if at least one dropdown is selected
+    const container = $(`#dropdown_${groupId}`);
+    const atLeastOneSelected = container.find('.dropdown-select').toArray().some(dropdown => $(dropdown).val() !== "");
+    container.find(`#btnCheckAnswer_${groupId}`).attr('aria-disabled', !atLeastOneSelected);
+    if(atLeastOneSelected){
+      container.find(`#btnCheckAnswer_${groupId}`).removeClass('disabled');
+    }
+    else{
+      container.find(`#btnCheckAnswer_${groupId}`).addClass('disabled');
+    }
+  }
+
+  checkAnswer(event, groupId) {
+    //console.log(event.target);
+    const container = $(`#dropdown_${groupId}`);
+    var allCorrectAnswer = true;  // Assume all answers are correct initially
+
+    container.find('.dropdown-item').each((_, dropdownItem) => {
+        const $dropdownItem = $(dropdownItem);
+        
+        // Check all dropdowns within the item
+        const allCorrect = $dropdownItem.find('select.dropdown-select').toArray().every(dropdown => {
+            const $dropdown = $(dropdown);
+            const correctOption = $dropdown.attr('correctOption');
+            const selectedValue = $dropdown.val();
+
+            return selectedValue === correctOption;
+        });
+
+        if(!allCorrect){
+          allCorrectAnswer = false;
+        }
+
+        $dropdownItem.find("select.dropdown-select").each(function(){
+          const $dropdown = $(this);
+          const correctOption = $dropdown.attr('correctOption');
+          const selectedValue = $dropdown.val();
+          // Check if the selected value is correct
+          if (selectedValue === correctOption) {
+              // Add correct icon and highlight
+              $dropdown
+                  .after('<span class="feedback-icon correct-icon"><span class="visually-hidden">  correct </span></span>')
+                  .addClass('correct-highlight');
+          } else {
+              // Add incorrect icon and highlight
+              $dropdown
+                  .after('<span class="feedback-icon incorrect-icon"><span class="visually-hidden"> incorrect </span></span>')
+                  .addClass('incorrect-highlight');
+          }
+          // Disable dropdown
+          $dropdown.attr('disabled', true).attr("aria-disabled","true");
+        });
+
+        // Show feedback based on correctness of all dropdowns within the item
+        var $itemFeedback = $dropdownItem.find(".item-feedback");
+        if ($itemFeedback.length > 0) {
+            $itemFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+            if (allCorrect) {
+                $itemFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
+            } else {
+                $itemFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
+            }
+        }
+    });
+
+    // Show group feedback (correct/incorrect)
+    var $groupFeedback = container.find(".group-feedback");
+    if ($groupFeedback.length > 0) {
+        $groupFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+        if (allCorrectAnswer) {
+            $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+        } else {
+            $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+        $groupFeedback.attr('tabindex', 0).focus();
+    }
+    else{
+      var $globalFeedback = container.find(".global-feedback");
+      if($globalFeedback.length>0){
+        $globalFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+        if (allCorrectAnswer) {
+          $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+        else{
+          $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+
+        $globalFeedback.attr('tabindex', 0).focus();
+      }
+    }
+
+    // Show reset and reveal buttons
+    container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+
+    $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+  }
+
+  resetAnswers(event, groupId) {
+      const container = $(`#dropdown_${groupId}`);
+      // Reset dropdowns
+      container.find('.dropdown-select').each((_, dropdown) => {
+          const $dropdown = $(dropdown);
+          $dropdown.val("").removeAttr('disabled').removeAttr("aria-disabled")
+              .removeClass('correct-highlight incorrect-highlight');
+      });
+
+      container.find(".feedback-icon").remove();
+
+      container.find(`#btnResetAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
+
+      container.find(".group-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".item-feedback").addClass("dis-none").attr('aria-hidden', true);
+      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find(".global-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".correct-answer").remove();
+      container.find(".dropdown_wrapper").removeAttr("aria-hidden");
+      container.find(".reveal-ans-accessible").remove();
 
   }
+
+  revealAnswers(event, groupId) {
+      const container = $(`#dropdown_${groupId}`);
+      container.find('select.dropdown-select').each((_, dropdown) => {
+          const $dropdown = $(dropdown);
+          const correctOption = $dropdown.attr('correctOption');
+          const selectedValue = $dropdown.val();
+          //$dropdown.val(correctOption).addClass('correct');
+          if (selectedValue !== correctOption) {
+            $dropdown.closest(".dropdown_wrapper")
+                  .append(`<span class="correct-answer">${correctOption}</span>`);
+            $dropdown.closest(".dropdown_wrapper").attr("aria-hidden", "true");
+            $dropdown.addClass("reveal-ans")
+            $dropdown.closest(".dropdown_wrapper").after(`<span class="reveal-ans-accessible visually-hidden" aria-hidden="false">answer ${selectedValue} marked incorrect, correct answer ${correctOption}</span>`);
+          }
+      });
+
+      container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
+  }
+
 }
 class Cloze_Handler{
   constructor(sharedProperties) {
@@ -323,7 +517,7 @@ class Cloze_Handler{
         <div id="cloze_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
-                    <li id="cloze_${group.id}_${index}" class="close-main" role="group" aria-labelledby="cloze_title_${group.id}_${index}">
+                    <li id="cloze_${group.id}_${index}" class="cloze-item" role="group" aria-labelledby="cloze_title_${group.id}_${index}">
                         ${item.headerImage ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="cloze-html" id="cloze_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -332,7 +526,7 @@ class Cloze_Handler{
                           item.clozes,
                           group.id, 
                           index,
-                          item.closePlacement
+                          item.clozePlacement
                         )}
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
@@ -344,25 +538,37 @@ class Cloze_Handler{
                         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
                     </li>
                 `).join('')}
-                
             </ol>
+            ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
+            ${group.correctFeedback && group.correctFeedback!="" 
+            ? `<div class="group-feedback dis-none" aria-hidden="true">
+                  <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${group.correctFeedback}</div>
+                  <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${group.incorrectFeedback}</div>
+              </div>`
+            :`
+            <div class="global-feedback dis-none" aria-hidden="true" tabindex="-1">
+              <span class="feedback-title visually-hidden">Feedback</span>
+              <div class="correct-feedback">All of your answers are correct.</div>
+              <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
+            </div>
+            `}
             <div class="question-controls">
-                <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn" aria-disabled="true">Check Answer</button>
+                <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
                 <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
-                <button id="btnPrintFeedback_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+                <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn dis-none" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
             </div>
         </div>
     `);
     return div;
   }
-  parseClozeHtml(clozeHtml, clozes, groupId, itemIndex, closePlacement) {
+  parseClozeHtml(clozeHtml, clozes, groupId, itemIndex, clozePlacement) {
     return clozeHtml.replace(/#cloze(\d+)#/g, (match, clozeIndex) => {
         const clozeKey = `cloze${clozeIndex}`;
         const cloze = clozes[clozeKey];
 
         if (!cloze) {
-            console.error(`Cloze data for key '${clozeKey}' not found.`);
+            console.log(`Cloze data for key '${clozeKey}' not found.`);
             return match;
         }
 
@@ -370,9 +576,9 @@ class Cloze_Handler{
         const clozeLabel = CommonUtils.escapeHTML(cloze.clozelabel || "Fill in the blank");
 
         return `
-        <span class="cloze_${closePlacement}">
-            <label for="${clozeId}" class="visually-hidden">${clozeLabel}</label>
-            <input id="${clozeId}" type="text"
+        <span class="cloze_wrapper cloze_${clozePlacement}">
+            <!--<label id="label_${clozeId}" for="${clozeId}" class="visually-hidden">${clozeLabel}</label>-->
+            <input id="${clozeId}" type="text" autocomplete="off"
                 aria-label="${clozeLabel}" 
                 class="cloze-input" 
                 correctvalue="${cloze.correctValue}"/>
@@ -381,7 +587,185 @@ class Cloze_Handler{
     });
   }
   attachEvents(group) {
+    group.items.forEach((item, index) => {
+      // Attach event handlers for all dropdowns within the item
+      Object.keys(item.clozes).forEach((clozeKey) => {
+          const clozeId = `${group.id}_${index}_${clozeKey}`;
+          $(`#${clozeId}`).on('input', (event) => {
+              this.handleClozeChange(event, group.id, index, clozeKey);
+          });
+      });
+    });
 
+    // Attach event for "Check Answer" button
+    $(`#btnCheckAnswer_${group.id}`).on('click', (event) => {
+      if(!$(event.currentTarget).hasClass("disabled")){
+        this.checkAnswer(event, group.id);
+      }
+    });
+
+    // Attach event for "Reset" button
+    $(`#btnResetAnswer_${group.id}`).on('click', (event) => {
+        this.resetAnswers(event, group.id);
+    });
+
+    // Attach event for "Reveal Answer" button
+    $(`#btnRevealAnswer_${group.id}`).on('click', (event) => {
+        this.revealAnswers(event, group.id);
+    });
+  }
+
+  handleClozeChange(event, groupId, itemIndex, clozeKey){
+    const cloze = $(event.currentTarget);
+    // Enable the "Check Answer" button if at least one input is entered text
+    const container = $(`#cloze_${groupId}`);
+    const atLeastOneSelected = container.find('.cloze-input').toArray().some(cloze => $(cloze).val() !== "");
+    container.find(`#btnCheckAnswer_${groupId}`).attr('aria-disabled', !atLeastOneSelected);
+    if(atLeastOneSelected){
+      container.find(`#btnCheckAnswer_${groupId}`).removeClass('disabled');
+    }
+    else{
+      container.find(`#btnCheckAnswer_${groupId}`).addClass('disabled');
+    }
+  }
+
+  checkAnswer(event, groupId) {
+    const container = $(`#cloze_${groupId}`);
+    var allCorrectAnswer = true;  // Assume all answers are correct initially
+
+    container.find('.cloze-item').each((_, closeItem) => {
+        const $clozeItem = $(closeItem);
+        
+        // Check all dropdowns within the item
+        const allCorrect = $clozeItem.find('input.cloze-input').toArray().every(cloze => {
+            debugger;
+            const $cloze = $(cloze);
+            const correctValue = $cloze.attr('correctvalue');
+            const selectedValue = $cloze.val();
+            console.log(`${selectedValue} === ${correctValue}`)
+            return selectedValue === correctValue;
+        });
+
+        if(!allCorrect){
+          allCorrectAnswer = false;
+        }
+
+        $clozeItem.find("input.cloze-input").each(function(){
+          const $cloze = $(this);
+          const correctValue = $cloze.attr('correctvalue');
+          const selectedValue = $cloze.val();
+          // Check if the selected value is correct
+          if (selectedValue === correctValue) {
+              // Add correct icon and highlight
+              $cloze
+                  .after('<span class="feedback-icon correct-icon"><span class="visually-hidden">  correct </span></span>')
+                  .addClass('correct-highlight');
+          } else {
+              // Add incorrect icon and highlight
+              $cloze
+                  .after('<span class="feedback-icon incorrect-icon"><span class="visually-hidden"> incorrect </span></span>')
+                  .addClass('incorrect-highlight');
+          }
+          // Disable dropdown
+          $cloze.attr('disabled', true).attr("aria-disabled","true");
+        });
+
+        // Show feedback based on correctness of all dropdowns within the item
+        var $itemFeedback = $clozeItem.find(".item-feedback");
+        if ($itemFeedback.length > 0) {
+            $itemFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+            if (allCorrect) {
+                $itemFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
+            } else {
+                $itemFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
+            }
+        }
+    });
+
+    // Show group feedback (correct/incorrect)
+    var $groupFeedback = container.find(".group-feedback");
+    if ($groupFeedback.length > 0) {
+        $groupFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+        if (allCorrectAnswer) {
+            $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+        } else {
+            $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+        $groupFeedback.attr('tabindex', 0).focus();
+    }
+    else{
+      var $globalFeedback = container.find(".global-feedback");
+      if($globalFeedback.length>0){
+        $globalFeedback.removeClass("dis-none").attr("aria-hidden", "false");
+        if (allCorrectAnswer) {
+          $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+        else{
+          $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+        }
+
+        $globalFeedback.attr('tabindex', 0).focus();
+      }
+    }
+
+    // Show reset and reveal buttons
+    container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+
+    $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+  }
+
+  resetAnswers(event, groupId) {
+    const container = $(`#cloze_${groupId}`);
+      // Reset dropdowns
+      container.find('input.cloze-input').each((_, cloze) => {
+          const $cloze = $(cloze);
+          $cloze.val("").removeAttr('disabled').removeAttr("aria-disabled")
+              .removeClass('correct-highlight incorrect-highlight');
+      });
+
+      container.find(".feedback-icon").remove();
+
+      container.find(`#btnResetAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
+
+      container.find(".group-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".item-feedback").addClass("dis-none").attr('aria-hidden', true);
+      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find(".global-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".correct-answer").remove();
+      container.find(".cloze_wrapper").removeAttr("aria-hidden");
+      container.find(".reveal-ans-accessible").remove();
+  }
+
+  revealAnswers(event, groupId) {
+    const container = $(`#cloze_${groupId}`);
+      container.find('input.cloze-input').each((_, cloze) => {
+        debugger;
+          const $cloze = $(cloze);
+          const correctValue = $cloze.attr('correctvalue');
+          const selectedValue = $cloze.val();
+          //$dropdown.val(correctOption).addClass('correct');
+          if (selectedValue !== correctValue) {
+            $cloze.closest(".cloze_wrapper")
+                  .append(`<span class="correct-answer">${correctValue}</span>`);
+            $cloze.closest(".cloze_wrapper").attr("aria-hidden", "true");
+            $cloze.addClass("reveal-ans")
+            $cloze.closest(".cloze_wrapper").after(`<span class="reveal-ans-accessible visually-hidden" aria-hidden="false">answer ${selectedValue} marked incorrect, correct answer ${correctValue}</span>`);
+          }
+      });
+
+      container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
   }
 }
 

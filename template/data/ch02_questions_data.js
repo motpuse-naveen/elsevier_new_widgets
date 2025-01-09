@@ -148,13 +148,13 @@ const questions_data = {
       ],
       itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
                         <p>† A squamous cell is a type of epithelial cell.</p>`,
-      correctFeedback: `Your answer is correct.`,
+      correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
     group6:{
-      id: "group5",
+      id: "group6",
       type: "dropdown",
       placeholder_id: "group5_placeholder",
       commonDropdownOptions:[
@@ -251,7 +251,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         },
       ],
-      correctFeedback: `Your answer is correct.`,
+      correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
@@ -266,46 +266,46 @@ const questions_data = {
             src:"data/media/images/fig2-practicalapplication-1.jpg",
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
             figCaption: "FIGURE A",
-            align:"left",//center
-            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
+            align:"center",//center
+            widthPerc:""//"10","20","30","40","50","60","70","80","90","100"
           },
           clozeHtml:`<span>Word beginnings are called #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "prefixes", clozelabel:"fill in the blank"},
           },
-          closePlacement:"inline",//newline
+          clozePlacement:"inline",//newline
         },
         {
           clozeHtml:`<span>Word endings are called #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "suffixes", clozelabel:"fill in the blank"},
           },
-          closePlacement:"inline",//newline
+          clozePlacement:"inline",//newline
         },
         {
           clozeHtml:`<span>The foundation of a word is known as the #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "root", clozelabel:"fill in the blank"},
           },
-          closePlacement:"inline",//newline
+          clozePlacement:"inline",//newline
         },
         {
           clozeHtml:`<span>A letter linking a suffix and a root, or linking two roots, in a term is the #cloze1#.</span>`,
           clozes:{
             cloze1:{correctValue: "combining vowel", clozelabel:"fill in the blank"},
           },
-          closePlacement:"inline",//newline
+          clozePlacement:"inline",//newline
         },
         {
-          clozeHtml:`<span>The combination of a root and a combining vowel i.e. #cloze2# is known as the #cloze1#.</span>`,
+          clozeHtml:`<span>The combination of a root and a combining vowel i.e. #cloze1# is known as the #cloze2#.</span>`,
           clozes:{
             cloze1:{correctValue: "combining form", clozelabel:"fill in the blank"},
             cloze2:{correctValue: "combining root", clozelabel:"fill in the blank"},
           },
-          closePlacement:"inline",//newline
+          clozePlacement:"inline",//newline
         },
       ],
-      correctFeedback: `Your answer is correct.`,
+      correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
