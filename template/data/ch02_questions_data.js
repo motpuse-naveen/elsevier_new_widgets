@@ -64,7 +64,7 @@ const questions_data = {
         }
       ],
       optionStyleType: "st-decimal",
-      itemSeperator: "false",
+      itemSeperator: "true",
     },
     group5: {
       id: "group5",
@@ -156,7 +156,7 @@ const questions_data = {
     group6:{
       id: "group6",
       type: "dropdown",
-      placeholder_id: "group5_placeholder",
+      placeholder_id: "group6_placeholder",
       commonDropdownOptions:[
         "oncologist",
         "ophthalmologist",
@@ -301,6 +301,117 @@ const questions_data = {
           clozes:{
             cloze1:{correctValue: "combining form", clozelabel:"fill in the blank"},
             cloze2:{correctValue: "combining root", clozelabel:"fill in the blank"},
+          },
+          clozePlacement:"inline",//newline
+        },
+      ],
+      correctFeedback: `All of your answers are correct.`,
+      incorrectFeedback: `You have one or more incorrect answers.`,
+      optionStyleType: "st-decimal",
+      itemSeperator: "false",
+    },
+    group8: {
+      id: "group8",
+      type: "cloze", //Fill-in-the-Blank
+      placeholder_id: "group8_placeholder",
+      items: [
+        {
+          headerImage:{},
+          clozeHtml:`<span>study of the urinary tract: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "uro", clozelabel:"fill in the blank"},
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of women and women’s diseases: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "gyneco", clozelabel:"fill in the blank"},
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of blood: #cloze1# hematology</span>`,
+          clozes:{
+            cloze1:{correctValue: "hemato", clozelabel:"fill in the blank"},
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of tumors: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "onco", clozelabel:"fill in the blank"},
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of the kidneys: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "nephro", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of nerves: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "neuro", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>treatment of children: #cloze1# iatrics</span>`,
+          clozes:{
+            cloze1:{correctValue: "ped", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of x-rays in diagnostic imaging: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "radio", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of the eyes: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "ophthalmo", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        
+        {
+          clozeHtml:`<span>study of the stomach and intestines: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "gastroentero", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of glands that secrete hormones: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "endocrino", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>treatment of the mind: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "psych", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of disease: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "patho", clozelabel:"fill in the blank"}
+          },
+          clozePlacement:"inline",//newline
+        },
+        {
+          clozeHtml:`<span>study of the heart: #cloze1# logy</span>`,
+          clozes:{
+            cloze1:{correctValue: "cardio", clozelabel:"fill in the blank"}
           },
           clozePlacement:"inline",//newline
         },

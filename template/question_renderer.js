@@ -17,7 +17,7 @@ class QuestionRenderer {
     //Object.keys(this.questionGroups).forEach((key, index) => {
     //If you prefer not to use arrow functions, explicitly bind the this context.
     Object.keys(this.questionGroups).forEach(function (key, index) {
-      console.log(`key=${key}  index=${index} value=${this.questionGroups[key]}`);
+      //console.log(`key=${key}  index=${index} value=${this.questionGroups[key]}`);
       // key: the name of the object key
       // index: the ordinal position of the key within the object
       const quesGroupHandler = this.getHandler(this.questionGroups[key].type);
@@ -116,7 +116,7 @@ class QuestionRenderer {
 
 var ariaClearTimeout = null;
 function ariaAnnounce(msg) {
-    console.log(msg);
+    //console.log(msg);
     if (msg) {
         clearTimeout(ariaClearTimeout)
         $('#ariaMessages').html("").attr("aria-hidden","false");

@@ -83,6 +83,7 @@ hr.seperator {
   border: 0;
   height: 1px;
   background: var(--gray-lighter);
+  margin-bottom: 1rem;
 }
 textarea {
   /*font-family: FiraSans-Regular;*/
@@ -140,7 +141,8 @@ button.disabled {
 .floatright {
   float: right;
 }
-.question-main {
+.question-group {
+  margin-bottom: 3rem;
 }
 .question-main .groupWrapper {
   padding: 0px 30px;

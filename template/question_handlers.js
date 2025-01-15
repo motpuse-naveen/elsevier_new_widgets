@@ -141,7 +141,7 @@ class Reflective_Writing_Handler{
         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
         `
         ).join('')}
-        <div class="question-controls">
+        <div class="question-controls no-print">
             <button id="btnShowFeedback_${group.id}" class="btn_style_primary show-feedback-btn" aria-disabled="false">Show Feedback</button>
             <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
         </div>
@@ -157,8 +157,8 @@ class Reflective_Writing_Handler{
 
     $(`#btnPrint_${group.id}`).on('click', (event) => {
       if (!$(event.target).hasClass('disabled')) {
-        //this.printFeedback(event,group);
-        $("#group3_printable").print({
+        var printableElement = $(event.currentTarget).closest(".printable_group");
+        printableElement.print({
           globalStyles: true,
           iframe: true,    
         });
@@ -190,45 +190,6 @@ class Reflective_Writing_Handler{
       ariaAnnounce("Feedback collapsed.")
     }
   }
-
-  printFeedback(event, group) {
-    const groupElement = $(`#reflectiveWriting_${group.id}`);
-    
-    if (groupElement.length > 0) {
-        const printWindow = window.open("", "_blank");
-        printWindow.document.write(`
-            <html>
-                <head>
-                    <title>Print Reflective Writing</title>
-                    <style>
-                        /* Add any necessary styles for printing */
-                        body {
-                            font-family: Arial, sans-serif;
-                            line-height: 1.5;
-                        }
-                        .reflectiveWriting-main {
-                            margin-bottom: 20px;
-                            border-bottom: 1px solid #ccc;
-                            padding-bottom: 10px;
-                        }
-                        .reflectiveWriting-feedback {
-                            margin-top: 10px;
-                            font-style: italic;
-                        }
-                    </style>
-                </head>
-                <body>
-                    <h1>Reflective Writing</h1>
-                    ${groupElement.html()}
-                </body>
-            </html>
-        `);
-        printWindow.document.close();
-        printWindow.print();
-    } else {
-        alert("No content to print.");
-    }
-  }
 }
 class Dropdown_Handler{
   constructor(sharedProperties) {
@@ -240,7 +201,7 @@ class Dropdown_Handler{
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
                     <li id="dropdown_${group.id}_${index}" class="dropdown-item" role="group" aria-labelledby="dropdown_title_${group.id}_${index}">
-                        ${item.headerImage ? CommonUtils.renderImage(item.headerImage) : ''}
+                        ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
                         ${this.parseDropdownHtml(
@@ -276,7 +237,7 @@ class Dropdown_Handler{
               <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
             </div>
             `}
-            <div class="question-controls">
+            <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
                 <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
@@ -350,6 +311,16 @@ class Dropdown_Handler{
     // Attach event for "Reveal Answer" button
     $(`#btnRevealAnswer_${group.id}`).on('click', (event) => {
         this.revealAnswers(event, group.id);
+    });
+
+    $(`#btnPrint_${group.id}`).on('click', (event) => {
+      if (!$(event.target).hasClass('disabled')) {
+        var printableElement = $(event.currentTarget).closest(".printable_group");
+        printableElement.print({
+          globalStyles: true,
+          iframe: true,    
+        });
+      }
     });
   }
 
@@ -455,7 +426,9 @@ class Dropdown_Handler{
 
     // Show reset and reveal buttons
     container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
-    container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    if(!allCorrectAnswer){
+      container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
@@ -473,7 +446,7 @@ class Dropdown_Handler{
       container.find(".feedback-icon").remove();
 
       container.find(`#btnResetAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
-      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true').removeClass("disabled").attr("aria-disabled","false");
       container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
       container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
 
@@ -505,6 +478,7 @@ class Dropdown_Handler{
       });
 
       container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
+      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
   }
 
 }
@@ -518,7 +492,7 @@ class Cloze_Handler{
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
                     <li id="cloze_${group.id}_${index}" class="cloze-item" role="group" aria-labelledby="cloze_title_${group.id}_${index}">
-                        ${item.headerImage ? CommonUtils.renderImage(item.headerImage) : ''}
+                        ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="cloze-html" id="cloze_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
                         ${this.parseClozeHtml(
@@ -552,7 +526,7 @@ class Cloze_Handler{
               <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
             </div>
             `}
-            <div class="question-controls">
+            <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
                 <button id="btnRevealAnswer_${group.id}" class="btn_style_secondary reveal-answer-btn dis-none" aria-hidden="true">Reveal Answer</button>
@@ -613,6 +587,16 @@ class Cloze_Handler{
     $(`#btnRevealAnswer_${group.id}`).on('click', (event) => {
         this.revealAnswers(event, group.id);
     });
+
+    $(`#btnPrint_${group.id}`).on('click', (event) => {
+      if (!$(event.target).hasClass('disabled')) {
+        var printableElement = $(event.currentTarget).closest(".printable_group");
+        printableElement.print({
+          globalStyles: true,
+          iframe: true,    
+        });
+      }
+    });
   }
 
   handleClozeChange(event, groupId, itemIndex, clozeKey){
@@ -642,7 +626,7 @@ class Cloze_Handler{
             const $cloze = $(cloze);
             const correctValue = $cloze.attr('correctvalue');
             const selectedValue = $cloze.val();
-            console.log(`${selectedValue} === ${correctValue}`)
+            //console.log(`${selectedValue} === ${correctValue}`)
             return selectedValue === correctValue;
         });
 
@@ -716,7 +700,9 @@ class Cloze_Handler{
 
     // Show reset and reveal buttons
     container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
-    container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    if(!allCorrectAnswer){
+      container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+    }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
@@ -734,7 +720,7 @@ class Cloze_Handler{
       container.find(".feedback-icon").remove();
 
       container.find(`#btnResetAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
-      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
+      container.find(`#btnRevealAnswer_${groupId}`).addClass('dis-none').attr('aria-hidden','true').removeClass("disabled").attr("aria-disabled","false");
       container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
       container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
 
@@ -766,6 +752,8 @@ class Cloze_Handler{
       });
 
       container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
+
+      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
   }
 }
 
