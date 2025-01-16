@@ -142,6 +142,79 @@ function shuffleArray(array) {
   return array;
 }
 
+// Function to create and append the lightbox dynamically
+function createLightbox(imgElem, $zoomButton) {
+  const imageSrc = imgElem.attr('src'); // Get the image source from the thumbnail
+  const altText = imgElem.attr('alt'); // Get the alt text
+
+  // Get screen dimensions
+  const screenWidth = window.innerWidth;
+  const screenHeight = window.innerHeight;
+  const originalWidth = imgElem[0].naturalWidth;
+  const originalHeight = imgElem[0].naturalHeight;
+  // Calculate aspect ratios
+  const screenAspectRatio = screenWidth / screenHeight;
+  const imageAspectRatio = originalWidth / originalHeight;
+  
+  var adjClass = "";
+
+  if (imageAspectRatio > screenAspectRatio) {
+    adjClass = "wdt100";
+  } else {
+    adjClass = "ht100";
+  }
+
+  const lightbox = $(`
+      <div class="lightbox" role="dialog" aria-labelledby="lightbox-title" aria-hidden="true">
+          <img class="${adjClass}" src="${imageSrc}" alt="${CommonUtils.escapeHTML(altText)}"/>
+          <button class="close-btn" aria-label="Close lightbox">×</button>
+      </div>
+  `);
+
+  // Add close functionality
+  lightbox.find('.close-btn').on('click', function () {
+      lightbox.fadeOut(() => {
+          lightbox.remove();
+          // Return focus to the zoom image button when the lightbox is closed
+          $zoomButton.focus();
+      });
+  });
+
+  // Focus Trap functionality
+  const focusableElements = lightbox.find('button, img');
+  const firstFocusableElement = focusableElements[0];
+  const lastFocusableElement = focusableElements[focusableElements.length - 1];
+
+  // Add ESC key functionality
+  $(document).on('keydown', function (e) {
+      if (e.key === 'Escape' && lightbox.is(':visible')) {
+          lightbox.find('.close-btn').click();
+      }
+
+      // Focus trap logic for Tab key
+      if (e.key === 'Tab') {
+          if (e.shiftKey) { // Shift + Tab
+              if (document.activeElement === firstFocusableElement) {
+                  e.preventDefault();
+                  lastFocusableElement.focus();
+              }
+          } else { // Tab
+              if (document.activeElement === lastFocusableElement) {
+                  e.preventDefault();
+                  firstFocusableElement.focus();
+              }
+          }
+      }
+  });
+
+  // Append to the body and show the lightbox
+  $('body').append(lightbox);
+  lightbox.fadeIn();
+
+  // Shift focus to the close button when lightbox opens
+  lightbox.find('.close-btn').focus();
+}
+
 // Initialize the renderer
 $(document).ready(function () {
   const questionRenderer = new QuestionRenderer(questions_data.question_groups, questions_data.sharedProperties);
@@ -150,4 +223,24 @@ $(document).ready(function () {
     questionRenderer.init_videoJS_audio_component();
   }, 1000)
   
+
+  // Event listener for zoom button click
+  $('.image-zoom-button').on('click', function () {
+    createLightbox($(this).siblings('img'), $(this));
+  });
+  $('.zoomable-image').on('click', function () {
+    createLightbox($(this), $(this).siblings('.image-zoom-button'));
+  });
 })
+
+
+$(document).on('keydown', function (event) {
+  if (event.key === 'Escape') {
+      setTimeout(() => {
+          if (document.activeElement.tagName === 'SELECT') {
+              alert('Dropdown closed');
+              $(document.activeElement).focus();
+          }
+      }, 0);
+  }
+});

@@ -200,7 +200,7 @@ class Dropdown_Handler{
         <div id="dropdown_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
-                    <li id="dropdown_${group.id}_${index}" class="dropdown-item" role="group" aria-labelledby="dropdown_title_${group.id}_${index}">
+                    <li id="dropdown_${group.id}_${index}" class="dropdown-item" aria-labelledby="dropdown_title_${group.id}_${index}">
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -287,15 +287,33 @@ class Dropdown_Handler{
   }
   attachEvents(group) {
     group.items.forEach((item, index) => {
-        // Attach event handlers for all dropdowns within the item
-        Object.keys(item.dropdowns).forEach((dropdownKey) => {
-            const dropdownId = `${group.id}_${index}_${dropdownKey}`;
-            $(`#${dropdownId}`).on('change', (event) => {
-                this.handleDropdownChange(event, group.id, index, dropdownKey);
+      // Attach event handlers for all dropdowns within the item
+      Object.keys(item.dropdowns).forEach((dropdownKey) => {
+          const dropdownId = `${group.id}_${index}_${dropdownKey}`;
+          
+          // Handle change event for dropdown
+          $(`#${dropdownId}`).on('change', (event) => {
+              this.handleDropdownChange(event, group.id, index, dropdownKey);
+          });
+          
+          // Get dropdown and its wrapper
+          const dropdown = $(`#${dropdownId}`);
+          const wrapper = dropdown.closest("span.dropdown_wrapper");
+          if (wrapper && wrapper.length) {
+            // Attach keydown listener to the wrapper
+            wrapper.on('keydown', (event) => {
+                console.log("Key pressed on wrapper: " + event.key);
+                if (event.key === 'Escape') {
+                    // Collapse the dropdown and bring focus back to it
+                    dropdown[0].blur(); // Blur the dropdown
+                    dropdown[0].focus(); // Refocus the dropdown
+                    event.preventDefault(); // Prevent default browser behavior
+                }
             });
-        });
+          }
+      });
     });
-
+    
     // Attach event for "Check Answer" button
     $(`#btnCheckAnswer_${group.id}`).on('click', (event) => {
       if(!$(event.currentTarget).hasClass("disabled")){
@@ -337,9 +355,12 @@ class Dropdown_Handler{
     else{
       container.find(`#btnCheckAnswer_${groupId}`).addClass('disabled');
     }
+
+    dropdown.focus();
   }
 
   checkAnswer(event, groupId) {
+    var anouncementText = "";
     //console.log(event.target);
     const container = $(`#dropdown_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
@@ -401,11 +422,12 @@ class Dropdown_Handler{
         if (allCorrectAnswer) {
             $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.correct-feedback').text();
         } else {
             $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
-        $groupFeedback.attr('tabindex', 0).focus();
     }
     else{
       var $globalFeedback = container.find(".global-feedback");
@@ -414,13 +436,13 @@ class Dropdown_Handler{
         if (allCorrectAnswer) {
           $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.correct-feedback').text();
         }
         else{
           $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
-
-        $globalFeedback.attr('tabindex', 0).focus();
       }
     }
 
@@ -432,6 +454,9 @@ class Dropdown_Handler{
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+
+    $globalFeedback.attr('tabindex', 0).focus();
+    ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {
@@ -491,7 +516,7 @@ class Cloze_Handler{
         <div id="cloze_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
-                    <li id="cloze_${group.id}_${index}" class="cloze-item" role="group" aria-labelledby="cloze_title_${group.id}_${index}">
+                    <li id="cloze_${group.id}_${index}" class="cloze-item" aria-labelledby="cloze_title_${group.id}_${index}">
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="cloze-html" id="cloze_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -614,6 +639,7 @@ class Cloze_Handler{
   }
 
   checkAnswer(event, groupId) {
+    var anouncementText = "";
     const container = $(`#cloze_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
 
@@ -675,11 +701,12 @@ class Cloze_Handler{
         if (allCorrectAnswer) {
             $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.correct-feedback').text();
         } else {
             $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
-        $groupFeedback.attr('tabindex', 0).focus();
     }
     else{
       var $globalFeedback = container.find(".global-feedback");
@@ -688,13 +715,13 @@ class Cloze_Handler{
         if (allCorrectAnswer) {
           $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.correct-feedback').text();
         }
         else{
           $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
-
-        $globalFeedback.attr('tabindex', 0).focus();
       }
     }
 
@@ -706,6 +733,10 @@ class Cloze_Handler{
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+
+    $globalFeedback.attr('tabindex', 0).focus();
+
+    ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {
