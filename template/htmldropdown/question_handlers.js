@@ -200,7 +200,7 @@ class Dropdown_Handler{
         <div id="dropdown_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
-                    <li id="dropdown_${group.id}_${index}" class="dropdown-item" aria-labelledby="dropdown_title_${group.id}_${index}">
+                    <li id="dropdown_${group.id}_${index}" class="dropdown-item">
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -213,8 +213,10 @@ class Dropdown_Handler{
                         )}
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
-                        ? `<div class="item-feedback correct-feedback dis-none" aria-hidden="true">${item.correctFeedback}</div>
-                          <div class="item-feedback incorrect-feedback dis-none" aria-hidden="true">${item.incorrectFeedback}</div>` 
+                        ? `<div class="item-feedback dis-none" aria-hidden="true">
+                              <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
+                              <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
+                          </div>` 
                         : ''}
                         
                         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
@@ -224,12 +226,17 @@ class Dropdown_Handler{
             </ol>
             ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
             ${group.correctFeedback && group.correctFeedback!="" 
-            ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
-              <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
-
-            :`<div class="global-feedback correct-feedback dis-none"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback dis-none"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>`}
-
+            ? `<div class="group-feedback dis-none" aria-hidden="true">
+                  <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${group.correctFeedback}</div>
+                  <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${group.incorrectFeedback}</div>
+              </div>`
+            :`
+            <div class="global-feedback dis-none" aria-hidden="true" tabindex="-1">
+              <span class="feedback-title visually-hidden">Feedback</span>
+              <div class="correct-feedback">All of your answers are correct.</div>
+              <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
+            </div>
+            `}
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
@@ -253,20 +260,22 @@ class Dropdown_Handler{
         const dropdownId = `${groupId}_${itemIndex}_${dropdownKey}`;
         const dropdownLabel = CommonUtils.escapeHTML(dropdown.dropdownlabel || "Select an option");
 
-        return `
-        <span class="dropdown_wrapper dropdown_${dropdownPlacement}">
-            <!--<label id="label_${dropdownId}" for="${dropdownId}" class="visually-hidden">${dropdownLabel}</label>-->
-            <select id="${dropdownId}" 
-                aria-label="${dropdownLabel}" 
-                class="dropdown-select" 
-                correctOption="${dropdown.correctValue}">
-                <option value=""></option>
-                ${dropdown.values.map(value => `
-                    <option value="${value}">${value}</option>
+        
+        
+        var custDropdown =  `
+        <div class="custom-dropdown-wrapper dropdown_${dropdownPlacement}" role="combobox" aria-expanded="false" aria-owns="${dropdownId}_listbox" aria-haspopup="listbox">
+            <button id="${dropdownId}" class="custom-dropdown-button" aria-label="${dropdownLabel}" aria-labelledby="${dropdownId}-dropdown-placeholder" aria-controls="${dropdownId}_listbox" aria-expanded="false" data-correct="${dropdown.correctValue}">
+                <span id="${dropdownId}-dropdown-placeholder" class="dropdown-placeholder"></span>
+            </button>
+            <ul id="${dropdownId}_listbox" class="custom-dropdown-list dis-none" role="listbox" aria-labelledby="${dropdownId}">
+                ${dropdown.values.map((value, index) => `
+                    <li role="option" id="${dropdownId}_option_${index}" tabindex="-1" class="custom-dropdown-option" data-value="${CommonUtils.escapeHTML(value)}">${CommonUtils.escapeHTML(value)}</li>
                 `).join('')}
-            </select>
-            </span>
+            </ul>
+        </div>
         `;
+
+        return custDropdown;
     });
   }
   populateCommonOptions(dropdowns, commonDropdownOptions) {
@@ -280,30 +289,60 @@ class Dropdown_Handler{
   }
   attachEvents(group) {
     group.items.forEach((item, index) => {
-      // Attach event handlers for all dropdowns within the item
       Object.keys(item.dropdowns).forEach((dropdownKey) => {
           const dropdownId = `${group.id}_${index}_${dropdownKey}`;
-          
-          // Handle change event for dropdown
-          $(`#${dropdownId}`).on('change', (event) => {
-              this.handleDropdownChange(event, group.id, index, dropdownKey);
+          const button = $(`#${dropdownId}`);
+          const listbox = $(`#${dropdownId}_listbox`);
+          const options = listbox.find('.custom-dropdown-option');
+
+          // Toggle dropdown visibility
+          button.on('click', (event) => {
+              const isExpanded = button.attr('aria-expanded') === 'true';
+              button.attr('aria-expanded', !isExpanded);
+              listbox.toggle(!isExpanded);
+              if (!isExpanded) options.first().focus();
           });
-          
-          // Get dropdown and its wrapper
-          const dropdown = $(`#${dropdownId}`);
-          const wrapper = dropdown.closest("span.dropdown_wrapper");
-          if (wrapper && wrapper.length) {
-            // Attach keydown listener to the wrapper
-            wrapper.on('keydown', (event) => {
-                console.log("Key pressed on wrapper: " + event.key);
-                if (event.key === 'Escape') {
-                    // Collapse the dropdown and bring focus back to it
-                    dropdown[0].blur(); // Blur the dropdown
-                    dropdown[0].focus(); // Refocus the dropdown
-                    event.preventDefault(); // Prevent default browser behavior
-                }
-            });
-          }
+
+          // Handle keyboard navigation
+          button.on('keydown', (event) => {
+              if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+                  event.preventDefault();
+                  listbox.show();
+                  button.attr('aria-expanded', 'true');
+                  options.first().focus();
+              }
+          });
+
+          options.on('keydown', (event) => {
+              const currentOption = $(event.currentTarget);
+              if (event.key === 'ArrowDown') {
+                  event.preventDefault();
+                  currentOption.next().focus();
+              } else if (event.key === 'ArrowUp') {
+                  event.preventDefault();
+                  currentOption.prev().focus();
+              } else if (event.key === 'Enter') {
+                  event.preventDefault();
+                  const value = currentOption.data('value');
+                  button.find('.dropdown-placeholder').text(value);
+                  button.attr('aria-expanded', 'false');
+                  listbox.hide();
+                  button.focus();
+              } else if (event.key === 'Escape') {
+                  listbox.hide();
+                  button.attr('aria-expanded', 'false');
+                  button.focus();
+              }
+          });
+
+          // Option click
+          options.on('click', (event) => {
+              const value = $(event.currentTarget).data('value');
+              button.find('.dropdown-placeholder').text(value);
+              button.attr('aria-expanded', 'false');
+              listbox.hide();
+              button.focus();
+          });
       });
     });
     
@@ -353,6 +392,7 @@ class Dropdown_Handler{
   }
 
   checkAnswer(event, groupId) {
+    var anouncementText = "";
     //console.log(event.target);
     const container = $(`#dropdown_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
@@ -396,43 +436,44 @@ class Dropdown_Handler{
         // Show feedback based on correctness of all dropdowns within the item
         var $itemFeedback = $dropdownItem.find(".item-feedback");
         if ($itemFeedback.length > 0) {
+            $itemFeedback.removeClass("dis-none").attr("aria-hidden", "false");
             if (allCorrect) {
-              $dropdownItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-              $dropdownItem.find('.item-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+                $itemFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
             } else {
-              $dropdownItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-              $dropdownItem.find('.item-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+                $itemFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
             }
         }
     });
 
     // Show group feedback (correct/incorrect)
-    var anouncementText = "";
-    var feedbackToFocus = null;
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
+        $groupFeedback.removeClass("dis-none").attr("aria-hidden", "false");
         if (allCorrectAnswer) {
-            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-            container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            feedbackToFocus = container.find('.group-feedback.correct-feedback');
+            $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.correct-feedback').text();
         } else {
-            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-            container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            feedbackToFocus = container.find('.group-feedback.incorrect-feedback');
+            $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
     }
     else{
       var $globalFeedback = container.find(".global-feedback");
       if($globalFeedback.length>0){
+        $globalFeedback.removeClass("dis-none").attr("aria-hidden", "false");
         if (allCorrectAnswer) {
-          container.find('.global-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-          container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = container.find('.global-feedback.correct-feedback');
+          $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.correct-feedback').text();
         }
         else{
-          container.find('.global-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-          container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = container.find('.global-feedback.incorrect-feedback');
+          $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
       }
     }
@@ -443,11 +484,11 @@ class Dropdown_Handler{
       container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
+
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
 
-    feedbackToFocus.attr('tabindex', "-1").focus();
-    //anouncementText = feedbackToFocus.text();
-    //ariaAnnounce(anouncementText);
+    $globalFeedback.attr('tabindex', 0).focus();
+    ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {
@@ -466,15 +507,14 @@ class Dropdown_Handler{
       container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
       container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
 
-
-      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
-      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
-      
+      container.find(".group-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".item-feedback").addClass("dis-none").attr('aria-hidden', true);
+      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find(".global-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
       container.find(".correct-answer").remove();
       container.find(".dropdown_wrapper").removeAttr("aria-hidden");
       container.find(".reveal-ans-accessible").remove();
-
-      container.find('.dropdown-select:first').focus();
 
   }
 
@@ -493,10 +533,9 @@ class Dropdown_Handler{
             $dropdown.closest(".dropdown_wrapper").after(`<span class="reveal-ans-accessible visually-hidden" aria-hidden="false">answer ${selectedValue} marked incorrect, correct answer ${correctOption}</span>`);
           }
       });
-      container.find('.correct-feedback').removeAttr('aria-hidden');
-      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
 
-      ariaAnnounce("Answers have been revealed. The correct answers are displayed next to each question.");
+      container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
+      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
   }
 
 }
@@ -509,7 +548,7 @@ class Cloze_Handler{
         <div id="cloze_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
-                    <li id="cloze_${group.id}_${index}" class="cloze-item" aria-labelledby="cloze_title_${group.id}_${index}">
+                    <li id="cloze_${group.id}_${index}" class="cloze-item" >
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="cloze-html" id="cloze_title_${group.id}_${index}">
                         ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
@@ -522,8 +561,10 @@ class Cloze_Handler{
                         )}
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
-                        ? `<div class="item-feedback correct-feedback dis-none" aria-hidden="true">${item.correctFeedback}</div>
-                          <div class="item-feedback incorrect-feedback dis-none" aria-hidden="true">${item.incorrectFeedback}</div>` 
+                        ? `<div class="feedback-container">
+                              <div class="correct-feedback" aria-hidden="true" tabindex="-1">${item.correctFeedback}</div>
+                              <div class="incorrect-feedback" aria-hidden="true" tabindex="-1">${item.incorrectFeedback}</div>
+                          </div>` 
                         : ''}
                         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
                     </li>
@@ -531,11 +572,17 @@ class Cloze_Handler{
             </ol>
             ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
             ${group.correctFeedback && group.correctFeedback!="" 
-            ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
-              <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
-            :`<div class="global-feedback correct-feedback"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>`}
-
+            ? `<div class="group-feedback dis-none" aria-hidden="true">
+                  <div class="correct-feedback dis-none" aria-hidden="true" tabindex="-1">${group.correctFeedback}</div>
+                  <div class="incorrect-feedback dis-none" aria-hidden="true" tabindex="-1">${group.incorrectFeedback}</div>
+              </div>`
+            :`
+            <div class="global-feedback dis-none" aria-hidden="true" tabindex="-1">
+              <span class="feedback-title visually-hidden">Feedback</span>
+              <div class="correct-feedback">All of your answers are correct.</div>
+              <div class="incorrect-feedback">One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>
+            </div>
+            `}
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
                 <button id="btnResetAnswer_${group.id}" class="btn_style_primary reset-answer-btn dis-none" aria-hidden="true">Reset</button>
@@ -670,28 +717,27 @@ class Cloze_Handler{
         if ($itemFeedback.length > 0) {
             $itemFeedback.removeClass("dis-none").attr("aria-hidden", "false");
             if (allCorrect) {
-              $clozeItem.find('.item-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-              $clozeItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+                $itemFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
             } else {
-              $clozeItem.find('.item-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-              $clozeItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+                $itemFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden').attr('tabindex', 0);
+                $itemFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).attr('tabindex', -1);
             }
         }
     });
 
     // Show group feedback (correct/incorrect)
-    var anouncementText = "";
-    var feedbackToFocus = null;
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
+        $groupFeedback.removeClass("dis-none").attr("aria-hidden", "false");
         if (allCorrectAnswer) {
-            container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-            feedbackToFocus = $groupFeedback.find('.group-feedback.correct-feedback')
+            $groupFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.correct-feedback').text();
         } else {
-            container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-            feedbackToFocus = $groupFeedback.find('.group-feedback.incorrect-feedback')
+            $groupFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            $groupFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
     }
     else{
@@ -699,14 +745,14 @@ class Cloze_Handler{
       if($globalFeedback.length>0){
         $globalFeedback.removeClass("dis-none").attr("aria-hidden", "false");
         if (allCorrectAnswer) {
-          container.find('.global-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-          container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = $groupFeedback.find('.correct-feedback');
+          $globalFeedback.find('.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.correct-feedback').text();
         }
         else{
-          container.find('.global-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-          container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = $groupFeedback.find('.incorrect-feedback');
+          $globalFeedback.find('.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          $globalFeedback.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          anouncementText = $groupFeedback.find('.incorrect-feedback').text();
         }
       }
     }
@@ -720,9 +766,9 @@ class Cloze_Handler{
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
 
-    feedbackToFocus.attr('tabindex', "-1").focus();
-    //anouncementText = feedbackToFocus.text();
-    //ariaAnnounce(anouncementText);
+    $globalFeedback.attr('tabindex', 0).focus();
+
+    ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {
@@ -741,13 +787,14 @@ class Cloze_Handler{
       container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
       container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
 
-      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
-      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
-      
+      container.find(".group-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
+      container.find(".item-feedback").addClass("dis-none").attr('aria-hidden', true);
+      container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+      container.find(".global-feedback").addClass("dis-none").attr('aria-hidden', true).attr("tab-index","-1");
       container.find(".correct-answer").remove();
       container.find(".cloze_wrapper").removeAttr("aria-hidden");
       container.find(".reveal-ans-accessible").remove();
-      container.find('input.cloze-input:first').focus()
   }
 
   revealAnswers(event, groupId) {
@@ -766,10 +813,10 @@ class Cloze_Handler{
             $cloze.closest(".cloze_wrapper").after(`<span class="reveal-ans-accessible visually-hidden" aria-hidden="false">answer ${selectedValue} marked incorrect, correct answer ${correctValue}</span>`);
           }
       });
-      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
-      container.find('.correct-feedback').removeAttr('aria-hidden');
 
-      ariaAnnounce("Answers have been revealed. The correct answers are displayed next to each question.");
+      container.find('.correct-feedback').removeAttr('aria-hidden').attr('tabindex', 0);
+
+      $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
   }
 }
 
