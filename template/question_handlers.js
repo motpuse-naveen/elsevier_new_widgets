@@ -238,7 +238,10 @@ class Dropdown_Handler{
             </div>
         </div>
     `);
+    
+
     return div;
+    
   }
   parseDropdownHtml(dropdownHtml, dropdowns, groupId, itemIndex, dropdownPlacement) {
     return dropdownHtml.replace(/#dropdown(\d+)#/g, (match, dropdownIndex) => {
@@ -289,23 +292,33 @@ class Dropdown_Handler{
               this.handleDropdownChange(event, group.id, index, dropdownKey);
           });
           
-          // Get dropdown and its wrapper
           const dropdown = $(`#${dropdownId}`);
-          const wrapper = dropdown.closest("span.dropdown_wrapper");
-          if (wrapper && wrapper.length) {
-            // Attach keydown listener to the wrapper
-            wrapper.on('keydown', (event) => {
-                console.log("Key pressed on wrapper: " + event.key);
-                if (event.key === 'Escape') {
-                    // Collapse the dropdown and bring focus back to it
-                    dropdown[0].blur(); // Blur the dropdown
-                    dropdown[0].focus(); // Refocus the dropdown
-                    event.preventDefault(); // Prevent default browser behavior
-                }
-            });
-          }
+
+          // Listen for keydown event on the select element itself
+          dropdown.on('keydown', (event) => {
+            // Check if the Escape key is pressed
+            if (event.key === 'Escape') {
+              // Close the dropdown (blur it)
+              console.log("Escape event fired.")
+              dropdown[0].blur(); // Close the dropdown
+              dropdown[0].focus(); // Refocus the dropdown to make it active again
+              event.preventDefault(); // Prevent the default behavior
+            }
+          });
+
+          dropdown.find("option").on('keydown', (event) => {
+            // Check if the Escape key is pressed
+            if (event.key === 'Escape') {
+              // Close the dropdown (blur it)
+              console.log("Escape event fired.")
+              dropdown[0].blur(); // Close the dropdown
+              dropdown[0].focus(); // Refocus the dropdown to make it active again
+              event.preventDefault(); // Prevent the default behavior
+            }
+          });
       });
     });
+
     
     // Attach event for "Check Answer" button
     $(`#btnCheckAnswer_${group.id}`).on('click', (event) => {
@@ -407,7 +420,6 @@ class Dropdown_Handler{
     });
 
     // Show group feedback (correct/incorrect)
-    var anouncementText = "";
     var feedbackToFocus = null;
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
@@ -445,8 +457,8 @@ class Dropdown_Handler{
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
 
-    feedbackToFocus.attr('tabindex', "-1").focus();
-    //anouncementText = feedbackToFocus.text();
+    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
+    //var anouncementText =feedbackToFocus.text();
     //ariaAnnounce(anouncementText);
   }
 
@@ -680,7 +692,6 @@ class Cloze_Handler{
     });
 
     // Show group feedback (correct/incorrect)
-    var anouncementText = "";
     var feedbackToFocus = null;
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
@@ -720,8 +731,8 @@ class Cloze_Handler{
 
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
 
-    feedbackToFocus.attr('tabindex', "-1").focus();
-    //anouncementText = feedbackToFocus.text();
+    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
+    //var anouncementText =feedbackToFocus.text();
     //ariaAnnounce(anouncementText);
   }
 
