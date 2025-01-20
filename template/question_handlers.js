@@ -21,7 +21,7 @@ var CommonUtils = (function () {
                       <div class="image-zoom-holder">
                           <img class="zoomable-image vst-click" src="${src}" alt="${CommonUtils.escapeHTML(alt)}"/>
                           <img class="image-zoom-proxy" src="${src}" style="display: none;" aria-hidden="true"/>
-                          <button class="image-zoom-button">
+                          <button class="image-zoom-button" title="Zoom In">
                               <span class="visually-hidden">zoom image</span>
                           </button>
                       </div>
@@ -58,7 +58,8 @@ var CommonUtils = (function () {
       }
   };
 })();
-  
+
+
 class Accordion_Handler{
   constructor(sharedProperties) {
     this.sharedProperties = sharedProperties; // Store sharedProperties for later use
@@ -227,8 +228,8 @@ class Dropdown_Handler{
             ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
               <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
 
-            :`<div class="global-feedback correct-feedback dis-none"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback dis-none"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>`}
+            :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
@@ -238,7 +239,6 @@ class Dropdown_Handler{
             </div>
         </div>
     `);
-    
 
     return div;
     
@@ -346,6 +346,16 @@ class Dropdown_Handler{
         });
       }
     });
+
+    // Attach event for "Reveal Answer" button
+    $(`#reviewyouranswer_${group.id}`).on('click', (event) => {
+      // Focus the first visible .item-feedback
+      let firstVisibleFeedback = $('.item-feedback:visible').first();
+
+      if (firstVisibleFeedback.length > 0) {
+          firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
+      }
+    });
   }
 
 
@@ -449,6 +459,10 @@ class Dropdown_Handler{
       }
     }
 
+    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
+    //var anouncementText = feedbackToFocus.text();
+    //ariaAnnounce(anouncementText);
+
     // Show reset and reveal buttons
     container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     if(!allCorrectAnswer){
@@ -456,10 +470,6 @@ class Dropdown_Handler{
     }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
-
-    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
-    //var anouncementText =feedbackToFocus.text();
-    //ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {
@@ -545,8 +555,8 @@ class Cloze_Handler{
             ${group.correctFeedback && group.correctFeedback!="" 
             ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
               <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
-            :`<div class="global-feedback correct-feedback"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a href="#dropdown_${group.id}" class="btnReviewAnswer">Review your answers</a>.</div>`}
+            :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
@@ -619,6 +629,15 @@ class Cloze_Handler{
         });
       }
     });
+    // Attach event for "Reveal Answer" button
+    $(`#reviewyouranswer_${group.id}`).on('click', (event) => {
+      // Focus the first visible .item-feedback
+      let firstVisibleFeedback = $('.item-feedback:visible').first();
+
+      if (firstVisibleFeedback.length > 0) {
+          firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
+      }
+    });
   }
 
   handleClozeChange(event, groupId, itemIndex, clozeKey){
@@ -636,7 +655,6 @@ class Cloze_Handler{
   }
 
   checkAnswer(event, groupId) {
-    var anouncementText = "";
     const container = $(`#cloze_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
 
@@ -690,37 +708,38 @@ class Cloze_Handler{
             }
         }
     });
-
     // Show group feedback (correct/incorrect)
     var feedbackToFocus = null;
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
         if (allCorrectAnswer) {
-            container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-            feedbackToFocus = $groupFeedback.find('.group-feedback.correct-feedback')
+            container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            feedbackToFocus = container.find('.group-feedback.correct-feedback');
         } else {
-            container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
             container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-            feedbackToFocus = $groupFeedback.find('.group-feedback.incorrect-feedback')
+            container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            feedbackToFocus = container.find('.group-feedback.incorrect-feedback');
         }
     }
     else{
       var $globalFeedback = container.find(".global-feedback");
       if($globalFeedback.length>0){
-        $globalFeedback.removeClass("dis-none").attr("aria-hidden", "false");
         if (allCorrectAnswer) {
           container.find('.global-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = $groupFeedback.find('.correct-feedback');
+          feedbackToFocus = container.find('.global-feedback.correct-feedback');
         }
         else{
           container.find('.global-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-          feedbackToFocus = $groupFeedback.find('.incorrect-feedback');
+          feedbackToFocus = container.find('.global-feedback.incorrect-feedback');
         }
       }
     }
+    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
+    //var anouncementText =feedbackToFocus.text();
+    //ariaAnnounce(anouncementText);
 
     // Show reset and reveal buttons
     container.find(`#btnResetAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
@@ -728,12 +747,7 @@ class Cloze_Handler{
       container.find(`#btnRevealAnswer_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
-
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
-
-    feedbackToFocus.attr('tabindex', "-1").trigger("focus");
-    //var anouncementText =feedbackToFocus.text();
-    //ariaAnnounce(anouncementText);
   }
 
   resetAnswers(event, groupId) {

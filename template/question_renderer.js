@@ -71,11 +71,11 @@ class QuestionRenderer {
   }
   add_ARIA_Div_to_DOM(){
     const divs = $(`
-        <div id="ariaMessages" class="visually-hidden" aria-live="assertive" aria-hidden="true"></div>
-        <div id="ariaCorrect" class="visually-hidden" aria-hidden="true"> Correct </div>
-        <div id="ariaIncorrect" class="visually-hidden" aria-hidden="true"> Incorrect </div>
-        <div id="ariaAnswerExplanation" class="visually-hidden" aria-hidden="true"> Answer Explanation </div>
-        <div id="ariaExplanationFeedback" class="visually-hidden" aria-hidden="true"> Explanation Feedback </div>
+        <div id="ariaMessages" class="visually-hidden" aria-live="assertive"></div>
+        <div id="ariaCorrect" class="visually-hidden"> Correct </div>
+        <div id="ariaIncorrect" class="visually-hidden"> Incorrect </div>
+        <div id="ariaAnswerExplanation" class="visually-hidden"> Answer Explanation </div>
+        <div id="ariaExplanationFeedback" class="visually-hidden"> Explanation Feedback </div>
     `)
     /*
     const elm_question_group = $(".question-group:first");
@@ -119,11 +119,11 @@ function ariaAnnounce(msg) {
     //console.log(msg);
     if (msg) {
         clearTimeout(ariaClearTimeout)
-        $('#ariaMessages').html("").attr("aria-hidden","false");
+        $('#ariaMessages').html("");
         $('#ariaMessages').html(msg);
     }
     ariaClearTimeout = setTimeout(function () {
-        $('#ariaMessages').html("").attr("aria-hidden","true");
+        $('#ariaMessages').html("");
     }, 5000);
 }
 
@@ -165,9 +165,9 @@ function createLightbox(imgElem, $zoomButton) {
   }
 
   const lightbox = $(`
-      <div class="lightbox" role="dialog" aria-labelledby="lightbox-title" aria-hidden="true">
+      <div class="lightbox" role="dialog" aria-modal="true" aria-labelledby="lightbox-title">
           <img class="${adjClass}" src="${imageSrc}" alt="${CommonUtils.escapeHTML(altText)}"/>
-          <button class="close-btn" aria-label="Close lightbox">×</button>
+          <button class="close-btn" aria-label="Close lightbox" title="Close">×</button>
       </div>
   `);
 
@@ -238,7 +238,6 @@ $(document).on('keydown', function (event) {
   if (event.key === 'Escape') {
       setTimeout(() => {
           if (document.activeElement.tagName === 'SELECT') {
-              alert('Dropdown closed');
               $(document.activeElement).focus();
           }
       }, 0);
