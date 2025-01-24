@@ -117,62 +117,102 @@ class Accordion_Handler{
     }
   }
 }
-class Reflective_Writing_Handler{
+class Reflective_Writing_Handler {
   constructor(sharedProperties) {
     this.sharedProperties = sharedProperties; // Store sharedProperties for later use
+    this.pageStateIdentifier = this.sharedProperties.pageStateIdentifier; // Retrieve pageStateIdentifier
   }
+
   render(group) {
     const div = $(`
       <div id="reflectiveWriting_${group.id}" class="group-main ${group.type}">
-      ${group.items.map((item, index) =>
-        `<div id="reflectiveWriting_${group.id}_${index}" class="reflectiveWriting-main" aria-labelledby="reflectiveWriting_title_${group.id}_${index}">
+      ${group.items.map((item, index) => {
+        // Use pageStateIdentifier for a unique key across pages
+        const savedResponses = JSON.parse(localStorage.getItem(`reflectiveWriting_${this.pageStateIdentifier}_${group.id}`)) || {};
+        const savedResponse = savedResponses[index] || ''; // Get response for this specific item
+        return `
+        <div id="reflectiveWriting_${group.id}_${index}" class="reflectiveWriting-main" aria-labelledby="reflectiveWriting_title_${group.id}_${index}">
           <div class="reflectiveWriting-text" id="reflectiveWriting_title_${group.id}_${index}" for="textarea_${group.id}_${index}">
-            ${group.optionStyleType!=undefined && group.optionStyleType!= "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
+            ${group.optionStyleType != undefined && group.optionStyleType != "" ? `<span class="opt-abbr">${styleTypes[group.optionStyleType][index]}.</span>` : ''}
             <span>${item.title}</span>
           </div>
           <div class="groupWrapper">
             <div class="inputbox-wrapper">
-              <textarea id="textarea_${group.id}_${index}" placeholder="Write your answer here...." rows="4" aria-label="Your answer" aria-labelledby="reflectiveWriting_title_${group.id}_${index}"></textarea>
+              <textarea 
+                id="textarea_${group.id}_${index}" 
+                placeholder="Write your answer here...." 
+                rows="4" 
+                aria-label="Your answer" 
+                aria-labelledby="reflectiveWriting_title_${group.id}_${index}"
+              >${savedResponse}</textarea>
             </div>
             <div class="reflectiveWriting-feedback dis-none" aria-hidden="true" tabindex="-1">
               ${item.feedback}
             </div>
           </div>
         </div>
-        ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
-        `
-        ).join('')}
-        <div class="question-controls no-print">
-            <button id="btnShowFeedback_${group.id}" class="btn_style_primary show-feedback-btn" aria-disabled="false">Show Feedback</button>
-            <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
-        </div>
+        ${group.itemSeperator && group.itemSeperator == "true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
+        `;
+      }).join('')}
+      <div class="question-controls no-print">
+          <button id="btnShowFeedback_${group.id}" class="btn_style_primary show-feedback-btn" aria-disabled="false">Show Feedback</button>
+          <button id="btnPrint_${group.id}" class="btn_style_secondary print-btn" aria-hidden="true"><span class="print-btn-icon" aria-hidden="true"></span>Print</button>
+      </div>
       </div>`);
-      return div;
+    return div;
   }
+
   attachEvents(group) {
+    // Handle feedback toggle
     $(`#btnShowFeedback_${group.id}`).on('click', (event) => {
       if (!$(event.target).hasClass('disabled')) {
-        this.toggleFeedback(event,group);
+        this.toggleFeedback(event, group);
       }
     });
 
+    // Handle printing
     $(`#btnPrint_${group.id}`).on('click', (event) => {
       if (!$(event.target).hasClass('disabled')) {
         var printableElement = $(event.currentTarget).closest(".printable_group");
         printableElement.print({
           globalStyles: true,
-          iframe: true,    
+          iframe: true,
         });
       }
     });
+
+    // Restore feedback visibility state
+    const feedbackState = localStorage.getItem(`feedbackState_${this.pageStateIdentifier}_${group.id}`);
+    if (feedbackState === 'shown') {
+      $(`#btnShowFeedback_${group.id}`).text("Hide Feedback");
+      $(`#reflectiveWriting_${group.id} .reflectiveWriting-feedback`).removeClass("dis-none").attr("aria-hidden", "false");
+    }
+
+    // Save user input to LocalStorage
+    group.items.forEach((item, index) => {
+      const textareaId = `textarea_${group.id}_${index}`;
+      $(`#${textareaId}`).on('input', (event) => {
+        const userResponse = event.target.value;
+
+        // Retrieve existing responses for this group and page using pageStateIdentifier
+        if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+          const savedResponses = JSON.parse(localStorage.getItem(`reflectiveWriting_${this.pageStateIdentifier}_${group.id}`)) || {};
+          savedResponses[index] = userResponse; // Update response for this specific item
+
+          // Save back to LocalStorage
+          localStorage.setItem(`reflectiveWriting_${this.pageStateIdentifier}_${group.id}`, JSON.stringify(savedResponses));
+        }
+      });
+    });
   }
+
   toggleFeedback(event, group) {
     const feedbackElements = $(`#reflectiveWriting_${group.id} .reflectiveWriting-feedback`);
 
     // Handle case where no elements are found
     if (feedbackElements.length === 0) {
-        console.info("No feedback elements found for group:", group.id);
-        return;
+      console.info("No feedback elements found for group:", group.id);
+      return;
     }
     // Toggle visibility
     feedbackElements.toggleClass("dis-none");
@@ -182,19 +222,70 @@ class Reflective_Writing_Handler{
     feedbackElements.attr("aria-hidden", isHidden ? "true" : "false");
     // Manage focus for visible elements
     if (!isHidden) {
-      $(event.currentTarget).text("Hide Feedback")
-      ariaAnnounce("Feedback Expanded." + feedbackElements.first().text())
+      $(event.currentTarget).text("Hide Feedback");
+      ariaAnnounce("Feedback Expanded." + feedbackElements.first().text());
       feedbackElements.first().focus();
-    } 
-    else{
-      $(event.currentTarget).text("Show Feedback")
-      ariaAnnounce("Feedback collapsed.")
+    } else {
+      $(event.currentTarget).text("Show Feedback");
+      ariaAnnounce("Feedback collapsed.");
+    }
+    if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+      localStorage.setItem(`feedbackState_${this.pageStateIdentifier}_${group.id}`, !isHidden?"shown":"hidden");
     }
   }
 }
+
 class Dropdown_Handler{
   constructor(sharedProperties) {
     this.sharedProperties = sharedProperties; // Store sharedProperties for later use
+    this.pageStateIdentifier = this.sharedProperties.pageStateIdentifier; // Retrieve pageStateIdentifier
+  }
+  // Method to save the state to LocalStorage
+  saveState(groupId, stateData) {
+    const key = `dropdown_state_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.setItem(key, JSON.stringify(stateData));
+  }
+
+  // Method to load the state from LocalStorage
+  loadState(groupId) {
+    const key = `dropdown_state_${this.pageStateIdentifier}_${groupId}`;
+    const savedState = localStorage.getItem(key);
+    return savedState ? JSON.parse(savedState) : null;
+  }
+  
+  clearState(groupId) {
+    const key1 = `dropdown_state_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.removeItem(key1);
+
+    const key2 = `revealBtn_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.removeItem(key2);
+  }
+
+  // Example: Load the state when the page is loaded
+  loadDropdownState(groupId) {
+    debugger;
+    const savedState = this.loadState(groupId);
+
+    if (savedState) {
+      savedState.forEach(item => {
+        const dropdown = $(`#${item.id}`);
+        if (dropdown.length) {
+          dropdown.val(item.value); // Set the saved value
+        }
+      });
+      const container = $(`#dropdown_${groupId}`);
+      const atLeastOneSelected = container.find('.dropdown-select').toArray().some(dropdown => $(dropdown).val() !== "");
+      container.find(`#btnCheckAnswer_${groupId}`).attr('aria-disabled', !atLeastOneSelected);
+      if(atLeastOneSelected){
+        container.find(`#btnCheckAnswer_${groupId}`).removeClass('disabled');
+        container.find(`#btnCheckAnswer_${groupId}`).trigger("click");
+      }
+      debugger;
+      var revealBtnState = localStorage.getItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`);
+      if(revealBtnState && revealBtnState == "yes"){
+        container.find(`#btnRevealAnswer_${groupId}`).trigger("click");
+      }
+    }
   }
   render(group) {
     const div = $(`
@@ -239,7 +330,6 @@ class Dropdown_Handler{
             </div>
         </div>
     `);
-
     return div;
     
   }
@@ -294,6 +384,8 @@ class Dropdown_Handler{
           
           const dropdown = $(`#${dropdownId}`);
 
+          
+
           // Listen for keydown event on the select element itself
           dropdown.on('keydown', (event) => {
             // Check if the Escape key is pressed
@@ -319,7 +411,6 @@ class Dropdown_Handler{
       });
     });
 
-    
     // Attach event for "Check Answer" button
     $(`#btnCheckAnswer_${group.id}`).on('click', (event) => {
       if(!$(event.currentTarget).hasClass("disabled")){
@@ -356,6 +447,10 @@ class Dropdown_Handler{
           firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
       }
     });
+
+    // After rendering, load the saved state
+    this.loadDropdownState(group.id);
+
   }
 
 
@@ -470,6 +565,16 @@ class Dropdown_Handler{
     }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+    if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+      const stateData = container.find('.dropdown-select').toArray().map(dropdown => {
+        return {
+          value: $(dropdown).val(),
+          id: $(dropdown).attr('id')
+        };
+      });
+    
+      this.saveState(groupId, stateData); // Save the state to LocalStorage
+    }
   }
 
   resetAnswers(event, groupId) {
@@ -498,6 +603,8 @@ class Dropdown_Handler{
 
       container.find('.dropdown-select:first').focus();
 
+      this.clearState(groupId)
+
   }
 
   revealAnswers(event, groupId) {
@@ -518,6 +625,10 @@ class Dropdown_Handler{
       container.find('.correct-feedback').removeAttr('aria-hidden');
       $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
 
+      if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+        localStorage.setItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`, "yes");
+      }
+
       ariaAnnounce("Answers have been revealed. The correct answers are displayed next to each question.");
   }
 
@@ -525,6 +636,54 @@ class Dropdown_Handler{
 class Cloze_Handler{
   constructor(sharedProperties) {
     this.sharedProperties = sharedProperties; // Store sharedProperties for later use
+    this.pageStateIdentifier = this.sharedProperties.pageStateIdentifier; // Retrieve pageStateIdentifier
+  }
+  // Method to save the state to LocalStorage
+  saveState(groupId, stateData) {
+    const key = `cloze_state_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.setItem(key, JSON.stringify(stateData));
+  }
+
+  // Method to load the state from LocalStorage
+  loadState(groupId) {
+    const key = `cloze_state_${this.pageStateIdentifier}_${groupId}`;
+    const savedState = localStorage.getItem(key);
+    return savedState ? JSON.parse(savedState) : null;
+  }
+  
+  clearState(groupId) {
+    const key1 = `cloze_state_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.removeItem(key1);
+
+    const key2 = `revealBtn_${this.pageStateIdentifier}_${groupId}`;
+    localStorage.removeItem(key2);
+  }
+
+  // Example: Load the state when the page is loaded
+  loadClozeState(groupId) {
+    const savedState = this.loadState(groupId);
+
+    if (savedState) {
+      savedState.forEach(item => {
+        const cloze = $(`#${item.id}`);
+        if (cloze.length) {
+          cloze.val(item.value); // Set the saved value
+        }
+      });
+      
+      const container = $(`#cloze_${groupId}`);
+      const atLeastOneSelected = container.find('.cloze-input').toArray().some(cloze => $(cloze).val() !== "");
+      container.find(`#btnCheckAnswer_${groupId}`).attr('aria-disabled', !atLeastOneSelected);
+      if(atLeastOneSelected){
+        container.find(`#btnCheckAnswer_${groupId}`).removeClass('disabled');
+        container.find(`#btnCheckAnswer_${groupId}`).trigger("click");
+      }
+
+      var revealBtnState = localStorage.getItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`);
+      if(revealBtnState && revealBtnState == "yes"){
+        container.find(`#btnRevealAnswer_${groupId}`).trigger("click");
+      }
+    }
   }
   render(group) {
     const div = $(`
@@ -638,6 +797,9 @@ class Cloze_Handler{
           firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
       }
     });
+
+    // After rendering, load the saved state
+    this.loadClozeState(group.id);
   }
 
   handleClozeChange(event, groupId, itemIndex, clozeKey){
@@ -748,6 +910,16 @@ class Cloze_Handler{
     }
     container.find(`#btnPrint_${groupId}`).removeClass('dis-none').removeAttr('aria-hidden');
     $(event.currentTarget).addClass("dis-none").attr("aria-hidden", "true");
+    if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+      const stateData = container.find('.cloze-input').toArray().map(cloze => {
+        return {
+          value: $(cloze).val(),
+          id: $(cloze).attr('id')
+        };
+      });
+    
+      this.saveState(groupId, stateData); // Save the state to LocalStorage
+    }
   }
 
   resetAnswers(event, groupId) {
@@ -773,6 +945,8 @@ class Cloze_Handler{
       container.find(".cloze_wrapper").removeAttr("aria-hidden");
       container.find(".reveal-ans-accessible").remove();
       container.find('input.cloze-input:first').focus()
+
+      this.clearState(groupId)
   }
 
   revealAnswers(event, groupId) {
@@ -793,7 +967,10 @@ class Cloze_Handler{
       });
       $(event.currentTarget).addClass("disabled").attr("aria-disabled","true");
       container.find('.correct-feedback').removeAttr('aria-hidden');
-
+      
+      if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
+        localStorage.setItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`, "yes");
+      }
       ariaAnnounce("Answers have been revealed. The correct answers are displayed next to each question.");
   }
 }
