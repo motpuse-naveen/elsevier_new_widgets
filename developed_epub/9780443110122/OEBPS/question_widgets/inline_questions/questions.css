@@ -692,7 +692,7 @@ select.dropdown-select {
   min-width: 10.25rem;
   background-position: right 0.625rem center !important;
   font-size: unset;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .dropdown_newline {
@@ -734,7 +734,7 @@ input.cloze-input {
   position: relative;
 }
 .image-zoom-holder img:not(.disabled) {
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 .image-zoom-holder .image-zoom-button {
   margin: 0;
@@ -747,6 +747,7 @@ input.cloze-input {
   position: absolute;
   right: 0px;
   bottom: 0px;
+  cursor: pointer;
 }
 .fig-holder {
 }
@@ -828,7 +829,7 @@ figure.fig-auto img {
   font-weight: bold;
 }
 
-.incorrect-feedback {
+.incorrect-feedback,.partial-feedback {
   background-color: var(--iccorrectFeedBG);
   border-radius: 4px;
   padding: 20px;
@@ -839,28 +840,29 @@ figure.fig-auto img {
   border: 1px solid var(--red);
   font-weight: bold;
 }
-
-.global-feedback.correct-feedback {
+.global-feedback.correct-feedback,
+.global-feedback.incorrect-feedback ,
+.global-feedback.partial-feedback 
+{
   background: none;
   border-radius: 4px;
   padding: 10px 30px;
   margin: 20px 0;
   overflow: hidden;
+}
+
+.global-feedback.correct-feedback {
   color: var(--green);
   border: 0px solid var(--green);
-  font-weight: bold;
+  font-weight: normal;
   background: url(images/check-feedback.svg) no-repeat left 5px;
 }
 
-.global-feedback.incorrect-feedback {
-  background: none;
-  border-radius: 4px;
-  padding: 10px 30px;
-  margin: 20px 0;
+.global-feedback.incorrect-feedback, .global-feedback.partial-feedback {
   overflow: hidden;
   color: var(--red);
   border: 0px solid var(--red);
-  font-weight: bold;
+  font-weight: normal;
   background: url(images/x-feedback.svg) no-repeat left 5px;
 }
 
@@ -878,9 +880,6 @@ figure.fig-auto img {
   background: #ffffff;
   margin: -5px 0px -15px -1.875rem;
 }
-.correct-icon {
-}
-
 .correct-icon {
   background: url(images/tick-green.svg);
   background-repeat: no-repeat;
@@ -928,7 +927,7 @@ figure.fig-auto img {
   .dropdown_newline .correct-answer{
     width: 100%;
     display: inline-block;
-    text-align: center;
+    /*text-align: center;*/
   }
 
 .dropdown-html{

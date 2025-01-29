@@ -229,7 +229,7 @@ $(document).ready(function () {
     createLightbox($(this).siblings('img'), $(this));
   });
   $('.zoomable-image').on('click', function () {
-    createLightbox($(this), $(this).siblings('.image-zoom-button'));
+    //createLightbox($(this), $(this).siblings('.image-zoom-button'));
   });
 })
 
