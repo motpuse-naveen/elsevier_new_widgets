@@ -125,6 +125,7 @@ body {
     outline: 2px solid var(--blue);
     color: var(--blue);
     outline-offset: -1px;
+    font-weight: bold;
 }
 .focus-input.active i,.focus-input.active b, .focus-input.active span, .focus-input.active div {
     color: var(--blue);

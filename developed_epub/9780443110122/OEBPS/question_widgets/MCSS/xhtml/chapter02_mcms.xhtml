@@ -30,7 +30,7 @@
                         <div id="questionInstruction">Select one answer.</div>
                      </div>      
                      <div class="ques-content">
-                        <ul class="Multiple-choice" aria-label="options" role="radiogroup"></ul>
+                        <ul class="Multiple-choice" role="radiogroup" aria-labelledby="questionNumber questionName"></ul>
                      </div>
                      <div class="answer-controls d-flex mt-3">
                            <label class="correct" id="answer_label"></label>
@@ -38,7 +38,7 @@
                                                       associated
                                                       with
                                                       ethnicity.</i></p>
-                           <p id="need_help">Need help with this one? <a href="" class="text-link" tabindex="0" id="show_ans" aria-label="Show Answer" role="button" aria-expanded="false">Show
+                           <p id="need_help">Need help with this one? <a href="#" class="text-link" tabindex="0" id="show_ans" aria-label="Show Answer" role="button" aria-expanded="false">Show
                                                       answer</a>
                                                 </p>
                                                 <button class="check disabled" id="mcq_button" aria-disabled="true" data-state="notAnswered" tabindex="0">Check
@@ -47,7 +47,7 @@
                </div>
          </div>
          <footer role="none">
-            <div class="footer" role="navigation" aria-label="Pagination">
+            <div class="footer short_nav" role="navigation" aria-label="Pagination">
                   <div class="arrow-mask left">
                      <button class="arrow-left outer" aria-disabled="true" aria-label="Previous page" tabindex="0" title="Previous"></button>
                   </div>   

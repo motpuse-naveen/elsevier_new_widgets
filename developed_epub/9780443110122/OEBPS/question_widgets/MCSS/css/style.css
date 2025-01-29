@@ -125,6 +125,7 @@ body {
     outline: 2px solid var(--blue);
     color: var(--blue);
     outline-offset: -1px;
+    font-weight: bold;
 }
 .focus-input.active i,.focus-input.active b, .focus-input.active span, .focus-input.active div {
     color: var(--blue);
@@ -293,6 +294,12 @@ i{
     bottom: 0;
 }
 
+.mcq footer .short_nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .mcq .arrow-mask.left {
     background: url(../images/figure_arrow_mask_left.png);
     left: 0;
@@ -376,6 +383,9 @@ i{
     right: 0px;
     top: 0px;
 }
+.short_nav .mcq .arrow-mask.right {
+    position: unset;
+}
 .arrow-mask.right {
     position: absolute;
     right: 0;
@@ -398,11 +408,24 @@ i{
     margin-right: 36px;
     padding: 0px;
 }
+.short_nav .nav.nav-tabs.md-tabs.nav-justified {
+    margin-left: 0px;
+    margin-right: 0px;
+    position:unset;
+}
+.short_nav .arrow-mask{
+    position:relative !important;
+}
+
 .steps li.nav-item {
     padding: 28px 4px;
     line-height: 15px;
     outline: none;
     border: 1px solid transparent;
+}
+
+.short_nav .steps li.nav-item {
+    padding: 10px 4px;
 }
 .active, .slide-thumbnail:hover {
     opacity: 1;
