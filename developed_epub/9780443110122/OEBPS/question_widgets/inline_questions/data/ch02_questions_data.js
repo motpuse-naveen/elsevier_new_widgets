@@ -15,7 +15,7 @@ const questions_data = {
       items: [
         { 
           headerImage:{
-            src:"../../question_widgets/data/media/images/fig2-practicalapplication-1.jpg",
+            src:"../../question_widgets/inline_questions/data/media/images/fig2-practicalapplication-1.jpg",
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
             figCaption: "FIGURE A",
             align:"left",//center
@@ -28,11 +28,12 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
           headerImage:{
-            src:"../../question_widgets/data/media/images/fig2-practicalapplication-2.jpg",
+            src:"../../question_widgets/inline_questions/data/media/images/fig2-practicalapplication-2.jpg",
             alt:"Diagram illustrating the human lungs and heart, highlighting their anatomical structure and interconnection.",
             figCaption: "FIGURE B",
             align:"left",//center
@@ -45,11 +46,12 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         {
           headerImage:{
-            src:"../../question_widgets/data/media/images/fig2-practicalapplication-3.jpg",
+            src:"../../question_widgets/inline_questions/data/media/images/fig2-practicalapplication-3.jpg",
             alt:"Chest X-ray displaying the lungs and heart, highlighting their structure and any potential abnormalities.",
             figCaption: "FIGURE C",
             align:"left",//center
@@ -62,6 +64,7 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         }
       ],
@@ -151,7 +154,8 @@ const questions_data = {
       itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
                         <p>† A squamous cell is a type of epithelial cell.</p>`,
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -254,7 +258,8 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -305,7 +310,8 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -416,14 +422,11 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
-
-
-
-
     group1: {
       id: "group1",
       type: "accordian",
@@ -431,21 +434,19 @@ const questions_data = {
       items: [
         {
             title: `abdomen`,
-            audio: `../../question_widgets/data/media/audio/group1/abdomen.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/abdomen.mp3`,
             explanation: `AB-do-men`,
         },
         {
             title: `abdominalcavity`,
-            audio: `../../question_widgets/data/media/audio/group1/abdominal_cavity.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/abdominal_cavity.mp3`,
             explanation: `ab-DOM-ih-nalKAV-ih-te`,
         },
         {
             title: `adipose`,
-            audio: `../../question_widgets/data/media/audio/group1/adipose.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/adipose.mp3`,
             explanation: `AH-dih-pohs`,
         },
-        
-        
       ],
       titleElement: "h4",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
       itemSeperator: "false",

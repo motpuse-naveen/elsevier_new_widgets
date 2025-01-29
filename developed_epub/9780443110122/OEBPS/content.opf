@@ -61,19 +61,19 @@
             media-type="image/jpeg"/>
       
       
-      <item id="FiraSans-Light" href="question_widgets/fonts/FiraSans-Light.otf" media-type="font/otf"/>
-      <item id="FiraSans-ExtraBold" href="question_widgets/fonts/FiraSans-ExtraBold.otf" media-type="font/otf"/>
-      <item id="FiraSans-Bold" href="question_widgets/fonts/FiraSans-Bold.otf" media-type="font/otf"/>
-      <item id="FiraSans-Regular" href="question_widgets/fonts/FiraSans-Regular.otf" media-type="font/otf"/>
-      <item id="correct" href="question_widgets/images/correct.png" media-type="image/png"/>
-      <item id="incorrect" href="question_widgets/images/incorrect.png" media-type="image/png"/>
-      <item id="minus" href="question_widgets/images/minus.svg" media-type="image/svg+xml"/>
-      <item id="plus" href="question_widgets/images/plus.svg" media-type="image/svg+xml"/>
-      <item id="image_zoom" href="question_widgets/images/image_zoom.svg" media-type="image/svg+xml"/>
-      <item id="check-feedback" href="question_widgets/images/check-feedback.svg" media-type="image/svg+xml"/>
-      <item id="x-feedback" href="question_widgets/images/x-feedback.svg" media-type="image/svg+xml"/>
-      <item id="tick-green" href="question_widgets/images/tick-green.svg" media-type="image/svg+xml"/>
-      <item id="x-red" href="question_widgets/images/x-red.svg" media-type="image/svg+xml"/>
+      <item id="FiraSans-Light" href="question_widgets/inline_questions/fonts/FiraSans-Light.otf" media-type="font/otf"/>
+      <item id="FiraSans-ExtraBold" href="question_widgets/inline_questions/fonts/FiraSans-ExtraBold.otf" media-type="font/otf"/>
+      <item id="FiraSans-Bold" href="question_widgets/inline_questions/fonts/FiraSans-Bold.otf" media-type="font/otf"/>
+      <item id="FiraSans-Regular" href="question_widgets/inline_questions/fonts/FiraSans-Regular.otf" media-type="font/otf"/>
+      <item id="correct" href="question_widgets/inline_questions/images/correct.png" media-type="image/png"/>
+      <item id="incorrect" href="question_widgets/inline_questions/images/incorrect.png" media-type="image/png"/>
+      <item id="minus" href="question_widgets/inline_questions/images/minus.svg" media-type="image/svg+xml"/>
+      <item id="plus" href="question_widgets/inline_questions/images/plus.svg" media-type="image/svg+xml"/>
+      <item id="image_zoom" href="question_widgets/inline_questions/images/image_zoom.svg" media-type="image/svg+xml"/>
+      <item id="check-feedback" href="question_widgets/inline_questions/images/check-feedback.svg" media-type="image/svg+xml"/>
+      <item id="x-feedback" href="question_widgets/inline_questions/images/x-feedback.svg" media-type="image/svg+xml"/>
+      <item id="tick-green" href="question_widgets/inline_questions/images/tick-green.svg" media-type="image/svg+xml"/>
+      <item id="x-red" href="question_widgets/inline_questions/images/x-red.svg" media-type="image/svg+xml"/>
       
       <item id="Elsevier_eBook11" href="Style/Elsevier_eBook1.css" media-type="text/css"/>
       <item id="variables1" href="question_widgets/common_assets/css/variables.css" media-type="text/css"/>
@@ -120,17 +120,24 @@
       <item id="css" href="Style/Elsevier_eBook.css" media-type="text/css"/>
       <item id="media_css" href="Style/media.css" media-type="text/css"/>
       <item id="math_css" href="Style/math.css" media-type="text/css"/>
-      <item id="video_js" href="question_widgets/libs/video-js.css" media-type="text/css"/>
-      <item id="questions" href="question_widgets/questions.css" media-type="text/css"/>
-      <item id="audio" href="question_widgets/audio.css" media-type="text/css"/>
+      <item id="video_js" href="question_widgets/inline_questions/libs/video-js.css" media-type="text/css"/>
+      <item id="questions" href="question_widgets/inline_questions/questions.css" media-type="text/css"/>
+      <item id="audio" href="question_widgets/inline_questions/audio.css" media-type="text/css"/>
 
       <item id="id_js" href="Style/math.js" media-type="text/javascript"/>    
-      <item id="jquery" href="question_widgets/libs/jquery-2.2.4.min.js" media-type="text/javascript"/>    
-      <item id="jquery_print" href="question_widgets/libs/jQuery.print.js" media-type="text/javascript"/>    
-      <item id="video_min" href="question_widgets/libs/video.min.js" media-type="text/javascript"/>    
-      <item id="ch02_questions_data" href="question_widgets/data/ch02_questions_data.js" media-type="text/javascript"/>    
-      <item id="question_handlers" href="question_widgets/question_handlers.js" media-type="text/javascript"/>    
-      <item id="question_renderer" href="question_widgets/question_renderer.js" media-type="text/javascript"/>    
+      <item id="jquery" href="question_widgets/inline_questions/libs/jquery-3.6.0.min.js" media-type="text/javascript"/>    
+      <item id="jquery_print" href="question_widgets/inline_questions/libs/jQuery.print.js" media-type="text/javascript"/>    
+      <item id="video_min" href="question_widgets/inline_questions/libs/video.min.js" media-type="text/javascript"/>    
+      <item id="ch01_questions_data" href="question_widgets/inline_questions/data/ch01_questions_data.js" media-type="text/javascript"/>
+      <item id="ch02_questions_data" href="question_widgets/inline_questions/data/ch02_questions_data.js" media-type="text/javascript"/>   
+       <item id="fig2-practicalapplication-1-jpg" href="question_widgets/inline_questions/data/media/images/fig2-practicalapplication-1.jpg" media-type="image/jpeg"/>
+      <item id="fig2-practicalapplication-2-jpg" href="question_widgets/inline_questions/data/media/images/fig2-practicalapplication-2.jpg" media-type="image/jpeg"/>
+      <item id="fig2-practicalapplication-3-jpg" href="question_widgets/inline_questions/data/media/images/fig2-practicalapplication-3.jpg" media-type="image/jpeg"/>
+      <item id="abdomen-mp3" href="question_widgets/inline_questions/data/media/audio/group1/abdomen.mp3" media-type="audio/mpeg"/>
+      <item id="abdominal_cavity-mp3" href="question_widgets/inline_questions/data/media/audio/group1/abdominal_cavity.mp3" media-type="audio/mpeg"/>
+      <item id="adipose-mp3" href="question_widgets/inline_questions/data/media/audio/group1/adipose.mp3" media-type="audio/mpeg"/>
+      <item id="question_handlers" href="question_widgets/inline_questions/question_handlers.js" media-type="text/javascript"/>    
+      <item id="question_renderer" href="question_widgets/inline_questions/question_renderer.js" media-type="text/javascript"/>    
       <item id="B9780443107795010010_fm01-9780443107795"
             href="IMAGES/B9780443107795010010/main.assets/fm01-9780443107795.jpg"
             media-type="image/jpeg"/>
