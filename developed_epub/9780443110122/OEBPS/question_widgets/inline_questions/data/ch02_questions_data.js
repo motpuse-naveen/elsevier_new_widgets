@@ -518,5 +518,34 @@ const questions_data = {
       titleElement: "h4",//"h1", "h2", "h3", "h4", "h5", "h6" ,""
       itemSeperator: "false",
     },
+    group10: {
+      id: "group10",
+      type: "reflective_writing", //Fill-in-the-Blank
+      placeholder_id: "group10_placeholder",
+      items: [
+        {
+            title: `<div style="display:inline;">terms you have <strong>learned</strong> in this chapter are presented here with their pronunciations. The CAPITAL letters indicate the accented syllable.</div>`,
+            feedback: `<span>pertaining to the cerebrum, or largest part of the brain</span>`,
+        },
+        {
+          title: `biopsy`,
+          feedback: `<span>process of viewing life (removal of living tissue and viewing it under a microscope)</span>`,
+        },
+        {
+          title: `adenitis`,
+          feedback: `<span>inflammation of a gland</span>`,
+        },
+        {
+          title: `cephalic`,
+          feedback: `<span>pertaining to the head</span>`,
+        },
+        {
+          title: `carcinoma`,
+          feedback: `<span>tumor that is cancerous (cancerous tumor)</span>`,
+        },
+      ],
+      optionStyleType: "st-decimal",
+      itemSeperator: "true",
+    },
   },
 };

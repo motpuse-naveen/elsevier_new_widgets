@@ -656,6 +656,7 @@ h6.accordian-title {
   font-weight: 400;
   overflow: hidden;
   font-weight: bold;
+  border: 1px solid var(--gray-border);
 }
 
 .ordered-list.dropdown,
