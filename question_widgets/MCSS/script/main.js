@@ -109,6 +109,7 @@ $(".steps").on('click keydown', function (e) {
     }
 });
 function autoDragPagination(selectedStep) {
+    debugger;
     $ul = $('.steps ol');
     $ulWrapper = $ul//.parent();
     stepWidth = $('.steps ol li').outerWidth();
@@ -175,7 +176,7 @@ function setAvailableQuestion() {
 function getNewQuestion(question) {
     $('#mcq_button').show();
     QuestionNumber.innerText = "Question " + (question);
-    QuestionNumber.setAttribute('role', "heading");
+    //QuestionNumber.setAttribute('role', "heading");
     QuestionNumber.setAttribute('tabindex', '0');
     optionsIndex++;
     // get random question
@@ -337,7 +338,7 @@ function getNewQuestion(question) {
 }
 function addActiveClass(el) {
     var isWrong = isAnsweredWrong();
-    console.log("called addActiveClass " + el.key)
+    //console.log("called addActiveClass " + el.key)
     if(!$(el.target).hasClass('already-answered') && !isWrong){
         $(".ic-opt-fbk").remove();
         $(el.target).prevAll().removeClass().addClass('focus-input').attr("aria-checked", false);
@@ -523,6 +524,7 @@ $('#mcq_button').on('mousedown click', function (e) {
             $('#need_help').show();*/
             $('#questionNumber').focus();
         } else if (buttonText === 'try') {
+            debugger;
             $('.focus-input').removeClass().addClass('focus-input').attr("aria-checked",false).attr("aria-disabled", false);
             $('#answer_label').hide();
             $('#Add_solution').hide();
@@ -545,8 +547,10 @@ $('#mcq_button').on('mousedown click', function (e) {
             $('#mcq_button').addClass('disabled').attr("aria-disabled",true);
             $('#questionNumber').focus();
             $('#mcq_button').html('Check Answer');
+            $('#need_help').attr("aria-hidden","false").show()
             // $('#mcq_button').removeAttr('tabindex');
             //$('#mcq_button').attr('tabindex', '-1');
+            
             let currentQuestionIndex = parseInt($('.tab-pane').attr('id')) - 1;
             let question = quiz[currentQuestionIndex]
             question.userAnswered = '';
@@ -590,6 +594,7 @@ $('#show_ans').on('click keydown', (function (e) {
         
         $(".ic-opt-fbk").remove();
         $('#answer_label').hide();
+        $('#need_help').attr("aria-hidden","true").hide();
         bind_annotLinkEvents();
     }
 }));
@@ -645,7 +650,7 @@ $('#show_ans').on('focusin click keyup', function (e) {
 
 var ariaClearTimeout = null;
 function ariaAnnounce(msg) {
-    console.log(msg);
+    //console.log(msg);
     if (msg) {
         clearTimeout(ariaClearTimeout)
         $('#ariaMessages').html("");
