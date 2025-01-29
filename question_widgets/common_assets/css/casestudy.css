@@ -1,0 +1,191 @@
+/* learning Resources css*/
+
+.casestudy1 {
+ /* background: #002F6E;*/
+    color: white;
+    margin: -8px -15px 15px;
+
+    padding: -1px 30px 12px 15px;
+    position: relative;
+    z-index: 1;
+    font-family: "Source Sans Pro", Verdana, Helvetica, sans;
+    font-weight: 500;
+    font-size: 1.3em;
+    line-height: normal;
+    width: 97%; 
+    overflow: hidden;    
+}
+
+.casestudy1:after {
+   content: "";
+    display: block;
+    position: absolute;
+
+    top: -4px;
+    bottom: -181px;
+    right: -1px;
+    width: 25px;
+    background:#818284 url(../images/icon-arrow-right-white.svg) 20% 10% no-repeat;
+    background-size: 67% auto; 
+
+}
+
+.casestudy2 {
+ background: #FFFFFF;
+    color: #818284 !important;
+    border: 1px solid #000000;
+    padding: 19px 0px 26px 0px;
+    display: block;
+    clear: both;
+    /* padding-top: 0px; */
+     text-align: left;
+    width: 97%;
+    padding: 8px 644px 8px 15px;
+    margin-top: 1px;
+    margin-left: 0px;
+    /*width: 100%;*/
+    font: 500 1.36em/1.15 "Meta Serif Office Pro", Georgia, serif;
+
+}
+
+.casestudy2 a {
+    color: #818284;
+
+}
+
+    table, td {
+      border: 1px solid #33598b;
+    color: black;
+     border-collapse: collapse;
+        background: #E3F1D0;
+      padding: 6px;
+      
+}
+
+.casestudy3 {
+ background: #FFFFFF;
+    color: #818284 !important;
+    border: 1px solid #000000;
+    /*padding: 19px 0px 26px 0px;*/
+    display: block;
+    clear: both;
+     /*padding-top: 0px;*/ 
+     /*text-align: center;*/
+    /*width: 97%;*/
+    /*padding: 8px 644px 8px 15px;*/
+    margin-top: 1px;
+    margin-left: 0px;
+    /*width: 100%;*/
+    font: 500 1.36em/1.15 "Meta Serif Office Pro", Georgia, serif;
+height: 206px;
+}
+.casestudy3 a {
+    color: #818284;
+    padding: 34px;
+    text-decoration: none;
+
+}
+
+    table, td {
+      border: 1px solid #33598b;
+    color: black;
+     border-collapse: collapse;
+        background: #E3F1D0;
+      padding: 6px;
+      
+}
+
+.a{
+
+
+    /*padding-right: 800px;*/
+    margin-left: 972px;
+margin-top: 33px;
+    height: 141px;
+
+
+
+}
+
+
+
+
+.aa {
+ /* background: #002F6E;*/
+    /*color: white;
+    margin: -8px -15px 15px;*/
+
+    /*padding: -1px 30px 12px 15px;*/
+   /* position: relative;
+    z-index: 1;*/
+   /* font-family: "Source Sans Pro", Verdana, Helvetica, sans;
+    font-weight: 500;
+    font-size: 1.3em;*/
+    line-height: normal;
+    width: 97%; 
+    overflow: hidden;    
+}
+
+.aa:after {
+   content: "";
+    display: block;
+    position: absolute;
+
+    top: -35px;
+    bottom: -181px;
+    right: 1131px;
+    width: 36px;
+    background: url(../images/callout-video-06.svg )  20% 10% no-repeat;
+    background-size: 67% auto; 
+
+}
+
+
+
+table{
+    width: 100%;
+}
+
+h2{
+    color:#002F6E
+    
+}
+.neut{
+    position: relative;
+    margin-left: 50px;
+}
+.lym{
+    position: relative;
+    margin-left: 50px;
+}
+.mono{
+    position: relative;
+    margin-left: 50px;
+}
+
+
+
+  h1 {
+
+    color: #001837;
+
+}
+h3 {
+  color: #002F6E
+}
+
+.ii {
+
+    margin-left: 106px !important;
+    /* height: 23%; */
+    height: 336px !important;
+}
+.blood{
+    padding-bottom: 116px;
+}
+.normal{
+    color: #666;
+}
+
+
+

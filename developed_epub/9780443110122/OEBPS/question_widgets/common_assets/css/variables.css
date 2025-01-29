@@ -1,0 +1,14 @@
+:root {
+    --primary-text: #2E2E2E;
+    --light-text: #666666;
+    --orange: #A84800;
+    --orange-dark: #A84800;
+    --blue: #007398;
+    --white:#FFFFFF;
+    --red:#cb272a;
+    --green1:#27772A;
+    --green: #008001;
+    --focus-visible: #EB6500;
+    --focus-border: #EB6500;
+    --gray-border-color: #737373;
+}

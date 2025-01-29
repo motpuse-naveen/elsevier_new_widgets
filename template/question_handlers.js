@@ -224,7 +224,7 @@ class Reflective_Writing_Handler {
     if (!isHidden) {
       $(event.currentTarget).text("Hide Feedback");
       ariaAnnounce("Feedback Expanded." + feedbackElements.first().text());
-      feedbackElements.first().focus();
+      feedbackElements.first().trigger('focus');
     } else {
       $(event.currentTarget).text("Show Feedback");
       ariaAnnounce("Feedback collapsed.");
@@ -306,21 +306,22 @@ class Dropdown_Handler{
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
                         ? `<div class="item-feedback correct-feedback dis-none" aria-hidden="true">${item.correctFeedback}</div>
+                          <div class="item-feedback partial-feedback dis-none" aria-hidden="true">${item.partialFeedback}</div>
                           <div class="item-feedback incorrect-feedback dis-none" aria-hidden="true">${item.incorrectFeedback}</div>` 
                         : ''}
-                        
                         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
                     </li>
                 `).join('')}
-                
             </ol>
             ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
             ${group.correctFeedback && group.correctFeedback!="" 
             ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
+              <div class="group-feedback partial-feedback dis-none" aria-hidden="true">${group.partialFeedback}</div>
               <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
 
             :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
+              <div class="global-feedback partial-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>You have one or more incorrect answers. <a id="reviewyouranswer1_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>Your answer is incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
@@ -384,8 +385,6 @@ class Dropdown_Handler{
           
           const dropdown = $(`#${dropdownId}`);
 
-          
-
           // Listen for keydown event on the select element itself
           dropdown.on('keydown', (event) => {
             // Check if the Escape key is pressed
@@ -439,12 +438,13 @@ class Dropdown_Handler{
     });
 
     // Attach event for "Reveal Answer" button
-    $(`#reviewyouranswer_${group.id}`).on('click', (event) => {
+    $(`#reviewyouranswer_${group.id}, #reviewyouranswer1_${group.id}`).on('click', (event) => {
+      event.preventDefault(); // Prevent default link behavior (e.g., page refresh)
       // Focus the first visible .item-feedback
       let firstVisibleFeedback = $('.item-feedback:visible').first();
 
       if (firstVisibleFeedback.length > 0) {
-          firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
+          firstVisibleFeedback.attr('tabindex', '-1').trigger('focus'); // Add focus for accessibility
       }
     });
 
@@ -467,13 +467,14 @@ class Dropdown_Handler{
       container.find(`#btnCheckAnswer_${groupId}`).addClass('disabled');
     }
 
-    dropdown.focus();
+    dropdown.trigger('focus');
   }
 
   checkAnswer(event, groupId) {
     //console.log(event.target);
     const container = $(`#dropdown_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
+    var allIncorrectAnswer = true;  // Assume all answers are correct initially
 
     container.find('.dropdown-item').each((_, dropdownItem) => {
         const $dropdownItem = $(dropdownItem);
@@ -486,9 +487,19 @@ class Dropdown_Handler{
 
             return selectedValue === correctOption;
         });
+        const allIncorrect = $dropdownItem.find('select.dropdown-select').toArray().every(dropdown => {
+          const $dropdown = $(dropdown);
+          const correctOption = $dropdown.attr('correctOption');
+          const selectedValue = $dropdown.val();
+
+          return selectedValue !== correctOption;
+        });
 
         if(!allCorrect){
           allCorrectAnswer = false;
+        }
+        if(!allIncorrect){
+          allIncorrectAnswer = false;
         }
 
         $dropdownItem.find("select.dropdown-select").each(function(){
@@ -515,11 +526,18 @@ class Dropdown_Handler{
         var $itemFeedback = $dropdownItem.find(".item-feedback");
         if ($itemFeedback.length > 0) {
             if (allCorrect) {
-              $dropdownItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
               $dropdownItem.find('.item-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            } else {
-              $dropdownItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+              $dropdownItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+              $dropdownItem.find('.item-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+            }
+            else if (allIncorrect){
               $dropdownItem.find('.item-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+              $dropdownItem.find('.item-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+              $dropdownItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            } else {
+              $dropdownItem.find('.item-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+              $dropdownItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+              $dropdownItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
             }
         }
     });
@@ -529,13 +547,21 @@ class Dropdown_Handler{
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
         if (allCorrectAnswer) {
-            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-            container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            feedbackToFocus = container.find('.group-feedback.correct-feedback');
+          container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.group-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+          feedbackToFocus = container.find('.group-feedback.correct-feedback');
+        }
+        else if(allIncorrectAnswer){
+          container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.group-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          feedbackToFocus = container.find('.group-feedback.incorrect-feedback');
         } else {
-            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
-            container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
-            feedbackToFocus = container.find('.group-feedback.incorrect-feedback');
+          container.find('.group-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          feedbackToFocus = container.find('.group-feedback.partial-feedback');
         }
     }
     else{
@@ -544,12 +570,19 @@ class Dropdown_Handler{
         if (allCorrectAnswer) {
           container.find('.global-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
           container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.global-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
           feedbackToFocus = container.find('.global-feedback.correct-feedback');
-        }
-        else{
+        }else if(allIncorrectAnswer){
           container.find('.global-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.global-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
           container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
           feedbackToFocus = container.find('.global-feedback.incorrect-feedback');
+        }
+        else{
+          container.find('.global-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          feedbackToFocus = container.find('.global-feedback.partial-feedback');
         }
       }
     }
@@ -593,18 +626,17 @@ class Dropdown_Handler{
       container.find(`#btnPrint_${groupId}`).addClass('dis-none').attr('aria-hidden','true');
       container.find(`#btnCheckAnswer_${groupId}`).removeClass("dis-none").attr("aria-hidden","true").attr('aria-disabled', true).addClass("disabled");
 
-
       container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
       container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
+      container.find('.partial-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
       
       container.find(".correct-answer").remove();
       container.find(".dropdown_wrapper").removeAttr("aria-hidden");
       container.find(".reveal-ans-accessible").remove();
 
-      container.find('.dropdown-select:first').focus();
+      container.find('.dropdown-select:first').trigger('focus');
 
       this.clearState(groupId)
-
   }
 
   revealAnswers(event, groupId) {
@@ -628,7 +660,6 @@ class Dropdown_Handler{
       if(this.sharedProperties.saveStateData && this.sharedProperties.saveStateData == "yes"){
         localStorage.setItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`, "yes");
       }
-
       ariaAnnounce("Answers have been revealed. The correct answers are displayed next to each question.");
   }
 
@@ -704,6 +735,7 @@ class Cloze_Handler{
                         </div>
                         ${item.correctFeedback && item.correctFeedback!="" 
                         ? `<div class="item-feedback correct-feedback dis-none" aria-hidden="true">${item.correctFeedback}</div>
+                          <div class="item-feedback partial-feedback dis-none" aria-hidden="true">${item.partialFeedback}</div>
                           <div class="item-feedback incorrect-feedback dis-none" aria-hidden="true">${item.incorrectFeedback}</div>` 
                         : ''}
                         ${group.itemSeperator && group.itemSeperator=="true" ? `<hr class="seperator" aria-hidden="true"/>` : ''}
@@ -713,9 +745,12 @@ class Cloze_Handler{
             ${group.itemsInstruction && group.itemsInstruction!=""? `${group.itemsInstruction}`:``}
             ${group.correctFeedback && group.correctFeedback!="" 
             ? `<div class="group-feedback correct-feedback dis-none" aria-hidden="true">${group.correctFeedback}</div>
+              <div class="group-feedback partial-feedback dis-none" aria-hidden="true">${group.partialFeedback}</div>
               <div class="group-feedback incorrect-feedback dis-none" aria-hidden="true">${group.incorrectFeedback}</div>`
+
             :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
-              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
+              <div class="global-feedback partial-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer1_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>Your answer is incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
@@ -789,12 +824,13 @@ class Cloze_Handler{
       }
     });
     // Attach event for "Reveal Answer" button
-    $(`#reviewyouranswer_${group.id}`).on('click', (event) => {
+    $(`#reviewyouranswer_${group.id}, #reviewyouranswer1_${group.id}`).on('click', (event) => {
+      event.preventDefault(); // Prevent default link behavior (e.g., page refresh)
       // Focus the first visible .item-feedback
       let firstVisibleFeedback = $('.item-feedback:visible').first();
 
       if (firstVisibleFeedback.length > 0) {
-          firstVisibleFeedback.attr('tabindex', '-1').focus(); // Add focus for accessibility
+          firstVisibleFeedback.attr('tabindex', '-1').trigger('focus'); // Add focus for accessibility
       }
     });
 
@@ -819,6 +855,7 @@ class Cloze_Handler{
   checkAnswer(event, groupId) {
     const container = $(`#cloze_${groupId}`);
     var allCorrectAnswer = true;  // Assume all answers are correct initially
+    var allIncorrectAnswer = true;  // Assume all answers are correct initially
 
     container.find('.cloze-item').each((_, closeItem) => {
         const $clozeItem = $(closeItem);
@@ -833,8 +870,23 @@ class Cloze_Handler{
             return selectedValue === correctValue;
         });
 
+        // Check if all dropdowns within the item are incorrect
+        const allIncorrect = $clozeItem.find('input.cloze-input').toArray().every(cloze => {
+          debugger;
+          const $cloze = $(cloze);
+          const correctValue = $cloze.attr('correctvalue');
+          const selectedValue = $cloze.val();
+          // Log for debugging
+          //console.log(`Input Value: "${selectedValue}", Correct Value: "${correctValue}"`);
+          return selectedValue !== correctValue;
+        });
+
         if(!allCorrect){
           allCorrectAnswer = false;
+        }
+
+        if(!allIncorrect){
+          allIncorrectAnswer = false;
         }
 
         $clozeItem.find("input.cloze-input").each(function(){
@@ -864,8 +916,16 @@ class Cloze_Handler{
             if (allCorrect) {
               $clozeItem.find('.item-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
               $clozeItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
-            } else {
+              $clozeItem.find('.item-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+            } 
+            else if(allIncorrect){
               $clozeItem.find('.item-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+              $clozeItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+              $clozeItem.find('.item-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+            }
+            else {
+              $clozeItem.find('.item-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+              $clozeItem.find('.item-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
               $clozeItem.find('.item-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
             }
         }
@@ -875,13 +935,20 @@ class Cloze_Handler{
     var $groupFeedback = container.find(".group-feedback");
     if ($groupFeedback.length > 0) {
         if (allCorrectAnswer) {
-            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
             container.find('.group-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            container.find('.group-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
+            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
             feedbackToFocus = container.find('.group-feedback.correct-feedback');
-        } else {
-            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+        } else if (allIncorrectAnswer){
             container.find('.group-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            container.find('.group-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
             feedbackToFocus = container.find('.group-feedback.incorrect-feedback');
+        } else {
+            container.find('.group-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+            container.find('.group-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+            container.find('.group-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+            feedbackToFocus = container.find('.group-feedback.partial-feedback');
         }
     }
     else{
@@ -889,13 +956,20 @@ class Cloze_Handler{
       if($globalFeedback.length>0){
         if (allCorrectAnswer) {
           container.find('.global-feedback.correct-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.global-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
           container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
           feedbackToFocus = container.find('.global-feedback.correct-feedback');
-        }
-        else{
+        } else if (allIncorrectAnswer){
           container.find('.global-feedback.incorrect-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.global-feedback.partial-feedback').addClass("dis-none").attr('aria-hidden', true);
           container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
           feedbackToFocus = container.find('.global-feedback.incorrect-feedback');
+        }
+        else{
+          container.find('.global-feedback.partial-feedback').removeClass("dis-none").removeAttr('aria-hidden');
+          container.find('.global-feedback.correct-feedback').addClass("dis-none").attr('aria-hidden', true);
+          container.find('.global-feedback.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true);
+          feedbackToFocus = container.find('.global-feedback.partial-feedback');
         }
       }
     }
@@ -940,6 +1014,7 @@ class Cloze_Handler{
 
       container.find('.correct-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
       container.find('.incorrect-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
+      container.find('.partial-feedback').addClass("dis-none").attr('aria-hidden', true).removeAttr("tabindex");
       
       container.find(".correct-answer").remove();
       container.find(".cloze_wrapper").removeAttr("aria-hidden");

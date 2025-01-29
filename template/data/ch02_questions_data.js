@@ -28,6 +28,7 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -45,6 +46,7 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         {
@@ -62,6 +64,7 @@ const questions_data = {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         }
       ],
@@ -151,7 +154,8 @@ const questions_data = {
       itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
                         <p>† A squamous cell is a type of epithelial cell.</p>`,
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -254,7 +258,8 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answer is incorrect.`,
+      partialFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -308,7 +313,8 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answer is incorrect.`,
+      partialFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -419,7 +425,8 @@ const questions_data = {
         },
       ],
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answer is incorrect.`,
+      partialFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
