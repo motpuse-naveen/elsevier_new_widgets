@@ -321,7 +321,7 @@ class Dropdown_Handler{
 
             :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
               <div class="global-feedback partial-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>You have one or more incorrect answers. <a id="reviewyouranswer1_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>
-              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>Your answer is incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All your answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>
@@ -750,7 +750,7 @@ class Cloze_Handler{
 
             :`<div class="global-feedback correct-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All of your answers are correct.</div>
               <div class="global-feedback partial-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>One or more answers are incorrect. <a id="reviewyouranswer1_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>
-              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>Your answer is incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
+              <div class="global-feedback incorrect-feedback dis-none" aria-hidden="true"><span class="visually-hidden">Feedback: </span>All your answers are incorrect. <a id="reviewyouranswer_${group.id}" href="#" class="btnReviewAnswer">Review your answers</a>.</div>`}
 
             <div class="question-controls no-print">
                 <button id="btnCheckAnswer_${group.id}" class="btn_style_primary check-answer-btn disabled" aria-disabled="true">Check Answer</button>

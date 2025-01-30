@@ -693,7 +693,7 @@ select.dropdown-select {
   min-width: 10.25rem;
   background-position: right 0.625rem center !important;
   font-size: unset;
-  /*text-align: center;*/
+  text-align: center;
 }
 
 .dropdown_newline {
@@ -928,7 +928,7 @@ figure.fig-auto img {
   .dropdown_newline .correct-answer{
     width: 100%;
     display: inline-block;
-    /*text-align: center;*/
+    text-align: center;
   }
 
 .dropdown-html{
