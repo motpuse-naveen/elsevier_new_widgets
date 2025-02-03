@@ -109,7 +109,7 @@ $(".steps").on('click keydown', function (e) {
     }
 });
 function autoDragPagination(selectedStep) {
-    debugger;
+    //debugger;
     $ul = $('.steps ol');
     $ulWrapper = $ul//.parent();
     stepWidth = $('.steps ol li').outerWidth();
@@ -524,7 +524,7 @@ $('#mcq_button').on('mousedown click', function (e) {
             $('#need_help').show();*/
             $('#questionNumber').focus();
         } else if (buttonText === 'try') {
-            debugger;
+            //debugger;
             $('.focus-input').removeClass().addClass('focus-input').attr("aria-checked",false).attr("aria-disabled", false);
             $('#answer_label').hide();
             $('#Add_solution').hide();

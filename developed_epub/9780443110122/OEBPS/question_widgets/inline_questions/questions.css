@@ -856,7 +856,7 @@ figure.fig-auto img {
   color: var(--green);
   border: 0px solid var(--green);
   font-weight: normal;
-  background: url(images/check-feedback.svg) no-repeat left 5px;
+  background: url(images/check-feedback.svg) no-repeat left 7px;
 }
 
 .global-feedback.incorrect-feedback, .global-feedback.partial-feedback {
@@ -864,7 +864,7 @@ figure.fig-auto img {
   color: var(--red);
   border: 0px solid var(--red);
   font-weight: normal;
-  background: url(images/x-feedback.svg) no-repeat left 5px;
+  background: url(images/x-feedback.svg) no-repeat left 7px;
 }
 
 .global-feedback .btnReviewAnswer {
@@ -1029,5 +1029,34 @@ padding-bottom: 1rem;
 .custom-dropdown-option:hover,
 .custom-dropdown-option:focus {
   background: #f0f0f0;
+}
+
+@media print {
+  /*
+  * {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact; 
+  }
+  .printable_group > * {
+    page-break-after: avoid !important;
+    page-break-before: avoid !important;
+    page-break-inside: avoid !important;
+  }
+  .printable_group > * > *{
+    page-break-after: avoid !important;
+    page-break-before: avoid !important;
+    page-break-inside: avoid !important;
+  }
+  .question-group > * {
+    page-break-after: avoid !important;
+    page-break-before: avoid !important;
+    page-break-inside: avoid !important;
+  }
+  */
+  /*
+  .printable_group {
+    height: 100vh; 
+  }
+  */
 }
 

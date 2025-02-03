@@ -263,7 +263,7 @@ class Dropdown_Handler{
 
   // Example: Load the state when the page is loaded
   loadDropdownState(groupId) {
-    debugger;
+    //debugger;
     const savedState = this.loadState(groupId);
 
     if (savedState) {
@@ -280,7 +280,7 @@ class Dropdown_Handler{
         container.find(`#btnCheckAnswer_${groupId}`).removeClass('disabled');
         container.find(`#btnCheckAnswer_${groupId}`).trigger("click");
       }
-      debugger;
+      //debugger;
       var revealBtnState = localStorage.getItem(`revealBtn_${this.pageStateIdentifier}_${groupId}`);
       if(revealBtnState && revealBtnState == "yes"){
         container.find(`#btnRevealAnswer_${groupId}`).trigger("click");
@@ -407,6 +407,10 @@ class Dropdown_Handler{
               event.preventDefault(); // Prevent the default behavior
             }
           });
+          if(item.dropdownPlacement == "newline"){
+            dropdown.closest(".dropdown_wrapper.dropdown_newline").css({"width": dropdown.outerWidth()});
+          }
+          
       });
     });
 
@@ -447,6 +451,10 @@ class Dropdown_Handler{
           firstVisibleFeedback.attr('tabindex', '-1').trigger('focus'); // Add focus for accessibility
       }
     });
+
+    //SetWidth of Dropdown wrapper
+
+
 
     // After rendering, load the saved state
     this.loadDropdownState(group.id);
@@ -862,7 +870,7 @@ class Cloze_Handler{
         
         // Check all dropdowns within the item
         const allCorrect = $clozeItem.find('input.cloze-input').toArray().every(cloze => {
-            debugger;
+            //debugger;
             const $cloze = $(cloze);
             const correctValue = $cloze.attr('correctvalue');
             const selectedValue = $cloze.val();
@@ -872,7 +880,7 @@ class Cloze_Handler{
 
         // Check if all dropdowns within the item are incorrect
         const allIncorrect = $clozeItem.find('input.cloze-input').toArray().every(cloze => {
-          debugger;
+          //debugger;
           const $cloze = $(cloze);
           const correctValue = $cloze.attr('correctvalue');
           const selectedValue = $cloze.val();
@@ -1027,7 +1035,7 @@ class Cloze_Handler{
   revealAnswers(event, groupId) {
     const container = $(`#cloze_${groupId}`);
       container.find('input.cloze-input').each((_, cloze) => {
-        debugger;
+        //debugger;
           const $cloze = $(cloze);
           const correctValue = $cloze.attr('correctvalue');
           const selectedValue = $cloze.val();
