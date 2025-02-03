@@ -1032,11 +1032,21 @@ padding-bottom: 1rem;
 }
 
 @media print {
-  
   * {
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact; 
   }
+  
+  .printable_group > * {
+      margin: 0;
+      padding: 0;
+  }
+  /* Optional: Avoid extra space between sections or after paragraphs */
+  p {
+      margin: 0;
+      padding: 0;
+  }
+
   .printable_group > * {
     page-break-after: avoid !important;
     page-break-before: avoid !important;
@@ -1048,10 +1058,7 @@ padding-bottom: 1rem;
     page-break-inside: avoid !important;
   }
   
-  /*
-  .printable_group {
-    height: 100vh; 
+  .b1textfl {
+    display: table-cell;
   }
-  */
 }
-
