@@ -1065,5 +1065,11 @@ padding-bottom: 1rem;
   .b1textfl {
     display: table-cell;
   }
+
+  @page {
+    margin: 40px;
+    orphans: 3; /* Minimum lines before a page break */
+    widows: 3;  /* Minimum lines after a page break */
+  }
 }
 
