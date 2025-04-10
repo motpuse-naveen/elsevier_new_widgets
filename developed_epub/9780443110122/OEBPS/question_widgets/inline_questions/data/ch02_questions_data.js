@@ -177,6 +177,7 @@ const questions_data = {
       ],
       items: [
         {
+          dropdownTitle:`<p>Complete the following sentences.</p>`,
           headerImage:{},
           dropdownHtml:`<span>heart attack #dropdown1#</span>`,
           dropdowns:{
@@ -201,6 +202,7 @@ const questions_data = {
           dropdownPlacement:"inline",//newline
         },
         {
+          dropdownTitle:`<p>Complete the following dropdowns.</p>`,
           headerImage:{},
           dropdownHtml:`<span>breast adenocarcinoma #dropdown1#</span>`,
           dropdowns:{
@@ -321,6 +323,7 @@ const questions_data = {
       placeholder_id: "group8_placeholder",
       items: [
         {
+          clozeTitle:`<p>First cloze title</p>`,
           headerImage:{},
           clozeHtml:`<span>study of the urinary tract: #cloze1# logy</span>`,
           clozes:{
@@ -343,6 +346,7 @@ const questions_data = {
           clozePlacement:"inline",//newline
         },
         {
+          clozeTitle:`<p><strong>Second cloze title</strong></p>`,
           clozeHtml:`<span>study of tumors: #cloze1# logy</span>`,
           clozes:{
             cloze1:{correctValue: "onco", clozelabel:"fill in the blank"},

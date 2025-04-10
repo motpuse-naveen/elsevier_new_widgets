@@ -292,6 +292,7 @@ class Dropdown_Handler{
         <div id="dropdown_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
+                    ${(item.dropdownTitle && Object.keys(item.dropdownTitle).length !== 0) ? item.dropdownTitle : ''}
                     <li id="dropdown_${group.id}_${index}" class="dropdown-item" aria-labelledby="dropdown_title_${group.id}_${index}">
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="dropdown-html" id="dropdown_title_${group.id}_${index}">
@@ -729,6 +730,7 @@ class Cloze_Handler{
         <div id="cloze_${group.id}" class="group-main ${group.type}">
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
+                    ${(item.clozeTitle && Object.keys(item.clozeTitle).length !== 0) ? item.clozeTitle : ''}
                     <li id="cloze_${group.id}_${index}" class="cloze-item" aria-labelledby="cloze_title_${group.id}_${index}">
                         ${(item.headerImage && Object.keys(item.headerImage).length !== 0) ? CommonUtils.renderImage(item.headerImage) : ''}
                         <div class="cloze-html" id="cloze_title_${group.id}_${index}">

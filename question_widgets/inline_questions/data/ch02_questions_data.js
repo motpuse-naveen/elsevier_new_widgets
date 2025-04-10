@@ -177,6 +177,7 @@ const questions_data = {
       ],
       items: [
         {
+          dropdownTitle:`<p>Complete the following sentences.</p>`,
           headerImage:{},
           dropdownHtml:`<span>heart attack #dropdown1#</span>`,
           dropdowns:{
@@ -185,6 +186,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         },
         {
+          dropdownTitle:``,
           headerImage:{},
           dropdownHtml:`<span>ovarian cysts #dropdown1#</span>`,
           dropdowns:{
@@ -209,6 +211,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         },
         {
+          dropdownTitle:`<p>Complete the following dropdowns.</p>`,
           headerImage:{},
           dropdownHtml:`<span>iron deficiency anemia #dropdown1#</span>`,
           dropdowns:{
@@ -324,6 +327,7 @@ const questions_data = {
       placeholder_id: "group8_placeholder",
       items: [
         {
+          clozeTitle:`<p><strong>First cloze title</strong></p>`,
           headerImage:{},
           clozeHtml:`<span>study of the urinary tract: #cloze1# logy</span>`,
           clozes:{
@@ -353,6 +357,7 @@ const questions_data = {
           clozePlacement:"inline",//newline
         },
         {
+          clozeTitle:`<p><strong>Second cloze title</strong></p>`,
           clozeHtml:`<span>study of the kidneys: #cloze1# logy</span>`,
           clozes:{
             cloze1:{correctValue: "nephro", clozelabel:"fill in the blank"}
