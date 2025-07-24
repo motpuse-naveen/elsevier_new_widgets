@@ -290,6 +290,7 @@ class Dropdown_Handler{
   render(group) {
     const div = $(`
         <div id="dropdown_${group.id}" class="group-main ${group.type}">
+            ${(group.groupHeadHtml && Object.keys(group.groupHeadHtml).length !== 0) ? `<div class="group-head-html">${group.groupHeadHtml}</div>` : ''}
             <ol class="ordered-list dropdown">
                 ${group.items.map((item, index) => `
                     ${(item.dropdownTitle && Object.keys(item.dropdownTitle).length !== 0) ? item.dropdownTitle : ''}
@@ -728,6 +729,7 @@ class Cloze_Handler{
   render(group) {
     const div = $(`
         <div id="cloze_${group.id}" class="group-main ${group.type}">
+            ${(group.groupHeadHtml && Object.keys(group.groupHeadHtml).length !== 0) ? `<div class="group-head-html">${group.groupHeadHtml}</div>` : ''}
             <ol class="ordered-list cloze">
                 ${group.items.map((item, index) => `
                     ${(item.clozeTitle && Object.keys(item.clozeTitle).length !== 0) ? item.clozeTitle : ''}
